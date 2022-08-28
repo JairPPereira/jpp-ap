@@ -1,0 +1,101 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.VideoApp{
+    width: 100%;
+    height: 100%;
+}
+.video-js{
+    width: 100%; 
+}
+
+.barNav a {
+    font: 12px  Arial, Verdana,Helvetica,sans-serif;
+    color: #000;
+    text-decoration: none;
+    background:  #FFC50C;
+    text-align: center;
+    padding: 1px 5px;
+    margin-right:1px;
+    border: 1px solid #000;
+    }
+    
+    .barNav a:hover {
+    color: #666;
+    background: #FCFCFC;
+    border: 1px solid #666;
+    }
+
+.main{
+
+    padding: 40px 0;
+    width: auto;
+    background-color: rgb(119, 179, 214);
+    min-height: 400px;
+}
+.pele {
+    background-color: #F4A460;
+    width: 100%;
+    text-align: center;
+    width: 100%;
+    position: center;
+    border-radius: 0.5rem;}
+    audio::-webkit-media-controls-panel {background-color: #F4A460; }
+    .pelev {
+        background-color: #F4A460;
+        width: 100%;
+        text-align: center;
+        position: center;
+        border-radius: 0.5rem;}
+        video::-webkit-media-controls-panel {background-color: #F4A460;
+            width: 320px;
+        }
+
+    .pele2 {
+        background-color: #F4A460;
+        width: 100%;
+        text-align: center;
+
+        position: center;
+        border-radius: 0.5rem;}
+        audio::-webkit-media-controls-panel {background-color: #F4A460; }
+
+.fit-picture{
+    width: auto;
+
+    background-color: rgb(119, 179, 214);
+    position: center;
+}
+.center{
+    width: 100%;;
+    margin: 0 auto;
+    padding: 0 2%;
+    display: flex;
+}
+.menu a{
+    color: azure;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 3px;
+    border-radius: 5px;
+
+}
+.ima{
+    padding: 40px 0;
+    width: 100%;
+    background-color: rgb(119, 179, 214);
+    min-height: 200px;
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4SdUZ_yXpVIwEiXv7N0myXx2XOWQhu0yDmX9dO42zBQyZbGPnJT43E5EJ8m8T17INjh5XmuQD3mlI25F_GJ94av5itOzpyrFmrI6M9Ct2H3dzPF8ZV1e7Rj3mWNSYgjo62kFn9FZJXdep9HfCBfDCfa4Me_wWRdd3C8Mkz2KWS7tCsqz4qQyAwFM/s1600/R%C3%A1dios%20e%20Tvs%20Online.gif");
+}
+
+.nave{
+    background-color: #0b0b0b;
+    width: auto;
+    text-decoration: none;
+    text-align: center;
+    position: center;
+    border-radius: 0.5rem;}
+
+

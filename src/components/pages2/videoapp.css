@@ -1,0 +1,11 @@
+.nave{
+    background-color: #2e8dd5;
+    width: 100%;
+    text-align: center;
+
+    position: center;
+    border-radius: 0.5rem;}
+
+    .video-js{
+        width: 100%; 
+    }
