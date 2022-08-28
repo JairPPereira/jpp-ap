@@ -305,6 +305,7 @@ import Friends from './components/pages/Friends';
 import Amityvilleot from './components/pages/Amityvilleot';
 import Euronews from './components/pages/Euronews';
 import Parttk from './components/pages/Parttk';
+import Trezec from './components/pages/Trezec';
 
 
 
@@ -619,6 +620,7 @@ function App() {
         <Route path='/410537' component={Amityvilleot} />
         <Route path='/euronews' component={Euronews} />
         <Route path='/parttk' component={Parttk} />
+        <Route path='/347751' component={Trezec} />
 
  
 
