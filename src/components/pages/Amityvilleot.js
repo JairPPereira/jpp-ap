@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import './videoapp.css';
 import dashjs from 'dashjs';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 
 
@@ -23,7 +26,12 @@ class Amityvilleot extends Component {
       render() {
         return (
           <div>
-            <video id="videoPlayer" controls></video>
+            <Container fluid>
+      <Row>
+        <Col><video id="videoPlayer" controls width="100%" height="auto"></video></Col>
+      </Row>
+    </Container>
+          
           </div>
         );
       }
