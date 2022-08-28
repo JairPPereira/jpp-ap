@@ -169,6 +169,20 @@ export default function Tvab() {
       </Card.Body>
     </Card></center>
 
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://mma.prnewswire.com/media/1166733/Party_Tyme_Karaoke_Logo.jpg" />
+      <Card.Body>
+        <Card.Title>Party Tyme Karaokê</Card.Title>
+        <Card.Text><p2>Cante as musicas mais tocadas!</p2>
+        </Card.Text>
+        <Link to="./Parttk"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
 
     <center>
           <p></p>

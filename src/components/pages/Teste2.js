@@ -19,7 +19,7 @@ class Teste2 extends Component {
       }
     
       componentDidMount(){
-        let url = "https://live-as-08-24.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=0401661728555288073051316616421552018305217KTcxe_fHsvf9LiPQ2E1IkQ&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7";
+        let url = "https://ottvsmediaservice.ottvs.com.br/f7b18088-1ab3-4e83-8bf0-781692c29319/0271676_movie.ism/QualityLevels(3599836)/Fragments(video=479645833,format=mpd-time-csf)";
         let player = dashjs.MediaPlayer().create();
         player.initialize(document.querySelector("#videoPlayer"), url, true);
       }
