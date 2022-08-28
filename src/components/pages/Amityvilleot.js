@@ -4,6 +4,7 @@ import dashjs from 'dashjs';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import { Link } from 'react-router-dom';
 
 
 
@@ -28,10 +29,18 @@ class Amityvilleot extends Component {
           <div>
             <Container fluid>
       <Row>
-        <Col><video id="videoPlayer" controls width="100%" height="auto"></video></Col>
+        <Col><video id="videoPlayer" controls width="100%" height="auto"></video>
+        </Col>
       </Row>
-    </Container>
-          
+    </Container><center>
+      
+    <nav>
+      <p><br /></p>
+      <Link to="/">Home</Link>
+
+<p><br /></p>
+
+      </nav></center>
           </div>
         );
       }
