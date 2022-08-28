@@ -76,6 +76,19 @@ export default function Tvsf() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://tv.suaplaylist.com/wp-content/uploads/2022/08/cindie-lite.jpeg" />
+      <Card.Body>
+        <Card.Title>Cindie Lite</Card.Title>
+
+        <Link to="./Cindiel"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://play-lh.googleusercontent.com/gIiZK9ZUU7tt8N08ozfe8OPBnW-KPREAHdbN1WDvqqSscVdAQuuP2_i2c1Gm2zHJ_S9x" />
       <Card.Body>
         <Card.Title>Pluto TV</Card.Title>
