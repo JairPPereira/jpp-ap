@@ -28,7 +28,7 @@ class Amityvilleot extends Component {
         return (
           <div>
             <Container fluid>
-      <Row>
+      <Row><p><br /></p>
         <Col><video id="videoPlayer" controls width="100%" height="auto"></video>
         </Col>
       </Row>
