@@ -7,5 +7,11 @@
     border-radius: 0.5rem;}
 
     .video-js{
-        width: 100%; 
+        width: 100%;
+        height:auto, 
     }
+
+.videoPlayer{
+    width: 720;
+    height:auto;
+}
