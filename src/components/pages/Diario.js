@@ -9,7 +9,7 @@ import Col from 'react-bootstrap/Col';
 function Diario() {
     return (
       <>
-
+<div className='pele'>
 <Container>
     
       <Row xs="auto">
@@ -50,7 +50,7 @@ function Diario() {
        
       </Row> 
     </Container>
-
+    </div>
        
         <p><br /></p>
         <div className="nave">
