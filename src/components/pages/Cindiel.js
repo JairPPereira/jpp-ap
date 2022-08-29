@@ -13,7 +13,7 @@ class Cindiel extends Component {
     player = {}
     state = {
         video: {
-            src: "https://stream.ads.ottera.tv/cl/5599529b-61e4-495e-9871-79d983558fec/1280x720_3071200_0_f.m3u8",
+            src: "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8",
 
             poster: ""
         }
