@@ -1,10 +1,16 @@
 import React, { Component } from 'react';
 import VideoPlayer from 'react-video-js-player';
 import { Link } from 'react-router-dom';
-import './videoapp.css';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Button from 'react-bootstrap/Button';
+
+import Container from 'react-bootstrap/Container';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
  
 class Acarga extends Component {
+    
     player = {}
     state = {
         video: {
@@ -45,13 +51,14 @@ class Acarga extends Component {
  
     render() {
         return (
-            <div>
+            <div><Container fluid>
+            <Row>
+              <Col>
                       <p><br /></p>
                 <VideoPlayer
                     controls={true}
                     src={this.state.video.src}
-                    poster={this.state.video.poster}
-                    aspectRatio= "4:3"
+                    poster={this.state.video.poster} 
                     width="720px" 
                     height="auto"
                     onReady={this.onPlayerReady.bind(this)}
@@ -62,16 +69,18 @@ class Acarga extends Component {
                     onSeeked={this.onVideoSeeked.bind(this)}
                     onEnd={this.onVideoEnd.bind(this)}
                 />
-                    <p><br /></p> 
+                    <p><br /></p> </Col></Row></Container>
                <div className="nave">
-      <nav>
+     
       <p><br /></p>
-      <Link to="/">Home</Link>
+
+      <Link to="/"><Button variant="primary" size="lg" width="80%">
+      Home
+        </Button></Link>
 
 <p><br /></p>
 
-      </nav></div>
-           {" "}</div>
+      </div></div>
             
         );
     }

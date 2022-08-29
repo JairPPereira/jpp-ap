@@ -89,6 +89,19 @@ export default function Tvsf() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://s3-sa-east-1.amazonaws.com/loja2/83ac5831a28a4e5cdc548263e2f05ebe.jpg" />
+      <Card.Body>
+        <Card.Title>A Mulher Biônica (1976)</Card.Title>
+
+        <Link to="./Tvamulherb"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://play-lh.googleusercontent.com/gIiZK9ZUU7tt8N08ozfe8OPBnW-KPREAHdbN1WDvqqSscVdAQuuP2_i2c1Gm2zHJ_S9x" />
       <Card.Body>
         <Card.Title>Pluto TV</Card.Title>

@@ -9,14 +9,14 @@ import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
  
-class A2067 extends Component {
+class Tvamulherb extends Component {
     
     player = {}
     state = {
         video: {
-            src: "https://video.wixstatic.com/video/e16db6_0d30dd7bf2424a7780b2c5f955db0914/720p/mp4/file.mp4",
+            src: "https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8?ROGERIOTORRES",
 
-            poster: "https://www.themoviedb.org/t/p/w500_and_h282_face/5UkzNSOK561c2QRy2Zr4AkADzLT.jpg"
+            poster: "https://www.themoviedb.org/t/p/w500_and_h282_face/beQgTmzsl15EhqWORH4wmEvIsyu.jpg"
         }
     }
  
@@ -71,17 +71,18 @@ class A2067 extends Component {
                 />
                     <p><br /></p> </Col></Row></Container>
                <div className="nave">
-               <p><br /></p>
+     
+      <p><br /></p>
 
-<Link to="/"><Button variant="primary" size="lg" width="80%">
-Home
-  </Button></Link>
+      <Link to="/"><Button variant="primary" size="lg" width="80%">
+      Home
+        </Button></Link>
 
 <p><br /></p>
 
-</div></div>
+      </div></div>
             
         );
     }
 }
-export default A2067;
+export default Tvamulherb;

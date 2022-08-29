@@ -1,11 +1,19 @@
 import React from "react";
 import { Link } from 'react-router-dom';
-import './videoapp.css';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Button from 'react-bootstrap/Button';
+
+import Container from 'react-bootstrap/Container';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Sbt() {
   return (
     <div>
           <p><br /></p>
+          <div><Container fluid>
+            <Row>
+              <Col>
       <iframe
         src="https://www.youtube.com/embed/ABVQXgr2LW4?autoplay=true"
         target="_blank"
@@ -14,14 +22,18 @@ export default function Sbt() {
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
+      </Col></Row></Container>
                   <div className="nave">
-      <nav>
-      <p><br /></p>
-      <Link to="/">Home</Link>
+     
+                  <p><br /></p>
+
+<Link to="/"><Button variant="primary" size="lg" width="80%">
+Home
+  </Button></Link>
 
 <p><br /></p>
-
-      </nav></div></div>
+</div>
+</div></div>
 
   );
 }

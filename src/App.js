@@ -307,6 +307,9 @@ import Euronews from './components/pages/Euronews';
 import Parttk from './components/pages/Parttk';
 import Trezec from './components/pages/Trezec';
 import Cindiel from './components/pages/Cindiel';
+import Asfotosv from './components/pages/Asfotosv';
+import Alertav from './components/pages/Alertav';
+import Tvamulherb from './components/pages/Tvamulherb';
 
 
 
@@ -623,6 +626,9 @@ function App() {
         <Route path='/parttk' component={Parttk} />
         <Route path='/347751' component={Trezec} />
         <Route path='/cindiel' component={Cindiel} />
+        <Route path='/858815' component={Asfotosv} />
+        <Route path='/512195' component={Alertav} />
+        <Route path='/tvamulherb' component={Tvamulherb} />
 
  
 
