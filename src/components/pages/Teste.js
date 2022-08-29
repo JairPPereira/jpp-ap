@@ -1,16 +1,20 @@
 import React, { Component } from 'react';
 import VideoPlayer from 'react-video-js-player';
 import { Link } from 'react-router-dom';
-import './videoapp.css';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Button from 'react-bootstrap/Button';
+
+import Container from 'react-bootstrap/Container';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
  
 class Teste extends Component {
+    
     player = {}
     state = {
         video: {
             src: "https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=0401661854629370675072016617682296241529901DtyfWESMyV3y1DTnpV-TEA&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7",
-           
-          
 
             poster: "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Logotipo_da_Rede_Liberal.png/200px-Logotipo_da_Rede_Liberal.png"
         }
@@ -47,15 +51,16 @@ class Teste extends Component {
  
     render() {
         return (
-            <div>
+            <div><Container fluid>
+            <Row>
+              <Col>
                       <p><br /></p>
                 <VideoPlayer
                     controls={true}
                     src={this.state.video.src}
-                    poster={this.state.video.poster}
+                    poster={this.state.video.poster} 
                     width="720px" 
-                    type="application/x-mpegURL"
-                    crossorigin="anonymous"
+                    height="auto"
                     onReady={this.onPlayerReady.bind(this)}
                     onPlay={this.onVideoPlay.bind(this)}
                     onPause={this.onVideoPause.bind(this)}
@@ -64,15 +69,18 @@ class Teste extends Component {
                     onSeeked={this.onVideoSeeked.bind(this)}
                     onEnd={this.onVideoEnd.bind(this)}
                 />
-                    <p><br /></p> 
+                    <p><br /></p> </Col></Row></Container>
                <div className="nave">
-      <nav>
+     
       <p><br /></p>
-      <Link to="/">Home</Link>
+
+      <Link to="/"><Button variant="primary" size="lg" width="80%">
+      Home
+        </Button></Link>
 
 <p><br /></p>
 
-      </nav></div></div>
+      </div></div>
             
         );
     }
