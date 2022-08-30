@@ -28,7 +28,7 @@ export default function Home() {
   
         
         <Card>
-      <Card.Body><Link to="/Daaz6"><Button variant="primary" size="lg" width="100%">
+      <Card.Body><Link to="/Daaz7"><Button variant="primary" size="lg" width="100%">
           Todos os Filmes
         </Button></Link></Card.Body>
     </Card>

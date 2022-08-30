@@ -313,6 +313,9 @@ import Tvamulherb from './components/pages/Tvamulherb';
 import Homemasa from './components/pages/Homemasa';
 import Aerademc from './components/pages/Aerademc';
 import Megasvc from './components/pages/Megasvc';
+import Daaz10 from './components/pages/Daaz10';
+import Amenteqm from './components/pages/Amenteqm';
+import Oresgateduv from './components/pages/Oresgateduv';
 
 
 
@@ -635,6 +638,9 @@ function App() {
         <Route path='/homemasa' component={Homemasa} />
         <Route path='/13256' component={Aerademc} />
         <Route path='/52454' component={Megasvc} />
+        <Route path='/daaz10' component={Daaz10} />
+        <Route path='/16279' component={Amenteqm} />
+        <Route path='/413452' component={Oresgateduv} />
 
  
 
