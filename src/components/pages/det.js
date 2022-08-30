@@ -31,18 +31,11 @@ function Details() {
     <Container>
       
       <div className="movie">
-    
-     
+      <img src={movie.image} alt={movie.sinopse}/>
       <div className="details">
         <h1>{movie.title}</h1>
-        
         <span>Sinopse: {movie.sinopse}</span>
-
-        <span className='release-date'>Release date: {movie.releaseDate}</span>
-        
-       
-
-       </div>
+        <span className='release-date'>Release date: {movie.releaseDate}</span></div>
          
         <span><Link to={`/${movie.id}`}><Button variant="primary" size="lg" width="80%">
           Assistir
