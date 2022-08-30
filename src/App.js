@@ -310,6 +310,7 @@ import Cindiel from './components/pages/Cindiel';
 import Asfotosv from './components/pages/Asfotosv';
 import Alertav from './components/pages/Alertav';
 import Tvamulherb from './components/pages/Tvamulherb';
+import Homemasa from './components/pages/Homemasa';
 
 
 
@@ -629,6 +630,7 @@ function App() {
         <Route path='/858815' component={Asfotosv} />
         <Route path='/512195' component={Alertav} />
         <Route path='/tvamulherb' component={Tvamulherb} />
+        <Route path='/homemasa' component={Homemasa} />
 
  
 
