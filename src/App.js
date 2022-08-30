@@ -311,6 +311,8 @@ import Asfotosv from './components/pages/Asfotosv';
 import Alertav from './components/pages/Alertav';
 import Tvamulherb from './components/pages/Tvamulherb';
 import Homemasa from './components/pages/Homemasa';
+import Aerademc from './components/pages/Aerademc';
+import Megasvc from './components/pages/Megasvc';
 
 
 
@@ -631,6 +633,8 @@ function App() {
         <Route path='/512195' component={Alertav} />
         <Route path='/tvamulherb' component={Tvamulherb} />
         <Route path='/homemasa' component={Homemasa} />
+        <Route path='/13256' component={Aerademc} />
+        <Route path='/52454' component={Megasvc} />
 
  
 
