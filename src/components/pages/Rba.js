@@ -28,13 +28,13 @@ export default function Rba() {
         title="video"
       />{" "}
       
-                  
+      <div className="nave">    
      
                   <p><br /></p><center>
 
 <Link to="/"><Button variant="primary" size="lg" width="80%">
 Home
-  </Button></Link></center>
+  </Button></Link></center></div>
   </Col></Row></Container>
 <p><br /></p>
 </div>
