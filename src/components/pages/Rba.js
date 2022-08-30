@@ -1,77 +1,49 @@
-import React, { Component } from 'react';
-import VideoPlayer from 'react-video-js-player';
+import React from "react";
 import { Link } from 'react-router-dom';
-import './videoapp.css';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Button from 'react-bootstrap/Button';
 
- 
-class Rba extends Component {
-    player = {}
-    state = {
-        video: {
-            src: "https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8",
+import Container from 'react-bootstrap/Container';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-            poster: ""
-        }
-    }
- 
-    onPlayerReady(player){
-        console.log("Player is ready: ", player);
-        this.player = player;
-    }
- 
-    onVideoPlay(duration){
-        console.log("Video played at: ", duration);
-    }
- 
-    onVideoPause(duration){
-        console.log("Video paused at: ", duration);
-    }
- 
-    onVideoTimeUpdate(duration){
-        console.log("Time updated: ", duration);
-    }
- 
-    onVideoSeeking(duration){
-        console.log("Video seeking: ", duration);
-    }
- 
-    onVideoSeeked(from, to){
-        console.log(`Video seeked from ${from} to ${to}`);
-    }
- 
-    onVideoEnd(){
-        console.log("Video ended");
-    }
- 
-    render() {
-        return (
-            <div>
-                      <p><br /></p>
-                <VideoPlayer
-                    controls={true}
-                    src={this.state.video.src}
-                    poster={this.state.video.poster}
-                    width="720px" 
-                    height="auto"
-                    onReady={this.onPlayerReady.bind(this)}
-                    onPlay={this.onVideoPlay.bind(this)}
-                    onPause={this.onVideoPause.bind(this)}
-                    onTimeUpdate={this.onVideoTimeUpdate.bind(this)}
-                    onSeeking={this.onVideoSeeking.bind(this)}
-                    onSeeked={this.onVideoSeeked.bind(this)}
-                    onEnd={this.onVideoEnd.bind(this)}
-                />
-                    <p><br /></p> 
-               <div className="nave">
-      <nav>
-      <p><br /></p>
-      <Link to="/">Home</Link>
+export default function Rba() {
+  return (
+    <div>
+          <p><br /></p>
+          <div><Container fluid>
+            <Row>
+              <Col>
+      <iframe
+        src="https://streaming.gruporba.com.br"
+        target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        frameborder="0"
+        width="100%" height="600px"
+        allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+        title="video"
+      />{" "}
+      
+                  
+     
+                  <p><br /></p><center>
 
+<Link to="/"><Button variant="primary" size="lg" width="80%">
+Home
+  </Button></Link></center>
+  </Col></Row></Container>
 <p><br /></p>
+</div>
+</div>
 
-      </nav></div></div>
-            
-        );
-    }
+  );
 }
-export default Rba;
+
+
+
+
+
