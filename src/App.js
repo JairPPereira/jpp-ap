@@ -318,6 +318,7 @@ import Amenteqm from './components/pages/Amenteqm';
 import Oresgateduv from './components/pages/Oresgateduv';
 import Documentarios from './components/pages/Documentarios';
 import Mamonasps from './components/pages/Mamonasps';
+import Afacedua from './components/pages/Afacedua';
 
 
 
@@ -645,6 +646,7 @@ function App() {
         <Route path='/413452' component={Oresgateduv} />
         <Route path='/documentarios' component={Documentarios} />
         <Route path='/81488' component={Mamonasps} />
+        <Route path='/254024' component={Afacedua} />
 
  
 

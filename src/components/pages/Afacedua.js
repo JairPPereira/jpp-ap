@@ -9,15 +9,14 @@ import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
  
-class Teste extends Component {
+class Afacedua extends Component {
     
     player = {}
     state = {
         video: {
-            src: "https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=04016620679831806292166166198158313306236260rZtUUY_m6aoDIDU7RrDLg&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7",
-            crossorigin: "anonymous",
+            src: "https://play.prod.gcp.vix.services/face-angel_pt/face-angel_pt_1-1/play_v1_hls_1080p.m3u8",
 
-            poster: "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Logotipo_da_Rede_Liberal.png/200px-Logotipo_da_Rede_Liberal.png"
+            poster: "https://www.themoviedb.org/t/p/w500_and_h282_face/qBPrU3oA1s3eFvPVmq4vNnkRymU.jpg"
         }
     }
  
@@ -86,4 +85,4 @@ class Teste extends Component {
         );
     }
 }
-export default Teste;
+export default Afacedua;
