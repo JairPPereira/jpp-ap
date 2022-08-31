@@ -67,6 +67,10 @@ export default function Porcategoria() {
       <Link to="./Terror"><Button variant="primary" size="lg" width="80%">
       Terror
         </Button></Link>
+        <p><br /></p>
+        <Link to="./Documentarios"><Button variant="primary" size="lg" width="80%">
+      Documentários
+        </Button></Link>
    
       <p><br /></p>
 

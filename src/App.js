@@ -316,6 +316,8 @@ import Megasvc from './components/pages/Megasvc';
 import Daaz10 from './components/pages/Daaz10';
 import Amenteqm from './components/pages/Amenteqm';
 import Oresgateduv from './components/pages/Oresgateduv';
+import Documentarios from './components/pages/Documentarios';
+import Mamonasps from './components/pages/Mamonasps';
 
 
 
@@ -641,6 +643,8 @@ function App() {
         <Route path='/daaz10' component={Daaz10} />
         <Route path='/16279' component={Amenteqm} />
         <Route path='/413452' component={Oresgateduv} />
+        <Route path='/documentarios' component={Documentarios} />
+        <Route path='/81488' component={Mamonasps} />
 
  
 

@@ -42,6 +42,12 @@ export default function Home() {
         Séries
         </Button></Link></Card.Body>
     </Card>
+
+    <Card>
+      <Card.Body> <Link to="/Documentarios"><Button variant="primary" size="lg" width="80%">
+        Documentários
+        </Button></Link></Card.Body>
+    </Card>
     <Card>
       <Card.Body><Link to="/Playlistyou"><Button variant="primary" size="lg" width="80%">
         Playlist de filmes do youtube
