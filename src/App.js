@@ -319,6 +319,7 @@ import Oresgateduv from './components/pages/Oresgateduv';
 import Documentarios from './components/pages/Documentarios';
 import Mamonasps from './components/pages/Mamonasps';
 import Afacedua from './components/pages/Afacedua';
+import Seriegot from './components/pages/Seriegot';
 
 
 
@@ -647,6 +648,7 @@ function App() {
         <Route path='/documentarios' component={Documentarios} />
         <Route path='/81488' component={Mamonasps} />
         <Route path='/254024' component={Afacedua} />
+        <Route path='/seriegot' component={Seriegot} />
 
  
 
