@@ -2,8 +2,9 @@
 import { useState, useEffect } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
+import Container from 'react-bootstrap/Container';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-import { Container } from './styles';
 
 function Details() {
   const { id } = useParams()
@@ -32,7 +33,7 @@ function Details() {
       
       <div className="movie">
         <center>
-      <img src={movie.image} alt={movie.sinopse} width="300px"/></center>
+      <img src={movie.image} alt={movie.sinopse} width="100%"/></center>
       <div className="details">
         <h1>{movie.title}</h1>
         <span>Sinopse: {movie.sinopse}</span>
