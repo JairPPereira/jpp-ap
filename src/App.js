@@ -324,6 +324,8 @@ import Youtubeml from './components/pages/Youtubeml';
 import Gabriela from './components/gabriela/Gabriela';
 import Novelas from './components/pages/Novelas';
 import Gabriela1 from './components/gabriela/Gabriela1';
+import Amoresdc from './components/pages/Amoresdc';
+import Alvon1 from './components/pages/Alvon1';
 
 
 
@@ -659,6 +661,8 @@ function App() {
         <Route path='/novelas' component={Novelas} />
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/gabriela1' component={Gabriela1} />
+        <Route path='/480408' component={Amoresdc} />
+        <Route path='/526973' component={Alvon1} />
    
         
 
