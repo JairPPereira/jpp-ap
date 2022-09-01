@@ -320,6 +320,8 @@ import Documentarios from './components/pages/Documentarios';
 import Mamonasps from './components/pages/Mamonasps';
 import Afacedua from './components/pages/Afacedua';
 import Seriegot from './components/pages/Seriegot';
+import Youtubeml from './components/pages/Youtubeml';
+
 
 
 
@@ -650,6 +652,8 @@ function App() {
         <Route path='/81488' component={Mamonasps} />
         <Route path='/254024' component={Afacedua} />
         <Route path='/seriegot' component={Seriegot} />
+        <Route path='/youtubeml' component={Youtubeml} />
+        
 
 
  
