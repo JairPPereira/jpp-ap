@@ -321,6 +321,9 @@ import Mamonasps from './components/pages/Mamonasps';
 import Afacedua from './components/pages/Afacedua';
 import Seriegot from './components/pages/Seriegot';
 import Youtubeml from './components/pages/Youtubeml';
+import Gabriela from './components/gabriela/Gabriela';
+import Novelas from './components/pages/Novelas';
+import Gabriela1 from './components/gabriela/Gabriela1';
 
 
 
@@ -652,7 +655,11 @@ function App() {
         <Route path='/81488' component={Mamonasps} />
         <Route path='/254024' component={Afacedua} />
         <Route path='/seriegot' component={Seriegot} />
+        <Route path='/gabriela' component={Gabriela} />
+        <Route path='/novelas' component={Novelas} />
         <Route path='/youtubeml' component={Youtubeml} />
+        <Route path='/gabriela1' component={Gabriela1} />
+   
         
 
 

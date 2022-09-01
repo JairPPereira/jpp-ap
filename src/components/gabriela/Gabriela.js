@@ -11,7 +11,7 @@ import Card from 'react-bootstrap/Card';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-export default function Home() {
+export default function Gabriela() {
 
   return (
   <center>
@@ -28,8 +28,8 @@ export default function Home() {
   
         
         <Card>
-      <Card.Body><Link to="/Daaz7"><Button variant="primary" size="lg" width="100%">
-          Todos os Filmes
+      <Card.Body><Link to="/gabriela1"><Button variant="primary" size="lg" width="100%">
+          Capítulo 1
         </Button></Link></Card.Body>
     </Card>
     <Card>
@@ -83,11 +83,11 @@ export default function Home() {
      crossorigin="anonymous"></script>
     <Container fluid="md">
       <Row>
-        <Col>Ajude a manter nosso site</Col>
+        <Col></Col>
       
       </Row>
       <Row>
-      <Col>Pix: jairppereira21@gmail.com</Col>
+      <Col></Col>
       </Row>
     </Container>
        
