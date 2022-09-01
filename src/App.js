@@ -329,6 +329,7 @@ import Seriegot from './components/pages/Seriegot';
 
 
 
+
 function App() {
   return (
     <Router>
@@ -649,6 +650,7 @@ function App() {
         <Route path='/81488' component={Mamonasps} />
         <Route path='/254024' component={Afacedua} />
         <Route path='/seriegot' component={Seriegot} />
+
 
  
 
