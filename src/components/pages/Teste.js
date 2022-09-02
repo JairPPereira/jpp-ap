@@ -14,7 +14,7 @@ class Teste extends Component {
     player = {}
     state = {
         video: {
-            src: "https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=0401662156103145464677816620697035998746475uOd0P9CPmYWpgtZqbph9kw&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7",
+            src: "https://live-lib-pa-01.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=0401662243137164493286616621567371404308285Msyw3PxVkeawxToHCDSvcQ&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7",
             crossorigin: "anonymous",
 
             poster: "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Logotipo_da_Rede_Liberal.png/200px-Logotipo_da_Rede_Liberal.png"
