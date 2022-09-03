@@ -339,6 +339,7 @@ import Gabriela3 from './components/gabriela/Gabriela3';
 
 
 
+
 function App() {
   return (
     <Router>
@@ -667,6 +668,7 @@ function App() {
         <Route path='/526973' component={Alvon1} />
         <Route path='/gabriela2' component={Gabriela2} />
         <Route path='/gabriela3' component={Gabriela3} />
+ 
    
         
 
