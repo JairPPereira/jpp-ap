@@ -44,6 +44,11 @@ export default function Gabriela() {
           Capítulo 3
         </Button></Link></Card.Body>
     </Card>
+    <Card>
+      <Card.Body><Link to="/gabriela4"><Button variant="primary" size="lg" width="100%">
+          Capítulo 4
+        </Button></Link></Card.Body>
+    </Card>
    
           
   

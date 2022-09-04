@@ -328,6 +328,7 @@ import Amoresdc from './components/pages/Amoresdc';
 import Alvon1 from './components/pages/Alvon1';
 import Gabriela2 from './components/gabriela/Gabriela2';
 import Gabriela3 from './components/gabriela/Gabriela3';
+import Gabriela4 from './components/gabriela/Gabriela4';
 
 
 
@@ -668,6 +669,7 @@ function App() {
         <Route path='/526973' component={Alvon1} />
         <Route path='/gabriela2' component={Gabriela2} />
         <Route path='/gabriela3' component={Gabriela3} />
+        <Route path='/gabriela4' component={Gabriela4} />
  
    
         
