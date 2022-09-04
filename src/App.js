@@ -329,6 +329,7 @@ import Alvon1 from './components/pages/Alvon1';
 import Gabriela2 from './components/gabriela/Gabriela2';
 import Gabriela3 from './components/gabriela/Gabriela3';
 import Gabriela4 from './components/gabriela/Gabriela4';
+import Arquiteturadd from './components/pages/Arquiteturadd';
 
 
 
@@ -670,6 +671,8 @@ function App() {
         <Route path='/gabriela2' component={Gabriela2} />
         <Route path='/gabriela3' component={Gabriela3} />
         <Route path='/gabriela4' component={Gabriela4} />
+        <Route path='/gabriela4' component={Arquiteturadd} />
+     
  
    
         
