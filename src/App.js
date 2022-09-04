@@ -671,7 +671,7 @@ function App() {
         <Route path='/gabriela2' component={Gabriela2} />
         <Route path='/gabriela3' component={Gabriela3} />
         <Route path='/gabriela4' component={Gabriela4} />
-        <Route path='/gabriela4' component={Arquiteturadd} />
+        <Route path='/68348' component={Arquiteturadd} />
      
  
    
