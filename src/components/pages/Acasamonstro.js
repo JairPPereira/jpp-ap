@@ -10,7 +10,7 @@ class Acasamonstro extends Component {
         video: {
             src: "https://video.wixstatic.com/video/e16db6_e04b7ff875f84da6af6aead3aa711666/720p/mp4/file.mp4",
 
-            poster: ""
+            poster: "https://www.themoviedb.org/t/p/w500_and_h282_face/aiRESjcG3Vi3W9WAGgMJSjGX1HQ.jpg"
         }
     }
  

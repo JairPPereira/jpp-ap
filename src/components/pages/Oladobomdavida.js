@@ -10,7 +10,7 @@ class Oladobomdavida extends Component {
         video: {
             src: "https://siloh.pluto.tv/e266cf_Polar/clip/604b921cb2b870001a05f536_Silver_Linings_Playbook_BR/720p/20210312_120903/hls/0-end/master.m3u8",
 
-            poster: ""
+            poster: "https://www.themoviedb.org/t/p/w500_and_h282_face/9EylSVXPNNjWmQba9ltzD8PBgH3.jpg"
         }
     }
  
