@@ -4,14 +4,14 @@ import { Container, Movie, MovieList } from './styles';
 import Button from 'react-bootstrap/Button';
 
 
-function Acao2() {
+function Acao3() {
 
   const imagePath = 'https://image.tmdb.org/t/p/w500/'
 
   const [movies, setMovies] = useState([])
 
   useEffect(() => {
-    fetch(`https://api.themoviedb.org/4/list/8213122?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
+    fetch(`https://api.themoviedb.org/4/list/8215899?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
     .then(response => response.json())
     .then(data => {
       setMovies(data.results)
@@ -37,11 +37,11 @@ function Acao2() {
       </MovieList>
       <center>
         <div class="btn-group" role="group" aria-label="Exemplo básico">
-        <Link to="/acao"><Button variant="primary" size="lg" width="80%">
+        <Link to="/acao2"><Button variant="primary" size="lg" width="80%">
           Pagina anterior
         </Button></Link>
  
-  <Link to="/acao3"><Button variant="primary" size="lg" width="80%">
+  <Link to="/acao"><Button variant="primary" size="lg" width="80%">
           Proxima pagina
         </Button></Link>
 </div></center>
@@ -50,4 +50,4 @@ function Acao2() {
   );
 }
 
-export default Acao2;
+export default Acao3;
