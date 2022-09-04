@@ -1,18 +1,52 @@
-import React from 'react';
-import YouTubePlaylist from 'react-youtube-playlist';
+import React from "react";
+import { Link } from 'react-router-dom';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Button from 'react-bootstrap/Button';
+import Container from 'react-bootstrap/Container';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-const Teste2 = () => {
+export default function Sbt() {
+
   return (
-    
-    <YouTubePlaylist
-      width={'85%'}
-      height={390}
-      api_key='AIzaSyBRVZUoLIB1lU40K2Cz-LcMoEw-JYe5UQI'
-      playlist_id='PLQp-UAdzge47nte4vXsnIDBeQjAQSzfyc'
-      show_thumbnails
-    />
-  )
-}
-  
+    <div>
+          <p><br /></p>
+          <div><Container fluid>
+            <Row>
+              <Col>
+      <iframe
+        src="https://www.youtube.com/embed/ABVQXgr2LW4?autoplay=true"
+        target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        frameborder="0"
+        width="100%" height="600px"
+        allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+        title="video"
+      />{" "}
+      </Col></Row></Container>
 
-export default Teste2;
+                  <div className="nave">
+     
+                  <p><br /></p>
+
+<Link to="/"><Button variant="primary" size="lg" width="80%">
+Home
+  </Button></Link>
+  <div id="player">
+  
+  </div>
+<p><br /></p>
+</div>
+</div></div>
+
+  );
+}
+
+
+
+
+
