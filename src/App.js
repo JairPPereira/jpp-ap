@@ -331,6 +331,7 @@ import Gabriela3 from './components/gabriela/Gabriela3';
 import Gabriela4 from './components/gabriela/Gabriela4';
 import Arquiteturadd from './components/pages/Arquiteturadd';
 import Altitude from './components/pages/Altitude';
+import Globonews2 from './components/pages/Globonews2';
 
 
 
@@ -674,6 +675,7 @@ function App() {
         <Route path='/gabriela4' component={Gabriela4} />
         <Route path='/68348' component={Arquiteturadd} />
         <Route path='/443700' component={Altitude} />
+        <Route path='/globonews2' component={Globonews2} />
      
  
    

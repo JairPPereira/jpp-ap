@@ -81,7 +81,23 @@ class Teste extends Component {
 
 <p><br /></p>
 
-      </div></div>
+      </div>
+       <div className="nave">
+     
+      <p><br /></p>
+
+      <Link to="/"><Button variant="primary" size="lg" width="80%">
+      Home
+        </Button></Link>
+
+<p><br /></p>
+
+      </div>
+      
+      
+      </div>
+
+      
             
         );
     }

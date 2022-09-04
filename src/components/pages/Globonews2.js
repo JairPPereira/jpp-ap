@@ -3,12 +3,12 @@ import { Link } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
 import './videoapp.css';
 
-export default function Globonews() {
+export default function Globonews2() {
   return (
     <div>
           <p><br /></p>
       <iframe
-        src="https://canais.m3u8live.ml/v.php?id=GloboNews"
+        src="https://embedflix.net/tv/br-globo-news-hd"
         target="_blank"
         frameborder="0"
         width="100%" height="600px"
