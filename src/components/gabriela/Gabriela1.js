@@ -28,11 +28,11 @@ const Gabriela1 = () =>
   return (<>
 
   <Container fluid>
-            
+            <p></p>
               <div>
     <Videojs {...videoJsOptions} />  </div>
     
-    
+    <p></p>
    </Container>
  
   <div className="nave">
