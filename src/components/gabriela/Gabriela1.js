@@ -1,49 +1,30 @@
-import React from "react";
-import { Link } from 'react-router-dom';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Button from 'react-bootstrap/Button';
-
-import Container from 'react-bootstrap/Container';
-import 'bootstrap/dist/css/bootstrap.min.css';
-
-export default function Gabriela1() {
-  return (
-    <div>
-          <p><br /></p>
-          <div><Container fluid>
-            <Row>
-              <Col>
-      <iframe
-        src="https://lb2x01.g1novelas.top/stream/720/MCtcZZT5viXBfYm/__001"
-        target="_blank"
-        scrolling="no"
-        data-draggable="none"
-        marginwidth="0"
-        marginheight="0"
-        data-popup="none" 
-        frameborder="0"
-        width="100%" height="600px"
-        allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-        title="video"
-      />{" "}
-      </Col></Row></Container>
-                  <div className="nave">
-     
-                  <p><br /></p>
-
-<Link to="/"><Button variant="primary" size="lg" width="80%">
-Home
-  </Button></Link>
-
-<p><br /></p>
-</div>
-</div></div>
-
-  );
-}
+import React from 'react';
+import Videojs from './video.js';
 
 
+const videoJsOptions = {
+  autoplay: false,
+  playbackRates: [0.5, 1, 1.25, 1.5, 2],
+  width: 720,
+  height: 600,
+  controls: true,
+  poster: 'https://www.themoviedb.org/t/p/w500_and_h282_face/r0bkdPWHzuX4Xg23PAWoBSUCp8V.jpg',
+  sources: [
+    {
+
+      src: 'https://lb2x01.g1novelas.top/stream/720/MCtcZZT5viXBfYm/__001',
+      type: 'video/mp4',
+      
+    },
+  ],
+};
+
+const Gabriela1 = () =>
+  <div>
+    <Videojs {...videoJsOptions} />
+  </div>;
+
+  export default Gabriela1
 
 
 
