@@ -15,7 +15,7 @@ export default function Gabriela2() {
             <Row>
               <Col>
       <iframe
-        src="http://lb2x01.g1novelas.top/stream/720/oKkVrKiPBYEXUMA/__001"
+        src="https://lb2x01.g1novelas.top/stream/720/oKkVrKiPBYEXUMA/__001"
         target="_blank"
         scrolling="no"
         data-draggable="none"
