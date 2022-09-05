@@ -8,10 +8,12 @@ const videoJsOptions = {
   width: 720,
   height: 600,
   controls: true,
+  poster: 'https://www.themoviedb.org/t/p/w500_and_h282_face/r0bkdPWHzuX4Xg23PAWoBSUCp8V.jpg',
   sources: [
     {
       src: 'https://lb2x01.g1novelas.top/stream/720/ZUAAvtU9lSs62gJ/__001',
       type: 'video/mp4',
+      
     },
   ],
 };
