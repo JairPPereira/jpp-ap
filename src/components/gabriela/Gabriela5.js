@@ -21,6 +21,7 @@ const videoJsOptions = {
 const Gabriela5 = () =>
   <div>
     <Videojs {...videoJsOptions} />
+    
   </div>;
 
   export default Gabriela5
