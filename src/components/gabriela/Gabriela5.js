@@ -4,13 +4,13 @@ import ReactPlayer from "react-player";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Vid from "https://lb2x01.g1novelas.top/stream/720/ZUAAvtU9lSs62gJ/__001";
 
-export default function App() {
+export default function Gabriela5() {
   const [isVideoLoaded, setIsVideoLoaded] = useState(false);
   const onLoadedData = () => {
     setIsVideoLoaded(true);
   };
   return (
-    <div className="App">
+    <div className="Gabriela5">
       <h1>react-player-mp4</h1>
       <Container>
        
