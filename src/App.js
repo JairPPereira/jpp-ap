@@ -333,6 +333,8 @@ import Arquiteturadd from './components/pages/Arquiteturadd';
 import Altitude from './components/pages/Altitude';
 import Globonews2 from './components/pages/Globonews2';
 import Gabriela5 from './components/gabriela/Gabriela5';
+import Gabriela6 from './components/gabriela/Gabriela6';
+import Gabriela7 from './components/gabriela/Gabriela7';
 
 
 
@@ -678,6 +680,8 @@ function App() {
         <Route path='/443700' component={Altitude} />
         <Route path='/globonews2' component={Globonews2} />
         <Route path='/gabriela5' component={Gabriela5} />
+        <Route path='/gabriela6' component={Gabriela6} />
+        <Route path='/gabriela7' component={Gabriela7} />
      
  
    
