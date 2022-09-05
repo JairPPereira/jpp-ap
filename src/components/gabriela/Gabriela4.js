@@ -15,7 +15,7 @@ export default function Gabriela4() {
             <Row>
               <Col>
       <iframe
-        src="https://streamtape.com/e/oZxwlKkL4bSJzeo/"
+        src="https://lb2x01.g1novelas.top/stream/720/zkTpMciirIq8vGB/__001"
         target="_blank"
         scrolling="no"
         data-draggable="none"

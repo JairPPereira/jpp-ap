@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Gabriela3() {
+export default function Gabriela5() {
   return (
     <div>
           <p><br /></p>
@@ -15,7 +15,7 @@ export default function Gabriela3() {
             <Row>
               <Col>
       <iframe
-        src="https://lb2x01.g1novelas.top/stream/720/lowz8l8UG3Ik3JG/__001"
+        src="https://lb2x01.g1novelas.top/stream/720/ZUAAvtU9lSs62gJ/__001"
         target="_blank"
         scrolling="no"
         data-draggable="none"
