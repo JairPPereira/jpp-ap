@@ -16,7 +16,7 @@ const videoJsOptions = {
   sources: [
     {
 
-      src: 'https://lb2x01.g1novelas.top/stream/720/ZUAAvtU9lSs62gJ/__001',
+      src: 'https://lb2x01.g1novelas.top/stream/720/q6ZY17joNXf9vuk/__001',
       type: 'video/mp4',
       
     },
