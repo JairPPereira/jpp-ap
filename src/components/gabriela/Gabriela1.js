@@ -1,12 +1,16 @@
 import React from 'react';
 import Videojs from './video.js';
+import { Link } from 'react-router-dom';
+import Button from 'react-bootstrap/Button';
+import Container from 'react-bootstrap/Container';
+
+
 
 
 const videoJsOptions = {
   autoplay: false,
   playbackRates: [0.5, 1, 1.25, 1.5, 2],
-  width: 720,
-  height: 600,
+  width: '720px',
   controls: true,
   poster: 'https://www.themoviedb.org/t/p/w500_and_h282_face/7sIhKIufEWofnVUILtGWUOjgwEv.jpg',
   sources: [
@@ -20,9 +24,31 @@ const videoJsOptions = {
 };
 
 const Gabriela1 = () =>
-  <div>
-    <Videojs {...videoJsOptions} />
-  </div>;
+{
+  return (<>
+
+  <Container fluid>
+            
+              <div>
+    <Videojs {...videoJsOptions} />  </div>
+    
+    
+   </Container>
+ 
+  <div className="nave">
+     
+                  <p><br /></p>
+
+<Link to="/"><Button variant="primary" size="lg" width="80%">
+Home
+  </Button></Link>
+
+<p><br /></p>
+</div>
+  
+  </>
+  
+  )}
 
   export default Gabriela1
 
