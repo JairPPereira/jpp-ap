@@ -1,59 +1,58 @@
-import React from 'react';
-import Videojs from './video.js';
+import React, { Component } from 'react';
+import './videoapp.css';
+import dashjs from 'dashjs';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 import { Link } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
-import Container from 'react-bootstrap/Container';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
-
-const videoJsOptions = {
-  autoplay: false,
-  playbackRates: [0.5, 1, 1.25, 1.5, 2],
-  width: '720px',
-  controls: true,
-  poster: '',
-  sources: [
-    {
-
-      src: 'https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=d3c67da60ce646b98729283971eb92b1&deviceLat=-1.4537&deviceLon=-48.5078&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=91f46f2a10fd11ecbd449a01a2268404&userId=',
-      type: 'application/vnd.apple.mpegurl',
-      
-    },
-  ],
-};
-
-const Teste2 = () =>
-{
-  return (<>
-
-  <Container fluid>
-            <p></p>
-              <div>
-    <Videojs {...videoJsOptions} />  </div>
-    
-    <p></p>
-   </Container>
  
-  <div className="nave">
-     
-                  <p><br /></p>
-
-<Link to="/"><Button variant="primary" size="lg" width="80%">
-Home
-  </Button></Link>
+class Teste2 extends Component {
+    constructor() {
+        super();
+        
+        this.state = {
+          url: null
+        };
+      }
+    
+      componentDidMount(){
+        let url = "https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_2359/playlist.m3u8";
+        let player = dashjs.MediaPlayer().create();
+        player.initialize(document.querySelector("#videoPlayer"), url, true);
+      }
+    
+      render() {
+        return (
+          <div>
+            <Container fluid>
+      <Row><p><br /></p>
+        <Col><video id="videoPlayer" controls width="100%" height="auto"></video>
+        </Col>
+      </Row>
+    </Container><center>
+      
+    <nav>
+      <p><br /></p>
+ 
+      <Link to="/"><Button variant="primary" size="lg" width="80%">
+      Home
+        </Button></Link>
 
 <p><br /></p>
-</div>
-  
-  </>
-  
-  )}
 
-  export default Teste2
+      </nav></center>
+          </div>
+        );
+      }
+    
 
-
-
+}
 
 
-  
+export default Teste2;

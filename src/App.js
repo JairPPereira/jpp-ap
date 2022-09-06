@@ -335,6 +335,8 @@ import Globonews2 from './components/pages/Globonews2';
 import Gabriela5 from './components/gabriela/Gabriela5';
 import Gabriela6 from './components/gabriela/Gabriela6';
 import Gabriela7 from './components/gabriela/Gabriela7';
+import Rauland from './components/pages/Rauland';
+import Ruepa from './components/pages/Ruepa';
 
 
 
@@ -682,6 +684,8 @@ function App() {
         <Route path='/gabriela5' component={Gabriela5} />
         <Route path='/gabriela6' component={Gabriela6} />
         <Route path='/gabriela7' component={Gabriela7} />
+        <Route path='/rauland' component={Rauland} />
+        <Route path='/ruepa' component={Ruepa} />
      
  
    
