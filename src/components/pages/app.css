@@ -36,31 +36,31 @@
     min-height: 400px;
 }
 .pele {
-    background-color: #357688;
+    background-color: #b2babc;
     width: 100%;
     text-align: center;
     width: 100%;
     position: center;
     border-radius: 0.5rem;}
-    audio::-webkit-media-controls-panel {background-color: #357688; position: center;}
+    audio::-webkit-media-controls-panel {background-color: #b2babc; width:min-content;}
     .pelev {
-        background-color: #357688;
+        background-color: #b2babc;
         width: 100%;
         text-align: center;
         position: center;
         border-radius: 0.5rem;}
         video::-webkit-media-controls-panel {background-color: #211f1d;
-            width: 320px;
+            width:min-content;
         }
 
     .pele2 {
-        background-color: #357688;
+        background-color: #b2babc;
         width: 100%;
         text-align: center;
 
         position: center;
         border-radius: 0.5rem;}
-        audio::-webkit-media-controls-panel {background-color: #357688; position: center;}
+        audio::-webkit-media-controls-panel {background-color: #b2babc; width: 10px;;}
 
 .fit-picture{
     width: auto;

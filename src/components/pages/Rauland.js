@@ -5,6 +5,7 @@ import './app.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Card from 'react-bootstrap/Card';
 
 function Rauland() {
     return (
@@ -13,37 +14,35 @@ function Rauland() {
 <Container>
     
       <Row xs="auto">
-        <Col> <main>
+        <Col> 
          
          
-        <div className='pele'>
-          <h2>Rauland FM</h2>
-          <img class="fit-picture"
-            src="https://1.bp.blogspot.com/-TGdVG07kU6s/YUFq5Toxe9I/AAAAAAAABFY/-X_xXV09DkcTfBPs2C7Oi7x7mIDuG5BAwCLcBGAsYHQ/s0/rauland.jpg"
-            alt="Grapefruit slice atop a pile of other slices"></img></div>
+       
+     
+         
 
   
-    
+     <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://1.bp.blogspot.com/-TGdVG07kU6s/YUFq5Toxe9I/AAAAAAAABFY/-X_xXV09DkcTfBPs2C7Oi7x7mIDuG5BAwCLcBGAsYHQ/s0/rauland.jpg" />
+      <Card.Body>
+        <Card.Title>Rauland FM</Card.Title>
       
-        </main></Col>
+      </Card.Body>
+
+    </Card>
+    <ReactAudioPlayer
+            src="https://stm1.srvif.com:6672/stream"
+            controls
+         
+          />
+        </Col>
        
       </Row>
 
 
       <Row xs="auto">
         <Col> 
-        <div className='pele'>
-
- 
-
-
-          
-          <ReactAudioPlayer
-            src="https://stm1.srvif.com:6672/stream"
-            controls
-          />
-          </div>
-  
+      
     
   
         </Col>
@@ -52,7 +51,7 @@ function Rauland() {
     </Container>
     </div>
        
-        <p><br /></p>
+     
         <div className="nave">
         <nav>
         <p><br /></p>
