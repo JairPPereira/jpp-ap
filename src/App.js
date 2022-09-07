@@ -340,6 +340,7 @@ import Ruepa from './components/pages/Ruepa';
 import Noventaenove from './components/pages/Noventaenove';
 import Rboasnovas from './components/pages/Rboasnovas';
 import Cincodg from './components/pages/Cincodg';
+import Liberdadefm from './components/pages/Liberdadefm';
 
 
 
@@ -692,6 +693,7 @@ function App() {
         <Route path='/noventaenove' component={Noventaenove} />
         <Route path='/rboasnovas' component={Rboasnovas} />
         <Route path='/50601' component={Cincodg} />
+        <Route path='/liberdadefm' component={Liberdadefm} />
      
  
    
