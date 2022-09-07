@@ -116,14 +116,14 @@ function Home() {
         </nav>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8092263721786278"
      crossorigin="anonymous"></script>
-    <Container fluid="md">
+    <Container fluid="md"><Card>
       <Row>
         <Col>Ajude a manter nosso site</Col>
       
       </Row>
       <Row>
       <Col>Pix: jairppereira21@gmail.com</Col>
-      </Row>
+      </Row></Card>
     </Container>
        
 
