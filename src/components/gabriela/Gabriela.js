@@ -25,25 +25,22 @@ export default function Gabriela() {
       
         <nav>
         <p><br /></p>
-  
-        
         <Card>
-      <Card.Body><Link to="/gabriela1"><Button variant="primary" size="lg" width="100%">
-          Capítulo 1
-        </Button></Link></Card.Body>
+    <Card.Body><a href="https://jpp-ap.onrender.com/gabriela/index21.html"><Button variant="primary" size="lg" width="100%">
+    Capítulo 1
+        </Button></a></Card.Body>
+    </Card>
+    <Card>
+    <Card.Body><a href="https://jpp-ap.onrender.com/gabriela/index2.html"><Button variant="primary" size="lg" width="100%">
+    Capítulo 2
+        </Button></a></Card.Body>
+    </Card>
+    <Card>
+    <Card.Body><a href="https://jpp-ap.onrender.com/gabriela/index3.html"><Button variant="primary" size="lg" width="100%">
+    Capítulo 3
+        </Button></a></Card.Body>
     </Card>
 
-    <Card>
-      <Card.Body><Link to="/gabriela2"><Button variant="primary" size="lg" width="100%">
-          Capítulo 2
-        </Button></Link></Card.Body>
-    </Card>
-
-    <Card>
-      <Card.Body><Link to="/gabriela3"><Button variant="primary" size="lg" width="100%">
-          Capítulo 3
-        </Button></Link></Card.Body>
-    </Card>
     <Card>
       <Card.Body><Link to="/gabriela4"><Button variant="primary" size="lg" width="100%">
           Capítulo 4
