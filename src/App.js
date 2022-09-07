@@ -339,6 +339,7 @@ import Rauland from './components/pages/Rauland';
 import Ruepa from './components/pages/Ruepa';
 import Noventaenove from './components/pages/Noventaenove';
 import Rboasnovas from './components/pages/Rboasnovas';
+import Cincodg from './components/pages/Cincodg';
 
 
 
@@ -690,6 +691,7 @@ function App() {
         <Route path='/ruepa' component={Ruepa} />
         <Route path='/noventaenove' component={Noventaenove} />
         <Route path='/rboasnovas' component={Rboasnovas} />
+        <Route path='/50601' component={Cincodg} />
      
  
    
