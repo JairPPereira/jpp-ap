@@ -24,6 +24,11 @@ export default function Jornalismo() {
         </Button></a></Card.Body>
     </Card>
 
+    <Card>
+    <Card.Body><a href="http://lb2x01.g1novelas.top/stream/720/WlqwCYzEDQaUY3I/__001"><Button variant="primary" size="lg" width="100%">
+   teste
+        </Button></a></Card.Body>
+    </Card>
 
 
           <p><br /></p>

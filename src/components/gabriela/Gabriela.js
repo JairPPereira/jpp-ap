@@ -26,21 +26,28 @@ export default function Gabriela() {
         <nav>
         <p><br /></p>
         <Card>
-    <Card.Body><a href="https://jpp-ap.onrender.com/gabriela/index21.html"><Button variant="primary" size="lg" width="100%">
+    <Card.Body><a href="http://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1048115623.m3u8"><Button variant="primary" size="lg" width="100%">
     Capítulo 1
         </Button></a></Card.Body>
     </Card>
-    <Card>
-    <Card.Body><a href="https://jpp-ap.onrender.com/gabriela/index2.html"><Button variant="primary" size="lg" width="100%">
-    Capítulo 2
-        </Button></a></Card.Body>
-    </Card>
-    <Card>
-    <Card.Body><a href="https://jpp-ap.onrender.com/gabriela/index3.html"><Button variant="primary" size="lg" width="100%">
-    Capítulo 3
-        </Button></a></Card.Body>
+        
+        <Card>
+      <Card.Body><Link to="/gabriela1"><Button variant="primary" size="lg" width="100%">
+          Capítulo 1
+        </Button></Link></Card.Body>
     </Card>
 
+    <Card>
+      <Card.Body><Link to="/gabriela2"><Button variant="primary" size="lg" width="100%">
+          Capítulo 2
+        </Button></Link></Card.Body>
+    </Card>
+
+    <Card>
+      <Card.Body><Link to="/gabriela3"><Button variant="primary" size="lg" width="100%">
+          Capítulo 3
+        </Button></Link></Card.Body>
+    </Card>
     <Card>
       <Card.Body><Link to="/gabriela4"><Button variant="primary" size="lg" width="100%">
           Capítulo 4
