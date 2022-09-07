@@ -337,6 +337,8 @@ import Gabriela6 from './components/gabriela/Gabriela6';
 import Gabriela7 from './components/gabriela/Gabriela7';
 import Rauland from './components/pages/Rauland';
 import Ruepa from './components/pages/Ruepa';
+import Noventaenove from './components/pages/Noventaenove';
+import Rboasnovas from './components/pages/Rboasnovas';
 
 
 
@@ -686,6 +688,8 @@ function App() {
         <Route path='/gabriela7' component={Gabriela7} />
         <Route path='/rauland' component={Rauland} />
         <Route path='/ruepa' component={Ruepa} />
+        <Route path='/noventaenove' component={Noventaenove} />
+        <Route path='/rboasnovas' component={Rboasnovas} />
      
  
    

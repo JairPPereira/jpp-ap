@@ -1,58 +1,77 @@
 import React, { Component } from 'react';
-import './videoapp.css';
-import dashjs from 'dashjs';
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+import VideoPlayer from 'react-video-js-player';
 import { Link } from 'react-router-dom';
-import Button from 'react-bootstrap/Button';
-
-import 'bootstrap/dist/css/bootstrap.min.css';
-
-
+import './videoapp.css';
 
  
 class Teste2 extends Component {
-    constructor() {
-        super();
-        
-        this.state = {
-          url: null
-        };
-      }
-    
-      componentDidMount(){
-        let url = "https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/hls-globo-bel_2359/playlist.m3u8";
-        let player = dashjs.MediaPlayer().create();
-        player.initialize(document.querySelector("#videoPlayer"), url, true);
-      }
-    
-      render() {
-        return (
-          <div>
-            <Container fluid>
-      <Row><p><br /></p>
-        <Col><video id="videoPlayer" controls width="100%" height="auto"></video>
-        </Col>
-      </Row>
-    </Container><center>
-      
-    <nav>
-      <p><br /></p>
+    player = {}
+    state = {
+        video: {
+            src: ".jmvstream",
+
+            poster: "https://www.vagalume.com.br/14619606471054026608/default"
+        }
+    }
  
-      <Link to="/"><Button variant="primary" size="lg" width="80%">
-      Home
-        </Button></Link>
+    onPlayerReady(player){
+        console.log("Player is ready: ", player);
+        this.player = player;
+    }
+ 
+    onVideoPlay(duration){
+        console.log("Video played at: ", duration);
+    }
+ 
+    onVideoPause(duration){
+        console.log("Video paused at: ", duration);
+    }
+ 
+    onVideoTimeUpdate(duration){
+        console.log("Time updated: ", duration);
+    }
+ 
+    onVideoSeeking(duration){
+        console.log("Video seeking: ", duration);
+    }
+ 
+    onVideoSeeked(from, to){
+        console.log(`Video seeked from ${from} to ${to}`);
+    }
+ 
+    onVideoEnd(){
+        console.log("Video ended");
+    }
+ 
+    render() {
+        return (
+            <div>
+                      <p><br /></p>
+                <VideoPlayer
+                    controls={true}
+                    src={this.state.video.src}
+                    poster={this.state.video.poster}
+                    width="720px" 
+                    height="auto"
+                    onReady={this.onPlayerReady.bind(this)}
+                    onPlay={this.onVideoPlay.bind(this)}
+                    onPause={this.onVideoPause.bind(this)}
+                    onTimeUpdate={this.onVideoTimeUpdate.bind(this)}
+                    onSeeking={this.onVideoSeeking.bind(this)}
+                    onSeeked={this.onVideoSeeked.bind(this)}
+                    onEnd={this.onVideoEnd.bind(this)}
+                />
+                    <p><br /></p> 
+               <div className="nave">
+      <nav>
+      <p><br /></p>
+      <Link to="/">Home</Link>
 
 <p><br /></p>
 
-      </nav></center>
-          </div>
+      </nav></div></div>
+            
         );
-      }
-    
-
+    }
 }
-
-
 export default Teste2;

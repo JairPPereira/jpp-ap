@@ -5,45 +5,44 @@ import './app.css';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Card from 'react-bootstrap/Card';
 
-function Ruepa() {
+function Rboasnovas() {
     return (
       <>
 <div className='pele'>
 <Container>
     
       <Row xs="auto">
-        <Col> <main>
+        <Col> 
          
          
-        <div className='pele'>
-          <h2>Rádio Uepa</h2>
-          <img class="fit-picture"
-            src="https://s43.maxcast.com.br/cover/50197/6fbc4263/c9bc6269/c0daa670/1444691e-f1b3-3b4a-9cd9-a03d810cd0c1.jpg"
-            alt="Grapefruit slice atop a pile of other slices"></img></div>
+       
+     
+         
 
   
-    
+     <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://cdn.webrad.io/images/logos/radiosaovivo-net/boas-novas-belem.png" />
+      <Card.Body>
+        <Card.Title>Rauland FM</Card.Title>
       
-        </main></Col>
+      </Card.Body>
+
+    </Card>
+    <ReactAudioPlayer
+            src="https://boasnovasaac.jmvstream.com/stream/1/"
+            controls
+         
+          />
+        </Col>
        
       </Row>
 
 
       <Row xs="auto">
         <Col> 
-        <div className='pele'>
-
- 
-
-
-          
-          <ReactAudioPlayer
-            src="https://s43.maxcast.com.br:8573/live?id=194309176181"
-            controls
-          />
-          </div>
-  
+      
     
   
         </Col>
@@ -52,7 +51,7 @@ function Ruepa() {
     </Container>
     </div>
        
-        <p><br /></p>
+     
         <div className="nave">
         <nav>
         <p><br /></p>
@@ -64,4 +63,4 @@ function Ruepa() {
     );
   }
 
-  export default  Ruepa;
+  export default  Rboasnovas;
