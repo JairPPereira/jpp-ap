@@ -1,20 +1,56 @@
-import React from 'react';
-import '../../App.css';
-import {Link } from "react-router-dom";
+import { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import { Container, Movie, MovieList } from './styles';
 import Button from 'react-bootstrap/Button';
-import Container from 'react-bootstrap/Container';
+import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Card from 'react-bootstrap/Card';
 
 
-import 'bootstrap/dist/css/bootstrap.min.css';
+function Home() {
 
+  const imagePath = 'https://image.tmdb.org/t/p/w500/'
 
-export default function Home() {
+  const [movies, setMovies] = useState([])
+
+  useEffect(() => {
+    fetch(`https://api.themoviedb.org/4/list/8212203?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
+    .then(response => response.json())
+    .then(data => {
+      setMovies(data.results)
+    })
+  }, [])
 
   return (
-  <center>
+
+  <Container>
+      <MovieList>
+      {movies.map(movie => {
+        return (
+          
+          <Movie key={movie.id}>
+            <Link to={`/details/${movie.id}`}>
+              <img src={`${imagePath}${movie.poster_path}`} alt={movie.title}/>
+            </Link>
+            
+            <span>{movie.title}</span>
+
+          </Movie>
+        )
+      })}
+      </MovieList>
+      
+      <center>
+        <div class="btn-group" role="group" aria-label="Exemplo básico">
+        <Link to="/daaz10"><Button variant="primary" size="lg" width="80%">
+          Pagina anterior
+        </Button></Link>
+ 
+  <Link to="/Daaz2"><Button variant="primary" size="lg" width="80%">
+          Proxima pagina
+        </Button></Link>
+</div></center>
+<center>
     
     <div>
       <div className='home'>
@@ -91,11 +127,8 @@ export default function Home() {
        
 
         <p><br /></p></div></center>
-
-
-   
-    
-        
-         
+    </Container>
   );
 }
+
+export default Home;

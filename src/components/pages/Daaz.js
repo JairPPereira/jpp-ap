@@ -24,6 +24,7 @@ function Todosf() {
       <MovieList>
       {movies.map(movie => {
         return (
+          
           <Movie key={movie.id}>
             <Link to={`/details/${movie.id}`}>
               <img src={`${imagePath}${movie.poster_path}`} alt={movie.title}/>
@@ -35,6 +36,7 @@ function Todosf() {
         )
       })}
       </MovieList>
+      
       <center>
         <div class="btn-group" role="group" aria-label="Exemplo básico">
         <Link to="/daaz10"><Button variant="primary" size="lg" width="80%">
@@ -45,6 +47,7 @@ function Todosf() {
           Proxima pagina
         </Button></Link>
 </div></center>
+
     </Container>
   );
 }
