@@ -66,7 +66,9 @@ function Navbar() {
             >
               TVs
             </Link>
+            
           </li>
+          
           <li className='nav-item'><Link
               to='/radios'
               className='nav-links'
@@ -83,6 +85,8 @@ function Navbar() {
               Séries
             </Link>
           </li>
+        
+          
         </ul>
 
       </nav>

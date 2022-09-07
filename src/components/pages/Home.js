@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Container, Movie, MovieList } from './styles';
+import { Container, Movie, MovieList,} from './styles';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
@@ -8,7 +8,6 @@ import Col from 'react-bootstrap/Col';
 
 
 function Home() {
-
   const imagePath = 'https://image.tmdb.org/t/p/w500/'
 
   const [movies, setMovies] = useState([])
@@ -39,7 +38,7 @@ function Home() {
         )
       })}
       </MovieList>
-      
+  
       <center>
         <div class="btn-group" role="group" aria-label="Exemplo básico">
         <Link to="/daaz10"><Button variant="primary" size="lg" width="80%">
@@ -62,9 +61,10 @@ function Home() {
       
         <nav>
         <p><br /></p>
-  
+
         <Container>
-        <Card>
+       
+        <Card >
       <Card.Body><h3>Todos os Filmes</h3><Link to="/Daaz7"><Button variant="primary" size="lg" width="100%">
           Abrir
         </Button></Link></Card.Body>
