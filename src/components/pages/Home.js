@@ -42,11 +42,11 @@ function Home() {
       <center>
         <div class="btn-group" role="group" aria-label="Exemplo básico">
         <Link to="/daaz10"><Button variant="primary" size="lg" width="80%">
-          Pagina anterior
+          anterior
         </Button></Link>
  
   <Link to="/Daaz2"><Button variant="primary" size="lg" width="80%">
-          Proxima pagina
+          Proxima
         </Button></Link>
 </div></center>
 
