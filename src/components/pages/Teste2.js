@@ -1,77 +1,58 @@
 import React, { Component } from 'react';
-import VideoPlayer from 'react-video-js-player';
-import { Link } from 'react-router-dom';
 import './videoapp.css';
+import dashjs from 'dashjs';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import { Link } from 'react-router-dom';
+import Button from 'react-bootstrap/Button';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
 
  
 class Teste2 extends Component {
-    player = {}
-    state = {
-        video: {
-            src: ".jmvstream",
-
-            poster: "https://www.vagalume.com.br/14619606471054026608/default"
-        }
-    }
- 
-    onPlayerReady(player){
-        console.log("Player is ready: ", player);
-        this.player = player;
-    }
- 
-    onVideoPlay(duration){
-        console.log("Video played at: ", duration);
-    }
- 
-    onVideoPause(duration){
-        console.log("Video paused at: ", duration);
-    }
- 
-    onVideoTimeUpdate(duration){
-        console.log("Time updated: ", duration);
-    }
- 
-    onVideoSeeking(duration){
-        console.log("Video seeking: ", duration);
-    }
- 
-    onVideoSeeked(from, to){
-        console.log(`Video seeked from ${from} to ${to}`);
-    }
- 
-    onVideoEnd(){
-        console.log("Video ended");
-    }
- 
-    render() {
+    constructor() {
+        super();
+        
+        this.state = {
+          url: null
+        };
+      }
+    
+      componentDidMount(){
+        let url = "https://stream.vagalume.fm/hls/14623883771774082279/aac.m3u8";
+        let player = dashjs.MediaPlayer().create();
+        player.initialize(document.querySelector("#videoPlayer"), url, true);
+      }
+    
+      render() {
         return (
-            <div>
-                      <p><br /></p>
-                <VideoPlayer
-                    controls={true}
-                    src={this.state.video.src}
-                    poster={this.state.video.poster}
-                    width="720px" 
-                    height="auto"
-                    onReady={this.onPlayerReady.bind(this)}
-                    onPlay={this.onVideoPlay.bind(this)}
-                    onPause={this.onVideoPause.bind(this)}
-                    onTimeUpdate={this.onVideoTimeUpdate.bind(this)}
-                    onSeeking={this.onVideoSeeking.bind(this)}
-                    onSeeked={this.onVideoSeeked.bind(this)}
-                    onEnd={this.onVideoEnd.bind(this)}
-                />
-                    <p><br /></p> 
-               <div className="nave">
-      <nav>
+          <div>
+            <Container fluid>
+      <Row><p><br /></p>
+        <Col><video id="videoPlayer" controls width="100%" height="auto"></video>
+        </Col>
+      </Row>
+    </Container><center>
+      
+    <nav>
       <p><br /></p>
-      <Link to="/">Home</Link>
+ 
+      <Link to="/"><Button variant="primary" size="lg" width="80%">
+      Home
+        </Button></Link>
 
 <p><br /></p>
 
-      </nav></div></div>
-            
+      </nav></center>
+          </div>
         );
-    }
+      }
+    
+
 }
+
+
 export default Teste2;
