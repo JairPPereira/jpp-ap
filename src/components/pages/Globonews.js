@@ -11,7 +11,7 @@ class Globonews extends Component {
         video: {
             src: "https://aipaipara.xyz/globo-news/tracks-v1a1/mono.m3u8?token=b5ceb14684d33cec958ef900cead666663b6ac43-e7f1bd685abb16d400e3bd3cb37763fe-1662752299-1662745099",
 
-            poster: "https://www.vagalume.com.br/14619606471054026608/default"
+            poster: "https://ogimg.infoglobo.com.br/in/2939353-ac7-20b/FT1086A/Novamarca-da-Globo-News-que-muda-o-visual-no-dia-18-de-outubroDivulgacao.jpg"
         }
     }
  
