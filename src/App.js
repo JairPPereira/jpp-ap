@@ -341,6 +341,8 @@ import Noventaenove from './components/pages/Noventaenove';
 import Rboasnovas from './components/pages/Rboasnovas';
 import Cincodg from './components/pages/Cincodg';
 import Liberdadefm from './components/pages/Liberdadefm';
+import Nocaute from './components/pages/Nocaute';
+import Aslegioese from './components/pages/Aslegioese';
 
 
 
@@ -694,6 +696,8 @@ function App() {
         <Route path='/rboasnovas' component={Rboasnovas} />
         <Route path='/50601' component={Cincodg} />
         <Route path='/liberdadefm' component={Liberdadefm} />
+        <Route path='/58448' component={Nocaute} />
+        <Route path='/622585' component={Aslegioese} />
      
  
    
