@@ -66,7 +66,13 @@ function Navbar() {
             >
               TVs
             </Link>
-            
+            <Link
+              to='/novelas'
+              className='nav-links'
+              onClick={closeMobileMenu}
+            >
+              Novelas
+            </Link>
           </li>
           
           <li className='nav-item'><Link
@@ -77,6 +83,7 @@ function Navbar() {
               Rádios
             </Link>
           </li>
+          
           <li className='nav-item'><Link
               to='/series'
               className='nav-links'
