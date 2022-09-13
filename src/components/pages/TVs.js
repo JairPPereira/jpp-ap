@@ -50,7 +50,11 @@ export default function TVs() {
 
 
 
-
+    <Card>
+    <Card.Body><Link to="./Teste2"><Button variant="primary" size="lg" width="100%">
+  Teste 3
+        </Button></Link></Card.Body>
+    </Card>
     
 
    
