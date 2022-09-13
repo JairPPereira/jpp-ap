@@ -344,6 +344,7 @@ import Liberdadefm from './components/pages/Liberdadefm';
 import Nocaute from './components/pages/Nocaute';
 import Aslegioese from './components/pages/Aslegioese';
 import Bandnews2 from './components/pages/Bandnews2';
+import Rittv from './components/pages/Rittv';
 
 
 
@@ -700,6 +701,7 @@ function App() {
         <Route path='/58448' component={Nocaute} />
         <Route path='/622585' component={Aslegioese} />
         <Route path='/bandnews2' component={Bandnews2} />
+        <Route path='/rittv' component={Rittv} />
      
  
    

@@ -198,6 +198,19 @@ export default function Tvab() {
       </Card.Body>
     </Card></center>
 
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp" />
+      <Card.Body>
+        <Card.Title>RIT TV</Card.Title>
+      
+        <Link to="./Rittv"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
    
 
 
