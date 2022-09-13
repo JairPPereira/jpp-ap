@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Bandnews() {
+export default function Bandnews2() {
   return (
     <div>
           <p><br /></p>
@@ -15,7 +15,7 @@ export default function Bandnews() {
             <Row>
               <Col>
       <iframe 
-        src="https://embed.tyflex.site/v.php?id=bandnews"
+        src="https://play.tv0800.xyz/adm/v.php?id=bandnews"
         target="_blank"
         scrolling="no"
         data-draggable="none"
@@ -31,14 +31,14 @@ export default function Bandnews() {
                   <div className="nave">
      
                   <p><br /></p>
-
-<Link to="/Bandnews"><Button variant="primary" size="lg" width="80%">
+                  <Link to="/Bandnews"><Button variant="primary" size="lg" width="80%">
 Opção 1
   </Button></Link>
 
   <Link to="/Bandnews2"><Button variant="primary" size="lg" width="80%">
 Opção 2
   </Button></Link>
+
 
 <p><br /></p>
 </div>
@@ -50,7 +50,6 @@ Opção 2
 <Link to="/"><Button variant="primary" size="lg" width="80%">
 Home
   </Button></Link>
-  
 
 <p><br /></p>
 </div>
