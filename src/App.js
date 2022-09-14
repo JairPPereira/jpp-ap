@@ -346,6 +346,8 @@ import Aslegioese from './components/pages/Aslegioese';
 import Bandnews2 from './components/pages/Bandnews2';
 import Rittv from './components/pages/Rittv';
 import Kenanek from './components/pages/Kenanek';
+import Tntsport2 from './components/pages/Tntsport2';
+
 
 
 
@@ -704,6 +706,7 @@ function App() {
         <Route path='/bandnews2' component={Bandnews2} />
         <Route path='/rittv' component={Rittv} />
         <Route path='/kenanek' component={Kenanek} />
+        <Route path='/tntsport2' component={Tntsport2} />
      
  
    

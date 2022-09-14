@@ -179,6 +179,8 @@ export default function TVsp() {
       </Card.Body>
     </Card></center>
 
+    
+
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
@@ -216,6 +218,20 @@ export default function TVsp() {
         <Card.Text><p2>No portal do TNT Sports você vê todas as notícias e melhores momentos da Champions League, Brasileirão, Nations League e muito mais!</p2>
         </Card.Text>
         <Link to="./Tnts1"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://i.superesportes.com.br/fImaHSt3kdLkaKCufzi2rcGF730=/smart/imgsapp.mg.superesportes.com.br/app/noticia_126420360808/2021/01/17/3886702/20210117115713856710u.jpg" />
+      <Card.Body>
+        <Card.Title>TNT Sports 2</Card.Title>
+        <Card.Text>
+        </Card.Text>
+        <Link to="./Tntsport2"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
