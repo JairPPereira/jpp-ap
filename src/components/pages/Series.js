@@ -45,6 +45,18 @@ export default function Series() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg" />
+      <Card.Body>
+        <Card.Title>Kenan e Kel (1996)</Card.Title>
+        <Link to="./Kenanek"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9n4dv0aGRb8Ma15H7jbWsY7Eg0N.jpg" />
       <Card.Body>
         <Card.Title>Os Simpsons (1989)</Card.Title>

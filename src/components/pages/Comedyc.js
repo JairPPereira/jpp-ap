@@ -8,7 +8,7 @@ export default function Comedyc() {
           <p><br /></p>
       <iframe
         src="https://embedflix.net/tv/comedy-central"
-        target="_blank"
+        target="https://embedflix.net/tv/comedy-central"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
