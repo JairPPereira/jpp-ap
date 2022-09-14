@@ -16,7 +16,7 @@ export default function Seriegot() {
               <Col>
       <iframe
         src="https://embed.warezcdn.net/serie.php?imdb=tt0944947"
-        target="_blank"
+        target="https://embed.warezcdn.net/serie.php?imdb=tt0944947"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"

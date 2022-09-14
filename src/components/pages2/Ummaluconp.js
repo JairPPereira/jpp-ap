@@ -8,7 +8,7 @@ export default function Ummaluconp() {
           <p><br /></p>
       <iframe
         src="https://embed.warezcdn.net/serie/tt0098800"
-        target="_blank"
+        target="https://embed.warezcdn.net/serie/tt0098800"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
