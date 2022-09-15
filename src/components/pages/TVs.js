@@ -1,5 +1,4 @@
 import React from 'react';
-import '../../App.css';
 import { Link } from "react-router-dom";
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
@@ -17,7 +16,7 @@ export default function TVs() {
           <p><br /></p>
 
     <Card>
-    <Card.Body><Link to="./Tvab"><Button variant="primary" size="lg" width="100%">
+    <Card.Body><Link to="/tvab"><Button variant="primary" size="lg" width="100%">
     TV Aberta
         </Button></Link></Card.Body>
     </Card>
