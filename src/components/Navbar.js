@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
-import Dropdown from './Dropdown';
+import Dropdown from 'react-bootstrap/Dropdown';
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -58,14 +58,18 @@ function Navbar() {
             {dropdown && <Dropdown />}
           </li>
           <li className='nav-item'>
-          
-            <Link
-              to='/tvs'
-              className='nav-links'
-              onClick={closeMobileMenu}
-            >
-              TVs
-            </Link>
+          <Dropdown>
+      <Dropdown.Toggle variant="success" id="dropdown-basic">
+        TV
+      </Dropdown.Toggle>
+
+      <Dropdown.Menu>
+        <Dropdown.Item href="/Tvab">TV Aberta</Dropdown.Item>
+        <Dropdown.Item href="./Tvsf">Filmes</Dropdown.Item>
+        <Dropdown.Item href="./Tvsp">Sports</Dropdown.Item>
+        <Dropdown.Item href="./Jornalismo">Jornalismo</Dropdown.Item>
+      </Dropdown.Menu>
+    </Dropdown>
             <Link
               to='/novelas'
               className='nav-links'
