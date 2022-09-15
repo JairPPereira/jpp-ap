@@ -349,6 +349,9 @@ import Kenanek from './components/pages/Kenanek';
 import Tntsport2 from './components/pages/Tntsport2';
 import Umpassadodepresente from './components/pages/Umpassadodepresente';
 import Oshomenssdm from './components/pages/Oshomenssdm';
+import Filmesn from './components/pages/Filmesn';
+import Sonhosroubados from './components/pages/Sonhosroubados';
+import Aestrada47 from './components/pages/Aestrada47';
 
 
 
@@ -711,6 +714,9 @@ function App() {
         <Route path='/tntsport2' component={Tntsport2} />
         <Route path='/611207' component={Umpassadodepresente} />
         <Route path='/227970' component={Oshomenssdm} />
+        <Route path='/filmesn' component={Filmesn} />
+        <Route path='/45170' component={Sonhosroubados} />
+        <Route path='/253020' component={Aestrada47} />
      
  
    

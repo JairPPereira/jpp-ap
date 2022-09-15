@@ -74,6 +74,13 @@ export default function Porcategoria() {
    
       <p><br /></p>
 
+      <Link to="./Filmesn"><Button variant="primary" size="lg" width="80%">
+      Filmes nacionais
+        </Button></Link>
+   
+      <p><br /></p>
+
+
 
 
      
