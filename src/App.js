@@ -347,6 +347,8 @@ import Bandnews2 from './components/pages/Bandnews2';
 import Rittv from './components/pages/Rittv';
 import Kenanek from './components/pages/Kenanek';
 import Tntsport2 from './components/pages/Tntsport2';
+import Umpassadodepresente from './components/pages/Umpassadodepresente';
+import Oshomenssdm from './components/pages/Oshomenssdm';
 
 
 
@@ -707,6 +709,8 @@ function App() {
         <Route path='/rittv' component={Rittv} />
         <Route path='/kenanek' component={Kenanek} />
         <Route path='/tntsport2' component={Tntsport2} />
+        <Route path='/611207' component={Umpassadodepresente} />
+        <Route path='/227970' component={Oshomenssdm} />
      
  
    
