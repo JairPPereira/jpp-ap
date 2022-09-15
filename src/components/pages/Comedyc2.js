@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Comedyc() {
+export default function Comedyc2() {
   return (
     <div>
           <p><br /></p>
@@ -15,8 +15,8 @@ export default function Comedyc() {
             <Row>
               <Col>
       <iframe
-        src="https://embedflix.net/tv/comedy-central"
-        target="https://embedflix.net/tv/comedy-central"
+        src="https://embed.tyflex.site/v.php?id=comedycentral"
+        target="https://embed.tyflex.site/v.php?id=comedycentral"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"

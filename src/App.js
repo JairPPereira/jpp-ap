@@ -352,6 +352,7 @@ import Oshomenssdm from './components/pages/Oshomenssdm';
 import Filmesn from './components/pages/Filmesn';
 import Sonhosroubados from './components/pages/Sonhosroubados';
 import Aestrada47 from './components/pages/Aestrada47';
+import Comedyc2 from './components/pages/Comedyc2';
 
 
 
@@ -717,6 +718,7 @@ function App() {
         <Route path='/filmesn' component={Filmesn} />
         <Route path='/45170' component={Sonhosroubados} />
         <Route path='/253020' component={Aestrada47} />
+        <Route path='/comedyc2' component={Comedyc2} />
      
  
    
