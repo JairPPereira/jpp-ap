@@ -353,6 +353,8 @@ import Filmesn from './components/pages/Filmesn';
 import Sonhosroubados from './components/pages/Sonhosroubados';
 import Aestrada47 from './components/pages/Aestrada47';
 import Comedyc2 from './components/pages/Comedyc2';
+import Ocaminhodn from './components/pages/Ocaminhosn';
+import Beladonna from './components/pages/Beladonna';
 
 
 
@@ -719,6 +721,8 @@ function App() {
         <Route path='/45170' component={Sonhosroubados} />
         <Route path='/253020' component={Aestrada47} />
         <Route path='/comedyc2' component={Comedyc2} />
+        <Route path='/47089' component={Ocaminhodn} />
+        <Route path='/71211' component={Beladonna} />
      
  
    
