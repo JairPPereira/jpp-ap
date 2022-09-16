@@ -29,10 +29,23 @@ function Navbar() {
   return (
     <>
       <nav className='navbar'>
-        <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-          JPP APP
-          <i class='fab fa-firstdraft' />
-        </Link>
+      <Dropdown>
+      <Dropdown.Toggle variant="success" id="dropdown-basic">
+      JPP APP
+      </Dropdown.Toggle>
+
+      <Dropdown.Menu>
+        <Dropdown.Item href="/Daaz7">Todos os Filmes</Dropdown.Item>
+        <Dropdown.Item href="/Porcategoria">Filmes Por categoria</Dropdown.Item>
+        <Dropdown.Item href="/Series">Séries</Dropdown.Item>
+        <Dropdown.Item href="/Documentarios">Documentários</Dropdown.Item>
+        <Dropdown.Item href="/Novelas">Novelas</Dropdown.Item>
+        <Dropdown.Item href="/Playlistyou">Filmes do youtube</Dropdown.Item>
+        <Dropdown.Item href="/TVs">TV</Dropdown.Item>
+        <Dropdown.Item href="/Radios">Radios</Dropdown.Item>
+        <Dropdown.Item href="/Youtubeml">Musicas do youtube</Dropdown.Item>
+      </Dropdown.Menu>
+    </Dropdown>
         <div className='menu-icon' onClick={handleClick}>
           <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
         </div>
