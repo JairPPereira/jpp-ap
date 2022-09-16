@@ -15,8 +15,8 @@ export default function Comedyc2() {
             <Row>
               <Col>
       <iframe
-        src="https://embed.tyflex.site/v.php?id=comedycentral"
-        target="https://embed.tyflex.site/v.php?id=comedycentral"
+        src="https://embedflix.net/tv/comedy-central"
+        target="https://embedflix.net/tv/comedy-central"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"

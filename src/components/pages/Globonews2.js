@@ -11,6 +11,7 @@ export default function Globonews2() {
         src="https://embedflix.net/tv/br-globo-news-hd"
         target="_blank"
         frameborder="0"
+        scrolling="no"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
