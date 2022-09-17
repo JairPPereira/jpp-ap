@@ -35,6 +35,7 @@ function Navbar() {
       </Dropdown.Toggle>
 
       <Dropdown.Menu>
+        <Dropdown.Item href="/Afazenda">A Fazenda</Dropdown.Item>
         <Dropdown.Item href="/Daaz7">Todos os Filmes</Dropdown.Item>
         <Dropdown.Item href="/Porcategoria">Filmes Por categoria</Dropdown.Item>
         <Dropdown.Item href="/Series">Séries</Dropdown.Item>
@@ -51,23 +52,17 @@ function Navbar() {
         </div>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
           <li className='nav-item'>
-            <Link to='/Daaz7' className='nav-links' onClick={closeMobileMenu}>
-              Todos os Filmes
+            <Link to='/Porcategoria' className='nav-links' onClick={closeMobileMenu}>
+              Filmes por categoria
             </Link>
           </li>
+          
           <li
             className='nav-item'
             onMouseEnter={onMouseEnter}
             onMouseLeave={onMouseLeave}
           >
-            <Link
-              to='/Porcategoria'
-              className='nav-links'
-              
-              onClick={closeMobileMenu}
-            >
-              Filmes Por Categoria<i className='fas fa-caret-down' />
-            </Link>
+            
             {dropdown && <Dropdown />}
           </li>
           <li className='nav-item'>
@@ -77,6 +72,7 @@ function Navbar() {
       </Dropdown.Toggle>
 
       <Dropdown.Menu>
+        <Dropdown.Item href="/Afazenda">A Fazenda</Dropdown.Item>
         <Dropdown.Item href="/Tvab">TV Aberta</Dropdown.Item>
         <Dropdown.Item href="./Tvsf">Filmes</Dropdown.Item>
         <Dropdown.Item href="./Tvsp">Sports</Dropdown.Item>
