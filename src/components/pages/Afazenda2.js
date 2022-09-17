@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Afazenda() {
+export default function Afazenda2() {
   return (
     <div>
           <p><br /></p>
@@ -15,8 +15,8 @@ export default function Afazenda() {
             <Row>
               <Col>
       <iframe
-        src="https://canais.m3u8live.ml/v.php?id=Afazenda"
-        target="https://canais.m3u8live.ml/v.php?id=Afazenda"
+        src="https://embedflix.net/tv/a-fazenda-14"
+        target="https://embedflix.net/tv/a-fazenda-14"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"
@@ -29,7 +29,7 @@ export default function Afazenda() {
       />{" "}
       </Col></Row></Container>
        <div className="nave">
-       
+     
        <p><br /></p>
                   <Link to="/Afazenda"><Button variant="primary" size="lg" width="80%">
 Opção 1
@@ -63,6 +63,7 @@ Home
 
   );
 }
+
 
 
 

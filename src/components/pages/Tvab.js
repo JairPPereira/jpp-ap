@@ -30,6 +30,19 @@ export default function Tvab() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://supertvaovivo.net/wp-content/uploads/2021/09/A-FAZENDA-1.jpg" />
+      <Card.Body>
+        <Card.Title>A Fazenda 13</Card.Title>
+        
+        <Link to="./Afazenda"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://esporteemidia.com/wp-content/uploads/2016/09/rba2Bnova.jpg" />
       <Card.Body>
         <Card.Title>TV RBA</Card.Title>
