@@ -15,8 +15,8 @@ export default function Afazenda() {
             <Row>
               <Col>
       <iframe
-        src="https://canais.m3u8live.ml/v.php?id=Afazenda"
-        target="https://canais.m3u8live.ml/v.php?id=Afazenda"
+        src="https://embedflix.net/tv/a-fazenda-14"
+        target="https://embedflix.net/tv/a-fazenda-14"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"
@@ -29,7 +29,7 @@ export default function Afazenda() {
       />{" "}
       </Col></Row></Container>
        <div className="nave">
-       
+   
        <p><br /></p>
                   <Link to="/Afazenda"><Button variant="primary" size="lg" width="80%">
 Opção 1
@@ -42,6 +42,12 @@ Opção 2
   <Link to="/Afazenda3"><Button variant="primary" size="lg" width="80%">
 Opção 3
   </Button></Link>
+
+  <Link to="/Afazenda4"><Button variant="primary" size="lg" width="80%">
+Opção 4
+  </Button></Link>
+
+ 
 
 
 <p><br /></p>
@@ -63,7 +69,5 @@ Home
 
   );
 }
-
-
 
 

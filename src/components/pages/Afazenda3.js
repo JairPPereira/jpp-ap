@@ -30,6 +30,7 @@ export default function Afazenda3() {
       </Col></Row></Container>
        <div className="nave">
      
+   
        <p><br /></p>
                   <Link to="/Afazenda"><Button variant="primary" size="lg" width="80%">
 Opção 1
@@ -42,6 +43,12 @@ Opção 2
   <Link to="/Afazenda3"><Button variant="primary" size="lg" width="80%">
 Opção 3
   </Button></Link>
+
+  <Link to="/Afazenda4"><Button variant="primary" size="lg" width="80%">
+Opção 4
+  </Button></Link>
+
+
 
 
 <p><br /></p>
@@ -63,8 +70,5 @@ Home
 
   );
 }
-
-
-
 
 
