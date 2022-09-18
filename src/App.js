@@ -359,6 +359,9 @@ import Afazenda from './components/pages/Afazenda';
 import Afazenda2 from './components/pages/Afazenda2';
 import Afazenda3 from './components/pages/Afazenda3';
 import Afazenda4 from './components/pages/Afazzenda4';
+import Apex from './components/pages/Apex';
+import Annabelle from './components/pages/Annabelle';
+
 
 
 
@@ -732,6 +735,8 @@ function App() {
         <Route path='/afazenda2' component={Afazenda2} />
         <Route path='/afazenda3' component={Afazenda3} />
         <Route path='/afazenda4' component={Afazenda4} />
+        <Route path='/763164' component={Apex} />
+        <Route path='/250546' component={Annabelle} />
        
   
 
