@@ -361,6 +361,12 @@ import Afazenda3 from './components/pages/Afazenda3';
 import Afazenda4 from './components/pages/Afazzenda4';
 import Apex from './components/pages/Apex';
 import Annabelle from './components/pages/Annabelle';
+import Musicas from './components/pages/Musicas';
+import Toptv from './components/pages/Toptv';
+import Kpoptv from './components/pages/Kpoptv';
+import Topmixtv from './components/pages/Topmixtv';
+import Kronehit from './components/pages/Kronehit';
+import Sulamerica from './components/pages/Sulamerica';
 
 
 
@@ -737,6 +743,12 @@ function App() {
         <Route path='/afazenda4' component={Afazenda4} />
         <Route path='/763164' component={Apex} />
         <Route path='/250546' component={Annabelle} />
+        <Route path='/musicas' component={Musicas} />
+        <Route path='/toptv' component={Toptv} />
+        <Route path='/kpoptv' component={Kpoptv} />
+        <Route path='/topmixtv' component={Topmixtv} />
+        <Route path='/kronehit' component={Kronehit} />
+        <Route path='/sulamerica' component={Sulamerica} />
        
   
 

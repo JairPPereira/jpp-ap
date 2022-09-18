@@ -77,6 +77,7 @@ function Navbar() {
         <Dropdown.Item href="./Tvsf">Filmes</Dropdown.Item>
         <Dropdown.Item href="./Tvsp">Sports</Dropdown.Item>
         <Dropdown.Item href="./Jornalismo">Jornalismo</Dropdown.Item>
+        <Dropdown.Item href="./Musicas">Musicas</Dropdown.Item>
       </Dropdown.Menu>
     </Dropdown>
             <Link

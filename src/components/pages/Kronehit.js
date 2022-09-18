@@ -9,15 +9,15 @@ import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
  
-class Teste extends Component {
+class Kronehit extends Component {
     
     player = {}
     state = {
         video: {
-            src: "https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=0401663623515681600507316635371158499190052rs2f5seKceoLOSBq95r2Tg&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7",
+            src: "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
             crossorigin: "anonymous",
 
-            poster: "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Logotipo_da_Rede_Liberal.png/200px-Logotipo_da_Rede_Liberal.png"
+            poster: "http://api.my-radios.com/images/thumb.php?countryCode=AT&name=27835-6617440.png&size=200"
         }
     }
  
@@ -83,13 +83,7 @@ class Teste extends Component {
 <p><br /></p>
 
       </div>
-       <div className="nave">
-     
-      <p><br /></p>
-
-
-
-      </div>
+      
       
       
       </div>
@@ -99,4 +93,4 @@ class Teste extends Component {
         );
     }
 }
-export default Teste;
+export default Kronehit;
