@@ -14,7 +14,7 @@ class Passagempav extends Component {
     player = {}
     state = {
         video: {
-            src: "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_fikt68eg/format/applehttp/protocol/https/flavorIds/1_ani2155a,1_og8d5r7h,1_2kxdga4u,1_8656d7x6,1_iacl40ca,1_09pqu4wr,1_p0v699pa/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1663599586&id=6323&ip=167.249.209.173&override_expiration=1500&sign=V5Rg9zm%2BqgnZ5zPFRam%2Fgap%2BngDqh8NbmTKoThBuadI%3D&playSessionId=83005ed8-1e64-6cb2-38f1-570d3ed4ef17:c878d985-e4b1-6f96-aebf-af66183bc8cb&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL29zLXF1YXRybw==&clientTag=html5:v7.52",
+            src: "https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_vih1t6sf/format/applehttp/protocol/https/flavorIds/1_x3mm7ar9,1_kesyjm28,1_zrtyhk0k,1_nm3j6ziv,1_x059b3me,1_uwa808hv,1_xcnop44x/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1663599440&id=3235&ip=167.249.209.173&override_expiration=1500&sign=kaUzmqx9uMp34x913daxLFFQv4%2FtPBvcH3LMY5HsqKI%3D&playSessionId=05d7638a-458b-4444-0a39-c29ae33fa9e5:a5d47c38-d7de-c2ba-a76e-09cc36c02a64&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL21hbi10cmFpbg==&clientTag=html5:v7.52",
             crossorigin: "anonymous",
 
             poster: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aQbEHa0Qokm3FW8DgK0vcDYMrnq.jpg"
