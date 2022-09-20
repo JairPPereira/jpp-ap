@@ -17,6 +17,18 @@ export default function Series() {
        
 
 <CardGroup>
+
+<center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kptDNMjnrZl4DnF4OdpqovsYdea.jpg" />
+      <Card.Body>
+        <Card.Title>Buffy: A Caça-Vampiros (1997)</Card.Title>
+        <Link to="./Buffyacv"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
        
     <center>
           <p></p>
@@ -29,6 +41,7 @@ export default function Series() {
         </Button></Link>
       </Card.Body>
     </Card></center>
+
 
     <center>
           <p></p>
