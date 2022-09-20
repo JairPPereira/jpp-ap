@@ -370,6 +370,7 @@ import Sulamerica from './components/pages/Sulamerica';
 import Osquatro1 from './components/pages/Osquatro1';
 import Passagempav from './components/pages/Passagempav';
 import Buffyacv from './components/pages/Buffyacv';
+import Familiasop from './components/pages/Familiasop';
 
 
 
@@ -755,6 +756,7 @@ function App() {
         <Route path='/120143' component={Osquatro1} />
         <Route path='/80299' component={Passagempav} />
         <Route path='/buffyacv' component={Buffyacv} />
+        <Route path='/familiasop' component={Familiasop} />
        
   
 
