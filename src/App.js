@@ -373,6 +373,7 @@ import Buffyacv from './components/pages/Buffyacv';
 import Familiasop from './components/pages/Familiasop';
 import Daaz11 from './components/pages2/Daaz11';
 import Desejodv from './components/pages2/Desejodv';
+import Terraformarsmm from './components/pages2/Terraformarsmm';
 
 
 
@@ -761,6 +762,7 @@ function App() {
         <Route path='/familiasop' component={Familiasop} />
         <Route path='/daaz11' component={Daaz11} />
         <Route path='/199556' component={Desejodv} />
+        <Route path='/330070' component={Terraformarsmm} />
        
   
 
