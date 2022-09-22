@@ -371,6 +371,8 @@ import Osquatro1 from './components/pages/Osquatro1';
 import Passagempav from './components/pages/Passagempav';
 import Buffyacv from './components/pages/Buffyacv';
 import Familiasop from './components/pages/Familiasop';
+import Daaz11 from './components/pages2/Daaz11';
+import Desejodv from './components/pages2/Desejodv';
 
 
 
@@ -757,6 +759,8 @@ function App() {
         <Route path='/80299' component={Passagempav} />
         <Route path='/buffyacv' component={Buffyacv} />
         <Route path='/familiasop' component={Familiasop} />
+        <Route path='/daaz11' component={Daaz11} />
+        <Route path='/199556' component={Desejodv} />
        
   
 
