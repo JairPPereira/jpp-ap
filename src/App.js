@@ -374,6 +374,8 @@ import Familiasop from './components/pages/Familiasop';
 import Daaz11 from './components/pages2/Daaz11';
 import Desejodv from './components/pages2/Desejodv';
 import Terraformarsmm from './components/pages2/Terraformarsmm';
+import Apresa from './components/pages2/Apresa';
+import Foradecontrole from './components/pages2/Foradecontrole';
 
 
 
@@ -763,6 +765,8 @@ function App() {
         <Route path='/daaz11' component={Daaz11} />
         <Route path='/199556' component={Desejodv} />
         <Route path='/330070' component={Terraformarsmm} />
+        <Route path='/372412' component={Apresa} />
+        <Route path='/8944' component={Foradecontrole} />
        
   
 
