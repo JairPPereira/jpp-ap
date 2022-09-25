@@ -378,6 +378,8 @@ import Apresa from './components/pages2/Apresa';
 import Foradecontrole from './components/pages2/Foradecontrole';
 import Federal from './components/pages2/Federal';
 import Comamorv from './components/pages2/Comamorv';
+import Detencao from './components/pages2/Detencao';
+import Lilaee from './components/pages2/Lilaee';
 
 
 
@@ -772,6 +774,8 @@ function App() {
         <Route path='/8944' component={Foradecontrole} />
         <Route path='/63699' component={Federal} />
         <Route path='/339877' component={Comamorv} />
+        <Route path='/43549' component={Detencao} />
+        <Route path='/309581' component={Lilaee} />
         
        
   
