@@ -393,6 +393,7 @@ import Comamorv from './components/pages2/Comamorv';
 
 
 
+
 function App() {
   return (
     <Router>
@@ -771,6 +772,7 @@ function App() {
         <Route path='/8944' component={Foradecontrole} />
         <Route path='/63699' component={Federal} />
         <Route path='/339877' component={Comamorv} />
+        
        
   
 
