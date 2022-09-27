@@ -381,6 +381,8 @@ import Comamorv from './components/pages2/Comamorv';
 import Detencao from './components/pages2/Detencao';
 import Lilaee from './components/pages2/Lilaee';
 import Sosenhorda from './components/pages2/Sosenhorda';
+import Stevenu from './components/pages2/Stevenu';
+import Kungffc from './components/pages2/Kungffc';
 
 
 
@@ -778,6 +780,8 @@ function App() {
         <Route path='/43549' component={Detencao} />
         <Route path='/309581' component={Lilaee} />
         <Route path='/sosenhorda' component={Sosenhorda} />
+        <Route path='/537061' component={Stevenu} />
+        <Route path='/11770' component={Kungffc} />
         
        
   
