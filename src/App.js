@@ -380,6 +380,7 @@ import Federal from './components/pages2/Federal';
 import Comamorv from './components/pages2/Comamorv';
 import Detencao from './components/pages2/Detencao';
 import Lilaee from './components/pages2/Lilaee';
+import Sosenhorda from './components/pages2/Sosenhorda';
 
 
 
@@ -776,6 +777,7 @@ function App() {
         <Route path='/339877' component={Comamorv} />
         <Route path='/43549' component={Detencao} />
         <Route path='/309581' component={Lilaee} />
+        <Route path='/sosenhorda' component={Sosenhorda} />
         
        
   

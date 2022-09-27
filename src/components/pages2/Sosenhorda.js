@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Sbt() {
+export default function Sosenhorda() {
   return (
     <div>
           <p><br /></p>

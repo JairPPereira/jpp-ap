@@ -94,6 +94,18 @@ export default function Series() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z9a3b7DePtdo2E8NzyPwoGHGsYk.jpg" />
+      <Card.Body>
+        <Card.Title>O Senhor dos Anéis(2022)</Card.Title>
+        <Link to="../Sosenhorda"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qx3SJlAp2RK656TusqKx1qEqVMW.jpg" />
       <Card.Body>
         <Card.Title>Power Rangers (1993)</Card.Title>
