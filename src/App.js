@@ -383,6 +383,8 @@ import Lilaee from './components/pages2/Lilaee';
 import Sosenhorda from './components/pages2/Sosenhorda';
 import Stevenu from './components/pages2/Stevenu';
 import Kungffc from './components/pages2/Kungffc';
+import Homensemfuria from './components/pages2/Homensemfuria';
+import Aocasiaofl from './components/pages2/Aocasiaofl';
 
 
 
@@ -782,6 +784,8 @@ function App() {
         <Route path='/sosenhorda' component={Sosenhorda} />
         <Route path='/537061' component={Stevenu} />
         <Route path='/11770' component={Kungffc} />
+        <Route path='/44113' component={Homensemfuria} />
+        <Route path='/53172' component={Aocasiaofl} />
         
        
   
