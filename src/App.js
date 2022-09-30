@@ -385,7 +385,7 @@ import Stevenu from './components/pages2/Stevenu';
 import Kungffc from './components/pages2/Kungffc';
 import Homensemfuria from './components/pages2/Homensemfuria';
 import Aocasiaofl from './components/pages2/Aocasiaofl';
-import Calculoiv from './components/pages2/calculoiv';
+import Calculoiv from './components/pages2/Calculoiv';
 
 
 

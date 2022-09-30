@@ -18,7 +18,7 @@ export default function Playlistyou() {
       <p><br /></p>
       <Link to="./Youtubeml">Playlist de musicas</Link>
       <p><br /></p>
-      <Link to="./calculoiv">Playlist de Cálculo IV</Link>
+      <Link to="/calculoiv">Playlist de Cálculo IV</Link>
       <p><br /></p>
       
 
