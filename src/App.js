@@ -386,6 +386,8 @@ import Kungffc from './components/pages2/Kungffc';
 import Homensemfuria from './components/pages2/Homensemfuria';
 import Aocasiaofl from './components/pages2/Aocasiaofl';
 import Calculoiv from './components/pages2/Calculoiv';
+import Atravesdmj from './components/pages2/Atravesdmj';
+import Batmanldb from './components/pages2/Batmanldb';
 
 
 
@@ -788,6 +790,8 @@ function App() {
         <Route path='/44113' component={Homensemfuria} />
         <Route path='/53172' component={Aocasiaofl} />
         <Route path='/calculoiv' component={Calculoiv} />
+        <Route path='/818647' component={Atravesdmj} />
+        <Route path='/736073' component={Batmanldb} />
         
        
   
