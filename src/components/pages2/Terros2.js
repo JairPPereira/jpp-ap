@@ -5,7 +5,7 @@ import Button from 'react-bootstrap/Button';
 
 
 
-function Terror() {
+function Terror2() {
 
   const imagePath = 'https://image.tmdb.org/t/p/w500/'
 
@@ -47,4 +47,4 @@ function Terror() {
   );
 }
 
-export default Terror;
+export default Terror2;
