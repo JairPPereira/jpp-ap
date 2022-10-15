@@ -390,6 +390,7 @@ import Atravesdmj from './components/pages2/Atravesdmj';
 import Batmanldb from './components/pages2/Batmanldb';
 import Terror2 from './components/pages2/Terros2';
 import Luanegra from './components/pages2/Luanegra';
+import Odomdp from './components/pages2/Odomdp';
 
 
 
@@ -797,6 +798,7 @@ function App() {
         <Route path='/736073' component={Batmanldb} />
         <Route path='/terror2' component={Terror2} />
         <Route path='/39564' component={Luanegra} />
+        <Route path='/2046' component={Odomdp} />
 
         
        
