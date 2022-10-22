@@ -394,6 +394,7 @@ import Odomdp from './components/pages2/Odomdp';
 import Blissebf from './components/pages2/Blissebf';
 import Casag from './components/pages2/Casag';
 import Camggw from './components/pages2/Camggw';
+import Presane from './components/pages2/Presane';
 
 
 
@@ -805,6 +806,7 @@ function App() {
         <Route path='/613911' component={Blissebf} />
         <Route path='/644495' component={Casag} />
         <Route path='/792237' component={Camggw} />
+        <Route path='/199591' component={Presane} />
 
 
         

@@ -36,7 +36,7 @@ function Navbar() {
 
       <Dropdown.Menu>
         <Dropdown.Item href="/Afazenda">A Fazenda</Dropdown.Item>
-        <Dropdown.Item href="/Daaz7">Todos os Filmes</Dropdown.Item>
+        <Dropdown.Item href="/Daaz9">Todos os Filmes</Dropdown.Item>
         <Dropdown.Item href="/Porcategoria">Filmes Por categoria</Dropdown.Item>
         <Dropdown.Item href="/Series">Séries</Dropdown.Item>
         <Dropdown.Item href="/Documentarios">Documentários</Dropdown.Item>
