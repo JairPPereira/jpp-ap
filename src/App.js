@@ -814,7 +814,7 @@ function App() {
         <Route path='/daaz12' component={Daaz12} />
         <Route path='/drama3' component={Drama3} />
         <Route path='/74549' component={Osegredo} />
-        <Route path='/74549' component={Cartasdua} />
+        <Route path='/38017' component={Cartasdua} />
 
 
         
