@@ -399,6 +399,7 @@ import Daaz12 from './components/pages2/Daaz12';
 import Drama3 from './components/pages2/Drama3';
 import Osegredo from './components/pages2/Osegredo';
 import Cartasdua from './components/pages2/Cartasdua';
+import Plutosucesso from './components/pages2/Plutosucesso';
 
 
 
@@ -815,6 +816,7 @@ function App() {
         <Route path='/drama3' component={Drama3} />
         <Route path='/74549' component={Osegredo} />
         <Route path='/38017' component={Cartasdua} />
+        <Route path='/plutosucesso' component={Plutosucesso} />
 
 
         
