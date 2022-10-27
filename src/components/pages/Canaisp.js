@@ -47,6 +47,26 @@ export default function Canaisp() {
       </Card.Body>
     </Card>
 
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" />
+      <Card.Body>
+
+        <Link to="/plutoromance"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card>
+
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://images.pluto.tv/channels/61b790b985706b00072cb797/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" />
+      <Card.Body>
+
+        <Link to="/plutoaf"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card>
+
     </CardGroup>
 
     

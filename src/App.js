@@ -400,6 +400,8 @@ import Drama3 from './components/pages2/Drama3';
 import Osegredo from './components/pages2/Osegredo';
 import Cartasdua from './components/pages2/Cartasdua';
 import Plutosucesso from './components/pages2/Plutosucesso';
+import Plutoromance from './components/pages2/Plutoromance';
+import Plutoaf from './components/pages2/Plutoaf';
 
 
 
@@ -817,6 +819,8 @@ function App() {
         <Route path='/74549' component={Osegredo} />
         <Route path='/38017' component={Cartasdua} />
         <Route path='/plutosucesso' component={Plutosucesso} />
+        <Route path='/plutoromance' component={Plutoromance} />
+        <Route path='/plutoaf' component={Plutoaf} />
 
 
         
