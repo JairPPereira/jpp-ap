@@ -395,6 +395,10 @@ import Blissebf from './components/pages2/Blissebf';
 import Casag from './components/pages2/Casag';
 import Camggw from './components/pages2/Camggw';
 import Presane from './components/pages2/Presane';
+import Daaz12 from './components/pages2/Daaz12';
+import Drama3 from './components/pages2/Drama3';
+import Osegredo from './components/pages2/Osegredo';
+import Cartasdua from './components/pages2/Cartasdua';
 
 
 
@@ -807,6 +811,10 @@ function App() {
         <Route path='/644495' component={Casag} />
         <Route path='/792237' component={Camggw} />
         <Route path='/199591' component={Presane} />
+        <Route path='/daaz12' component={Daaz12} />
+        <Route path='/drama3' component={Drama3} />
+        <Route path='/74549' component={Osegredo} />
+        <Route path='/74549' component={Cartasdua} />
 
 
         

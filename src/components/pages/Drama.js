@@ -37,7 +37,7 @@ function Drama() {
       </MovieList>
       <center>
         <div class="btn-group" role="group" aria-label="Exemplo básico">
-        <Link to="/drama"><Button variant="primary" size="lg" width="80%">
+        <Link to="/drama3"><Button variant="primary" size="lg" width="80%">
           Pagina anterior
         </Button></Link>
  
