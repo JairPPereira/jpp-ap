@@ -402,6 +402,7 @@ import Cartasdua from './components/pages2/Cartasdua';
 import Plutosucesso from './components/pages2/Plutosucesso';
 import Plutoromance from './components/pages2/Plutoromance';
 import Plutoaf from './components/pages2/Plutoaf';
+import Plutocom from './components/pages2/Plutocom';
 
 
 
@@ -821,6 +822,7 @@ function App() {
         <Route path='/plutosucesso' component={Plutosucesso} />
         <Route path='/plutoromance' component={Plutoromance} />
         <Route path='/plutoaf' component={Plutoaf} />
+        <Route path='/plutocom' component={Plutocom} />
 
 
         

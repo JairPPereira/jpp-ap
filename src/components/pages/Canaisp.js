@@ -67,6 +67,16 @@ export default function Canaisp() {
       </Card.Body>
     </Card>
 
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" />
+      <Card.Body>
+
+        <Link to="/plutocom"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card>
+
     </CardGroup>
 
     
