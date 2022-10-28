@@ -108,19 +108,19 @@ export default function Canaisp() {
 
     <Col> 
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" />
+      <Card.Img variant="top" src="https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" />
       <Card.Body>
 
-        <Link to="/plutoromance"><Button variant="primary" size="lg" width="100%">
+        <Link to="/plutonac"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
     </Card>
     <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="https://images.pluto.tv/channels/5fa15ad6367e170007cdd098/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" />
+      <Card.Img variant="top" src="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" />
       <Card.Body>
 
-        <Link to="/plutofc"><Button variant="primary" size="lg" width="100%">
+        <Link to="/plutodrama"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
