@@ -407,6 +407,7 @@ import Plutocomr from './components/pages2/Pluotcomr';
 import Plutofc from './components/pages2/Plutofc';
 import Plutonac from './components/pages2/Plutonac';
 import Plutodrama from './components/pages2/Plutodrama';
+import Plutoacao from './components/pages2/Plutoacao';
 
 
 
@@ -831,6 +832,7 @@ function App() {
         <Route path='/plutofc' component={Plutofc} />
         <Route path='/plutonac' component={Plutonac} />
         <Route path='/plutodrama' component={Plutodrama} />
+        <Route path='/plutoacao' component={Plutoacao} />
 
 
         
