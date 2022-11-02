@@ -409,6 +409,7 @@ import Plutonac from './components/pages2/Plutonac';
 import Plutodrama from './components/pages2/Plutodrama';
 import Plutoacao from './components/pages2/Plutoacao';
 import Hellraiser from './components/pages2/Hellraiser';
+import Arecompensa from './components/pages2/Arecompensa';
 
 
 
@@ -835,6 +836,7 @@ function App() {
         <Route path='/plutodrama' component={Plutodrama} />
         <Route path='/plutoacao' component={Plutoacao} />
         <Route path='/9003' component={Hellraiser} />
+        <Route path='/192134' component={Arecompensa} />
 
 
         
