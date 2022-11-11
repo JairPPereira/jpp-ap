@@ -411,6 +411,7 @@ import Warnertv from './components/pages/Warnertv';
 import Youtubeml from './components/pages/Youtubeml';
 import Zero7cr from './components/pages/Zero7cr';
 import Xmerc from './components/pages2/xmerc';
+import Marighela from './components/pages2/Marighela';
 
 
 
@@ -839,6 +840,7 @@ function App() {
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/zero7cr' component={Zero7cr} />
         <Route path='/272251' component={Xmerc} />
+        <Route path='/329235' component={Marighela} />
 
 
         
