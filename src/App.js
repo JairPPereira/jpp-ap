@@ -236,6 +236,7 @@ import Loucaspade from './components/pages/Loucaspade';
 import Luanegra from './components/pages2/Luanegra';
 import Magali from './components/pages/Magali';
 import Mamonasps from './components/pages/Mamonasps';
+import Marighela from './components/pages2/Marighela';
 import Matrixr from './components/pages/Matrixr';
 import Megalodon from './components/pages/Megalodon';
 import Megapix from './components/pages/Megapix';
@@ -408,10 +409,9 @@ import Umpobretaoncsb from './components/pages/Umpobretaoncsb';
 import Videoclips from './components/pages/Vdeoclips';
 import Vinhodv from './components/pages/Vinhodv';
 import Warnertv from './components/pages/Warnertv';
+import Xmerc from './components/pages2/xmerc';
 import Youtubeml from './components/pages/Youtubeml';
 import Zero7cr from './components/pages/Zero7cr';
-import Xmerc from './components/pages2/xmerc';
-import Marighela from './components/pages2/Marighela';
 
 
 
