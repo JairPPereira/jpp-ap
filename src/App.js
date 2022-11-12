@@ -412,6 +412,7 @@ import Warnertv from './components/pages/Warnertv';
 import Xmerc from './components/pages2/xmerc';
 import Youtubeml from './components/pages/Youtubeml';
 import Zero7cr from './components/pages/Zero7cr';
+import Comohsc from './components/pages2/Comohsc';
 
 
 
@@ -493,6 +494,7 @@ function App() {
         <Route path='/23367' component={Higthschool} />
         <Route path='/23520' component={Fungindodopassado} />
         <Route path='/245842' component={Afilhadorei} />
+
         <Route path='/250546' component={Annabelle} />
         <Route path='/253020' component={Aestrada47} />
         <Route path='/254024' component={Afacedua} />
@@ -841,6 +843,7 @@ function App() {
         <Route path='/zero7cr' component={Zero7cr} />
         <Route path='/272251' component={Xmerc} />
         <Route path='/329235' component={Marighela} />
+        <Route path='/835666' component={Comohsc} />
 
 
         
