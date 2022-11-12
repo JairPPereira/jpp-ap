@@ -494,7 +494,6 @@ function App() {
         <Route path='/23367' component={Higthschool} />
         <Route path='/23520' component={Fungindodopassado} />
         <Route path='/245842' component={Afilhadorei} />
-
         <Route path='/250546' component={Annabelle} />
         <Route path='/253020' component={Aestrada47} />
         <Route path='/254024' component={Afacedua} />
@@ -505,6 +504,7 @@ function App() {
         <Route path='/259018' component={Tudopraficarcomela} />
         <Route path='/261037' component={Ajusticeira} />
         <Route path='/271404' component={Alemdohorizonte} />
+        <Route path='/272251' component={Xmerc} />
         <Route path='/27582' component={Assasinoapf} />
         <Route path='/277' component={Anjosdanoite} />
         <Route path='/300168' component={Batalhadosimperios} />
@@ -512,6 +512,7 @@ function App() {
         <Route path='/308695' component={Alegiao} />
         <Route path='/309581' component={Lilaee} />
         <Route path='/314405' component={Ocontodoscontos} />
+        <Route path='/329235' component={Marighela} />
         <Route path='/330070' component={Terraformarsmm} />
         <Route path='/332672' component={Obsessao} />
         <Route path='/333167' component={Ascensaoeqdui} />
@@ -651,6 +652,7 @@ function App() {
         <Route path='/82687' component={Minhamaeeumaviagem} />
         <Route path='/82693' component={Oladobomdavida} />
         <Route path='/829557' component={Diashoje} />
+        <Route path='/835666' component={Comohsc} />
         <Route path='/839440' component={Hoteldosdinossauros} />
         <Route path='/852592' component={Centauro} />
         <Route path='/853666' component={Jesuskid} />
@@ -841,9 +843,6 @@ function App() {
         <Route path='/warnertv' component={Warnertv} />
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/zero7cr' component={Zero7cr} />
-        <Route path='/272251' component={Xmerc} />
-        <Route path='/329235' component={Marighela} />
-        <Route path='/835666' component={Comohsc} />
 
 
         
