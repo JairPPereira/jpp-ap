@@ -413,6 +413,8 @@ import Xmerc from './components/pages2/xmerc';
 import Youtubeml from './components/pages/Youtubeml';
 import Zero7cr from './components/pages/Zero7cr';
 import Comohsc from './components/pages2/Comohsc';
+import Norastrodb from './components/pages2/Norastrodb';
+import Desejodn from './components/pages2/Desejodn';
 
 
 
@@ -843,6 +845,8 @@ function App() {
         <Route path='/warnertv' component={Warnertv} />
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/zero7cr' component={Zero7cr} />
+        <Route path='/7304' component={Norastrodb} />
+        <Route path='/80544' component={Desejodn} />
 
 
         

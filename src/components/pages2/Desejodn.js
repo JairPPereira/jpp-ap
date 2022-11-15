@@ -9,15 +9,15 @@ import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
  
-class Norastrodb extends Component {
+class Desejodn extends Component {
     
     player = {}
     state = {
         video: {
-            src: "https://play.prod.gcp.vix.services/running-scared_pt/running-scared_pt_1-1/play_v1_hls_1080p.m3u8",
+            src: "https://play.prod.gcp.vix.services/a-christmas-wish_pt/a-christmas-wish_pt_1-1/play_v1_hls_1080p.m3u8",
             crossorigin: "anonymous",
 
-            poster: "https://www.themoviedb.org/t/p/w500_and_h282_face/g3U1WxugRItzMqlCM3LdcNnBHu0.jpg"
+            poster: "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/wj7XhEOlSeTO6Yh2m2Rpz08Nc5P.jpg"
         }
     }
  
@@ -93,4 +93,4 @@ class Norastrodb extends Component {
         );
     }
 }
-export default Norastrodb;
+export default Desejodn;
