@@ -415,6 +415,7 @@ import Zero7cr from './components/pages/Zero7cr';
 import Comohsc from './components/pages2/Comohsc';
 import Norastrodb from './components/pages2/Norastrodb';
 import Desejodn from './components/pages2/Desejodn';
+import Pecadosals from './components/pages2/Pecadosals';
 
 
 
@@ -847,6 +848,7 @@ function App() {
         <Route path='/zero7cr' component={Zero7cr} />
         <Route path='/7304' component={Norastrodb} />
         <Route path='/80544' component={Desejodn} />
+        <Route path='/236735' component={Pecadosals} />
 
 
         
