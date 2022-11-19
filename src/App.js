@@ -416,6 +416,7 @@ import Comohsc from './components/pages2/Comohsc';
 import Norastrodb from './components/pages2/Norastrodb';
 import Desejodn from './components/pages2/Desejodn';
 import Pecadosals from './components/pages2/Pecadosals';
+import Oculpado from './components/pages2/Oculpado';
 
 
 
@@ -849,6 +850,7 @@ function App() {
         <Route path='/7304' component={Norastrodb} />
         <Route path='/80544' component={Desejodn} />
         <Route path='/236735' component={Pecadosals} />
+        <Route path='/55101' component={Oculpado} />
 
 
         
