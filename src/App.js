@@ -434,6 +434,7 @@ import Oculpado from './components/pages2/Oculpado';
 
 
 
+
 function App() {
   return (
     <Router>
@@ -851,6 +852,7 @@ function App() {
         <Route path='/80544' component={Desejodn} />
         <Route path='/236735' component={Pecadosals} />
         <Route path='/55101' component={Oculpado} />
+       
 
 
         

@@ -20,6 +20,7 @@
     "react-video-js-player": "^1.1.1",
     "react-youtube-playlist": "^2.2.8",
     "reactstrap": "^9.1.4",
+    "shaka-player-react": "^1.1.5",
     "styled-components": "^5.3.5",
     "video.js": "^7.20.2",
     "web-vitals": "^2.1.4"

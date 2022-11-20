@@ -91,6 +91,16 @@ export default function Canaisp() {
         </Button></Link>
       </Card.Body>
     </Card>
+
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/featuredImage.jpg?auto=&ixlib=react-9.1.5&w=224&h=124&dpr=1&q=75" />
+      <Card.Body>
+
+        <Link to="/record"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card>
     
     </Col>
 
@@ -134,6 +144,8 @@ export default function Canaisp() {
         </Button></Link>
       </Card.Body>
     </Card>
+
+    
     </Col>
 
  
