@@ -417,6 +417,8 @@ import Norastrodb from './components/pages2/Norastrodb';
 import Desejodn from './components/pages2/Desejodn';
 import Pecadosals from './components/pages2/Pecadosals';
 import Oculpado from './components/pages2/Oculpado';
+import Alexrct from './components/pages2/Alexrct';
+import Oscacadores from './components/pages2/Oscacadores';
 
 
 
@@ -852,6 +854,8 @@ function App() {
         <Route path='/80544' component={Desejodn} />
         <Route path='/236735' component={Pecadosals} />
         <Route path='/55101' component={Oculpado} />
+        <Route path='/9978' component={Alexrct} />
+        <Route path='/231474' component={Oscacadores} />
        
 
 
