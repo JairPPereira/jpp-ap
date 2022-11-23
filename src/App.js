@@ -420,6 +420,7 @@ import Oculpado from './components/pages2/Oculpado';
 import Alexrct from './components/pages2/Alexrct';
 import Oscacadores from './components/pages2/Oscacadores';
 import Adesencantada from './components/pages2/Adesencantada';
+import Cavaleirodalua from './components/pages2/Cavaleirodalua';
 
 
 
@@ -858,6 +859,7 @@ function App() {
         <Route path='/9978' component={Alexrct} />
         <Route path='/231474' component={Oscacadores} />
         <Route path='/338958' component={Adesencantada} />
+        <Route path='/cavaleirodalua' component={Cavaleirodalua} />
 
        
 
