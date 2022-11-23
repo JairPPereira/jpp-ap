@@ -419,6 +419,7 @@ import Pecadosals from './components/pages2/Pecadosals';
 import Oculpado from './components/pages2/Oculpado';
 import Alexrct from './components/pages2/Alexrct';
 import Oscacadores from './components/pages2/Oscacadores';
+import Adesencantada from './components/pages2/Adesencantada';
 
 
 
@@ -856,6 +857,8 @@ function App() {
         <Route path='/55101' component={Oculpado} />
         <Route path='/9978' component={Alexrct} />
         <Route path='/231474' component={Oscacadores} />
+        <Route path='/338958' component={Adesencantada} />
+
        
 
 
