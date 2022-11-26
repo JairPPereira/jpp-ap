@@ -423,6 +423,7 @@ import Adesencantada from './components/pages2/Adesencantada';
 import Cavaleirodalua from './components/pages2/Cavaleirodalua';
 import Panteranwps from './components/pages2/Panteranwps';
 import Esposada from './components/pages2/Esposada';
+import Pontofinal from './components/pages2/Pontofinal';
 
 
 
@@ -864,6 +865,7 @@ function App() {
         <Route path='/cavaleirodalua' component={Cavaleirodalua} />
         <Route path='/505642' component={Panteranwps} />
         <Route path='/1022206' component={Esposada} />
+        <Route path='/116' component={Pontofinal} />
 
        
 

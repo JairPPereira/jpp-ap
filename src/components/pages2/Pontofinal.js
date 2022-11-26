@@ -10,15 +10,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
  
-class Cartasdua extends Component {
+class Pontofinal extends Component {
     
     player = {}
     state = {
         video: {
-            src: "https://play.prod.gcp.vix.services/lettlers-from-a-killer_pt/lettlers-from-a-killer_pt_1-1/play_v1_hls_540p.m3u8",
+            src: "https://siloh.pluto.tv/380_pluto/clip/630cda167a42340013e63fb2_Match_Point_BR/720p/20220829_082406/hls/0-end/master.m3u8",
             crossorigin: "anonymous",
 
-            poster: "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/kTb3HEPcBQAFXeQF4n87mEf8p6P.jpg"
+            poster: "https://www.themoviedb.org/t/p/original/yUJf20GQ5vifhk9QDxUGotAEaLz.jpg"
         }
     }
  
@@ -94,4 +94,4 @@ class Cartasdua extends Component {
         );
     }
 }
-export default Cartasdua;
+export default Pontofinal;
