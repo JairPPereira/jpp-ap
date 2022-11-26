@@ -425,6 +425,7 @@ import Panteranwps from './components/pages2/Panteranwps';
 import Esposada from './components/pages2/Esposada';
 import Pontofinal from './components/pages2/Pontofinal';
 import Scoopogf from './components/pages2/Scoppogf';
+import Guardioesg from './components/pages2/Guardioesg';
 
 
 
@@ -868,6 +869,7 @@ function App() {
         <Route path='/1022206' component={Esposada} />
         <Route path='/116' component={Pontofinal} />
         <Route path='/512' component={Scoopogf} />
+        <Route path='/774752' component={Guardioesg} />
 
        
 
