@@ -426,6 +426,7 @@ import Esposada from './components/pages2/Esposada';
 import Pontofinal from './components/pages2/Pontofinal';
 import Scoopogf from './components/pages2/Scoppogf';
 import Guardioesg from './components/pages2/Guardioesg';
+import Notamaxima from './components/pages2/Notamaxima';
 
 
 
@@ -870,6 +871,7 @@ function App() {
         <Route path='/116' component={Pontofinal} />
         <Route path='/512' component={Scoopogf} />
         <Route path='/774752' component={Guardioesg} />
+        <Route path='/13505' component={Notamaxima} />
 
        
 
