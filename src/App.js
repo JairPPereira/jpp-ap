@@ -430,6 +430,7 @@ import Notamaxima from './components/pages2/Notamaxima';
 import Omemedomal from './components/pages2/Omemedomal';
 import Halo from './components/pages2/Halo';
 import Homemcws from './components/pages2/Homemcws';
+import Vikingsv from './components/pages2/Vikingsv';
 
 
 
@@ -878,6 +879,7 @@ function App() {
         <Route path='/warnertv' component={Warnertv} />
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/zero7cr' component={Zero7cr} />
+        <Route path='/vikingsv' component={Vikingsv} />
 
        
 
