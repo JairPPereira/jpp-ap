@@ -429,6 +429,7 @@ import Guardioesg from './components/pages2/Guardioesg';
 import Notamaxima from './components/pages2/Notamaxima';
 import Omemedomal from './components/pages2/Omemedomal';
 import Halo from './components/pages2/Halo';
+import Homemcws from './components/pages2/Homemcws';
 
 
 
@@ -454,7 +455,9 @@ function App() {
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/101299' component={Jogosvec} />
+        <Route path='/1022206' component={Esposada} />
         <Route path='/10229' component={Umamorprarecordar} />
+        <Route path='/1024530' component={Omemedomal} />
         <Route path='/10358' component={Pagandobqmt} />
         <Route path='/10534' component={Tormenta} />
         <Route path='/10726' component={Psicopataamericano2} />
@@ -463,6 +466,7 @@ function App() {
         <Route path='/11041' component={Afamiliab} />
         <Route path='/11162' component={Omercadordv} />
         <Route path='/112205' component={Afamilia} />
+        <Route path='/116' component={Pontofinal} />
         <Route path='/11688' component={Anovaondadoimperador} />
         <Route path='/11770' component={Kungffc} />
         <Route path='/11817' component={Omongeapdb} />
@@ -479,6 +483,7 @@ function App() {
         <Route path='/13207' component={Sextafeira13} />
         <Route path='/13256' component={Aerademc} />
         <Route path='/13387' component={Cargaexplosiva3} />
+        <Route path='/13505' component={Notamaxima} />
         <Route path='/13805' component={Superhli} />
         <Route path='/1399' component={Gameoftr} />
         <Route path='/1402' component={Thewd} />
@@ -493,6 +498,7 @@ function App() {
         <Route path='/1654' component={Osdozec} />
         <Route path='/17577' component={Atumbadodiabo} />
         <Route path='/178809' component={Acolonia} />
+        <Route path='/184125' component={Homemcws} />
         <Route path='/18654' component={Cafeina} />
         <Route path='/191137' component={Assasinatosdopassado} />
         <Route path='/192134' component={Arecompensa} />
@@ -508,8 +514,10 @@ function App() {
         <Route path='/227970' component={Oshomenssdm} />
         <Route path='/22803' component={Codigodeconduta} />
         <Route path='/228968' component={Jogadadm} />
+        <Route path='/231474' component={Oscacadores} />
         <Route path='/23367' component={Higthschool} />
         <Route path='/23520' component={Fungindodopassado} />
+        <Route path='/236735' component={Pecadosals} />
         <Route path='/245842' component={Afilhadorei} />
         <Route path='/250546' component={Annabelle} />
         <Route path='/253020' component={Aestrada47} />
@@ -535,6 +543,7 @@ function App() {
         <Route path='/333167' component={Ascensaoeqdui} />
         <Route path='/334527' component={Umnegocioderisco} />
         <Route path='/337706' component={Mulheresaomar2} />
+        <Route path='/338958' component={Adesencantada} />
         <Route path='/339877' component={Comamorv} />
         <Route path='/340185' component={Ogritodamorte} />
         <Route path='/346684' component={Embuscadaliberdade} />
@@ -588,8 +597,10 @@ function App() {
         <Route path='/495386' component={Entreoamoreafama} />
         <Route path='/504198' component={Terrorns} />
         <Route path='/505579' component={Agentesduplos} />
+        <Route path='/505642' component={Panteranwps} />
         <Route path='/50601' component={Cincodg} />
         <Route path='/507313' component={Acarga} />
+        <Route path='/512' component={Scoopogf} />
         <Route path='/512195' component={Alertav} />
         <Route path='/522402' component={Finch} />
         <Route path='/522478' component={Pedrocoelho2} />
@@ -605,6 +616,7 @@ function App() {
         <Route path='/53172' component={Aocasiaofl} />
         <Route path='/537061' component={Stevenu} />
         <Route path='/540291' component={Amaldicaodi} />
+        <Route path='/55101' component={Oculpado} />
         <Route path='/556018' component={Kv1} />
         <Route path='/557' component={Homemaranha} />
         <Route path='/558' component={Homemaranha2} />
@@ -638,6 +650,7 @@ function App() {
         <Route path='/707214' component={Ateofinal} />
         <Route path='/71211' component={Beladonna} />
         <Route path='/725201' component={Agenteo} />
+        <Route path='/7304' component={Norastrodb} />
         <Route path='/734265' component={Ummatchsurpresa} />
         <Route path='/7347' component={Tropadeelite} />
         <Route path='/73499' component={Codinome7} />
@@ -655,6 +668,7 @@ function App() {
         <Route path='/769749' component={Fundingyou} />
         <Route path='/770428' component={Emnomedopai} />
         <Route path='/77067' component={Amorzumbi} />
+        <Route path='/774752' component={Guardioesg} />
         <Route path='/774825' component={Aeradogelob} />
         <Route path='/77949' component={Odespertar} />
         <Route path='/781456' component={Nezhacpv} />
@@ -664,6 +678,7 @@ function App() {
         <Route path='/79465' component={Otrapaceiro} />
         <Route path='/800410' component={Oparamo} />
         <Route path='/80299' component={Passagempav} />
+        <Route path='/80544' component={Desejodn} />
         <Route path='/81488' component={Mamonasps} />
         <Route path='/818647' component={Atravesdmj} />
         <Route path='/82687' component={Minhamaeeumaviagem} />
@@ -684,6 +699,7 @@ function App() {
         <Route path='/950' component={Aeradogelo2} />
         <Route path='/96933' component={Porquees} />
         <Route path='/9776' component={Umpobretaoncsb} />
+        <Route path='/9978' component={Alexrct} />
         <Route path='/acao' component={Acao} />
         <Route path='/acao2' component={Acao2} />
         <Route path='/afazenda' component={Afazenda} />
@@ -704,6 +720,7 @@ function App() {
         <Route path='/canaisp' component={Canaisp} />
         <Route path='/canaisrun' component={Canaisrun} />
         <Route path='/cascao' component={Cascao} />
+        <Route path='/cavaleirodalua' component={Cavaleirodalua} />
         <Route path='/cebolinha' component={Cebolinha} />
         <Route path='/cindiel' component={Cindiel} />
         <Route path='/cnnbr' component={Cnnbr} />
@@ -767,6 +784,7 @@ function App() {
         <Route path='/globosp' component={Globosp} />
         <Route path='/gossebump2' component={Gossebump2} />
         <Route path='/graopara' component={Graopara} />
+        <Route path='/halo' component={Halo} />
         <Route path='/Hbof' component={Hbof} />
         <Route path='/homemasa' component={Homemasa} />
         <Route path='/itvtv' component={Itvtv} />
@@ -860,22 +878,6 @@ function App() {
         <Route path='/warnertv' component={Warnertv} />
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/zero7cr' component={Zero7cr} />
-        <Route path='/7304' component={Norastrodb} />
-        <Route path='/80544' component={Desejodn} />
-        <Route path='/236735' component={Pecadosals} />
-        <Route path='/55101' component={Oculpado} />
-        <Route path='/9978' component={Alexrct} />
-        <Route path='/231474' component={Oscacadores} />
-        <Route path='/338958' component={Adesencantada} />
-        <Route path='/cavaleirodalua' component={Cavaleirodalua} />
-        <Route path='/505642' component={Panteranwps} />
-        <Route path='/1022206' component={Esposada} />
-        <Route path='/116' component={Pontofinal} />
-        <Route path='/512' component={Scoopogf} />
-        <Route path='/774752' component={Guardioesg} />
-        <Route path='/13505' component={Notamaxima} />
-        <Route path='/1024530' component={Omemedomal} />
-        <Route path='/halo' component={Halo} />
 
        
 
