@@ -432,6 +432,7 @@ import Halo from './components/pages2/Halo';
 import Homemcws from './components/pages2/Homemcws';
 import Vikingsv from './components/pages2/Vikingsv';
 import Ahoradr from './components/pages2/Ahoradr';
+import Daaz13 from './components/pages2/Daaz13';
 
 
 
@@ -882,6 +883,7 @@ function App() {
         <Route path='/zero7cr' component={Zero7cr} />
         <Route path='/vikingsv' component={Vikingsv} />
         <Route path='/vikingsv' component={Ahoradr} />
+        <Route path='/daaz13' component={Daaz13} />
 
        
 
