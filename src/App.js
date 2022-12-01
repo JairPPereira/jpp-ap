@@ -882,7 +882,7 @@ function App() {
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/zero7cr' component={Zero7cr} />
         <Route path='/vikingsv' component={Vikingsv} />
-        <Route path='/vikingsv' component={Ahoradr} />
+        <Route path='/7553' component={Ahoradr} />
         <Route path='/daaz13' component={Daaz13} />
 
        
