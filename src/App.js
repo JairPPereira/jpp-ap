@@ -431,6 +431,7 @@ import Omemedomal from './components/pages2/Omemedomal';
 import Halo from './components/pages2/Halo';
 import Homemcws from './components/pages2/Homemcws';
 import Vikingsv from './components/pages2/Vikingsv';
+import Ahoradr from './components/pages2/Ahoradr';
 
 
 
@@ -880,6 +881,7 @@ function App() {
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/zero7cr' component={Zero7cr} />
         <Route path='/vikingsv' component={Vikingsv} />
+        <Route path='/vikingsv' component={Ahoradr} />
 
        
 
