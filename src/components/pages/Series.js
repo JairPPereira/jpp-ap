@@ -203,6 +203,19 @@ export default function Series() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/8hYvZ0EoFoOK2gkEZgFe57vQpGq.jpg" />
+      <Card.Body>
+        <Card.Title>Superman e Lois (2021)</Card.Title>
+
+        <Link to="./Supermel"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/izIMqapegdEZj0YVDyFATPR8adh.jpg" />
       <Card.Body>
         <Card.Title>Vikings: Valhalla</Card.Title>

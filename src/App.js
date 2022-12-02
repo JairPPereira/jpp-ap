@@ -434,6 +434,7 @@ import Vikingsv from './components/pages2/Vikingsv';
 import Ahoradr from './components/pages2/Ahoradr';
 import Daaz13 from './components/pages2/Daaz13';
 import Asgatinhasds from './components/pages2/Asgatinhasds';
+import Supermel from './components/pages2/Supermel';
 
 
 
@@ -886,6 +887,7 @@ function App() {
         <Route path='/7553' component={Ahoradr} />
         <Route path='/daaz13' component={Daaz13} />
         <Route path='/66859' component={Asgatinhasds} />
+        <Route path='/supermel' component={Supermel} />
 
        
 
