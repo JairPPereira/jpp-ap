@@ -17,7 +17,7 @@ class Asgatinhasds extends Component {
             src: "https://siloh.pluto.tv/c6009f_pluto/clip/5ff35c6d0108f1001ae1e3de_SOUTHERN_BELLES_BR/720p/20210104_102029/hls/0-end/master.m3u8",
             crossorigin: "anonymous",
 
-            poster: "https://www.themoviedb.org/t/p/w500_and_h282_face/b37X97PCSxcl39CI2pzfVfmsAnV.jpg"
+            poster: "https://www.themoviedb.org/t/p/w138_and_h175_face/r6v3C08nYQB94GaFQherkbKrhk.jpg"
         }
     }
  
