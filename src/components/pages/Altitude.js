@@ -14,7 +14,7 @@ class Altitude extends Component {
     player = {}
     state = {
         video: {
-            src: "https://siloh.pluto.tv/367_pluto/clip/6272df8bb55dbf001353a1ba_Miss_Meadows_BR/720p/20220504_131819/hls/0-end/master.m3u8",
+            src: "https://play.prod.gcp.vix.services/altitude_pt/altitude_pt_1-1/play_v1_hls_1080p.m3u8",
 
             poster: "https://www.themoviedb.org/t/p/w500_and_h282_face/qGSud4sjZ62tVBnz4I8f03CHzVr.jpg"
         }
