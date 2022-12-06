@@ -436,6 +436,7 @@ import Daaz13 from './components/pages2/Daaz13';
 import Asgatinhasds from './components/pages2/Asgatinhasds';
 import Supermel from './components/pages2/Supermel';
 import Cobrakai from './components/pages2/Cobrakai';
+import See from './components/pages2/See';
 
 
 
@@ -890,6 +891,7 @@ function App() {
         <Route path='/66859' component={Asgatinhasds} />
         <Route path='/supermel' component={Supermel} />
         <Route path='/cobrakai' component={Cobrakai} />
+        <Route path='/see' component={See} />
 
        
 
