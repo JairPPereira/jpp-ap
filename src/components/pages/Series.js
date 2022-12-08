@@ -141,6 +141,18 @@ export default function Series() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/i0uajcHH9yogXMfDHpOXexIukG9.jpg" />
+      <Card.Body>
+        <Card.Title>Peaky Blinders: Sangue, Apostas e Navalhas (2013)</Card.Title>
+        <Link to="./Peakb"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/qx3SJlAp2RK656TusqKx1qEqVMW.jpg" />
       <Card.Body>
         <Card.Title>Power Rangers (1993)</Card.Title>

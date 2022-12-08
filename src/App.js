@@ -437,6 +437,7 @@ import Asgatinhasds from './components/pages2/Asgatinhasds';
 import Supermel from './components/pages2/Supermel';
 import Cobrakai from './components/pages2/Cobrakai';
 import See from './components/pages2/See';
+import Peakb from './components/pages2/Peakb';
 
 
 
@@ -892,6 +893,7 @@ function App() {
         <Route path='/supermel' component={Supermel} />
         <Route path='/cobrakai' component={Cobrakai} />
         <Route path='/see' component={See} />
+        <Route path='/peakb' component={Peakb} />
 
        
 
