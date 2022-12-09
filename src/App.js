@@ -438,6 +438,7 @@ import Supermel from './components/pages2/Supermel';
 import Cobrakai from './components/pages2/Cobrakai';
 import See from './components/pages2/See';
 import Peakb from './components/pages2/Peakb';
+import Falcaosu from './components/pages2/Falcaosu';
 
 
 
@@ -894,6 +895,8 @@ function App() {
         <Route path='/cobrakai' component={Cobrakai} />
         <Route path='/see' component={See} />
         <Route path='/peakb' component={Peakb} />
+        <Route path='/falcaosu' component={Falcaosu} />
+       
 
        
 

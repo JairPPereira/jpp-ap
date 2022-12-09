@@ -77,6 +77,7 @@ export default function Series() {
       </Card.Body>
     </Card></center>
 
+  
 
     <center>
           <p></p>
@@ -85,6 +86,18 @@ export default function Series() {
       <Card.Body>
         <Card.Title>Game of Thrones (2011)</Card.Title>
         <Link to="./Seriegot"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oF9njYCN6lBdrsi6wfulcxTggvn.jpg" />
+      <Card.Body>
+        <Card.Title>Falcão e o Soldado Invernal (2021)</Card.Title>
+        <Link to="./Falcaosu"><Button variant="primary" size="lg" width="100%">
       Assistir
         </Button></Link>
       </Card.Body>
