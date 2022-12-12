@@ -94,6 +94,18 @@ export default function Series() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/h8e5vYPuFTK9Dhv79CEiCVMq11c.jpg" />
+      <Card.Body>
+        <Card.Title>Inventando Anna (2022)</Card.Title>
+        <Link to="./Inventandoa"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/oF9njYCN6lBdrsi6wfulcxTggvn.jpg" />
       <Card.Body>
         <Card.Title>Falcão e o Soldado Invernal (2021)</Card.Title>

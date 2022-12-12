@@ -439,6 +439,7 @@ import Cobrakai from './components/pages2/Cobrakai';
 import See from './components/pages2/See';
 import Peakb from './components/pages2/Peakb';
 import Falcaosu from './components/pages2/Falcaosu';
+import Inventandoa from './components/pages2/Inventandoa';
 
 
 
@@ -896,6 +897,7 @@ function App() {
         <Route path='/see' component={See} />
         <Route path='/peakb' component={Peakb} />
         <Route path='/falcaosu' component={Falcaosu} />
+        <Route path='/inventandoa' component={Inventandoa} />
        
 
        
