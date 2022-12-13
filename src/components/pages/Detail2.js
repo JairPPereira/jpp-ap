@@ -9,8 +9,9 @@ function Details2() {
   const { id } = useParams()
   const [movie, setMovie] = useState([])
 
-  const imagePath = 'https://image.tmdb.org/t/p/w500/'
+  const imagePath = 'https://image.tmdb.org/t/p/w780/'
 
+ 
   useEffect(() => {
     fetch(`https://api.themoviedb.org/3/tv/${id}?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
     .then(response => response.json())
