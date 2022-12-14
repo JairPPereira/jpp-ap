@@ -9,7 +9,7 @@ function Details2() {
   const { id } = useParams()
   const [movie, setMovie] = useState([])
 
-  const imagePath = 'https://image.tmdb.org/t/p/w780/'
+  const imagePath = 'https://image.tmdb.org/t/p/w400/'
 
  
   useEffect(() => {
