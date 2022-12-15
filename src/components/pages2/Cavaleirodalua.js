@@ -4,6 +4,11 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 
+
+
+
+
+
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -29,22 +34,19 @@ export default function Cavaleirodalua() {
         title="video"
       />{" "}
       </Col></Row></Container>
-                  <div className="nave">
-     
+   
                   <p><br /></p>
-
+<center>
 <Link to="/"><Button variant="primary" size="lg" width="80%">
 Home
-  </Button></Link>
+  </Button></Link></center>
 
 <p><br /></p>
 </div>
-</div></div>
+</div>
 
-  );
+);
 }
-
-
 
 
 
