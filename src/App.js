@@ -440,6 +440,7 @@ import See from './components/pages2/See';
 import Peakb from './components/pages2/Peakb';
 import Falcaosu from './components/pages2/Falcaosu';
 import Inventandoa from './components/pages2/Inventandoa';
+import Valedes from './components/pages2/Valedes';
 
 
 
@@ -898,6 +899,7 @@ function App() {
         <Route path='/peakb' component={Peakb} />
         <Route path='/falcaosu' component={Falcaosu} />
         <Route path='/inventandoa' component={Inventandoa} />
+        <Route path='/valedes' component={Valedes} />
        
 
        
