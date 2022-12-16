@@ -444,6 +444,7 @@ import Valedes from './components/pages2/Valedes';
 import Umtirams from './components/pages2/Umtirams';
 import Gaviaoa from './components/pages2/Gaviaoa';
 import Alendavm from './components/pages2/Alendavm';
+import Presentegrego from './components/pages2/Presentegrego';
 
 
 
@@ -906,6 +907,7 @@ function App() {
         <Route path='/11001' component={Umtirams} />
         <Route path='/gaviaoa' component={Gaviaoa} />
         <Route path='/alendavm' component={Alendavm} />
+        <Route path='/11215' component={Presentegrego} />
 
        
 
