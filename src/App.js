@@ -441,6 +441,7 @@ import Peakb from './components/pages2/Peakb';
 import Falcaosu from './components/pages2/Falcaosu';
 import Inventandoa from './components/pages2/Inventandoa';
 import Valedes from './components/pages2/Valedes';
+import Umtirams from './components/pages2/Umtirams';
 
 
 
@@ -900,6 +901,8 @@ function App() {
         <Route path='/falcaosu' component={Falcaosu} />
         <Route path='/inventandoa' component={Inventandoa} />
         <Route path='/valedes' component={Valedes} />
+        <Route path='/11001' component={Umtirams} />
+
        
 
        
