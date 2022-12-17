@@ -446,6 +446,8 @@ import Gaviaoa from './components/pages2/Gaviaoa';
 import Alendavm from './components/pages2/Alendavm';
 import Presentegrego from './components/pages2/Presentegrego';
 import Pontodeencontro from './components/pages2/Pontodeencontro';
+import Cacadaaop from './components/pages2/cacadaaop';
+import Foradecontrole2 from './components/pages2/Foradecontrole2';
 
 
 
@@ -910,6 +912,8 @@ function App() {
         <Route path='/alendavm' component={Alendavm} />
         <Route path='/11215' component={Presentegrego} />
         <Route path='/27845' component={Pontodeencontro} />
+        <Route path='/230179' component={Cacadaaop} />
+        <Route path='/1537' component={Foradecontrole2} />
 
        
 
