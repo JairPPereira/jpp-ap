@@ -448,6 +448,8 @@ import Presentegrego from './components/pages2/Presentegrego';
 import Pontodeencontro from './components/pages2/Pontodeencontro';
 import Cacadaaop from './components/pages2/cacadaaop';
 import Foradecontrole2 from './components/pages2/Foradecontrole2';
+import Evidenciasdc from './components/pages2/Evidenciasdc';
+import Kite from './components/pages2/Kite';
 
 
 
@@ -914,6 +916,8 @@ function App() {
         <Route path='/27845' component={Pontodeencontro} />
         <Route path='/230179' component={Cacadaaop} />
         <Route path='/1537' component={Foradecontrole2} />
+        <Route path='/13252' component={Evidenciasdc} />
+        <Route path='/192712' component={Kite} />
 
        
 
