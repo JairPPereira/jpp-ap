@@ -450,6 +450,7 @@ import Cacadaaop from './components/pages2/cacadaaop';
 import Foradecontrole2 from './components/pages2/Foradecontrole2';
 import Evidenciasdc from './components/pages2/Evidenciasdc';
 import Kite from './components/pages2/Kite';
+import Aslinhastdd from './components/pages2/Aslinhastdd';
 
 
 
@@ -918,6 +919,7 @@ function App() {
         <Route path='/1537' component={Foradecontrole2} />
         <Route path='/13252' component={Evidenciasdc} />
         <Route path='/192712' component={Kite} />
+        <Route path='/890980' component={Aslinhastdd} />
 
        
 
