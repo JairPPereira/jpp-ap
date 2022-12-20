@@ -452,6 +452,8 @@ import Evidenciasdc from './components/pages2/Evidenciasdc';
 import Kite from './components/pages2/Kite';
 import Aslinhastdd from './components/pages2/Aslinhastdd';
 import Hawa from './components/pages2/Hawa';
+import Soulmen from './components/pages2/Soulmen';
+import Patriotgames from './components/pages2/Patriot-games';
 
 
 
@@ -922,6 +924,8 @@ function App() {
         <Route path='/192712' component={Kite} />
         <Route path='/890980' component={Aslinhastdd} />
         <Route path='/961707' component={Hawa} />
+        <Route path='/14655' component={Soulmen} />
+        <Route path='/9869' component={Patriotgames} />
 
        
 
