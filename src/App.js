@@ -456,6 +456,7 @@ import Soulmen from './components/pages2/Soulmen';
 import Patriotgames from './components/pages2/Patriot-games';
 import Ovoodd from './components/pages2/Ovoodd';
 import Flashdance from './components/pages2/Flashdance';
+import Stretch from './components/pages2/Stretch';
 
 
 
@@ -930,6 +931,7 @@ function App() {
         <Route path='/warnertv' component={Warnertv} />
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/zero7cr' component={Zero7cr} />
+        <Route path='/227300' component={Stretch} />
 
        
 
