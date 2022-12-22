@@ -8,7 +8,7 @@ import './videoapp.css';
           <div>
                 <p><br /></p>
             <iframe
-              src="https://comidacaseira.me/bife-de-couve-flor-com-vinagrete/"
+              src="https://voe.sx/e/4bf0214gdmde"
               frameborder="0"
               width="100%" height="600px"
               allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

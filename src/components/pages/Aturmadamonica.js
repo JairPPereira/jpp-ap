@@ -21,9 +21,9 @@ export default function Aturmadamonica() {
 Mônica</Card.Title>
         <Card.Text><p2>A festa de Carminha Frufru é sabotada, e inicia-se uma grande investigação em torno de Mônica.</p2>
         </Card.Text>
-        <a href="https://comidacaseira.me/cuscuz-de-tapioca-com-calda-de-coco-queimado/"><Button variant="primary" size="lg" width="100%"><p1>Assistir</p1>
-        
-        </Button></a>
+        <Link to="./Monica"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
       </Card.Body>
     </Card></center>
 
