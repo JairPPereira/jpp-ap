@@ -8,17 +8,16 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-
  
-class Patriotgames extends Component {
+class Ovoodd extends Component {
     
     player = {}
     state = {
         video: {
-            src: "https://siloh.pluto.tv/199_Paramount_Pictures/clip/63232d3748fe5f0013f657bf_Patriot_Games_BR/720p/20220915_065436/hls/0-end/master.m3u8",
+            src: "https://video.wixstatic.com/video/e16db6_5908ce4fc1a34134a313e8f4c4789786/720p/mp4/file.mp4",
             crossorigin: "anonymous",
 
-            poster: "https://www.themoviedb.org/t/p/original/3YnJdVdCy7s2FvJoMpH4V2dEE3U.jpg"
+            poster: "https://www.themoviedb.org/t/p/original/et9G1ftzPo3KDolLEnOEbxA44oP.jpg"
         }
     }
  
@@ -94,4 +93,4 @@ class Patriotgames extends Component {
         );
     }
 }
-export default Patriotgames;
+export default Ovoodd;

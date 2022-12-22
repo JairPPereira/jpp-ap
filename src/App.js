@@ -454,6 +454,8 @@ import Aslinhastdd from './components/pages2/Aslinhastdd';
 import Hawa from './components/pages2/Hawa';
 import Soulmen from './components/pages2/Soulmen';
 import Patriotgames from './components/pages2/Patriot-games';
+import Ovoodd from './components/pages2/Ovoodd';
+import Flashdance from './components/pages2/Flashdance';
 
 
 
@@ -926,6 +928,8 @@ function App() {
         <Route path='/961707' component={Hawa} />
         <Route path='/14655' component={Soulmen} />
         <Route path='/9869' component={Patriotgames} />
+        <Route path='/9462' component={Ovoodd} />
+        <Route path='/535' component={Flashdance} />
 
        
 
