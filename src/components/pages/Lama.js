@@ -8,7 +8,7 @@ import './videoapp.css';
           <div>
                 <p><br /></p>
             <iframe
-              src="https://streamtape.com/e/PyJ2eoRJoJuDxR/"
+              src="https://play.midiaflixhd.com/tv/157485/1/8/dub"
               frameborder="0"
               width="100%" height="480px"
               allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
