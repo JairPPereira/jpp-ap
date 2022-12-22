@@ -7,7 +7,7 @@ export default function Opredadora() {
     <div>
           <p><br /></p>
       <iframe
-        src="https://streamtape.com/e/VmdM9WWpJouKeYk/"
+        src="https://embedflix.net/filme/tt11866324"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
