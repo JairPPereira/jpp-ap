@@ -8,7 +8,7 @@ import './videoapp.css';
           <div>
                 <p><br /></p>
             <iframe
-              src="https://play.midiaflixhd.com/tv/157485/1/1/dub"
+              src="https://comidacaseira.me/bife-de-couve-flor-com-vinagrete/"
               frameborder="0"
               width="100%" height="600px"
               allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
