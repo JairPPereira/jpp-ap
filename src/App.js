@@ -461,6 +461,7 @@ import Foradealcance from './components/pages2/Foradealcance';
 import Nanatsu1 from './components/pages2/Nanatsu1';
 import Avataroca from './components/pages2/Avataroca';
 import Mucholocosn from './components/pages2/Mucholocosn';
+import Daaz14 from './components/pages2/Daaz14';
 
 
 
@@ -785,6 +786,7 @@ function App() {
         <Route path='/daaz11' component={Daaz11} />
         <Route path='/daaz12' component={Daaz12} />
         <Route path='/daaz13' component={Daaz13} />
+        <Route path='/daaz14' component={Daaz14} />
         <Route path='/daaz2' component={Daaz2} />
         <Route path='/daaz3' component={Daaz3} />
         <Route path='/daaz4' component={Daaz4} />
