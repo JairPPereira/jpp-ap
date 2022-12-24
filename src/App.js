@@ -460,6 +460,7 @@ import Stretch from './components/pages2/Stretch';
 import Foradealcance from './components/pages2/Foradealcance';
 import Nanatsu1 from './components/pages2/Nanatsu1';
 import Avataroca from './components/pages2/Avataroca';
+import Mucholocosn from './components/pages2/Mucholocosn';
 
 
 
@@ -938,6 +939,7 @@ function App() {
         <Route path='/284289' component={Foradealcance} />
         <Route path='/989937' component={Nanatsu1} />
         <Route path='/76600' component={Avataroca} />
+        <Route path='/1026624' component={Mucholocosn} />
 
        
 
