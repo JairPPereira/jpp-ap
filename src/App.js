@@ -462,6 +462,7 @@ import Nanatsu1 from './components/pages2/Nanatsu1';
 import Avataroca from './components/pages2/Avataroca';
 import Mucholocosn from './components/pages2/Mucholocosn';
 import Daaz14 from './components/pages2/Daaz14';
+import Umalindamulher from './components/pages2/Umalindamulher';
 
 
 
@@ -942,6 +943,7 @@ function App() {
         <Route path='/989937' component={Nanatsu1} />
         <Route path='/76600' component={Avataroca} />
         <Route path='/1026624' component={Mucholocosn} />
+        <Route path='/114' component={Umalindamulher} />
 
        
 
