@@ -15,7 +15,7 @@ export default function Arquiteturadd() {
             <Row>
               <Col>
       <iframe
-        src="https://streamtape.com/e/WbBLjg2MpgSgb0/"
+        src="https://ok.ru/videoembed/4233877785170"
         target="_blank"
         scrolling="no"
         data-draggable="none"
