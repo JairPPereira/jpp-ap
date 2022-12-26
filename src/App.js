@@ -464,6 +464,7 @@ import Mucholocosn from './components/pages2/Mucholocosn';
 import Daaz14 from './components/pages2/Daaz14';
 import Umalindamulher from './components/pages2/Umalindamulher';
 import Alistads from './components/pages2/Alistads';
+import Expressomn from './components/pages2/Expressomn';
 
 
 
@@ -946,6 +947,7 @@ function App() {
         <Route path='/1026624' component={Mucholocosn} />
         <Route path='/114' component={Umalindamulher} />
         <Route path='/424' component={Alistads} />
+        <Route path='/11327' component={Expressomn} />
         
 
        
