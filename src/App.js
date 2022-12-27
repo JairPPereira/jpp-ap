@@ -465,6 +465,8 @@ import Daaz14 from './components/pages2/Daaz14';
 import Umalindamulher from './components/pages2/Umalindamulher';
 import Alistads from './components/pages2/Alistads';
 import Expressomn from './components/pages2/Expressomn';
+import Ficcao2 from './components/pages2/Ficcao2';
+import Afilhado1 from './components/pages2/Afilhado1';
 
 
 
@@ -816,6 +818,7 @@ function App() {
         <Route path='/familiasop' component={Familiasop} />
         <Route path='/fantasia' component={Fantasia} />
         <Route path='/ficcao' component={Ficcao} />
+        <Route path='/ficcao2' component={Ficcao2} />
         <Route path='/filmesn' component={Filmesn} />
         <Route path='/fmodia' component={Fmodia} />
         <Route path='/friends' component={Friends} />
@@ -948,6 +951,8 @@ function App() {
         <Route path='/114' component={Umalindamulher} />
         <Route path='/424' component={Alistads} />
         <Route path='/11327' component={Expressomn} />
+        <Route path='/354282' component={Afilhado1} />
+
         
 
        
