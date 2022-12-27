@@ -8,7 +8,7 @@ import './videoapp.css';
           <div>
                 <p><br /></p>
             <iframe
-              src="https://play.midiaflixhd.com/tv/157485/1/3/dub"
+              src="https://voe.sx/e/n6080k9v4iq8"
               frameborder="0"
               width="100%" height="480px"
               allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
