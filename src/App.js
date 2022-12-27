@@ -467,6 +467,7 @@ import Alistads from './components/pages2/Alistads';
 import Expressomn from './components/pages2/Expressomn';
 import Ficcao2 from './components/pages2/Ficcao2';
 import Afilhado1 from './components/pages2/Afilhado1';
+import Foradorumo from './components/pages2/Foradorumo';
 
 
 
@@ -952,6 +953,7 @@ function App() {
         <Route path='/424' component={Alistads} />
         <Route path='/11327' component={Expressomn} />
         <Route path='/354282' component={Afilhado1} />
+        <Route path='/270774' component={Foradorumo} />
 
         
 
