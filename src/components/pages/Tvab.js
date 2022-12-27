@@ -99,6 +99,20 @@ export default function Tvab() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://www.acheradios.com.br/media/imagens/band_news_crop_200x200.jpg" />
+      <Card.Body>
+        <Card.Title>Bandnewsfm</Card.Title>
+        <Card.Text><p2>SBT Pará é uma emissora de televisão brasileira sediada em Belém, capital do estado do Pará. Opera no canal 5, e é uma emissora própria do SBT, sendo portanto, pertencente ao Grupo Silvio Santos.</p2>
+        </Card.Text>
+        <Link to="./Bandnewfm"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png" />
       <Card.Body>
         <Card.Title>Cultura Pará</Card.Title>
