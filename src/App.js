@@ -474,6 +474,7 @@ import Bmcnews from './components/pages2/Bmcnews';
 import Musica from './components/pages2/Musica';
 import Gracinha from './components/pages2/Gracinha';
 import Opoderosoc from './components/pages2/Opoderosoc';
+import Batmanct from './components/pages2/Batmanct';
 
 
 
@@ -968,6 +969,7 @@ function App() {
         <Route path='/musica' component={Musica} />
         <Route path='/893656' component={Gracinha} />
         <Route path='/238' component={Opoderosoc} />
+        <Route path='/155' component={Batmanct} />
        
         
 
