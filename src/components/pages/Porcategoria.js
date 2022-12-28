@@ -80,6 +80,12 @@ export default function Porcategoria() {
    
       <p><br /></p>
 
+      <Link to="./Musica"><Button variant="primary" size="lg" width="80%">
+      Musica
+        </Button></Link>
+   
+      <p><br /></p>
+
 
 
 
