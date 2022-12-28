@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Euronews() {
+export default function Bmcnews() {
   return (
     <div>
           <p><br /></p>
@@ -15,7 +15,7 @@ export default function Euronews() {
             <Row>
               <Col>
       <iframe
-        src="https://www.youtube.com/embed/live_stream?channel=UCUmEPYxmnyQDeRUcFkslmQw&amp;autoplay=1"
+        src="https://www.youtube.com/embed/live_stream?channel=UCoja0MNI4SIvXqJR3szbSfw&amp;autoplay=1"
         target="_blank"
         scrolling="no"
         data-draggable="none"

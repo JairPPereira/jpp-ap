@@ -113,6 +113,22 @@ export default function Tvab() {
     <center>
           <p></p>
       <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmEchOrAcMWEAn6_vwTXB1pghRUscU_3R8ke4I0Oyb6xzxG3wgIJOyqd286mwwBX5ZJXXtIggcJERKwaYYqoa2tXEkdj5JJ8ZL8uY5f_BaZwSQuOeKp4rlSsNC9hvBMijtLnx9e0Ct7jomftxMCpvvi3vcIRuLGqJaFfBGvfEkcBnECOjP3j6mam1T/s1600/bmc.png" />
+      <Card.Body>
+        <Card.Title>BM&C NEWS</Card.Title>
+        <Card.Text><p2>.</p2>
+        </Card.Text>
+        <Link to="./Bmcnews"><Button variant="primary" size="lg" width="100%">
+      Assistir
+        </Button></Link>
+      </Card.Body>
+    </Card></center>
+
+
+
+    <center>
+          <p></p>
+      <Card style={{ width: '18rem' }}>
       <Card.Img variant="top" src="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_Rede_Cultura_do_Par%C3%A1.png" />
       <Card.Body>
         <Card.Title>Cultura Pará</Card.Title>
