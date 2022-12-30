@@ -477,6 +477,7 @@ import Opoderosoc from './components/pages2/Opoderosoc';
 import Batmanct from './components/pages2/Batmanct';
 import Peleo from './components/pages2/Peleo';
 import Otremdamorte from './components/pages2/Otremdamorte';
+import Flordelizqa from './components/pages2/Flordelizqa';
 
 
 
@@ -974,6 +975,7 @@ function App() {
         <Route path='/155' component={Batmanct} />
         <Route path='/742408' component={Peleo} />
         <Route path='/20435' component={Otremdamorte} />
+        <Route path='/flordelizqa' component={Flordelizqa} />
        
         
 
