@@ -476,6 +476,7 @@ import Gracinha from './components/pages2/Gracinha';
 import Opoderosoc from './components/pages2/Opoderosoc';
 import Batmanct from './components/pages2/Batmanct';
 import Peleo from './components/pages2/Peleo';
+import Otremdamorte from './components/pages2/Otremdamorte';
 
 
 
@@ -972,6 +973,7 @@ function App() {
         <Route path='/238' component={Opoderosoc} />
         <Route path='/155' component={Batmanct} />
         <Route path='/742408' component={Peleo} />
+        <Route path='/20435' component={Otremdamorte} />
        
         
 
