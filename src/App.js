@@ -481,6 +481,8 @@ import Flordelizqa from './components/pages2/Flordelizqa';
 import Mundoestranho from './components/pages2/mundoestranho';
 import OpoderosocII from './components/pages2/OpoderosocII';
 import Umsonhodeliberdade from './components/pages2/Umsonhodeliberdade';
+import Osenhordaaor from './components/pages2/Osenhordaaor';
+
 
 
 
@@ -982,6 +984,7 @@ function App() {
         <Route path='/877269' component={Mundoestranho} />
         <Route path='/240' component={OpoderosocII} />
         <Route path='/278' component={Umsonhodeliberdade} />
+        <Route path='/122' component={Osenhordaaor} />
        
         
 
