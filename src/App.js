@@ -480,6 +480,7 @@ import Otremdamorte from './components/pages2/Otremdamorte';
 import Flordelizqa from './components/pages2/Flordelizqa';
 import Mundoestranho from './components/pages2/mundoestranho';
 import OpoderosocII from './components/pages2/OpoderosocII';
+import Umsonhodeliberdade from './components/pages2/Umsonhodeliberdade';
 
 
 
@@ -980,6 +981,7 @@ function App() {
         <Route path='/flordelizqa' component={Flordelizqa} />
         <Route path='/877269' component={Mundoestranho} />
         <Route path='/240' component={OpoderosocII} />
+        <Route path='/278' component={Umsonhodeliberdade} />
        
         
 
