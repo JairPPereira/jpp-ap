@@ -7,7 +7,7 @@ export default function Jogosvef() {
     <div>
           <p><br /></p>
       <iframe
-        src="https://streamtape.com/e/zLQax78W9XFYPd3/"
+        src="https://embedflix.net/filme/tt1951266"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

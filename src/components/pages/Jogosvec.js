@@ -7,7 +7,7 @@ export default function Jogosvec() {
     <div>
           <p><br /></p>
       <iframe
-        src="https://streamtape.com/e/G6AlqBZpqxc1Mg2/"
+        src="https://embedflix.net/filme/tt1951264"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
