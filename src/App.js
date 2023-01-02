@@ -485,6 +485,7 @@ import Osenhordaaor from './components/pages2/Osenhordaaor';
 import Aviagemdchi from './components/pages2/Aviagemdchi';
 import Snowdenht from './components/pages2/Snowdenht';
 import Wandinha from './components/pages2/Wandinha';
+import Operacaom from './components/pages2/Operacaom';
 
 
 
@@ -991,6 +992,7 @@ function App() {
         <Route path='/129' component={Aviagemdchi} />
         <Route path='/302401' component={Snowdenht} />
         <Route path='/wandinha' component={Wandinha} />
+        <Route path='/415214' component={Operacaom} />
        
         
 
