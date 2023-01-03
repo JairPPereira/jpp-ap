@@ -491,6 +491,7 @@ import Daaz15 from './components/pages2/Daaz15';
 import Pearlh from './components/pages2/Pearlh';
 import Diariojb from './components/pages2/Diariojb';
 import Comedia3 from './components/pages2/Comedia3';
+import Cruella from './components/pages2/Cruella';
 
 
 
@@ -1003,6 +1004,7 @@ function App() {
         <Route path='/676' component={Pearlh} />
         <Route path='/comedia3' component={Comedia3} />
         <Route path='/23514' component={Diariojb} />
+        <Route path='/337404' component={Cruella} />
         
 
         
