@@ -487,6 +487,8 @@ import Snowdenht from './components/pages2/Snowdenht';
 import Wandinha from './components/pages2/Wandinha';
 import Operacaom from './components/pages2/Operacaom';
 import Dozehus from './components/pages2/Dozehus';
+import Daaz15 from './components/pages2/Daaz15';
+import Pearlh from './components/pages2/Pearlh';
 
 
 
@@ -995,6 +997,8 @@ function App() {
         <Route path='/wandinha' component={Wandinha} />
         <Route path='/415214' component={Operacaom} />
         <Route path='/389' component={Dozehus} />
+        <Route path='/daaz15' component={Daaz15} />
+        <Route path='/676' component={Pearlh} />
        
         
 
