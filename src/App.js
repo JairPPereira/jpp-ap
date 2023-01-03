@@ -489,6 +489,8 @@ import Operacaom from './components/pages2/Operacaom';
 import Dozehus from './components/pages2/Dozehus';
 import Daaz15 from './components/pages2/Daaz15';
 import Pearlh from './components/pages2/Pearlh';
+import Diariojb from './components/pages2/Diariojb';
+import Comedia3 from './components/pages2/Comedia3';
 
 
 
@@ -999,7 +1001,8 @@ function App() {
         <Route path='/389' component={Dozehus} />
         <Route path='/daaz15' component={Daaz15} />
         <Route path='/676' component={Pearlh} />
-       
+        <Route path='/comedia3' component={Comedia3} />
+        <Route path='/23514' component={Diariojb} />
         
 
         

@@ -42,7 +42,7 @@ function Comedia2() {
           Pagina anterior
         </Button></Link>
  
-  <Link to="/comedia2"><Button variant="primary" size="lg" width="80%">
+  <Link to="/comedia3"><Button variant="primary" size="lg" width="80%">
           Proxima pagina
         </Button></Link>
 </div></center>
