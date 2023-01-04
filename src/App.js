@@ -492,6 +492,7 @@ import Pearlh from './components/pages2/Pearlh';
 import Diariojb from './components/pages2/Diariojb';
 import Comedia3 from './components/pages2/Comedia3';
 import Cruella from './components/pages2/Cruella';
+import Comoeuera from './components/pages2/Comoeuera';
 
 
 
@@ -1005,6 +1006,7 @@ function App() {
         <Route path='/comedia3' component={Comedia3} />
         <Route path='/23514' component={Diariojb} />
         <Route path='/337404' component={Cruella} />
+        <Route path='/296096' component={Comoeuera} />
         
 
         
