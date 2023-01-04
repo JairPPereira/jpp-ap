@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Thewd() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://embed.warezcdn.net/serie.php?imdb=tt1520211"
         target="https://embed.warezcdn.net/serie.php?imdb=tt1520211"
         frameborder="0"

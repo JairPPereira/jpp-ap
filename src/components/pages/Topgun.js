@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Topgun() {
   return (
     <div>
           <p><br /></p>
-      <iframe
-        src="https://streamtape.com/e/2WOjMa2G0wfxxY/"
+      <Iframe
+        src="https://embedflix.net/filme/tt1745960"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

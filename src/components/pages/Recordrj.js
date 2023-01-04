@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Recordrj() {
   return (
     <div>
           <p><br /></p>
-      <iframe className="video"
+      <Iframe className="video"
         src="https://canais.m3u8live.ml/v.php?id=RecordTVRJ"
         frameborder="0"
         width="100%" height="600px"

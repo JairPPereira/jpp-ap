@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Recordnews() {
   return (
     <div>
           <p><br /></p>
-      <iframe className="video"
+      <Iframe className="video"
         src="https://www.youtube.com/embed/live_stream?channel=UCuiLR4p6wQ3xLEm15pEn1Xw&autoplay=1"
         frameborder="0"
         width="100%" height="600px"
