@@ -15,7 +15,7 @@ export default function Wandinha() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/serie/tt13443470"
+        src="https://embed.playmp4.net/?serie=119051"
         target="_blank"
         scrolling="no"
         data-draggable="none"
