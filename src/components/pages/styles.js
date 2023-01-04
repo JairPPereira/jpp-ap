@@ -1,22 +1,20 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
- 
- 
+  padding: 2rem;
   
   h1 {
     text-align: center;
-    margin: 1rem 0;
-
+    margin: 4rem 0;
   }
 `;
 
 export const MovieList = styled.ul`
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-  column-gap: 1rem;
-  row-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  column-gap: 3rem;
+  row-gap: 4rem;
 `;
 
 export const Movie = styled.li`
@@ -25,14 +23,14 @@ export const Movie = styled.li`
   align-items: center;
 
   img {
-    width: 100px;
+    width: 180px;
     border-radius: 1rem;
-    margin-bottom: rem;
+    margin-bottom: 2rem;
   }
 
   span {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 120%;
     text-align: center;
   }
 
