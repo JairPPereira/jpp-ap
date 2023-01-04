@@ -3,9 +3,10 @@ import { Link } from 'react-router-dom';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
-
+import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 export default function Camggw() {
   return (
@@ -14,8 +15,8 @@ export default function Camggw() {
           <div><Container fluid>
             <Row>
               <Col>
-      <iframe
-        src="https://streamtape.com/e/rJP28R2RygIbDO8/"
+      <Iframe
+        src="https://embedder.net/e/movie?imdb=tt12319706"
         target="_blank"
         scrolling="no"
         data-draggable="none"

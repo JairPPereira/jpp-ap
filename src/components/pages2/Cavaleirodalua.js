@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
-
+import Iframe from 'react-iframe'
 
 
 
@@ -19,7 +19,7 @@ export default function Cavaleirodalua() {
           <div><Container fluid>
             <Row>
               <Col>
-      <iframe
+      <Iframe
         src="https://embedflix.net/serie/tt10234724"
         target="_blank"
         scrolling="no"

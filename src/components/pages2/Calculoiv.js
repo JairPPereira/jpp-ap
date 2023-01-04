@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
-
+import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -14,7 +14,7 @@ export default function Calculoiv() {
           <div><Container fluid>
             <Row>
               <Col>
-      <iframe
+      <Iframe
         src="https://www.youtube.com/embed/videoseries?list=PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY"
         target="_blank"
         scrolling="no"

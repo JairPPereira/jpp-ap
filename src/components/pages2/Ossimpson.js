@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Ossimpson() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://embed.warezcdn.net/serie/tt0096697"
         target="https://embed.warezcdn.net/serie/tt0096697"
         frameborder="0"

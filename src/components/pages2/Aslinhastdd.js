@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
+import Iframe from 'react-iframe'
 
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -14,7 +15,7 @@ export default function Aslinhastdd() {
           <div><Container fluid>
             <Row>
               <Col>
-      <iframe
+      <Iframe
         src="https://embedflix.net/filme/tt13229894"
         target="_blank"
         scrolling="no"
@@ -26,7 +27,7 @@ export default function Aslinhastdd() {
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
-      />{" "}
+      ></Iframe>{" "}
       </Col></Row></Container>
                   <div className="nave">
      

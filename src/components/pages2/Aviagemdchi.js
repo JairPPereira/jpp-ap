@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
+import Iframe from 'react-iframe'
 
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -14,7 +15,7 @@ export default function Aviagemdchi() {
           <div><Container fluid>
             <Row>
               <Col>
-      <iframe
+      <Iframe
         src="https://embedder.net/e/tt0245429"
         target="_blank"
         scrolling="no"

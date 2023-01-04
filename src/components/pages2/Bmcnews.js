@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
-
+import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -14,7 +14,7 @@ export default function Bmcnews() {
           <div><Container fluid>
             <Row>
               <Col>
-      <iframe
+      <Iframe
         src="https://www.youtube.com/embed/live_stream?channel=UCoja0MNI4SIvXqJR3szbSfw&amp;autoplay=1"
         target="_blank"
         scrolling="no"
