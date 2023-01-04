@@ -18,14 +18,16 @@ export default function Wandinha() {
         src="https://embed.playmp4.net/?serie=119051"
         target="_blank"
         scrolling="no"
+        title="Wandinha"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
+        display="initial"
         frameborder="0"
-        width="100%" height="600px"
+        overflow="no"
+        width="100%" height="640px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
-        title="video"
       />{" "}
       </Col></Row></Container>
                   <div className="nave">
