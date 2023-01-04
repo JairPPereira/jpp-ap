@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Espn3() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://canais.m3u8live.ml/v.php?id=Espn3"
         target="_blank"
         frameborder="0"

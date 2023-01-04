@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Dazn() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://embedflix.net/tv/dazn-2" 
         target="_blank"
         frameborder="0"

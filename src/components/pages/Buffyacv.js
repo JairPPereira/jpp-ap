@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
-
+import Iframe from 'react-iframe'
 
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -17,7 +17,7 @@ export default function Buffyacv() {
   
             <Row>
               <Col>
-      <iframe
+      <Iframe
         src="https://embed.warezcdn.net/serie/tt0118276"
         target="https://embed.warezcdn.net/serie/tt0118276"
         scrolling="no"

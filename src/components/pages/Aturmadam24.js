@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Aturmadam24() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://www.youtube.com/embed/ABVQXgr2LW4?autoplay=true"
         frameborder="0"
         width="100%" height="600px"

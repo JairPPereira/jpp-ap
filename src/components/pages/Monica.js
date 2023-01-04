@@ -1,13 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
  
     export default function Monica() {
         return (
           <div>
                 <p><br /></p>
-            <iframe
+            <Iframe
               src="https://voe.sx/e/4bf0214gdmde"
               frameborder="0"
               width="100%" height="600px"

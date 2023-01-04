@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Megapix() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://embed.tyflex.site/v.php?id=Megapix"
         target="_blank"
         frameborder="0"

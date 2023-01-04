@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Friends() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://embed.warezcdn.net/serie/tt0108778"
         target="https://embed.warezcdn.net/serie/tt0108778"
         frameborder="0"

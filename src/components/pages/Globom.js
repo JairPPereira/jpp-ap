@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Globom() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://embedflix.net/tv/globo-minas"
         target="_blank"
         frameborder="0"

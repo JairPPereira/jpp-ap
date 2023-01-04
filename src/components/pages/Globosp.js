@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Globosp() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://embedflix.net/tv/globo-sp"
         target="_blank"
         frameborder="0"

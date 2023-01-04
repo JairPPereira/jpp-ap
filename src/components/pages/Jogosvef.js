@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Jogosvef() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://embedflix.net/filme/tt1951266"
         frameborder="0"
         width="100%" height="600px"

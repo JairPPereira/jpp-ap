@@ -1,13 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
  
     export default function Cebolinha() {
         return (
           <div>
                 <p><br /></p>
-            <iframe
+            <Iframe
               src="https://voe.sx/e/n6080k9v4iq8"
               frameborder="0"
               width="100%" height="480px"

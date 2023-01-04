@@ -2,12 +2,12 @@ import React from "react";
 import { Link } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Globonews() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://tv.appmj.xyz/tv.php?canal=globo-news"
         target="https://tv.appmj.xyz/tv.php?canal=globo-news"
         frameborder="0"

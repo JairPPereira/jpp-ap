@@ -1,12 +1,12 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Osdeusesdel2() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://ok.ru/videoembed/35119172210"
         frameborder="0"
         width="100%" height="600px"

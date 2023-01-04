@@ -2,12 +2,12 @@ import React from "react";
 import { Link } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
 import './videoapp.css';
-
+import Iframe from 'react-iframe'
 export default function Globonews2() {
   return (
     <div>
           <p><br /></p>
-      <iframe
+      <Iframe
         src="https://embedflix.net/tv/br-globo-news-hd"
         target="_blank"
         frameborder="0"
