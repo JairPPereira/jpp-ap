@@ -891,7 +891,7 @@ function App() {
         <Route path='/ficcao2' component={Ficcao2} />
         <Route path='/filmesn' component={Filmesn} />
         <Route path='/flordelizqa' component={Flordelizqa} />
-        <Route path='/flordesenm' component={Flordelisenm} />
+        <Route path='/flordelisenm' component={Flordelisenm} />
         <Route path='/fmodia' component={Fmodia} />
         <Route path='/friends' component={Friends} />
         <Route path='/gabriela' component={Gabriela} />
