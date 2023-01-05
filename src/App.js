@@ -496,6 +496,7 @@ import Comoeuera from './components/pages2/Comoeuera';
 import Olobodw from './components/pages2/Olobodw';
 import Parasita from './components/pages2/Parasita';
 import Yourname from './components/pages2/Yourname';
+import Aesperadum from './components/pages2/Aesperadum';
 
 
 
@@ -696,6 +697,7 @@ function App() {
         <Route path='/49021' component={Ospecialistas} />
         <Route path='/495386' component={Entreoamoreafama} />
         <Route path='/496243' component={Parasita} />
+        <Route path='/497' component={Aesperadum} />
         <Route path='/504198' component={Terrorns} />
         <Route path='/505579' component={Agentesduplos} />
         <Route path='/505642' component={Panteranwps} />
