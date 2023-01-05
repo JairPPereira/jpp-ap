@@ -498,6 +498,7 @@ import Parasita from './components/pages2/Parasita';
 import Yourname from './components/pages2/Yourname';
 import Aesperadum from './components/pages2/Aesperadum';
 import Flordelisenm from './components/pages2/Flordelisenm';
+import Pulpfiction from './components/pages2/Pulpfiction';
 
 
 
@@ -750,6 +751,7 @@ function App() {
         <Route path='/66859' component={Asgatinhasds} />
         <Route path='/672772' component={Jogandocomoamor} />
         <Route path='/676' component={Pearlh} />
+        <Route path='/680' component={Pulpfiction} />
         <Route path='/68202' component={Cadeoh} />
         <Route path='/68348' component={Arquiteturadd} />
         <Route path='/687354' component={Stretfp} />
