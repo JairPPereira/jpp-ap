@@ -494,6 +494,7 @@ import Comedia3 from './components/pages2/Comedia3';
 import Cruella from './components/pages2/Cruella';
 import Comoeuera from './components/pages2/Comoeuera';
 import Olobodw from './components/pages2/Olobodw';
+import Parasita from './components/pages2/Parasita';
 
 
 
@@ -692,6 +693,7 @@ function App() {
         <Route path='/49014' component={Cosmopolis} />
         <Route path='/49021' component={Ospecialistas} />
         <Route path='/495386' component={Entreoamoreafama} />
+        <Route path='/496243' component={Parasita} />
         <Route path='/504198' component={Terrorns} />
         <Route path='/505579' component={Agentesduplos} />
         <Route path='/505642' component={Panteranwps} />
@@ -1009,6 +1011,7 @@ function App() {
         <Route path='/warnertv' component={Warnertv} />
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/zero7cr' component={Zero7cr} />
+
         
         
 
