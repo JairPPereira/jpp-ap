@@ -499,6 +499,7 @@ import Yourname from './components/pages2/Yourname';
 import Aesperadum from './components/pages2/Aesperadum';
 import Flordelisenm from './components/pages2/Flordelisenm';
 import Pulpfiction from './components/pages2/Pulpfiction';
+import Sporttv4 from './components/pages2/Sporttv4';
 
 
 
@@ -988,6 +989,7 @@ function App() {
         <Route path='/sporttv' component={Sporttv} />
         <Route path='/sporttv2' component={Sporttv2} />
         <Route path='/sporttv3' component={Sporttv3} />
+        <Route path='/sporttv4' component={Sporttv4} />
         <Route path='/sulamerica' component={Sulamerica} />
         <Route path='/supermel' component={Supermel} />
         <Route path='/suspense' component={Suspense} />
