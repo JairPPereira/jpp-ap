@@ -1,90 +1,51 @@
-import React, { Component } from 'react';
-import VideoPlayer from 'react-video-js-player';
+import React from "react";
 import { Link } from 'react-router-dom';
-import './videoapp.css';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import Button from 'react-bootstrap/Button';
+import Iframe from 'react-iframe'
+import Container from 'react-bootstrap/Container';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
+export default function Yourname() {
+  return (
+    <div>
+          <p><br /></p>
+          <div><Container fluid>
+            <Row>
+              <Col>
+      <Iframe
+        src="https://voe.sx/e/xi0m0vf1x39u"
+        target="_blank"
+        scrolling="no"
+        title="Video"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
+        display="initial"
+        frameborder="0"
+        overflow="no"
+        width="100%" height="640px"
+        allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+      />{" "}
+      </Col></Row></Container>
+                  <div className="nave">
+     
+                  <p><br /></p>
 
- 
-class Yourname extends Component {
-    player = {}
-    state = {
-        video: {
-            src: "https://lightspeedst.net/s3/mp4/kimi-no-na-wa-dublado/hd/1.mp4",
+<Link to="/"><Button variant="primary" size="lg" width="80%">
+Home
+  </Button></Link>
 
-            poster: "https://www.themoviedb.org/t/p/original/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg"
-        }
-    }
- 
-    onPlayerReady(player){
-        console.log("Player is ready: ", player);
-        this.player = player;
-    }
- 
-    onVideoPlay(duration){
-        console.log("Video played at: ", duration);
-    }
- 
-    onVideoPause(duration){
-        console.log("Video paused at: ", duration);
-    }
- 
-    onVideoTimeUpdate(duration){
-        console.log("Time updated: ", duration);
-    }
- 
-    onVideoSeeking(duration){
-        console.log("Video seeking: ", duration);
-    }
- 
-    onVideoSeeked(from, to){
-        console.log(`Video seeked from ${from} to ${to}`);
-    }
- 
-    onVideoEnd(){
-        console.log("Video ended");
-    }
- 
-    render() {
-        return (
-            <div>
-                      <p><br /></p>
+<p><br /></p>
+</div>
+</div></div>
 
-                <VideoPlayer
-                    controls={true}
-                    src={this.state.video.src}
-                    poster={this.state.video.poster}
-                    aspectRatio= "4:3"  
-                    width="720px" 
-                    height="auto"               
-                    onReady={this.onPlayerReady.bind(this)}
-                    onPlay={this.onVideoPlay.bind(this)}
-                    onPause={this.onVideoPause.bind(this)}
-                    onTimeUpdate={this.onVideoTimeUpdate.bind(this)}
-                    onSeeking={this.onVideoSeeking.bind(this)}
-                    onSeeked={this.onVideoSeeked.bind(this)}
-                    onEnd={this.onVideoEnd.bind(this)}
-                />
-                    <p><br /></p> 
-                    <div className="nave">       
-      <nav>
-      <p><br /></p>
-      <Link to="/">Home</Link>
-
-      <p><br /></p>
-
-</nav></div>
-  {" "}</div> 
-            
-        );
-    }
+  );
 }
 
 
 
 
 
-
-
-
-
-export default Yourname;
