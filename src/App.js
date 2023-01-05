@@ -495,6 +495,7 @@ import Cruella from './components/pages2/Cruella';
 import Comoeuera from './components/pages2/Comoeuera';
 import Olobodw from './components/pages2/Olobodw';
 import Parasita from './components/pages2/Parasita';
+import Yourname from './components/pages2/Yourname';
 
 
 
@@ -647,6 +648,7 @@ function App() {
         <Route path='/354857' component={Apenasus} />
         <Route path='/357110' component={Vinhodv} />
         <Route path='/361743' component={Topgun} />
+        <Route path='/372058' component={Yourname} />
         <Route path='/372412' component={Apresa} />
         <Route path='/376581' component={Ummotoristaemapuros} />
         <Route path='/38017' component={Cartasdua} />
@@ -1011,6 +1013,7 @@ function App() {
         <Route path='/warnertv' component={Warnertv} />
         <Route path='/youtubeml' component={Youtubeml} />
         <Route path='/zero7cr' component={Zero7cr} />
+
 
         
         

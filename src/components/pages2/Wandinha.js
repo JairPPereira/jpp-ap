@@ -18,7 +18,7 @@ export default function Wandinha() {
         src="https://embed.playmp4.net/?serie=119051"
         target="_blank"
         scrolling="no"
-        title="Wandinha"
+        title="Video"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
