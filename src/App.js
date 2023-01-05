@@ -497,6 +497,7 @@ import Olobodw from './components/pages2/Olobodw';
 import Parasita from './components/pages2/Parasita';
 import Yourname from './components/pages2/Yourname';
 import Aesperadum from './components/pages2/Aesperadum';
+import Flordelisenm from './components/pages2/Flordelisenm';
 
 
 
@@ -890,6 +891,7 @@ function App() {
         <Route path='/ficcao2' component={Ficcao2} />
         <Route path='/filmesn' component={Filmesn} />
         <Route path='/flordelizqa' component={Flordelizqa} />
+        <Route path='/flordesenm' component={Flordelisenm} />
         <Route path='/fmodia' component={Fmodia} />
         <Route path='/friends' component={Friends} />
         <Route path='/gabriela' component={Gabriela} />
