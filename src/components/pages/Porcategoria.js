@@ -44,6 +44,12 @@ export default function Porcategoria() {
       Fantasia
         </Button></Link>
         <p><br /></p>
+
+        <Link to="./faroeste"><Button variant="primary" size="lg" width="80%">
+      Faroeste
+        </Button></Link>
+        <p><br /></p>
+
       <Link to="./Ficcao"><Button variant="primary" size="lg" width="80%">
       Ficção
         </Button></Link>

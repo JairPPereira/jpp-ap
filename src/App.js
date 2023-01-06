@@ -501,6 +501,8 @@ import Flordelisenm from './components/pages2/Flordelisenm';
 import Pulpfiction from './components/pages2/Pulpfiction';
 import Sporttv4 from './components/pages2/Sporttv4';
 import Treshomensc from './components/pages2/treshomensc';
+import Faroeste from './components/pages2/Faroeste';
+import Osbonsc from './components/pages2/Osbonsc';
 
 
 
@@ -782,6 +784,7 @@ function App() {
         <Route path='/76600' component={Avataroca} />
         <Route path='/766507' component={Opredadora} />
         <Route path='/769749' component={Fundingyou} />
+        <Route path='/769' component={Osbonsc} />
         <Route path='/770428' component={Emnomedopai} />
         <Route path='/77067' component={Amorzumbi} />
         <Route path='/774752' component={Guardioesg} />
@@ -890,6 +893,7 @@ function App() {
         <Route path='/espn3' component={Espn3} />
         <Route path='/euronews' component={Euronews} />
         <Route path='/falcaosu' component={Falcaosu} />
+        <Route path='/faroeste' component={Faroeste} />
         <Route path='/familiasop' component={Familiasop} />
         <Route path='/fantasia' component={Fantasia} />
         <Route path='/ficcao' component={Ficcao} />
