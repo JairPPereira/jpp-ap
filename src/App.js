@@ -500,6 +500,7 @@ import Aesperadum from './components/pages2/Aesperadum';
 import Flordelisenm from './components/pages2/Flordelisenm';
 import Pulpfiction from './components/pages2/Pulpfiction';
 import Sporttv4 from './components/pages2/Sporttv4';
+import Treshomensc from './components/pages2/treshomensc';
 
 
 
@@ -676,6 +677,7 @@ function App() {
         <Route path='/420818' component={Reileao} />
         <Route path='/422821' component={Oprecodg} />
         <Route path='/424' component={Alistads} />
+        <Route path='/429' component={Treshomensc} />
         <Route path='/43549' component={Detencao} />
         <Route path='/438631' component={Duna} />
         <Route path='/44113' component={Homensemfuria} />
