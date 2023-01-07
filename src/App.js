@@ -504,6 +504,7 @@ import Treshomensc from './components/pages2/treshomensc';
 import Faroeste from './components/pages2/Faroeste';
 import Osbonsc from './components/pages2/Osbonsc';
 import Cinemap from './components/pages2/Cinemap';
+import Avidaebela from './components/pages2/Avidaebela';
 
 
 
@@ -748,6 +749,7 @@ function App() {
         <Route path='/63' component={Osdozemacacos} />
         <Route path='/631843' component={Tempo} />
         <Route path='/63699' component={Federal} />
+        <Route path='/637' component={Avidaebela} />
         <Route path='/644495' component={Casag} />
         <Route path='/64689' component={Ohomemdamafia} />
         <Route path='/653024' component={Ocomitedd} />
