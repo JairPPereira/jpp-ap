@@ -503,6 +503,7 @@ import Sporttv4 from './components/pages2/Sporttv4';
 import Treshomensc from './components/pages2/treshomensc';
 import Faroeste from './components/pages2/Faroeste';
 import Osbonsc from './components/pages2/Osbonsc';
+import Cinemap from './components/pages2/Cinemap';
 
 
 
@@ -545,6 +546,7 @@ function App() {
         <Route path='/11041' component={Afamiliab} />
         <Route path='/11162' component={Omercadordv} />
         <Route path='/11215' component={Presentegrego} />
+        <Route path='/11216' component={Cinemap} />
         <Route path='/112205' component={Afamilia} />
         <Route path='/11327' component={Expressomn} />
         <Route path='/114' component={Umalindamulher} />
