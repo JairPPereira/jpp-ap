@@ -505,6 +505,7 @@ import Faroeste from './components/pages2/Faroeste';
 import Osbonsc from './components/pages2/Osbonsc';
 import Cinemap from './components/pages2/Cinemap';
 import Avidaebela from './components/pages2/Avidaebela';
+import Psicose from './components/pages2/Psicose';
 
 
 
@@ -729,6 +730,7 @@ function App() {
         <Route path='/53172' component={Aocasiaofl} />
         <Route path='/535' component={Flashdance} />
         <Route path='/537061' component={Stevenu} />
+        <Route path='/539' component={Psicose} />
         <Route path='/540291' component={Amaldicaodi} />
         <Route path='/55101' component={Oculpado} />
         <Route path='/556018' component={Kv1} />
