@@ -7,7 +7,7 @@ import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Psicose() {
+export default function Garotas2() {
   return (
     <div>
           <p><br /></p>
@@ -15,7 +15,7 @@ export default function Psicose() {
             <Row>
               <Col>
       <Iframe
-        src="https://voe.sx/e/g09vr6s3lthz"
+        src="https://embed.playmp4.net/?filme=851644"
         target="_blank"
         scrolling="no"
         data-draggable="none"

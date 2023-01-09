@@ -507,6 +507,7 @@ import Cinemap from './components/pages2/Cinemap';
 import Avidaebela from './components/pages2/Avidaebela';
 import Psicose from './components/pages2/Psicose';
 import Clubedaluta from './components/pages2/Clubedaluta';
+import Garotas2 from './components/pages2/Garotas2';
 
 
 
@@ -813,6 +814,7 @@ function App() {
         <Route path='/829557' component={Diashoje} />
         <Route path='/835666' component={Comohsc} />
         <Route path='/839440' component={Hoteldosdinossauros} />
+        <Route path='/851644' component={Garotas2} />
         <Route path='/852592' component={Centauro} />
         <Route path='/853666' component={Jesuskid} />
         <Route path='/858815' component={Asfotosv} />
