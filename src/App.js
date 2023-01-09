@@ -508,6 +508,7 @@ import Avidaebela from './components/pages2/Avidaebela';
 import Psicose from './components/pages2/Psicose';
 import Clubedaluta from './components/pages2/Clubedaluta';
 import Garotas2 from './components/pages2/Garotas2';
+import Cidadededeus from './components/pages2/Cidadededeus';
 
 
 
@@ -744,6 +745,7 @@ function App() {
         <Route path='/579872' component={Aviuvads} />
         <Route path='/58448' component={Nocaute} />
         <Route path='/589157' component={Linewalker2} />
+        <Route path='/598' component={Cidadededeus} />
         <Route path='/60420' component={Loucamenteapaixonados} />
         <Route path='/61037' component={Campeoesdos} />
         <Route path='/611207' component={Umpassadodepresente} />
