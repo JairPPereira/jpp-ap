@@ -506,6 +506,7 @@ import Osbonsc from './components/pages2/Osbonsc';
 import Cinemap from './components/pages2/Cinemap';
 import Avidaebela from './components/pages2/Avidaebela';
 import Psicose from './components/pages2/Psicose';
+import Clubedaluta from './components/pages2/Clubedaluta';
 
 
 
@@ -732,6 +733,7 @@ function App() {
         <Route path='/537061' component={Stevenu} />
         <Route path='/539' component={Psicose} />
         <Route path='/540291' component={Amaldicaodi} />
+        <Route path='/550' component={Clubedaluta} />
         <Route path='/55101' component={Oculpado} />
         <Route path='/556018' component={Kv1} />
         <Route path='/557' component={Homemaranha} />
