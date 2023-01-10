@@ -509,6 +509,7 @@ import Psicose from './components/pages2/Psicose';
 import Clubedaluta from './components/pages2/Clubedaluta';
 import Garotas2 from './components/pages2/Garotas2';
 import Cidadededeus from './components/pages2/Cidadededeus';
+import Forrestg from './components/pages2/Forrestg';
 
 
 
@@ -568,6 +569,7 @@ function App() {
         <Route path='/12685' component={Bloodrayne3} />
         <Route path='/127770' component={Apostolopauc} />
         <Route path='/129' component={Aviagemdchi} />
+        <Route path='/13' component={Forrestg} />
         <Route path='/13053' component={Boltsc} />
         <Route path='/131631' component={Jogosve1} />
         <Route path='/131634' component={Jogosvef} />
