@@ -511,6 +511,7 @@ import Garotas2 from './components/pages2/Garotas2';
 import Cidadededeus from './components/pages2/Cidadededeus';
 import Forrestg from './components/pages2/Forrestg';
 import Guerranasestrelas from './components/pages2/Guerranasestrelas';
+import Maldosa from './components/pages2/Maldosas';
 
 
 
@@ -952,6 +953,7 @@ function App() {
         <Route path='/lama' component={Lama} />
         <Route path='/liberdadefm' component={Liberdadefm} />
         <Route path='/magali' component={Magali} />
+        <Route path='/maldosa' component={Maldosa} />
         <Route path='/Megapix' component={Megapix} />
         <Route path='/milena' component={Milena} />
         <Route path='/monica' component={Monica} />
