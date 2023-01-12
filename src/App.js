@@ -512,6 +512,7 @@ import Cidadededeus from './components/pages2/Cidadededeus';
 import Forrestg from './components/pages2/Forrestg';
 import Guerranasestrelas from './components/pages2/Guerranasestrelas';
 import Maldosa from './components/pages2/Maldosas';
+import Interestelar from './components/pages2/Interestelar';
 
 
 
@@ -589,6 +590,7 @@ function App() {
         <Route path='/15357' component={Distrito13o} />
         <Route path='/1537' component={Foradecontrole2} />
         <Route path='/155' component={Batmanct} />
+        <Route path='/157336' component={Interestelar} />        
         <Route path='/157485' component={Aturmadamonica} />
         <Route path='/15941' component={Poderel} />
         <Route path='/16279' component={Amenteqm} />
