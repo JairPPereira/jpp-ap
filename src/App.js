@@ -516,6 +516,7 @@ import Interestelar from './components/pages2/Interestelar';
 import Arcane from './components/pages2/Arcane';
 import Daaz16 from './components/pages2/Daaz16';
 import Alitaac from './components/pages2/Alitaac';
+import Osenhoraaa from './components/pages2/Osenhoraaa';
 
 
 
@@ -568,6 +569,7 @@ function App() {
         <Route path='/11817' component={Omongeapdb} />
         <Route path='/118683' component={Operacoese} />
         <Route path='/11937' component={Osdeusesdel2} />
+        <Route path='/120' component={Osenhoraaa} />
         <Route path='/120143' component={Osquatro1} />
         <Route path='/12085' component={Loucaspade} />
         <Route path='/122' component={Osenhordaaor} />
