@@ -514,6 +514,8 @@ import Guerranasestrelas from './components/pages2/Guerranasestrelas';
 import Maldosa from './components/pages2/Maldosas';
 import Interestelar from './components/pages2/Interestelar';
 import Arcane from './components/pages2/Arcane';
+import Daaz16 from './components/pages2/Daaz16';
+import Alitaac from './components/pages2/Alitaac';
 
 
 
@@ -681,6 +683,7 @@ function App() {
         <Route path='/39414' component={Tempodc} />
         <Route path='/39564' component={Luanegra} />
         <Route path='/399055' component={Aformadaagua} />
+        <Route path='/399579' component={Alitaac} />
         <Route path='/402423' component={Omensageiro} />
         <Route path='/40508' component={Tresninjas} />
         <Route path='/408670' component={Oagentemirim} />
@@ -891,6 +894,7 @@ function App() {
         <Route path='/daaz13' component={Daaz13} />
         <Route path='/daaz14' component={Daaz14} />
         <Route path='/daaz15' component={Daaz15} />
+        <Route path='/daaz16' component={Daaz16} />
         <Route path='/daaz2' component={Daaz2} />
         <Route path='/daaz3' component={Daaz3} />
         <Route path='/daaz4' component={Daaz4} />
