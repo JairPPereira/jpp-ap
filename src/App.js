@@ -513,6 +513,7 @@ import Forrestg from './components/pages2/Forrestg';
 import Guerranasestrelas from './components/pages2/Guerranasestrelas';
 import Maldosa from './components/pages2/Maldosas';
 import Interestelar from './components/pages2/Interestelar';
+import Arcane from './components/pages2/Arcane';
 
 
 
@@ -855,6 +856,7 @@ function App() {
         <Route path='/animacao' component={Animacao} />
         <Route path='/aparelhagens' component={Aparelhagens} />
         <Route path='/atualidade' component={Atualidade} />
+        <Route path='/arcane' component={Arcane} />
         <Route path='/aturmadam24' component={Aturmadam24} />
         <Route path='/aventura' component={Aventura} />
         <Route path='/bandnewfm' component={Bandnewfm} />
