@@ -802,8 +802,8 @@ function App() {
         <Route path='/763164' component={Apex} />
         <Route path='/76600' component={Avataroca} />
         <Route path='/766507' component={Opredadora} />
-        <Route path='/769749' component={Fundingyou} />
         <Route path='/769' component={Osbonsc} />
+        <Route path='/769749' component={Fundingyou} />
         <Route path='/770428' component={Emnomedopai} />
         <Route path='/77067' component={Amorzumbi} />
         <Route path='/774752' component={Guardioesg} />
@@ -855,8 +855,8 @@ function App() {
         <Route path='/alendavm' component={Alendavm} />
         <Route path='/animacao' component={Animacao} />
         <Route path='/aparelhagens' component={Aparelhagens} />
-        <Route path='/atualidade' component={Atualidade} />
         <Route path='/arcane' component={Arcane} />
+        <Route path='/atualidade' component={Atualidade} />
         <Route path='/aturmadam24' component={Aturmadam24} />
         <Route path='/aventura' component={Aventura} />
         <Route path='/bandnewfm' component={Bandnewfm} />
@@ -914,14 +914,14 @@ function App() {
         <Route path='/espn3' component={Espn3} />
         <Route path='/euronews' component={Euronews} />
         <Route path='/falcaosu' component={Falcaosu} />
-        <Route path='/faroeste' component={Faroeste} />
         <Route path='/familiasop' component={Familiasop} />
         <Route path='/fantasia' component={Fantasia} />
+        <Route path='/faroeste' component={Faroeste} />
         <Route path='/ficcao' component={Ficcao} />
         <Route path='/ficcao2' component={Ficcao2} />
         <Route path='/filmesn' component={Filmesn} />
-        <Route path='/flordelizqa' component={Flordelizqa} />
         <Route path='/flordelisenm' component={Flordelisenm} />
+        <Route path='/flordelizqa' component={Flordelizqa} />
         <Route path='/fmodia' component={Fmodia} />
         <Route path='/friends' component={Friends} />
         <Route path='/gabriela' component={Gabriela} />
