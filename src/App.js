@@ -517,6 +517,7 @@ import Arcane from './components/pages2/Arcane';
 import Daaz16 from './components/pages2/Daaz16';
 import Alitaac from './components/pages2/Alitaac';
 import Osenhoraaa from './components/pages2/Osenhoraaa';
+import Round6 from './components/pages2/Round6';
 
 
 
@@ -1009,6 +1010,7 @@ function App() {
         <Route path='/redetv' component={Redetv} />
         <Route path='/rittv' component={Rittv} />
         <Route path='/romance' component={Romance} />
+        <Route path='/round6' component={Round6} />
         <Route path='/ruepa' component={Ruepa} />
         <Route path='/runtimeacao' component={Runtimeacao} />
         <Route path='/runtimecom' component={Runtimecom} />
