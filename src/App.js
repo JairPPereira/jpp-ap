@@ -518,6 +518,8 @@ import Daaz16 from './components/pages2/Daaz16';
 import Alitaac from './components/pages2/Alitaac';
 import Osenhoraaa from './components/pages2/Osenhoraaa';
 import Round6 from './components/pages2/Round6';
+import Missaoqi from './components/pages2/missaoqi';
+import Osequestrodo657 from './components/pages2/Osequestrodo657';
 
 
 
@@ -627,6 +629,7 @@ function App() {
         <Route path='/228968' component={Jogadadm} />
         <Route path='/230179' component={Cacadaaop} />
         <Route path='/231474' component={Oscacadores} />
+        <Route path='/23172' component={Missaoqi} />
         <Route path='/23367' component={Higthschool} />
         <Route path='/23514' component={Diariojb} />
         <Route path='/23520' component={Fungindodopassado} />
@@ -664,6 +667,7 @@ function App() {
         <Route path='/333167' component={Ascensaoeqdui} />
         <Route path='/334527' component={Umnegocioderisco} />
         <Route path='/337404' component={Cruella} />
+        <Route path='/336004' component={Osequestrodo657} />
         <Route path='/337706' component={Mulheresaomar2} />
         <Route path='/338958' component={Adesencantada} />
         <Route path='/339877' component={Comamorv} />
@@ -774,7 +778,7 @@ function App() {
         <Route path='/644495' component={Casag} />
         <Route path='/64689' component={Ohomemdamafia} />
         <Route path='/653024' component={Ocomitedd} />
-        <Route path='/657644' component={Supermurali} />
+        <Route path='/657644' component={Supermurali} />     
         <Route path='/66113' component={Avitimaperfeita} />
         <Route path='/661930' component={Anuvem} />
         <Route path='/664474' component={Epiphaneap} />
