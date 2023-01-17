@@ -522,6 +522,7 @@ import Missaoqi from './components/pages2/missaoqi';
 import Osequestrodo657 from './components/pages2/Osequestrodo657';
 import Ogatodb2 from './components/pages2/Ogatodb2';
 import Opianista from './components/pages2/Opianista';
+import Osenhordadt from './components/pages2/Osenhordadt';
 
 
 
@@ -577,6 +578,7 @@ function App() {
         <Route path='/120' component={Osenhoraaa} />
         <Route path='/120143' component={Osquatro1} />
         <Route path='/12085' component={Loucaspade} />
+        <Route path='/121' component={Osenhordadt} />
         <Route path='/122' component={Osenhordaaor} />
         <Route path='/122800' component={Assasinosdealuguel} />
         <Route path='/12685' component={Bloodrayne3} />
