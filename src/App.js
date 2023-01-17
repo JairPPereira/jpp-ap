@@ -521,6 +521,7 @@ import Round6 from './components/pages2/Round6';
 import Missaoqi from './components/pages2/missaoqi';
 import Osequestrodo657 from './components/pages2/Osequestrodo657';
 import Ogatodb2 from './components/pages2/Ogatodb2';
+import Opianista from './components/pages2/Opianista';
 
 
 
@@ -707,6 +708,7 @@ function App() {
         <Route path='/422821' component={Oprecodg} />
         <Route path='/424' component={Alistads} />
         <Route path='/429' component={Treshomensc} />
+        <Route path='/423' component={Opianista} />
         <Route path='/43549' component={Detencao} />
         <Route path='/438631' component={Duna} />
         <Route path='/44113' component={Homensemfuria} />
