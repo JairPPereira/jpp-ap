@@ -520,6 +520,7 @@ import Osenhoraaa from './components/pages2/Osenhoraaa';
 import Round6 from './components/pages2/Round6';
 import Missaoqi from './components/pages2/missaoqi';
 import Osequestrodo657 from './components/pages2/Osequestrodo657';
+import Ogatodb2 from './components/pages2/Ogatodb2';
 
 
 
@@ -661,6 +662,7 @@ function App() {
         <Route path='/308695' component={Alegiao} />
         <Route path='/309581' component={Lilaee} />
         <Route path='/314405' component={Ocontodoscontos} />
+        <Route path='/315162' component={Ogatodb2} />
         <Route path='/329235' component={Marighela} />
         <Route path='/330070' component={Terraformarsmm} />
         <Route path='/332672' component={Obsessao} />
