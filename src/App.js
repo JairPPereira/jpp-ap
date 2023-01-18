@@ -525,6 +525,7 @@ import Opianista from './components/pages2/Opianista';
 import Osenhordadt from './components/pages2/Osenhordadt';
 import Tumulodv from './components/pages2/Tumulodv';
 import Ossetes from './components/pages2/Ossetes';
+import Eraumavezna from './components/pages2/Eraumavezna';
 
 
 
@@ -667,6 +668,7 @@ function App() {
         <Route path='/303021' component={Osalvador} />
         <Route path='/308695' component={Alegiao} />
         <Route path='/309581' component={Lilaee} />
+        <Route path='/311' component={Eraumavezna} />
         <Route path='/314405' component={Ocontodoscontos} />
         <Route path='/315162' component={Ogatodb2} />
         <Route path='/329235' component={Marighela} />
