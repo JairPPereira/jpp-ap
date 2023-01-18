@@ -524,6 +524,7 @@ import Ogatodb2 from './components/pages2/Ogatodb2';
 import Opianista from './components/pages2/Opianista';
 import Osenhordadt from './components/pages2/Osenhordadt';
 import Tumulodv from './components/pages2/Tumulodv';
+import Ossetes from './components/pages2/Ossetes';
 
 
 
@@ -679,6 +680,7 @@ function App() {
         <Route path='/338958' component={Adesencantada} />
         <Route path='/339877' component={Comamorv} />
         <Route path='/340185' component={Ogritodamorte} />
+        <Route path='/346' component={Ossetes} />
         <Route path='/346684' component={Embuscadaliberdade} />
         <Route path='/346808' component={Momentum} />
         <Route path='/347751' component={Trezec} />
