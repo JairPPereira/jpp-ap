@@ -526,6 +526,7 @@ import Osenhordadt from './components/pages2/Osenhordadt';
 import Tumulodv from './components/pages2/Tumulodv';
 import Ossetes from './components/pages2/Ossetes';
 import Eraumavezna from './components/pages2/Eraumavezna';
+import Operacaoresgate from './components/pages2/Operacaoresgate';
 
 
 
@@ -798,6 +799,7 @@ function App() {
         <Route path='/672772' component={Jogandocomoamor} />
         <Route path='/676' component={Pearlh} />
         <Route path='/680' component={Pulpfiction} />
+        <Route path='/680058' component={Operacaoresgate} />
         <Route path='/68202' component={Cadeoh} />
         <Route path='/68348' component={Arquiteturadd} />
         <Route path='/687354' component={Stretfp} />
