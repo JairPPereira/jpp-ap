@@ -529,6 +529,7 @@ import Eraumavezna from './components/pages2/Eraumavezna';
 import Operacaoresgate from './components/pages2/Operacaoresgate';
 import Umestranhonn from './components/pages2/Umestranhonn';
 import Whiplash from './components/pages2/Whiplash';
+import Aorigem from './components/pages2/Aorigem';
 
 
 
@@ -660,6 +661,7 @@ function App() {
         <Route path='/261037' component={Ajusticeira} />
         <Route path='/270774' component={Foradorumo} />
         <Route path='/271404' component={Alemdohorizonte} />
+        <Route path='/27205' component={Aorigem} />
         <Route path='/272251' component={Xmerc} />
         <Route path='/27582' component={Assasinoapf} />
         <Route path='/277' component={Anjosdanoite} />
