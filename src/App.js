@@ -530,6 +530,7 @@ import Operacaoresgate from './components/pages2/Operacaoresgate';
 import Umestranhonn from './components/pages2/Umestranhonn';
 import Whiplash from './components/pages2/Whiplash';
 import Aorigem from './components/pages2/Aorigem';
+import Ocasteloanimado from './components/pages2/Ocasteloanimado';
 
 
 
@@ -745,6 +746,7 @@ function App() {
         <Route path='/480408' component={Amoresdc} />
         <Route path='/49014' component={Cosmopolis} />
         <Route path='/49021' component={Ospecialistas} />
+        <Route path='/4935' component={Ocasteloanimado} />
         <Route path='/495386' component={Entreoamoreafama} />
         <Route path='/496243' component={Parasita} />
         <Route path='/497' component={Aesperadum} />
