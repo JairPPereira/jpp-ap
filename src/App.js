@@ -528,6 +528,7 @@ import Ossetes from './components/pages2/Ossetes';
 import Eraumavezna from './components/pages2/Eraumavezna';
 import Operacaoresgate from './components/pages2/Operacaoresgate';
 import Umestranhonn from './components/pages2/Umestranhonn';
+import Whiplash from './components/pages2/Whiplash';
 
 
 
@@ -646,6 +647,7 @@ function App() {
         <Route path='/236735' component={Pecadosals} />
         <Route path='/238' component={Opoderosoc} />
         <Route path='/240' component={OpoderosocII} />
+        <Route path='/244786' component={Whiplash} />
         <Route path='/245842' component={Afilhadorei} />
         <Route path='/250546' component={Annabelle} />
         <Route path='/253020' component={Aestrada47} />
