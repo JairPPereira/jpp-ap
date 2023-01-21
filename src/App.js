@@ -532,6 +532,7 @@ import Whiplash from './components/pages2/Whiplash';
 import Aorigem from './components/pages2/Aorigem';
 import Ocasteloanimado from './components/pages2/Ocasteloanimado';
 import Btsbs from './components/pages2/Btsbs';
+import Matrix from './components/pages2/Matrix';
 
 
 
@@ -786,6 +787,7 @@ function App() {
         <Route path='/58448' component={Nocaute} />
         <Route path='/589157' component={Linewalker2} />
         <Route path='/598' component={Cidadededeus} />
+        <Route path='/603' component={Matrix} />
         <Route path='/60420' component={Loucamenteapaixonados} />
         <Route path='/61037' component={Campeoesdos} />
         <Route path='/611207' component={Umpassadodepresente} />
