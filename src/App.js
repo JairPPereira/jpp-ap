@@ -531,6 +531,7 @@ import Umestranhonn from './components/pages2/Umestranhonn';
 import Whiplash from './components/pages2/Whiplash';
 import Aorigem from './components/pages2/Aorigem';
 import Ocasteloanimado from './components/pages2/Ocasteloanimado';
+import Btsbs from './components/pages2/Btsbs';
 
 
 
@@ -788,6 +789,7 @@ function App() {
         <Route path='/60420' component={Loucamenteapaixonados} />
         <Route path='/61037' component={Campeoesdos} />
         <Route path='/611207' component={Umpassadodepresente} />
+        <Route path='/611291' component={Btsbs} />
         <Route path='/613911' component={Blissebf} />
         <Route path='/614934' component={Elvis} />
         <Route path='/622585' component={Aslegioese} />
