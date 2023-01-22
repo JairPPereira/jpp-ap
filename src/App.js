@@ -534,6 +534,7 @@ import Ocasteloanimado from './components/pages2/Ocasteloanimado';
 import Btsbs from './components/pages2/Btsbs';
 import Matrix from './components/pages2/Matrix';
 import Joseetp from './components/pages2/Joseetp';
+import Osilenciodi from './components/pages2/Osilenciodi';
 
 
 
@@ -667,6 +668,7 @@ function App() {
         <Route path='/271404' component={Alemdohorizonte} />
         <Route path='/27205' component={Aorigem} />
         <Route path='/272251' component={Xmerc} />
+        <Route path='/274' component={Osilenciodi} />
         <Route path='/27582' component={Assasinoapf} />
         <Route path='/277' component={Anjosdanoite} />
         <Route path='/278' component={Umsonhodeliberdade} />
