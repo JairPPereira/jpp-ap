@@ -15,7 +15,7 @@ export default function Osilenciodi() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedder.net/e/movie?imdb=tt0102926"
+        src="https://ok.ru/videoembed/4228401007253"
         target="_blank"
         scrolling="no"
         data-draggable="none"
