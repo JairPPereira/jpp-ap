@@ -533,6 +533,7 @@ import Aorigem from './components/pages2/Aorigem';
 import Ocasteloanimado from './components/pages2/Ocasteloanimado';
 import Btsbs from './components/pages2/Btsbs';
 import Matrix from './components/pages2/Matrix';
+import Joseetp from './components/pages2/Joseetp';
 
 
 
@@ -802,6 +803,7 @@ function App() {
         <Route path='/637' component={Avidaebela} />
         <Route path='/644495' component={Casag} />
         <Route path='/64689' component={Ohomemdamafia} />
+        <Route path='/652837' component={Joseetp} />
         <Route path='/653024' component={Ocomitedd} />
         <Route path='/657644' component={Supermurali} />     
         <Route path='/66113' component={Avitimaperfeita} />
