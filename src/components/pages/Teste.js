@@ -14,7 +14,7 @@ class Teste extends Component {
     player = {}
     state = {
         video: {
-            src: "https://live-lib-pa-02.video.globo.com/d/s/hls-globo-bel/playlist.m3u8?h=0401664579234125544867216644928341224982397brXerbwzJWJPMiiVacNo-Q&k=html5&a=F&u=86b5c605-29bd-49ee-94fd-38157902dfa7",
+            src: "https://live-lib-pa-01.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtbGliLXBhLTAxLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTY3NDU3MDUwNCwiaWF0IjoxNjc0NDg0MTA0LCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvd25lciI6Ijg2YjVjNjA1LTI5YmQtNDllZS05NGZkLTM4MTU3OTAyZGZhNyIsInBhdGgiOiIvZC9jLzJ4L3MvaGxzLWdsb2JvLWJlbC9wbGF5bGlzdC5tM3U4In0.lhnVQeCRM3ZMTgLwHY-9VFjJcEXDieP9yJtQVsWO4Td9Mi3OAXVWi2WVk3RI1wglcmTHg8gYaiGwGDNLDIDKFSoLNeMmQNehc8qtgwQBfYAQLr9nH2D5ENVQyhGYa2E1ESlHSKUoANu1P2a_xxq7hrErhKU7qTn-zmPMoPmPqQ2YG53dnQyBKtIpE-FMu52oVirna13i5d_pQaStgQ5vnFJdTy56IRfXIUsyXtTkuimkIqNMcX5II4y7DFawtmQDazGIrwFlfb6KvG9xle-qqkxZ6DEce7p9kMJtRUdg2nK119Fju_gARcMrxurzHPsEGc-M2PH3aiJlhnrsl0fHAQ/d/c/2x/s/hls-globo-bel/hls-globo-bel_655/playlist.m3u8",
             crossorigin: "anonymous",
 
             poster: "https://upload.wikimedia.org/wikipedia/pt/thumb/b/b8/Logotipo_da_Rede_Liberal.png/200px-Logotipo_da_Rede_Liberal.png"
