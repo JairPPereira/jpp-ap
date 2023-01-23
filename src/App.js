@@ -535,6 +535,8 @@ import Btsbs from './components/pages2/Btsbs';
 import Matrix from './components/pages2/Matrix';
 import Joseetp from './components/pages2/Joseetp';
 import Osilenciodi from './components/pages2/Osilenciodi';
+import Drama4 from './components/pages2/Drama4';
+import Oresgater from './components/pages2/Oresgater';
 
 
 
@@ -867,6 +869,7 @@ function App() {
         <Route path='/851644' component={Garotas2} />
         <Route path='/852592' component={Centauro} />
         <Route path='/853666' component={Jesuskid} />
+        <Route path='/857' component={Oresgater} />
         <Route path='/858815' component={Asfotosv} />
         <Route path='/875303' component={Amordoentio} />
         <Route path='/877269' component={Mundoestranho} />
@@ -950,6 +953,7 @@ function App() {
         <Route path='/drama' component={Drama} />
         <Route path='/drama2' component={Drama2} />
         <Route path='/drama3' component={Drama3} />
+        <Route path='/drama4' component={Drama4} />
         <Route path='/espn' component={Espn} />
         <Route path='/espn2' component={Espn2} />
         <Route path='/espn3' component={Espn3} />
