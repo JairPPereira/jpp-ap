@@ -537,6 +537,8 @@ import Joseetp from './components/pages2/Joseetp';
 import Osilenciodi from './components/pages2/Osilenciodi';
 import Drama4 from './components/pages2/Drama4';
 import Oresgater from './components/pages2/Oresgater';
+import Daaz17 from './components/pages2/Daaz17';
+import Oaltodc from './components/pages2/Oaltodc';
 
 
 
@@ -716,6 +718,7 @@ function App() {
         <Route path='/39564' component={Luanegra} />
         <Route path='/399055' component={Aformadaagua} />
         <Route path='/399579' component={Alitaac} />
+        <Route path='/40096' component={Oaltodc} />
         <Route path='/402423' component={Omensageiro} />
         <Route path='/40508' component={Tresninjas} />
         <Route path='/408670' component={Oagentemirim} />
@@ -935,6 +938,7 @@ function App() {
         <Route path='/daaz14' component={Daaz14} />
         <Route path='/daaz15' component={Daaz15} />
         <Route path='/daaz16' component={Daaz16} />
+        <Route path='/daaz17' component={Daaz17} />
         <Route path='/daaz2' component={Daaz2} />
         <Route path='/daaz3' component={Daaz3} />
         <Route path='/daaz4' component={Daaz4} />
