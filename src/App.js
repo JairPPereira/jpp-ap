@@ -539,6 +539,7 @@ import Drama4 from './components/pages2/Drama4';
 import Oresgater from './components/pages2/Oresgater';
 import Daaz17 from './components/pages2/Daaz17';
 import Oaltodc from './components/pages2/Oaltodc';
+import Sevenscc from './components/pages2/Sevenscc';
 
 
 
@@ -862,6 +863,7 @@ function App() {
         <Route path='/800410' component={Oparamo} />
         <Route path='/80299' component={Passagempav} />
         <Route path='/80544' component={Desejodn} />
+        <Route path='/807' component={Sevenscc} />
         <Route path='/81488' component={Mamonasps} />
         <Route path='/818647' component={Atravesdmj} />
         <Route path='/82687' component={Minhamaeeumaviagem} />
