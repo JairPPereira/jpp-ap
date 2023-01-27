@@ -830,8 +830,8 @@ function App() {
         <Route path='/707214' component={Ateofinal} />
         <Route path='/71211' component={Beladonna} />
         <Route path='/725201' component={Agenteo} />
-        <Route path='/7304' component={Aoutraha} />
-        <Route path='/73' component={Norastrodb} />
+        <Route path='/73' component={Aoutraha} />
+        <Route path='/7304' component={Norastrodb} />
         <Route path='/734265' component={Ummatchsurpresa} />
         <Route path='/7347' component={Tropadeelite} />
         <Route path='/73499' component={Codinome7} />
