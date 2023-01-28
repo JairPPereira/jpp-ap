@@ -541,6 +541,7 @@ import Daaz17 from './components/pages2/Daaz17';
 import Oaltodc from './components/pages2/Oaltodc';
 import Sevenscc from './components/pages2/Sevenscc';
 import Aoutraha from './components/pages2/Aoutraha';
+import Oxterminadorf2jf from './components/pages2/Oexterminadorf2jf';
 
 
 
@@ -679,6 +680,7 @@ function App() {
         <Route path='/277' component={Anjosdanoite} />
         <Route path='/278' component={Umsonhodeliberdade} />
         <Route path='/27845' component={Pontodeencontro} />
+        <Route path='/280' component={Oxterminadorf2jf} />
         <Route path='/284289' component={Foradealcance} />
         <Route path='/296096' component={Comoeuera} />
         <Route path='/300168' component={Batalhadosimperios} />
