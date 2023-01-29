@@ -542,6 +542,7 @@ import Oaltodc from './components/pages2/Oaltodc';
 import Sevenscc from './components/pages2/Sevenscc';
 import Aoutraha from './components/pages2/Aoutraha';
 import Oxterminadorf2jf from './components/pages2/Oexterminadorf2jf';
+import Oprofissional from './components/pages2/Oprofissional';
 
 
 
@@ -569,6 +570,7 @@ function App() {
       <Navbar />
       <Switch>
         <Route path='/' exact component={Home} />
+        <Route path='/101' component={Oprofissional} />
         <Route path='/101299' component={Jogosvec} />
         <Route path='/1022206' component={Esposada} />
         <Route path='/10229' component={Umamorprarecordar} />
