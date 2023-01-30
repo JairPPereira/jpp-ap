@@ -543,6 +543,7 @@ import Sevenscc from './components/pages2/Sevenscc';
 import Aoutraha from './components/pages2/Aoutraha';
 import Oxterminadorf2jf from './components/pages2/Oexterminadorf2jf';
 import Oprofissional from './components/pages2/Oprofissional';
+import Viagemmaldita from './components/pages2/viagemmaldita';
 
 
 
@@ -897,6 +898,7 @@ function App() {
         <Route path='/961707' component={Hawa} />
         <Route path='/96933' component={Porquees} />
         <Route path='/9776' component={Umpobretaoncsb} />
+        <Route path='/9792' component={Viagemmaldita} />
         <Route path='/9869' component={Patriotgames} />
         <Route path='/989937' component={Nanatsu1} />
         <Route path='/9978' component={Alexrct} />
