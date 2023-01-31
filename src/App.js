@@ -545,6 +545,7 @@ import Oxterminadorf2jf from './components/pages2/Oexterminadorf2jf';
 import Oprofissional from './components/pages2/Oprofissional';
 import Viagemmaldita from './components/pages2/viagemmaldita';
 import Vingadoresu from './components/pages2/Vingadoresu';
+import Joltff from './components/pages2/Joltff';
 
 
 
@@ -811,6 +812,7 @@ function App() {
         <Route path='/611291' component={Btsbs} />
         <Route path='/613911' component={Blissebf} />
         <Route path='/614934' component={Elvis} />
+        <Route path='/617502' component={Joltff} />
         <Route path='/622585' component={Aslegioese} />
         <Route path='/624860' component={Matrixr} />
         <Route path='/63' component={Osdozemacacos} />
