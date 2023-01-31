@@ -544,6 +544,7 @@ import Aoutraha from './components/pages2/Aoutraha';
 import Oxterminadorf2jf from './components/pages2/Oexterminadorf2jf';
 import Oprofissional from './components/pages2/Oprofissional';
 import Viagemmaldita from './components/pages2/viagemmaldita';
+import Vingadoresu from './components/pages2/Vingadoresu';
 
 
 
@@ -686,6 +687,7 @@ function App() {
         <Route path='/280' component={Oxterminadorf2jf} />
         <Route path='/284289' component={Foradealcance} />
         <Route path='/296096' component={Comoeuera} />
+        <Route path='/299534' component={Vingadoresu} />
         <Route path='/300168' component={Batalhadosimperios} />
         <Route path='/302401' component={Snowdenht} />
         <Route path='/303021' component={Osalvador} />
