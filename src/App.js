@@ -546,6 +546,7 @@ import Oprofissional from './components/pages2/Oprofissional';
 import Viagemmaldita from './components/pages2/viagemmaldita';
 import Vingadoresu from './components/pages2/Vingadoresu';
 import Joltff from './components/pages2/Joltff';
+import Omilagredc7 from './components/pages2/Omilagredc7';
 
 
 
@@ -819,6 +820,7 @@ function App() {
         <Route path='/631843' component={Tempo} />
         <Route path='/63699' component={Federal} />
         <Route path='/637' component={Avidaebela} />
+        <Route path='/637920' component={Omilagredc7} />
         <Route path='/644495' component={Casag} />
         <Route path='/64689' component={Ohomemdamafia} />
         <Route path='/652837' component={Joseetp} />
