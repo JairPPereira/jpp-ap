@@ -547,6 +547,7 @@ import Viagemmaldita from './components/pages2/viagemmaldita';
 import Vingadoresu from './components/pages2/Vingadoresu';
 import Joltff from './components/pages2/Joltff';
 import Omilagredc7 from './components/pages2/Omilagredc7';
+import Omenu from './components/pages2/Omenu';
 
 
 
@@ -805,6 +806,7 @@ function App() {
         <Route path='/579872' component={Aviuvads} />
         <Route path='/58448' component={Nocaute} />
         <Route path='/589157' component={Linewalker2} />
+        <Route path='/593643' component={Omenu} />
         <Route path='/598' component={Cidadededeus} />
         <Route path='/603' component={Matrix} />
         <Route path='/60420' component={Loucamenteapaixonados} />
