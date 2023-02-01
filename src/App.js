@@ -548,6 +548,7 @@ import Vingadoresu from './components/pages2/Vingadoresu';
 import Joltff from './components/pages2/Joltff';
 import Omilagredc7 from './components/pages2/Omilagredc7';
 import Omenu from './components/pages2/Omenu';
+import Boatekiss from './components/pages2/Boatekiss';
 
 
 
@@ -928,6 +929,7 @@ function App() {
         <Route path='/bandnews2' component={Bandnews2} />
         <Route path='/bandsp' component={Bandsp} />
         <Route path='/bmcnews' component={Bmcnews} />
+        <Route path='/boatekiss' component={Boatekiss} />
         <Route path='/boasnovas' component={Boasnovas} />
         <Route path='/buffyacv' component={Buffyacv} />
         <Route path='/calculoiv' component={Calculoiv} />
