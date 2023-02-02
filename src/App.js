@@ -549,6 +549,7 @@ import Joltff from './components/pages2/Joltff';
 import Omilagredc7 from './components/pages2/Omilagredc7';
 import Omenu from './components/pages2/Omenu';
 import Boatekiss from './components/pages2/Boatekiss';
+import Tudoetlmt from './components/pages2/Tudoetlmt';
 
 
 
@@ -797,6 +798,7 @@ function App() {
         <Route path='/537061' component={Stevenu} />
         <Route path='/539' component={Psicose} />
         <Route path='/540291' component={Amaldicaodi} />
+        <Route path='/545611' component={Tudoetlmt} />
         <Route path='/550' component={Clubedaluta} />
         <Route path='/55101' component={Oculpado} />
         <Route path='/556018' component={Kv1} />
