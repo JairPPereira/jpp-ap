@@ -550,6 +550,7 @@ import Omilagredc7 from './components/pages2/Omilagredc7';
 import Omenu from './components/pages2/Omenu';
 import Boatekiss from './components/pages2/Boatekiss';
 import Tudoetlmt from './components/pages2/Tudoetlmt';
+import Homemaranhanav from './components/pages2/Homemaranhanav';
 
 
 
@@ -702,6 +703,7 @@ function App() {
         <Route path='/314405' component={Ocontodoscontos} />
         <Route path='/315162' component={Ogatodb2} />
         <Route path='/329235' component={Marighela} />
+        <Route path='/324857' component={Homemaranhanav} />
         <Route path='/330070' component={Terraformarsmm} />
         <Route path='/332672' component={Obsessao} />
         <Route path='/333167' component={Ascensaoeqdui} />
