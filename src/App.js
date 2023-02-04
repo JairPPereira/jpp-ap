@@ -553,6 +553,7 @@ import Tudoetlmt from './components/pages2/Tudoetlmt';
 import Homemaranhanav from './components/pages2/Homemaranhanav';
 import Gladiador from './components/pages2/Gladiador';
 import Oldboydv from './components/pages2/Oldboydv';
+import Osinfiltrados from './components/pages2/Osinfiltrados';
 
 
 
@@ -628,6 +629,7 @@ function App() {
         <Route path='/13805' component={Superhli} />
         <Route path='/1399' component={Gameoftr} />
         <Route path='/1402' component={Thewd} />
+        <Route path='/1422' component={Osinfiltrados} />
         <Route path='/14655' component={Soulmen} />
         <Route path='/146631' component={Assasinosde} />
         <Route path='/152795' component={Ocongressof} />
