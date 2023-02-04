@@ -551,6 +551,7 @@ import Omenu from './components/pages2/Omenu';
 import Boatekiss from './components/pages2/Boatekiss';
 import Tudoetlmt from './components/pages2/Tudoetlmt';
 import Homemaranhanav from './components/pages2/Homemaranhanav';
+import Gladiador from './components/pages2/Gladiador';
 
 
 
@@ -912,6 +913,7 @@ function App() {
         <Route path='/96933' component={Porquees} />
         <Route path='/9776' component={Umpobretaoncsb} />
         <Route path='/9792' component={Viagemmaldita} />
+        <Route path='/98' component={Gladiador} />
         <Route path='/9869' component={Patriotgames} />
         <Route path='/989937' component={Nanatsu1} />
         <Route path='/9978' component={Alexrct} />
