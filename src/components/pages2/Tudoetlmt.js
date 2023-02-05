@@ -15,7 +15,7 @@ export default function Tudoetlmt() {
             <Row>
               <Col>
       <Iframe
-        src="https://api.cdnproxy.tk/v.php?id=tt6710474"
+        src="https://embedder.net/e/movie?imdb=tt6710474"
         target="_blank"
         scrolling="no"
         data-draggable="none"
