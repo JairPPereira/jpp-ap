@@ -554,6 +554,7 @@ import Homemaranhanav from './components/pages2/Homemaranhanav';
 import Gladiador from './components/pages2/Gladiador';
 import Oldboydv from './components/pages2/Oldboydv';
 import Osinfiltrados from './components/pages2/Osinfiltrados';
+import Devoltapf from './components/pages2/Devoltapf';
 
 
 
@@ -588,6 +589,7 @@ function App() {
         <Route path='/1024530' component={Omemedomal} />
         <Route path='/1026624' component={Mucholocosn} />
         <Route path='/10358' component={Pagandobqmt} />
+        <Route path='/105' component={Devoltapf} />
         <Route path='/10534' component={Tormenta} />
         <Route path='/106646' component={Olobodw} />
         <Route path='/10726' component={Psicopataamericano2} />
