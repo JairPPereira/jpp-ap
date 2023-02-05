@@ -555,6 +555,7 @@ import Gladiador from './components/pages2/Gladiador';
 import Oldboydv from './components/pages2/Oldboydv';
 import Osinfiltrados from './components/pages2/Osinfiltrados';
 import Devoltapf from './components/pages2/Devoltapf';
+import Acriada from './components/pages2/Acriada';
 
 
 
@@ -698,6 +699,7 @@ function App() {
         <Route path='/27845' component={Pontodeencontro} />
         <Route path='/280' component={Oxterminadorf2jf} />
         <Route path='/284289' component={Foradealcance} />
+        <Route path='/290098' component={Acriada} />
         <Route path='/296096' component={Comoeuera} />
         <Route path='/299534' component={Vingadoresu} />
         <Route path='/300168' component={Batalhadosimperios} />
