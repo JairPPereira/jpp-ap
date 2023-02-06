@@ -556,6 +556,7 @@ import Oldboydv from './components/pages2/Oldboydv';
 import Osinfiltrados from './components/pages2/Osinfiltrados';
 import Devoltapf from './components/pages2/Devoltapf';
 import Acriada from './components/pages2/Acriada';
+import Teenwolf from './components/pages2/Teenwolf';
 
 
 
@@ -907,6 +908,7 @@ function App() {
         <Route path='/87516' component={Oldboydv} />
         <Route path='/875303' component={Amordoentio} />
         <Route path='/877269' component={Mundoestranho} />
+        <Route path='/877703' component={Teenwolf} />
         <Route path='/890980' component={Aslinhastdd} />
         <Route path='/8922' component={Olhosfamintos} />
         <Route path='/893656' component={Gracinha} />
