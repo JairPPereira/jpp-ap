@@ -557,6 +557,7 @@ import Osinfiltrados from './components/pages2/Osinfiltrados';
 import Devoltapf from './components/pages2/Devoltapf';
 import Acriada from './components/pages2/Acriada';
 import Teenwolf from './components/pages2/Teenwolf';
+import Bastardosi from './components/pages2/Bastardosi';
 
 
 
@@ -647,6 +648,7 @@ function App() {
         <Route path='/164331' component={Aranhas} />
         <Route path='/164457' component={Tudoporjustica} />
         <Route path='/1654' component={Osdozec} />
+        <Route path='/16869' component={Bastardosi} />
         <Route path='/17577' component={Atumbadodiabo} />
         <Route path='/178809' component={Acolonia} />
         <Route path='/184125' component={Homemcws} />
