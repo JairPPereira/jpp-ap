@@ -11,7 +11,7 @@ function Home() {
   const [movies, setMovies] = useState([])
 
   useEffect(() => {
-    fetch(`https://api.themoviedb.org/4/list/8233101?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
+    fetch(`https://api.themoviedb.org/4/list/8234266?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
     .then(response => response.json())
     .then(data => {
       setMovies(data.results)
@@ -38,11 +38,11 @@ function Home() {
  
         <center>
         <div class="btn-group" role="group" aria-label="Exemplo básico">
-        <Link to="/daaz13"><Button variant="primary" size="lg" width="80%">
+        <Link to="/daaz14"><Button variant="primary" size="lg" width="80%">
           Anterior
         </Button></Link>
  
-  <Link to="/daaz15"><Button variant="primary" size="lg" width="80%">
+  <Link to="/daaz16"><Button variant="primary" size="lg" width="80%">
           Proxima
         </Button></Link>
 </div></center>

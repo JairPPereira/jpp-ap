@@ -39,7 +39,7 @@ function Todosf() {
       
       <center>
         <div class="btn-group" role="group" aria-label="Exemplo básico">
-        <Link to="/daaz17"><Button variant="primary" size="lg" width="80%">
+        <Link to="/daaz18"><Button variant="primary" size="lg" width="80%">
          Anterior
         </Button></Link>
  

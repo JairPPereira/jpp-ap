@@ -559,6 +559,7 @@ import Acriada from './components/pages2/Acriada';
 import Teenwolf from './components/pages2/Teenwolf';
 import Bastardosi from './components/pages2/Bastardosi';
 import Ograndetruque from './components/pages2/Ograndetruque';
+import Daaz18 from './components/pages2/Daaz18';
 
 
 
@@ -979,6 +980,7 @@ function App() {
         <Route path='/daaz15' component={Daaz15} />
         <Route path='/daaz16' component={Daaz16} />
         <Route path='/daaz17' component={Daaz17} />
+        <Route path='/daaz18' component={Daaz18} />
         <Route path='/daaz2' component={Daaz2} />
         <Route path='/daaz3' component={Daaz3} />
         <Route path='/daaz4' component={Daaz4} />
