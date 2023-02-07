@@ -558,6 +558,7 @@ import Devoltapf from './components/pages2/Devoltapf';
 import Acriada from './components/pages2/Acriada';
 import Teenwolf from './components/pages2/Teenwolf';
 import Bastardosi from './components/pages2/Bastardosi';
+import Ograndetruque from './components/pages2/Ograndetruque';
 
 
 
@@ -603,6 +604,7 @@ function App() {
         <Route path='/11162' component={Omercadordv} />
         <Route path='/11215' component={Presentegrego} />
         <Route path='/11216' component={Cinemap} />
+        <Route path='/1124' component={Ograndetruque} />
         <Route path='/112205' component={Afamilia} />
         <Route path='/11327' component={Expressomn} />
         <Route path='/114' component={Umalindamulher} />
