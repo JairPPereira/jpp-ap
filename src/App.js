@@ -560,6 +560,7 @@ import Teenwolf from './components/pages2/Teenwolf';
 import Bastardosi from './components/pages2/Bastardosi';
 import Ograndetruque from './components/pages2/Ograndetruque';
 import Daaz18 from './components/pages2/Daaz18';
+import Afelicidadensc from './components/pages2/Afelicidadensc';
 
 
 
@@ -646,6 +647,7 @@ function App() {
         <Route path='/155' component={Batmanct} />
         <Route path='/157336' component={Interestelar} />        
         <Route path='/157485' component={Aturmadamonica} />
+        <Route path='/1585' component={Afelicidadensc} />
         <Route path='/15941' component={Poderel} />
         <Route path='/16279' component={Amenteqm} />
         <Route path='/164331' component={Aranhas} />
