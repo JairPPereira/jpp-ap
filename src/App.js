@@ -562,6 +562,7 @@ import Ograndetruque from './components/pages2/Ograndetruque';
 import Daaz18 from './components/pages2/Daaz18';
 import Afelicidadensc from './components/pages2/Afelicidadensc';
 import Ossuspeitos from './components/pages2/Ossuspeitos';
+import Ojogodaimitacao from './components/pages2/Ojogodaimitacao';
 
 
 
@@ -668,6 +669,7 @@ function App() {
         <Route path='/199591' component={Presane} />
         <Route path='/20435' component={Otremdamorte} />
         <Route path='/2046' component={Odomdp} />
+        <Route path='/205596' component={Ojogodaimitacao} />
         <Route path='/209504' component={Cacadoresderecompensas} />
         <Route path='/212778' component={Chef} />
         <Route path='/221731' component={Samurayx2} />
