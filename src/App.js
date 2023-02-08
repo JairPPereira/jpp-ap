@@ -561,6 +561,7 @@ import Bastardosi from './components/pages2/Bastardosi';
 import Ograndetruque from './components/pages2/Ograndetruque';
 import Daaz18 from './components/pages2/Daaz18';
 import Afelicidadensc from './components/pages2/Afelicidadensc';
+import Ossuspeitos from './components/pages2/Ossuspeitos';
 
 
 
@@ -839,6 +840,7 @@ function App() {
         <Route path='/617502' component={Joltff} />
         <Route path='/622585' component={Aslegioese} />
         <Route path='/624860' component={Matrixr} />
+        <Route path='/629' component={Ossuspeitos} />
         <Route path='/63' component={Osdozemacacos} />
         <Route path='/631843' component={Tempo} />
         <Route path='/63699' component={Federal} />
