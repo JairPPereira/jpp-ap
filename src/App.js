@@ -563,6 +563,8 @@ import Daaz18 from './components/pages2/Daaz18';
 import Afelicidadensc from './components/pages2/Afelicidadensc';
 import Ossuspeitos from './components/pages2/Ossuspeitos';
 import Ojogodaimitacao from './components/pages2/Ojogodaimitacao';
+import Crime2 from './components/pages2/Crime2';
+import Oodioquevs from './components/pages2/Oodioquevs';
 
 
 
@@ -784,6 +786,7 @@ function App() {
         <Route path='/459075' component={Bravestorm} />
         <Route path='/460458' component={Residentevilbem} />
         <Route path='/461958' component={Coragemparaamar} />
+        <Route path='/470044' component={Oodioquevs} />
         <Route path='/47089' component={Ocaminhodn} />
         <Route path='/47533' component={Scooby} />
         <Route path='/476299' component={Acasadomedo} />
@@ -977,6 +980,7 @@ function App() {
         <Route path='/conmebol2' component={Conmebol2} />
         <Route path='/conmebol3' component={Conmebol3} />
         <Route path='/crime' component={Crime} />
+        <Route path='/crime2' component={Crime2} />
         <Route path='/daaz' component={Daaz} />
         <Route path='/daaz10' component={Daaz10} />
         <Route path='/daaz11' component={Daaz11} />
