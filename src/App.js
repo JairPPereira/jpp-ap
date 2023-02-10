@@ -565,6 +565,7 @@ import Ossuspeitos from './components/pages2/Ossuspeitos';
 import Ojogodaimitacao from './components/pages2/Ojogodaimitacao';
 import Crime2 from './components/pages2/Crime2';
 import Oodioquevs from './components/pages2/Oodioquevs';
+import Ailhadomedo from './components/pages2/Ailhadomedo';
 
 
 
@@ -612,6 +613,7 @@ function App() {
         <Route path='/11216' component={Cinemap} />
         <Route path='/1124' component={Ograndetruque} />
         <Route path='/112205' component={Afamilia} />
+        <Route path='/11324' component={Ailhadomedo} />
         <Route path='/11327' component={Expressomn} />
         <Route path='/114' component={Umalindamulher} />
         <Route path='/116' component={Pontofinal} />
