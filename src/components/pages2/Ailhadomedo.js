@@ -15,7 +15,7 @@ export default function Ailhadomedo() {
             <Row>
               <Col>
       <Iframe
-        src="https://ok.ru/videoembed/5027948464688"
+        src="https://embedder.net/e/movie?imdb=tt1130884"
         target="_blank"
         scrolling="no"
         data-draggable="none"
