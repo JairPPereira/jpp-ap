@@ -566,6 +566,9 @@ import Ojogodaimitacao from './components/pages2/Ojogodaimitacao';
 import Crime2 from './components/pages2/Crime2';
 import Oodioquevs from './components/pages2/Oodioquevs';
 import Ailhadomedo from './components/pages2/Ailhadomedo';
+import Thriller from './components/pages2/Thriller';
+import Thriller2 from './components/pages2/Thriller2';
+import Amnesia from './components/pages2/Amnesias';
 
 
 
@@ -895,6 +898,7 @@ function App() {
         <Route path='/766507' component={Opredadora} />
         <Route path='/769' component={Osbonsc} />
         <Route path='/769749' component={Fundingyou} />
+        <Route path='/77' component={Amnesia} />
         <Route path='/770428' component={Emnomedopai} />
         <Route path='/77067' component={Amorzumbi} />
         <Route path='/774752' component={Guardioesg} />
@@ -1130,6 +1134,8 @@ function App() {
         <Route path='/teste' component={Teste} />
         <Route path='/teste2' component={Teste2} />
         <Route path='/teste3' component={Teste3} />
+        <Route path='/thriller' component={Thriller} />
+        <Route path='/thriller2' component={Thriller2} />
         <Route path='/Tnts1' component={Tnts1} />
         <Route path='/tntsport2' component={Tntsport2} />
         <Route path='/Tntsports5' component={Tntsport5} />
