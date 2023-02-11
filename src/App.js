@@ -569,6 +569,7 @@ import Ailhadomedo from './components/pages2/Ailhadomedo';
 import Thriller from './components/pages2/Thriller';
 import Thriller2 from './components/pages2/Thriller2';
 import Amnesia from './components/pages2/Amnesias';
+import Odonodojogo from './components/pages2/Odonodojogo';
 
 
 
@@ -696,6 +697,7 @@ function App() {
         <Route path='/238' component={Opoderosoc} />
         <Route path='/240' component={OpoderosocII} />
         <Route path='/244786' component={Whiplash} />
+        <Route path='/245698' component={Odonodojogo} />
         <Route path='/245842' component={Afilhadorei} />
         <Route path='/250546' component={Annabelle} />
         <Route path='/253020' component={Aestrada47} />
