@@ -570,6 +570,7 @@ import Thriller from './components/pages2/Thriller';
 import Thriller2 from './components/pages2/Thriller2';
 import Amnesia from './components/pages2/Amnesias';
 import Odonodojogo from './components/pages2/Odonodojogo';
+import Dozeanosde from './components/pages2/Dozeanosde';
 
 
 
@@ -895,6 +896,7 @@ function App() {
         <Route path='/759175' component={Aprincesa} />
         <Route path='/75948' component={Alendadmc} />
         <Route path='/76163' component={Osmercenarios2} />
+        <Route path='/76203' component={Dozeanosde} />
         <Route path='/763164' component={Apex} />
         <Route path='/76600' component={Avataroca} />
         <Route path='/766507' component={Opredadora} />
