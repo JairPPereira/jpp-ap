@@ -571,6 +571,7 @@ import Thriller2 from './components/pages2/Thriller2';
 import Amnesia from './components/pages2/Amnesias';
 import Odonodojogo from './components/pages2/Odonodojogo';
 import Dozeanosde from './components/pages2/Dozeanosde';
+import Ateoultimoh from './components/pages2/Ateoultimoh';
 
 
 
@@ -732,6 +733,7 @@ function App() {
         <Route path='/314405' component={Ocontodoscontos} />
         <Route path='/315162' component={Ogatodb2} />
         <Route path='/329235' component={Marighela} />
+        <Route path='/324786' component={Ateoultimoh} />
         <Route path='/324857' component={Homemaranhanav} />
         <Route path='/330070' component={Terraformarsmm} />
         <Route path='/332672' component={Obsessao} />
