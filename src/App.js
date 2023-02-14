@@ -572,6 +572,7 @@ import Amnesia from './components/pages2/Amnesias';
 import Odonodojogo from './components/pages2/Odonodojogo';
 import Dozeanosde from './components/pages2/Dozeanosde';
 import Ateoultimoh from './components/pages2/Ateoultimoh';
+import Casamentoa from './components/pages2/Casamentoa';
 
 
 
@@ -895,6 +896,7 @@ function App() {
         <Route path='/74549' component={Osegredo} />
         <Route path='/747803' component={Bilhetedefuga} />
         <Route path='/7553' component={Ahoradr} />
+        <Route path='/758009' component={Casamentoa} />
         <Route path='/759175' component={Aprincesa} />
         <Route path='/75948' component={Alendadmc} />
         <Route path='/76163' component={Osmercenarios2} />
