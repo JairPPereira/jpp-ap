@@ -573,6 +573,7 @@ import Odonodojogo from './components/pages2/Odonodojogo';
 import Dozeanosde from './components/pages2/Dozeanosde';
 import Ateoultimoh from './components/pages2/Ateoultimoh';
 import Casamentoa from './components/pages2/Casamentoa';
+import Historiasc from './components/pages2/Historiasc';
 
 
 
@@ -809,6 +810,7 @@ function App() {
         <Route path='/495386' component={Entreoamoreafama} />
         <Route path='/496243' component={Parasita} />
         <Route path='/497' component={Aesperadum} />
+        <Route path='/50014' component={Historiasc} />
         <Route path='/504198' component={Terrorns} />
         <Route path='/505579' component={Agentesduplos} />
         <Route path='/505642' component={Panteranwps} />
