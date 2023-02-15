@@ -574,6 +574,7 @@ import Dozeanosde from './components/pages2/Dozeanosde';
 import Ateoultimoh from './components/pages2/Ateoultimoh';
 import Casamentoa from './components/pages2/Casamentoa';
 import Historiasc from './components/pages2/Historiasc';
+import Vaeveja from './components/pages2/Vaveja';
 
 
 
@@ -704,6 +705,7 @@ function App() {
         <Route path='/245698' component={Odonodojogo} />
         <Route path='/245842' component={Afilhadorei} />
         <Route path='/250546' component={Annabelle} />
+        <Route path='/25237' component={Vaeveja} />
         <Route path='/253020' component={Aestrada47} />
         <Route path='/254024' component={Afacedua} />
         <Route path='/254302' component={Notodopoder} />
