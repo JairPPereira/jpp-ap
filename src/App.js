@@ -575,6 +575,7 @@ import Ateoultimoh from './components/pages2/Ateoultimoh';
 import Casamentoa from './components/pages2/Casamentoa';
 import Historiasc from './components/pages2/Historiasc';
 import Vaeveja from './components/pages2/Vaveja';
+import Coringa from './components/pages2/Coringa';
 
 
 
@@ -803,6 +804,7 @@ function App() {
         <Route path='/470044' component={Oodioquevs} />
         <Route path='/47089' component={Ocaminhodn} />
         <Route path='/47533' component={Scooby} />
+        <Route path='/475557' component={Coringa} />
         <Route path='/476299' component={Acasadomedo} />
         <Route path='/47931' component={Tropadeelite2} />
         <Route path='/480408' component={Amoresdc} />
