@@ -576,6 +576,8 @@ import Casamentoa from './components/pages2/Casamentoa';
 import Historiasc from './components/pages2/Historiasc';
 import Vaeveja from './components/pages2/Vaveja';
 import Coringa from './components/pages2/Coringa';
+import Umcontratempo from './components/pages2/Umcontratempo';
+import Meupai from './components/pages2/Meupai';
 
 
 
@@ -776,6 +778,7 @@ function App() {
         <Route path='/408670' component={Oagentemirim} />
         <Route path='/410537' component={Amityvilleot} />
         <Route path='/413452' component={Oresgateduv} />
+        <Route path='/411088' component={Umcontratempo} />
         <Route path='/414906' component={Batman} />
         <Route path='/415214' component={Operacaom} />
         <Route path='/417180' component={Cadaveresardm} />
@@ -853,6 +856,7 @@ function App() {
         <Route path='/593643' component={Omenu} />
         <Route path='/598' component={Cidadededeus} />
         <Route path='/603' component={Matrix} />
+        <Route path='/600354' component={Meupai} />
         <Route path='/60420' component={Loucamenteapaixonados} />
         <Route path='/61037' component={Campeoesdos} />
         <Route path='/611207' component={Umpassadodepresente} />
