@@ -579,6 +579,7 @@ import Coringa from './components/pages2/Coringa';
 import Umcontratempo from './components/pages2/Umcontratempo';
 import Meupai from './components/pages2/Meupai';
 import Vozesinocentes from './components/pages2/Vozesinocentes';
+import Sharper from './components/pages2/sharper';
 
 
 
@@ -893,6 +894,7 @@ function App() {
         <Route path='/70160' component={Jogosv} />
         <Route path='/707214' component={Ateofinal} />
         <Route path='/71211' component={Beladonna} />
+        <Route path='/717980' component={Sharper} />
         <Route path='/725201' component={Agenteo} />
         <Route path='/73' component={Aoutraha} />
         <Route path='/7304' component={Norastrodb} />
