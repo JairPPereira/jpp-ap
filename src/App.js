@@ -578,6 +578,7 @@ import Vaeveja from './components/pages2/Vaveja';
 import Coringa from './components/pages2/Coringa';
 import Umcontratempo from './components/pages2/Umcontratempo';
 import Meupai from './components/pages2/Meupai';
+import Vozesinocentes from './components/pages2/Vozesinocentes';
 
 
 
@@ -686,6 +687,7 @@ function App() {
         <Route path='/20435' component={Otremdamorte} />
         <Route path='/2046' component={Odomdp} />
         <Route path='/205596' component={Ojogodaimitacao} />
+        <Route path='/20941' component={Vozesinocentes} />
         <Route path='/209504' component={Cacadoresderecompensas} />
         <Route path='/212778' component={Chef} />
         <Route path='/221731' component={Samurayx2} />
