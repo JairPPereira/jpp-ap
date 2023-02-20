@@ -580,6 +580,7 @@ import Umcontratempo from './components/pages2/Umcontratempo';
 import Meupai from './components/pages2/Meupai';
 import Vozesinocentes from './components/pages2/Vozesinocentes';
 import Sharper from './components/pages2/sharper';
+import Intocaveis from './components/pages2/Intocaveis';
 
 
 
@@ -923,6 +924,7 @@ function App() {
         <Route path='/77' component={Amnesia} />
         <Route path='/770428' component={Emnomedopai} />
         <Route path='/77067' component={Amorzumbi} />
+        <Route path='/77338' component={Intocaveis} />
         <Route path='/774752' component={Guardioesg} />
         <Route path='/774825' component={Aeradogelob} />
         <Route path='/77949' component={Odespertar} />
