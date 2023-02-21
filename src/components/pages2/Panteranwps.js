@@ -15,7 +15,7 @@ export default function Panteranwps() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt9114286"
+        src="https://voe.sx/e/4pwbxleoqzwr"
         target="_blank"
         scrolling="no"
         data-draggable="none"
