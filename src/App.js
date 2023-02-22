@@ -581,6 +581,7 @@ import Meupai from './components/pages2/Meupai';
 import Vozesinocentes from './components/pages2/Vozesinocentes';
 import Sharper from './components/pages2/sharper';
 import Intocaveis from './components/pages2/Intocaveis';
+import Hawai50 from './components/pages2/Hawai50';
 
 
 
@@ -1077,6 +1078,7 @@ function App() {
         <Route path='/gossebump2' component={Gossebump2} />
         <Route path='/graopara' component={Graopara} />
         <Route path='/halo' component={Halo} />
+        <Route path='/hawai50' component={Hawai50} />
         <Route path='/Hbof' component={Hbof} />
         <Route path='/homemasa' component={Homemasa} />
         <Route path='/inventandoa' component={Inventandoa} />
