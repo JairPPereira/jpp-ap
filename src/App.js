@@ -582,6 +582,7 @@ import Vozesinocentes from './components/pages2/Vozesinocentes';
 import Sharper from './components/pages2/sharper';
 import Intocaveis from './components/pages2/Intocaveis';
 import Hawai50 from './components/pages2/Hawai50';
+import Anonimo from './components/pages2/Anonimo';
 
 
 
@@ -868,6 +869,7 @@ function App() {
         <Route path='/611291' component={Btsbs} />
         <Route path='/613911' component={Blissebf} />
         <Route path='/614934' component={Elvis} />
+        <Route path='/615457' component={Anonimo} />
         <Route path='/617502' component={Joltff} />
         <Route path='/622585' component={Aslegioese} />
         <Route path='/624860' component={Matrixr} />
