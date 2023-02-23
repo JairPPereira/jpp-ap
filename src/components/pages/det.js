@@ -41,15 +41,6 @@ function Details() {
 
   return (
     <Container>
-      <div className="movie">
-        <center>
-          <img src={movie.image} alt={movie.sinopse} width="100%"/>
-        </center>
-        <div className="details">
-          <h1>{movie.title}</h1>
-          <span>Sinopse: {movie.sinopse}</span>
-          <span className='release-date'>Release date: {movie.releaseDate}</span>
-        </div>
         <div className="trailer">
           {trailer && (
             <>
@@ -65,6 +56,16 @@ function Details() {
             </>
           )}
         </div>
+      <div className="movie">
+        <center>
+          <img src={movie.image} alt={movie.sinopse} width="100%"/>
+        </center>
+        <div className="details">
+          <h1>{movie.title}</h1>
+          <span>Sinopse: {movie.sinopse}</span>
+          <span className='release-date'>Release date: {movie.releaseDate}</span>
+        </div>
+      
         <div>
           <span>
             <Link to={`/${movie.id}`}>

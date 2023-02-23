@@ -583,6 +583,7 @@ import Sharper from './components/pages2/sharper';
 import Intocaveis from './components/pages2/Intocaveis';
 import Hawai50 from './components/pages2/Hawai50';
 import Anonimo from './components/pages2/Anonimo';
+import Ossuspeitos2 from './components/pages2/Ossuspeitos2';
 
 
 
@@ -662,6 +663,7 @@ function App() {
         <Route path='/1399' component={Gameoftr} />
         <Route path='/1402' component={Thewd} />
         <Route path='/1422' component={Osinfiltrados} />
+        <Route path='/146233' component={Ossuspeitos2} />
         <Route path='/14655' component={Soulmen} />
         <Route path='/146631' component={Assasinosde} />
         <Route path='/152795' component={Ocongressof} />
