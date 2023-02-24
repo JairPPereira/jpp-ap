@@ -5,6 +5,17 @@
     font-family: 'PT Sans', sans-serif;
   }
 
+  .cast-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  
+  .actor {
+    display: flex;
+    align-items: center;
+  }
+
   .Home
 
  {

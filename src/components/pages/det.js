@@ -1,14 +1,18 @@
 import { Link, useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import Button from 'react-bootstrap/Button';
+import CardGroup from 'react-bootstrap/CardGroup';
+import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Iframe from 'react-iframe'
+import './Det.css';
 
 function Details() {
   const { id } = useParams()
   const [movie, setMovie] = useState([])
   const [trailer, setTrailer] = useState(null)
+  const [cast, setCast] = useState([])
 
   const imagePath = 'https://image.tmdb.org/t/p/w500/'
 
@@ -39,6 +43,14 @@ function Details() {
       })
   }, [id])
 
+  useEffect(() => {
+    fetch(`https://api.themoviedb.org/3/movie/${id}/credits?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
+      .then(response => response.json())
+      .then(data => {
+        setCast(data.cast)
+      })
+  }, [id])
+
   return (
     <Container>
         <div className="trailer">
@@ -65,7 +77,17 @@ function Details() {
           <span>Sinopse: {movie.sinopse}</span>
           <span className='release-date'>Release date: {movie.releaseDate}</span>
         </div>
-      
+        <div className="cast">
+  <h2>Elenco</h2>
+  {cast.map((actor, index) => (
+     <CardGroup>
+    <Card style={{ width: '18rem' }}>
+    <div key={index} className="actor">
+      <img src={`https://image.tmdb.org/t/p/w185/${actor.profile_path}`} alt={actor.name} width="140" height="140" />
+      <span>{actor.name}</span>
+    </div></Card></CardGroup>
+  ))}
+</div>
         <div>
           <span>
             <Link to={`/${movie.id}`}>
