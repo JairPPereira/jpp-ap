@@ -584,6 +584,8 @@ import Intocaveis from './components/pages2/Intocaveis';
 import Hawai50 from './components/pages2/Hawai50';
 import Anonimo from './components/pages2/Anonimo';
 import Ossuspeitos2 from './components/pages2/Ossuspeitos2';
+import Daaz19 from './components/pages2/Daaz19';
+import Acincopdv from './components/pages2/Acincopdv';
 
 
 
@@ -843,6 +845,7 @@ function App() {
         <Route path='/52454' component={Megasvc} />
         <Route path='/526896' component={Morbius} />
         <Route path='/526973' component={Alvon1} />
+        <Route path='/527641' component={Acincopdv} />
         <Route path='/528085' component={A2067} />
         <Route path='/53080' component={Tubaraodem} />
         <Route path='/53172' component={Aocasiaofl} />
@@ -1026,6 +1029,7 @@ function App() {
         <Route path='/daaz16' component={Daaz16} />
         <Route path='/daaz17' component={Daaz17} />
         <Route path='/daaz18' component={Daaz18} />
+        <Route path='/daaz19' component={Daaz19} />
         <Route path='/daaz2' component={Daaz2} />
         <Route path='/daaz3' component={Daaz3} />
         <Route path='/daaz4' component={Daaz4} />
