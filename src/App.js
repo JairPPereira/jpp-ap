@@ -587,6 +587,7 @@ import Ossuspeitos2 from './components/pages2/Ossuspeitos2';
 import Daaz19 from './components/pages2/Daaz19';
 import Acincopdv from './components/pages2/Acincopdv';
 import Djangolivre from './components/pages2/Djangolivre';
+import Indianajcd from './components/pages2/Indianajcd';
 
 
 
@@ -954,6 +955,7 @@ function App() {
         <Route path='/829557' component={Diashoje} />
         <Route path='/835666' component={Comohsc} />
         <Route path='/839440' component={Hoteldosdinossauros} />
+        <Route path='/85' component={Indianajcd} />
         <Route path='/851644' component={Garotas2} />
         <Route path='/852592' component={Centauro} />
         <Route path='/853666' component={Jesuskid} />
