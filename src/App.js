@@ -588,6 +588,7 @@ import Daaz19 from './components/pages2/Daaz19';
 import Acincopdv from './components/pages2/Acincopdv';
 import Djangolivre from './components/pages2/Djangolivre';
 import Indianajcd from './components/pages2/Indianajcd';
+import Clouds from './components/pages2/Clouds';
 
 
 
@@ -882,6 +883,7 @@ function App() {
         <Route path='/624860' component={Matrixr} />
         <Route path='/629' component={Ossuspeitos} />
         <Route path='/63' component={Osdozemacacos} />
+        <Route path='/630566' component={Clouds} />
         <Route path='/631843' component={Tempo} />
         <Route path='/63699' component={Federal} />
         <Route path='/637' component={Avidaebela} />
