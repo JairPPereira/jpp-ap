@@ -586,6 +586,7 @@ import Anonimo from './components/pages2/Anonimo';
 import Ossuspeitos2 from './components/pages2/Ossuspeitos2';
 import Daaz19 from './components/pages2/Daaz19';
 import Acincopdv from './components/pages2/Acincopdv';
+import Djangolivre from './components/pages2/Djangolivre';
 
 
 
@@ -899,6 +900,7 @@ function App() {
         <Route path='/680058' component={Operacaoresgate} />
         <Route path='/68202' component={Cadeoh} />
         <Route path='/68348' component={Arquiteturadd} />
+        <Route path='/68718' component={Djangolivre} />
         <Route path='/687354' component={Stretfp} />
         <Route path='/70160' component={Jogosv} />
         <Route path='/707214' component={Ateofinal} />
