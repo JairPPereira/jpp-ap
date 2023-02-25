@@ -590,6 +590,7 @@ import Djangolivre from './components/pages2/Djangolivre';
 import Indianajcd from './components/pages2/Indianajcd';
 import Clouds from './components/pages2/Clouds';
 import Parafaf from './components/pages2/Parafaf';
+import Melancolia from './components/pages2/Melancolia';
 
 
 
@@ -880,6 +881,7 @@ function App() {
         <Route path='/614934' component={Elvis} />
         <Route path='/615457' component={Anonimo} />
         <Route path='/617502' component={Joltff} />
+        <Route path='/62215' component={Melancolia} />
         <Route path='/622585' component={Aslegioese} />
         <Route path='/624860' component={Matrixr} />
         <Route path='/629' component={Ossuspeitos} />
