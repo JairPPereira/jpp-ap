@@ -92,7 +92,7 @@ function Details() {
 <CardGroup>
 {cast.map((actor, index) => (
 <div key={index} className="actor">
-<Card style={{ width: '18rem' }}>
+<Card>
       <Card.Img variant="top" src={`https://image.tmdb.org/t/p/w185/${actor.profile_path}`} alt={actor.name} width="138" />
       <Card.Body>
         
