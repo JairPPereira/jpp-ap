@@ -1,17 +1,52 @@
-.cast-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+
+.trailer,
+.movie {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.details {
+  padding: 10px;
+}
+
+@media (min-width: 768px) {
+  .trailer,
+  .movie {
+    width: 50%;
+    float: left;
   }
   
-  .actor {
-    display: flex;
-    align-items: center;
+  .movie {
+    padding-left: 0;
   }
+  
+  .trailer {
+    padding-right: 0;
+  }
+  
+  .details {
+    width: 50%;
+    float: right;
+  }
+}
 
-  .img {
-    display: flex;
-    align-items: center;
+@media (max-width: 767px) {
+  .trailer,
+  .movie {
+    width: 100%;
+    float: none;
+    padding: 10px 0;
   }
+  
+
+}
+
+
+
+
+  
+
+ 
 
   
