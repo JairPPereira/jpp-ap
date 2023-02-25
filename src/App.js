@@ -974,10 +974,10 @@ function App() {
         <Route path='/8944' component={Foradecontrole} />
         <Route path='/9003' component={Hellraiser} />
         <Route path='/91333' component={Acertodecontas} />
-        <Route path='/91333' component={Parafaf} />
+        <Route path='/92321' component={Parafaf} />
         <Route path='/9297' component={Acasamonstro} />
         <Route path='/9422' component={Aqualquerpreco} />
-        <Route path='/92321' component={Ovoodd} />
+        <Route path='/9462' component={Ovoodd} />
         <Route path='/950' component={Aeradogelo2} />
         <Route path='/961707' component={Hawa} />
         <Route path='/96933' component={Porquees} />
