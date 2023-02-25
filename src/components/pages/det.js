@@ -6,7 +6,7 @@ import Card from 'react-bootstrap/Card';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Iframe from 'react-iframe'
-import './Det.css';
+
 
 function Details() {
   const { id } = useParams()
@@ -71,23 +71,12 @@ function Details() {
       <div className="movie">
         <center>
           <img src={movie.image} alt={movie.sinopse} width="100%"/>
-        </center>
+        </center></div>
         <div className="details">
           <h1>{movie.title}</h1>
           <span>Sinopse: {movie.sinopse}</span>
           <span className='release-date'>Release date: {movie.releaseDate}</span>
-        </div>
-        <div className="cast">
-  <h2>Elenco</h2>
-  {cast.map((actor, index) => (
-     <CardGroup>
-    <Card style={{ width: '18rem' }}>
-    <div key={index} className="actor">
-      <img src={`https://image.tmdb.org/t/p/w185/${actor.profile_path}`} alt={actor.name} width="140" height="140" />
-      <span>{actor.name}</span>
-    </div></Card></CardGroup>
-  ))}
-</div>
+        </div> 
         <div>
           <span>
             <Link to={`/${movie.id}`}>
@@ -97,7 +86,28 @@ function Details() {
             </Link>
           </span>
         </div>
-      </div>
+        <div className="cast">
+  <h2>Elenco</h2>
+
+<CardGroup>
+{cast.map((actor, index) => (
+<div key={index} className="actor">
+<Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={`https://image.tmdb.org/t/p/w185/${actor.profile_path}`} alt={actor.name} width="138" />
+      <Card.Body>
+        
+      <span>{actor.name}</span>
+      
+        
+      </Card.Body>
+    </Card>
+    </div> ))}
+    </CardGroup>
+    
+    </div>
+ 
+     
+      
     </Container>
   );
 }
