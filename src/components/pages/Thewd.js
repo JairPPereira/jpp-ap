@@ -7,8 +7,8 @@ export default function Thewd() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/serie.php?imdb=tt1520211"
-        target="https://embed.warezcdn.net/serie.php?imdb=tt1520211"
+        src="https://embed.playmp4.net/?serie=1402"
+        target="https://embed.playmp4.net/?serie=1402"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

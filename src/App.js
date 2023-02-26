@@ -591,6 +591,7 @@ import Indianajcd from './components/pages2/Indianajcd';
 import Clouds from './components/pages2/Clouds';
 import Parafaf from './components/pages2/Parafaf';
 import Melancolia from './components/pages2/Melancolia';
+import Princesamono from './components/pages2/Princesamono';
 
 
 
@@ -656,6 +657,7 @@ function App() {
         <Route path='/12477' component={Tumulodv} />
         <Route path='/12685' component={Bloodrayne3} />
         <Route path='/127770' component={Apostolopauc} />
+        <Route path='/128' component={Princesamono} />
         <Route path='/129' component={Aviagemdchi} />
         <Route path='/13' component={Forrestg} />
         <Route path='/13053' component={Boltsc} />
