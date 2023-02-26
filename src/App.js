@@ -592,6 +592,7 @@ import Clouds from './components/pages2/Clouds';
 import Parafaf from './components/pages2/Parafaf';
 import Melancolia from './components/pages2/Melancolia';
 import Princesamono from './components/pages2/Princesamono';
+import Demsl from './components/pages2/Demsl';
 
 
 
@@ -890,6 +891,7 @@ function App() {
         <Route path='/63' component={Osdozemacacos} />
         <Route path='/630566' component={Clouds} />
         <Route path='/631843' component={Tempo} />
+        <Route path='/635302' component={Demsl} />
         <Route path='/63699' component={Federal} />
         <Route path='/637' component={Avidaebela} />
         <Route path='/637920' component={Omilagredc7} />
