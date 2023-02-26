@@ -15,7 +15,7 @@ export default function Princesamono() {
             <Row>
               <Col>
       <Iframe
-        src="https://voe.sx/e/211pr9s59s1w"
+        src="https://ok.ru/videoembed/5282550975026"
         target="_blank"
         scrolling="no"
         data-draggable="none"
