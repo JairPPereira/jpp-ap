@@ -593,6 +593,7 @@ import Parafaf from './components/pages2/Parafaf';
 import Melancolia from './components/pages2/Melancolia';
 import Princesamono from './components/pages2/Princesamono';
 import Demsl from './components/pages2/Demsl';
+import Avidaemua from './components/pages2/Avidaemua';
 
 
 
@@ -813,6 +814,7 @@ function App() {
         <Route path='/443700' component={Altitude} />
         <Route path='/444090' component={Oreidamontanha} />
         <Route path='/44665' component={Olivroderute} />
+        <Route path='/447362' component={Avidaemua} />
         <Route path='/449406' component={Ajornadadevivo} />
         <Route path='/45170' component={Sonhosroubados} />
         <Route path='/451877' component={Agoraestamossos} />
