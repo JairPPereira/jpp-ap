@@ -594,6 +594,7 @@ import Melancolia from './components/pages2/Melancolia';
 import Princesamono from './components/pages2/Princesamono';
 import Demsl from './components/pages2/Demsl';
 import Avidaemua from './components/pages2/Avidaemua';
+import Dancacl from './components/pages2/Dancacl';
 
 
 
@@ -872,6 +873,7 @@ function App() {
         <Route path='/562266' component={Lacosdn} />
         <Route path='/568124' component={Encanto} />
         <Route path='/579872' component={Aviuvads} />
+        <Route path='/581' component={Dancacl} />
         <Route path='/58448' component={Nocaute} />
         <Route path='/589157' component={Linewalker2} />
         <Route path='/593643' component={Omenu} />
