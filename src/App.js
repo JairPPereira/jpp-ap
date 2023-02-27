@@ -595,6 +595,7 @@ import Princesamono from './components/pages2/Princesamono';
 import Demsl from './components/pages2/Demsl';
 import Avidaemua from './components/pages2/Avidaemua';
 import Dancacl from './components/pages2/Dancacl';
+import Greenbook from './components/pages2/Greenbook';
 
 
 
@@ -832,6 +833,7 @@ function App() {
         <Route path='/476299' component={Acasadomedo} />
         <Route path='/47931' component={Tropadeelite2} />
         <Route path='/480408' component={Amoresdc} />
+        <Route path='/490132' component={Greenbook} />
         <Route path='/49014' component={Cosmopolis} />
         <Route path='/49021' component={Ospecialistas} />
         <Route path='/4935' component={Ocasteloanimado} />
