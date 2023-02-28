@@ -597,6 +597,7 @@ import Avidaemua from './components/pages2/Avidaemua';
 import Dancacl from './components/pages2/Dancacl';
 import Greenbook from './components/pages2/Greenbook';
 import Tresanuncios from './components/pages2/Tresanuncios';
+import Argentina1985 from './components/pages2/Argentina1985';
 
 
 
@@ -923,6 +924,7 @@ function App() {
         <Route path='/70160' component={Jogosv} />
         <Route path='/707214' component={Ateofinal} />
         <Route path='/71211' component={Beladonna} />
+        <Route path='/714888' component={Argentina1985} />
         <Route path='/717980' component={Sharper} />
         <Route path='/725201' component={Agenteo} />
         <Route path='/73' component={Aoutraha} />
