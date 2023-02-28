@@ -8,7 +8,7 @@ import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Argentina1985() {
+export default function Argentinamn() {
   return (
     <div>
           <p><br /></p>
