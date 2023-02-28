@@ -596,6 +596,7 @@ import Demsl from './components/pages2/Demsl';
 import Avidaemua from './components/pages2/Avidaemua';
 import Dancacl from './components/pages2/Dancacl';
 import Greenbook from './components/pages2/Greenbook';
+import Tresanuncios from './components/pages2/Tresanuncios';
 
 
 
@@ -780,6 +781,7 @@ function App() {
         <Route path='/354282' component={Afilhado1} />
         <Route path='/354857' component={Apenasus} />
         <Route path='/357110' component={Vinhodv} />
+        <Route path='/359940' component={Tresanuncios} />
         <Route path='/361743' component={Topgun} />
         <Route path='/372058' component={Yourname} />
         <Route path='/372412' component={Apresa} />
