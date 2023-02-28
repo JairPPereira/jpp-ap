@@ -181,14 +181,6 @@ import Foradecontrole from './components/pages2/Foradecontrole';
 import Friends from './components/pages/Friends';
 import Fundingyou from './components/pages/Fundingyou';
 import Fungindodopassado from './components/pages/Fugindodopassado';
-import Gabriela from './components/gabriela/Gabriela';
-import Gabriela1 from './components/gabriela/Gabriela1';
-import Gabriela2 from './components/gabriela/Gabriela2';
-import Gabriela3 from './components/gabriela/Gabriela3';
-import Gabriela4 from './components/gabriela/Gabriela4';
-import Gabriela5 from './components/gabriela/Gabriela5';
-import Gabriela6 from './components/gabriela/Gabriela6';
-import Gabriela7 from './components/gabriela/Gabriela7';
 import Gameoft from './components/pages/Gameoft';
 import Gameoftr from './components/pages/Gameoftr';
 import Gamert1e1 from './components/pages/Gamert1e1';
@@ -1088,14 +1080,6 @@ function App() {
         <Route path='/flordelizqa' component={Flordelizqa} />
         <Route path='/fmodia' component={Fmodia} />
         <Route path='/friends' component={Friends} />
-        <Route path='/gabriela' component={Gabriela} />
-        <Route path='/gabriela1' component={Gabriela1} />
-        <Route path='/gabriela2' component={Gabriela2} />
-        <Route path='/gabriela3' component={Gabriela3} />
-        <Route path='/gabriela4' component={Gabriela4} />
-        <Route path='/gabriela5' component={Gabriela5} />
-        <Route path='/gabriela6' component={Gabriela6} />
-        <Route path='/gabriela7' component={Gabriela7} />
         <Route path='/gameoft' component={Gameoft} />
         <Route path='/Gamert1e1' component={Gamert1e1} />
         <Route path='/Gamert1e2' component={Gamert1e2} />
