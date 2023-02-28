@@ -15,7 +15,7 @@ export default function Tresanuncios() {
             <Row>
               <Col>
       <Iframe
-        src="https://ok.ru/videoembed/5288607550002"
+        src="https://voe.sx/e/9a2um01kxxru"
         target="_blank"
         scrolling="no"
         data-draggable="none"
