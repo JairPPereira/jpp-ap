@@ -590,6 +590,7 @@ import Dancacl from './components/pages2/Dancacl';
 import Greenbook from './components/pages2/Greenbook';
 import Tresanuncios from './components/pages2/Tresanuncios';
 import Argentinamn from './components/pages2/Argentinamn';
+import Extraordinario from './components/pages2/Extraordinario';
 
 
 
@@ -792,6 +793,7 @@ function App() {
         <Route path='/402423' component={Omensageiro} />
         <Route path='/40508' component={Tresninjas} />
         <Route path='/408670' component={Oagentemirim} />
+        <Route path='/406997' component={Extraordinario} />
         <Route path='/410537' component={Amityvilleot} />
         <Route path='/413452' component={Oresgateduv} />
         <Route path='/411088' component={Umcontratempo} />
