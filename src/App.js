@@ -591,6 +591,7 @@ import Greenbook from './components/pages2/Greenbook';
 import Tresanuncios from './components/pages2/Tresanuncios';
 import Argentinamn from './components/pages2/Argentinamn';
 import Extraordinario from './components/pages2/Extraordinario';
+import Mommy from './components/pages2/Mommy';
 
 
 
@@ -733,6 +734,7 @@ function App() {
         <Route path='/258210' component={Airplanevsvolcano} />
         <Route path='/259018' component={Tudopraficarcomela} />
         <Route path='/261037' component={Ajusticeira} />
+        <Route path='/265177' component={Mommy} />
         <Route path='/270774' component={Foradorumo} />
         <Route path='/271404' component={Alemdohorizonte} />
         <Route path='/27205' component={Aorigem} />
