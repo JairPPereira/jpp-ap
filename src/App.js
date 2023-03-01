@@ -592,6 +592,7 @@ import Tresanuncios from './components/pages2/Tresanuncios';
 import Argentinamn from './components/pages2/Argentinamn';
 import Extraordinario from './components/pages2/Extraordinario';
 import Mommy from './components/pages2/Mommy';
+import Ligajs from './components/pages2/Ligajs';
 
 
 
@@ -889,6 +890,7 @@ function App() {
         <Route path='/614934' component={Elvis} />
         <Route path='/615457' component={Anonimo} />
         <Route path='/617502' component={Joltff} />
+        <Route path='/618344' component={Ligajs} />
         <Route path='/62215' component={Melancolia} />
         <Route path='/622585' component={Aslegioese} />
         <Route path='/624860' component={Matrixr} />
