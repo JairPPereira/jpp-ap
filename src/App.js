@@ -780,6 +780,7 @@ function App() {
         <Route path='/357110' component={Vinhodv} />
         <Route path='/359940' component={Tresanuncios} />
         <Route path='/361743' component={Topgun} />
+        <Route path='/36557' component={Zero7cr} />
         <Route path='/372058' component={Yourname} />
         <Route path='/372412' component={Apresa} />
         <Route path='/376581' component={Ummotoristaemapuros} />
@@ -1206,7 +1207,7 @@ function App() {
         <Route path='/wandinha' component={Wandinha} />
         <Route path='/warnertv' component={Warnertv} />
         <Route path='/youtubeml' component={Youtubeml} />
-        <Route path='/zero7cr' component={Zero7cr} />
+       
 
 
         
