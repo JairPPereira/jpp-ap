@@ -593,6 +593,7 @@ import Argentinamn from './components/pages2/Argentinamn';
 import Extraordinario from './components/pages2/Extraordinario';
 import Mommy from './components/pages2/Mommy';
 import Ligajs from './components/pages2/Ligajs';
+import Memoriasa from './components/pages2/Memoriasa';
 
 
 
@@ -643,6 +644,7 @@ function App() {
         <Route path='/11324' component={Ailhadomedo} />
         <Route path='/11327' component={Expressomn} />
         <Route path='/114' component={Umalindamulher} />
+        <Route path='/11423' component={Memoriasa} />
         <Route path='/116' component={Pontofinal} />
         <Route path='/11688' component={Anovaondadoimperador} />
         <Route path='/11770' component={Kungffc} />
