@@ -595,6 +595,7 @@ import Mommy from './components/pages2/Mommy';
 import Ligajs from './components/pages2/Ligajs';
 import Memoriasa from './components/pages2/Memoriasa';
 import Glassonion from './components/pages2/Glassonion';
+import Meuamigoe from './components/pages2/Meuamigoe';
 
 
 
@@ -855,6 +856,7 @@ function App() {
         <Route path='/512195' component={Alertav} />
         <Route path='/522402' component={Finch} />
         <Route path='/522478' component={Pedrocoelho2} />
+        <Route path='/522924' component={Meuamigoe} />
         <Route path='/523366' component={Ocavaleirod} />
         <Route path='/523638' component={Ghostland} />
         <Route path='/523931' component={Megalodon} />
