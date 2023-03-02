@@ -594,6 +594,7 @@ import Extraordinario from './components/pages2/Extraordinario';
 import Mommy from './components/pages2/Mommy';
 import Ligajs from './components/pages2/Ligajs';
 import Memoriasa from './components/pages2/Memoriasa';
+import Glassonion from './components/pages2/Glassonion';
 
 
 
@@ -911,6 +912,7 @@ function App() {
         <Route path='/653024' component={Ocomitedd} />
         <Route path='/657644' component={Supermurali} />     
         <Route path='/66113' component={Avitimaperfeita} />
+        <Route path='/661374' component={Glassonion} />
         <Route path='/661930' component={Anuvem} />
         <Route path='/664474' component={Epiphaneap} />
         <Route path='/66859' component={Asgatinhasds} />
