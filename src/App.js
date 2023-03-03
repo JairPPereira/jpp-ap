@@ -596,6 +596,7 @@ import Ligajs from './components/pages2/Ligajs';
 import Memoriasa from './components/pages2/Memoriasa';
 import Glassonion from './components/pages2/Glassonion';
 import Meuamigoe from './components/pages2/Meuamigoe';
+import Acaca from './components/pages2/Acaca';
 
 
 
@@ -630,6 +631,7 @@ function App() {
         <Route path='/1024530' component={Omemedomal} />
         <Route path='/1026624' component={Mucholocosn} />
         <Route path='/10358' component={Pagandobqmt} />
+        <Route path='/10358' component={Acaca} />
         <Route path='/105' component={Devoltapf} />
         <Route path='/10534' component={Tormenta} />
         <Route path='/106646' component={Olobodw} />
