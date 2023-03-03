@@ -16,7 +16,7 @@ export default function Argentinamn() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedder.net/e/movie?imdb=tt15301048"
+        src="https://voe.sx/e/6mqo9vam6ok8"
         target="_blank"
         scrolling="no"
         data-draggable="none"
