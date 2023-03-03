@@ -16,7 +16,7 @@ export default function Argentinamn() {
             <Row>
               <Col>
       <Iframe
-        src="https://voe.sx/e/6mqo9vam6ok8"
+        src="https://sbbrisk.com/e/5s4nz91d2vjq.html"
         target="_blank"
         scrolling="no"
         data-draggable="none"
