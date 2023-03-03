@@ -15,7 +15,7 @@ export default function Glassonion() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/s1ubfgid96vb.html"
+        src="https://sbbrisk.com/e/s1ubfgid96vb.html"
         target="_blank"
         scrolling="no"
         data-draggable="none"
