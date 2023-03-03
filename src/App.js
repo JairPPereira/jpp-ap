@@ -597,6 +597,7 @@ import Memoriasa from './components/pages2/Memoriasa';
 import Glassonion from './components/pages2/Glassonion';
 import Meuamigoe from './components/pages2/Meuamigoe';
 import Acaca from './components/pages2/Acaca';
+import Togo from './components/pages2/Togo';
 
 
 
@@ -891,6 +892,7 @@ function App() {
         <Route path='/603' component={Matrix} />
         <Route path='/600354' component={Meupai} />
         <Route path='/60420' component={Loucamenteapaixonados} />
+        <Route path='/606856' component={Togo} />
         <Route path='/61037' component={Campeoesdos} />
         <Route path='/611207' component={Umpassadodepresente} />
         <Route path='/611291' component={Btsbs} />
