@@ -16,7 +16,7 @@ export default function Acaca() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/9symr48rlyov.html"
+        src="https://ok.ru/videoembed/5299970116146"
         target="_blank"
         scrolling="no"
         data-draggable="none"
