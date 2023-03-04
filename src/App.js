@@ -599,6 +599,7 @@ import Acaca from './components/pages2/Acaca';
 import Togo from './components/pages2/Togo';
 import Bohemianr from './components/pages2/Bohemianr';
 import Daaz20 from './components/pages2/Daaz20';
+import Ouronegro from './components/pages2/Ouronegro';
 
 
 
@@ -940,6 +941,7 @@ function App() {
         <Route path='/73' component={Aoutraha} />
         <Route path='/7304' component={Norastrodb} />
         <Route path='/734265' component={Ummatchsurpresa} />
+        <Route path='/7345' component={Ouronegro} />
         <Route path='/7347' component={Tropadeelite} />
         <Route path='/73499' component={Codinome7} />
         <Route path='/736073' component={Batmanldb} />
