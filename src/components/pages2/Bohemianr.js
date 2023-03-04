@@ -4,11 +4,10 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 import Iframe from 'react-iframe'
-
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Argentinamn() {
+export default function Bohemianr() {
   return (
     <div>
           <p><br /></p>
@@ -16,7 +15,7 @@ export default function Argentinamn() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/e/5s4nz91d2vjq.html"
+        src="https://sbbrisk.com/e/uyne4ymr468v.html"
         target="_blank"
         scrolling="no"
         data-draggable="none"
@@ -27,7 +26,7 @@ export default function Argentinamn() {
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
-      ></Iframe>{" "}
+      />{" "}
       </Col></Row></Container>
                   <div className="nave">
      
