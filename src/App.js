@@ -598,6 +598,7 @@ import Meuamigoe from './components/pages2/Meuamigoe';
 import Acaca from './components/pages2/Acaca';
 import Togo from './components/pages2/Togo';
 import Bohemianr from './components/pages2/Bohemianr';
+import Daaz20 from './components/pages2/Daaz20';
 
 
 
@@ -1063,6 +1064,7 @@ function App() {
         <Route path='/daaz17' component={Daaz17} />
         <Route path='/daaz18' component={Daaz18} />
         <Route path='/daaz19' component={Daaz19} />
+        <Route path='/daaz20' component={Daaz20} />
         <Route path='/daaz2' component={Daaz2} />
         <Route path='/daaz3' component={Daaz3} />
         <Route path='/daaz4' component={Daaz4} />
