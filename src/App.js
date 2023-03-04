@@ -600,6 +600,7 @@ import Togo from './components/pages2/Togo';
 import Bohemianr from './components/pages2/Bohemianr';
 import Daaz20 from './components/pages2/Daaz20';
 import Ouronegro from './components/pages2/Ouronegro';
+import Emancipation from './components/pages2/Emancipation';
 
 
 
@@ -936,6 +937,7 @@ function App() {
         <Route path='/70160' component={Jogosv} />
         <Route path='/707214' component={Ateofinal} />
         <Route path='/71211' component={Beladonna} />
+        <Route path='/715931' component={Emancipation} />
         <Route path='/717980' component={Sharper} />
         <Route path='/725201' component={Agenteo} />
         <Route path='/73' component={Aoutraha} />
