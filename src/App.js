@@ -601,6 +601,7 @@ import Bohemianr from './components/pages2/Bohemianr';
 import Daaz20 from './components/pages2/Daaz20';
 import Ouronegro from './components/pages2/Ouronegro';
 import Emancipation from './components/pages2/Emancipation';
+import Acrediteemmim from './components/pages2/Acrediteemmim';
 
 
 
@@ -881,6 +882,7 @@ function App() {
         <Route path='/540291' component={Amaldicaodi} />
         <Route path='/545611' component={Tudoetlmt} />
         <Route path='/550' component={Clubedaluta} />
+        <Route path='/550776' component={Acrediteemmim} />
         <Route path='/55101' component={Oculpado} />
         <Route path='/556018' component={Kv1} />
         <Route path='/557' component={Homemaranha} />
