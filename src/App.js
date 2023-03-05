@@ -602,6 +602,7 @@ import Daaz20 from './components/pages2/Daaz20';
 import Ouronegro from './components/pages2/Ouronegro';
 import Emancipation from './components/pages2/Emancipation';
 import Acrediteemmim from './components/pages2/Acrediteemmim';
+import Rastrosdus from './components/pages2/Rastrosdus';
 
 
 
@@ -846,6 +847,7 @@ function App() {
         <Route path='/476299' component={Acasadomedo} />
         <Route path='/47931' component={Tropadeelite2} />
         <Route path='/480408' component={Amoresdc} />
+        <Route path='/488623' component={Rastrosdus} />
         <Route path='/490132' component={Greenbook} />
         <Route path='/49014' component={Cosmopolis} />
         <Route path='/49021' component={Ospecialistas} />
