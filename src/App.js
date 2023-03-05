@@ -604,6 +604,7 @@ import Emancipation from './components/pages2/Emancipation';
 import Acrediteemmim from './components/pages2/Acrediteemmim';
 import Rastrosdus from './components/pages2/Rastrosdus';
 import Drama5 from './components/pages2/Drama5';
+import Obarcoim from './components/pages2/Obarcoim';
 
 
 
@@ -799,6 +800,7 @@ function App() {
         <Route path='/376581' component={Ummotoristaemapuros} />
         <Route path='/38017' component={Cartasdua} />
         <Route path='/38234' component={Oimbativelreden} />
+        <Route path='/387' component={Obarcoim} />
         <Route path='/389' component={Dozehus} />
         <Route path='/390051' component={Embuscadevinganca} />
         <Route path='/391486' component={Atravessia} />
