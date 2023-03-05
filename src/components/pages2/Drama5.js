@@ -4,14 +4,14 @@ import { Container, Movie, MovieList } from './styles';
 import Button from 'react-bootstrap/Button';
 
 
-function Drama4() {
+function Drama5() {
 
   const imagePath = 'https://image.tmdb.org/t/p/w500/'
  
   const [movies, setMovies] = useState([])
 
   useEffect(() => {
-    fetch(`https://api.themoviedb.org/4/list/8236939?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
+    fetch(`https://api.themoviedb.org/4/list/8243351?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
     .then(response => response.json())
     .then(data => {
       setMovies(data.results)
@@ -37,11 +37,11 @@ function Drama4() {
       </MovieList>
       <center>
         <div class="btn-group" role="group" aria-label="Exemplo básico">
-        <Link to="/drama3"><Button variant="primary" size="lg" width="80%">
+        <Link to="/drama4"><Button variant="primary" size="lg" width="80%">
           Pagina anterior
         </Button></Link>
  
-  <Link to="/drama5"><Button variant="primary" size="lg" width="80%">
+  <Link to="/drama"><Button variant="primary" size="lg" width="80%">
           Proxima pagina
         </Button></Link>
 </div></center>
@@ -49,4 +49,4 @@ function Drama4() {
   );
 }
 
-export default Drama4;
+export default Drama5;

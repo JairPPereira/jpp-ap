@@ -603,6 +603,7 @@ import Ouronegro from './components/pages2/Ouronegro';
 import Emancipation from './components/pages2/Emancipation';
 import Acrediteemmim from './components/pages2/Acrediteemmim';
 import Rastrosdus from './components/pages2/Rastrosdus';
+import Drama5 from './components/pages2/Drama5';
 
 
 
@@ -1092,6 +1093,7 @@ function App() {
         <Route path='/drama2' component={Drama2} />
         <Route path='/drama3' component={Drama3} />
         <Route path='/drama4' component={Drama4} />
+        <Route path='/drama5' component={Drama5} />
         <Route path='/espn' component={Espn} />
         <Route path='/espn2' component={Espn2} />
         <Route path='/espn3' component={Espn3} />
