@@ -607,6 +607,7 @@ import Drama5 from './components/pages2/Drama5';
 import Obarcoim from './components/pages2/Obarcoim';
 import Mil917 from './components/pages2/Mil917';
 import Eraumavo from './components/pages2/Eraumavo';
+import Killbill1 from './components/pages2/Killbill1';
 
 
 
@@ -737,6 +738,7 @@ function App() {
         <Route path='/23520' component={Fungindodopassado} />
         <Route path='/236735' component={Pecadosals} />
         <Route path='/238' component={Opoderosoc} />
+        <Route path='/24' component={Killbill1} />
         <Route path='/240' component={OpoderosocII} />
         <Route path='/244786' component={Whiplash} />
         <Route path='/245698' component={Odonodojogo} />
