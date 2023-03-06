@@ -610,6 +610,7 @@ import Eraumavo from './components/pages2/Eraumavo';
 import Killbill1 from './components/pages2/Killbill1';
 import Osirmaosgrimm from './components/pages2/Osirmaosgrimm';
 import Dark from './components/pages2/Dark';
+import Guerraaoterror from './components/pages2/Guerraaoterror';
 
 
 
@@ -672,6 +673,7 @@ function App() {
         <Route path='/120143' component={Osquatro1} />
         <Route path='/12085' component={Loucaspade} />
         <Route path='/121' component={Osenhordadt} />
+        <Route path='/12162' component={Guerraaoterror} />
         <Route path='/122' component={Osenhordaaor} />
         <Route path='/122800' component={Assasinosdealuguel} />
         <Route path='/12477' component={Tumulodv} />
