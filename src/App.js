@@ -608,6 +608,7 @@ import Obarcoim from './components/pages2/Obarcoim';
 import Mil917 from './components/pages2/Mil917';
 import Eraumavo from './components/pages2/Eraumavo';
 import Killbill1 from './components/pages2/Killbill1';
+import Osirmaosgrimm from './components/pages2/Osirmaosgrimm';
 
 
 
@@ -837,6 +838,7 @@ function App() {
         <Route path='/44113' component={Homensemfuria} />
         <Route path='/443700' component={Altitude} />
         <Route path='/444090' component={Oreidamontanha} />
+        <Route path='/4442' component={Osirmaosgrimm} />
         <Route path='/44665' component={Olivroderute} />
         <Route path='/447362' component={Avidaemua} />
         <Route path='/449406' component={Ajornadadevivo} />
