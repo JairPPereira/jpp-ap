@@ -605,6 +605,7 @@ import Acrediteemmim from './components/pages2/Acrediteemmim';
 import Rastrosdus from './components/pages2/Rastrosdus';
 import Drama5 from './components/pages2/Drama5';
 import Obarcoim from './components/pages2/Obarcoim';
+import Mil917 from './components/pages2/Mil917';
 
 
 
@@ -880,6 +881,7 @@ function App() {
         <Route path='/527641' component={Acincopdv} />
         <Route path='/528085' component={A2067} />
         <Route path='/53080' component={Tubaraodem} />
+        <Route path='/530915' component={Mil917} />
         <Route path='/53172' component={Aocasiaofl} />
         <Route path='/535' component={Flashdance} />
         <Route path='/537061' component={Stevenu} />
