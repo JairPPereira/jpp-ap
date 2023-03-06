@@ -606,6 +606,7 @@ import Rastrosdus from './components/pages2/Rastrosdus';
 import Drama5 from './components/pages2/Drama5';
 import Obarcoim from './components/pages2/Obarcoim';
 import Mil917 from './components/pages2/Mil917';
+import Eraumavo from './components/pages2/Eraumavo';
 
 
 
@@ -780,6 +781,7 @@ function App() {
         <Route path='/332672' component={Obsessao} />
         <Route path='/333167' component={Ascensaoeqdui} />
         <Route path='/334527' component={Umnegocioderisco} />
+        <Route path='/335' component={Eraumavo} />
         <Route path='/337404' component={Cruella} />
         <Route path='/336004' component={Osequestrodo657} />
         <Route path='/337706' component={Mulheresaomar2} />
