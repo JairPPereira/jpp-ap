@@ -609,6 +609,7 @@ import Mil917 from './components/pages2/Mil917';
 import Eraumavo from './components/pages2/Eraumavo';
 import Killbill1 from './components/pages2/Killbill1';
 import Osirmaosgrimm from './components/pages2/Osirmaosgrimm';
+import Dark from './components/pages2/Dark';
 
 
 
@@ -964,6 +965,7 @@ function App() {
         <Route path='/736073' component={Batmanldb} />
         <Route path='/73873' component={Albertnobbs} />
         <Route path='/73963' component={Criatura} />
+        <Route path='/740555' component={Dark} />
         <Route path='/742408' component={Peleo} />
         <Route path='/7445' component={Entreirmaos} />
         <Route path='/7446' component={Trovao} />
