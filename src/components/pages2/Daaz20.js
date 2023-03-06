@@ -11,7 +11,7 @@ function Daaz20() {
   const [movies, setMovies] = useState([])
 
   useEffect(() => {
-    fetch(`https://api.themoviedb.org/4/list/8242391?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
+    fetch(`https://api.themoviedb.org/4/list/8243200?api_key=fcfe44809de84129fab53e785124bb95&language=pt-BR`)
     .then(response => response.json())
     .then(data => {
       setMovies(data.results)
