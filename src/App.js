@@ -611,6 +611,7 @@ import Killbill1 from './components/pages2/Killbill1';
 import Osirmaosgrimm from './components/pages2/Osirmaosgrimm';
 import Dark from './components/pages2/Dark';
 import Guerraaoterror from './components/pages2/Guerraaoterror';
+import Quebrandog from './components/pages2/Quebrandog';
 
 
 
@@ -644,6 +645,7 @@ function App() {
         <Route path='/10229' component={Umamorprarecordar} />
         <Route path='/1024530' component={Omemedomal} />
         <Route path='/1026624' component={Mucholocosn} />
+        <Route path='/1032412' component={Quebrandog} />
         <Route path='/10358' component={Pagandobqmt} />
         <Route path='/103663' component={Acaca} />
         <Route path='/105' component={Devoltapf} />
