@@ -612,6 +612,7 @@ import Osirmaosgrimm from './components/pages2/Osirmaosgrimm';
 import Dark from './components/pages2/Dark';
 import Guerraaoterror from './components/pages2/Guerraaoterror';
 import Quebrandog from './components/pages2/Quebrandog';
+import Grantorino from './components/pages2/Grantorino';
 
 
 
@@ -688,6 +689,7 @@ function App() {
         <Route path='/131631' component={Jogosve1} />
         <Route path='/131634' component={Jogosvef} />
         <Route path='/13207' component={Sextafeira13} />
+        <Route path='/13223' component={Grantorino} />
         <Route path='/13252' component={Evidenciasdc} />
         <Route path='/13256' component={Aerademc} />
         <Route path='/13387' component={Cargaexplosiva3} />
