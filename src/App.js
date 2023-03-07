@@ -613,6 +613,7 @@ import Dark from './components/pages2/Dark';
 import Guerraaoterror from './components/pages2/Guerraaoterror';
 import Quebrandog from './components/pages2/Quebrandog';
 import Grantorino from './components/pages2/Grantorino';
+import Osegredoeso from './components/pages2/Osegredoeso';
 
 
 
@@ -754,6 +755,7 @@ function App() {
         <Route path='/250546' component={Annabelle} />
         <Route path='/25237' component={Vaeveja} />
         <Route path='/253020' component={Aestrada47} />
+        <Route path='/25376' component={Osegredoeso} />
         <Route path='/254024' component={Afacedua} />
         <Route path='/254302' component={Notodopoder} />
         <Route path='/25602' component={Ninja} />
