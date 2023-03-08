@@ -615,6 +615,7 @@ import Quebrandog from './components/pages2/Quebrandog';
 import Grantorino from './components/pages2/Grantorino';
 import Osegredoeso from './components/pages2/Osegredoeso';
 import Alien8 from './components/pages2/Alien8';
+import M3gan from './components/pages2/M3gan';
 
 
 
@@ -901,6 +902,7 @@ function App() {
         <Route path='/530915' component={Mil917} />
         <Route path='/53172' component={Aocasiaofl} />
         <Route path='/535' component={Flashdance} />
+        <Route path='/536554' component={M3gan} />
         <Route path='/537061' component={Stevenu} />
         <Route path='/539' component={Psicose} />
         <Route path='/540291' component={Amaldicaodi} />
