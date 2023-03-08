@@ -614,6 +614,7 @@ import Guerraaoterror from './components/pages2/Guerraaoterror';
 import Quebrandog from './components/pages2/Quebrandog';
 import Grantorino from './components/pages2/Grantorino';
 import Osegredoeso from './components/pages2/Osegredoeso';
+import Alien8 from './components/pages2/Alien8';
 
 
 
@@ -804,6 +805,7 @@ function App() {
         <Route path='/346684' component={Embuscadaliberdade} />
         <Route path='/346808' component={Momentum} />
         <Route path='/347751' component={Trezec} />
+        <Route path='/348' component={Alien8} />
         <Route path='/354282' component={Afilhado1} />
         <Route path='/354857' component={Apenasus} />
         <Route path='/357110' component={Vinhodv} />
