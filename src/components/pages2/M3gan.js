@@ -16,7 +16,7 @@ export default function M3gan() {
             <Row>
               <Col>
       <Iframe
-        src="https://voe.sx/e/kcajv9qfgb96"
+        src="https://sbbrisk.com/e/ovd4y1o3qnah.html"
         target="_blank"
         scrolling="no"
         data-draggable="none"
