@@ -617,6 +617,7 @@ import Osegredoeso from './components/pages2/Osegredoeso';
 import Alien8 from './components/pages2/Alien8';
 import M3gan from './components/pages2/M3gan';
 import Pamelaa from './components/pages2/Pamelaa';
+import Nosbracosa from './components/pages2/Nosbracosa';
 
 
 
@@ -948,6 +949,7 @@ function App() {
         <Route path='/637920' component={Omilagredc7} />
         <Route path='/644495' component={Casag} />
         <Route path='/64689' component={Ohomemdamafia} />
+        <Route path='/652722' component={Nosbracosa} />
         <Route path='/652837' component={Joseetp} />
         <Route path='/653024' component={Ocomitedd} />
         <Route path='/657644' component={Supermurali} />     
