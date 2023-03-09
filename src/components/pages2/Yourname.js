@@ -15,7 +15,7 @@ export default function Yourname() {
             <Row>
               <Col>
       <Iframe
-        src="https://voe.sx/e/xi0m0vf1x39u"
+        src="https://sbbrisk.com/e/4n3fji15vk7w.html"
         target="_blank"
         scrolling="no"
         title="Video"
