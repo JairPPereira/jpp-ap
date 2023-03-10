@@ -620,6 +620,7 @@ import Pamelaa from './components/pages2/Pamelaa';
 import Nosbracosa from './components/pages2/Nosbracosa';
 import Fogocontrafogo from './components/pages2/Fogocontrafogo';
 import Donnied from './components/pages2/Donnied';
+import Ogarotodl from './components/page3/Ogarotodl';
 
 
 
@@ -802,6 +803,7 @@ function App() {
         <Route path='/333167' component={Ascensaoeqdui} />
         <Route path='/334527' component={Umnegocioderisco} />
         <Route path='/335' component={Eraumavo} />
+        <Route path='/33511' component={Ogarotodl} />
         <Route path='/337404' component={Cruella} />
         <Route path='/336004' component={Osequestrodo657} />
         <Route path='/337706' component={Mulheresaomar2} />
