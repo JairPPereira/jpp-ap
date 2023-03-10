@@ -618,6 +618,8 @@ import Alien8 from './components/pages2/Alien8';
 import M3gan from './components/pages2/M3gan';
 import Pamelaa from './components/pages2/Pamelaa';
 import Nosbracosa from './components/pages2/Nosbracosa';
+import Fogocontrafogo from './components/pages2/Fogocontrafogo';
+import Donnied from './components/pages2/Donnied';
 
 
 
@@ -703,6 +705,7 @@ function App() {
         <Route path='/13805' component={Superhli} />
         <Route path='/1399' component={Gameoftr} />
         <Route path='/1402' component={Thewd} />
+        <Route path='/141' component={Donnied} />
         <Route path='/1422' component={Osinfiltrados} />
         <Route path='/146233' component={Ossuspeitos2} />
         <Route path='/14655' component={Soulmen} />
@@ -1041,6 +1044,7 @@ function App() {
         <Route path='/9297' component={Acasamonstro} />
         <Route path='/9422' component={Aqualquerpreco} />
         <Route path='/9462' component={Ovoodd} />
+        <Route path='/949' component={Fogocontrafogo} />
         <Route path='/950' component={Aeradogelo2} />
         <Route path='/961707' component={Hawa} />
         <Route path='/96933' component={Porquees} />
