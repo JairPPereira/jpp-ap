@@ -16,7 +16,7 @@ export default function Filhosdi() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/e/iujid5n3qn3h.html"
+        src="https://sbbrisk.com/e/iujid5n3qn3h"
         target="_blank"
         scrolling="no"
         data-draggable="none"

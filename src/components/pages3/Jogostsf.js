@@ -16,7 +16,7 @@ export default function Jogostsf() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/e/xxkqigsxuqjb.html"
+        src="https://sbbrisk.com/e/xxkqigsxuqjb"
         target="_blank"
         scrolling="no"
         data-draggable="none"
