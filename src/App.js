@@ -624,6 +624,7 @@ import Ogarotodl from './components/pages3/Ogarotodll';
 import Daaz21 from './components/pages3/Daaz21';
 import Invasoresnss from './components/pages3/Invasoresnss';
 import Filhosdi from './components/pages3/Filhosdi';
+import Jogostsf from './components/pages3/Jogostf';
 
 
 
@@ -651,6 +652,7 @@ function App() {
       <Navbar />
       <Switch>
         <Route path='/' exact component={Home} />
+        <Route path='/100' component={Jogostsf} />
         <Route path='/101' component={Oprofissional} />
         <Route path='/101299' component={Jogosvec} />
         <Route path='/1022206' component={Esposada} />
