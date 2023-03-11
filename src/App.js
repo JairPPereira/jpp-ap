@@ -620,7 +620,7 @@ import Pamelaa from './components/pages2/Pamelaa';
 import Nosbracosa from './components/pages2/Nosbracosa';
 import Fogocontrafogo from './components/pages2/Fogocontrafogo';
 import Donnied from './components/pages2/Donnied';
-import Ogarotodl from './components/pages3/Ogarotodll';
+import Ogarotodl from './components/pages3/Ogarotodl';
 import Daaz21 from './components/pages3/Daaz21';
 import Invasoresnss from './components/pages3/Invasoresnss';
 import Filhosdi from './components/pages3/Filhosdi';
