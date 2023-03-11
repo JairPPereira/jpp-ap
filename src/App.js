@@ -622,6 +622,7 @@ import Fogocontrafogo from './components/pages2/Fogocontrafogo';
 import Donnied from './components/pages2/Donnied';
 import Ogarotodl from './components/pages3/Ogarotodll';
 import Daaz21 from './components/pages3/Daaz21';
+import Invasoresnss from './components/pages3/Invasoresnss';
 
 
 
@@ -785,6 +786,7 @@ function App() {
         <Route path='/27845' component={Pontodeencontro} />
         <Route path='/280' component={Oxterminadorf2jf} />
         <Route path='/284289' component={Foradealcance} />
+        <Route path='/284427' component={Invasoresnss} />
         <Route path='/290098' component={Acriada} />
         <Route path='/296096' component={Comoeuera} />
         <Route path='/299534' component={Vingadoresu} />
