@@ -706,6 +706,7 @@ function App() {
         <Route path='/13387' component={Cargaexplosiva3} />
         <Route path='/13505' component={Notamaxima} />
         <Route path='/13805' component={Superhli} />
+        <Route path='/139567' component={Fogocontrafogo} />
         <Route path='/1399' component={Gameoftr} />
         <Route path='/1402' component={Thewd} />
         <Route path='/141' component={Donnied} />
@@ -1049,7 +1050,6 @@ function App() {
         <Route path='/9297' component={Acasamonstro} />
         <Route path='/9422' component={Aqualquerpreco} />
         <Route path='/9462' component={Ovoodd} />
-        <Route path='/949' component={Fogocontrafogo} />
         <Route path='/950' component={Aeradogelo2} />
         <Route path='/961707' component={Hawa} />
         <Route path='/96933' component={Porquees} />
