@@ -625,6 +625,7 @@ import Daaz21 from './components/pages3/Daaz21';
 import Invasoresnss from './components/pages3/Invasoresnss';
 import Filhosdi from './components/pages3/Filhosdi';
 import Jogostsf from './components/pages3/Jogostsf';
+import Omotoristat from './components/pages3/Omotoristat';
 
 
 
@@ -861,6 +862,7 @@ function App() {
         <Route path='/423' component={Opianista} />
         <Route path='/424694' component={Bohemianr} />
         <Route path='/43549' component={Detencao} />
+        <Route path='/437068' component={Omotoristat} />
         <Route path='/438631' component={Duna} />
         <Route path='/44113' component={Homensemfuria} />
         <Route path='/443700' component={Altitude} />
