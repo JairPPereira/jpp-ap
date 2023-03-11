@@ -15,7 +15,7 @@ export default function Psicose() {
             <Row>
               <Col>
       <Iframe
-        src="https://voe.sx/e/g09vr6s3lthz"
+        src="https://ok.ru/videoembed/36406954610"
         target="_blank"
         scrolling="no"
         data-draggable="none"
