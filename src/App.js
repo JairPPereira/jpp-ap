@@ -620,7 +620,8 @@ import Pamelaa from './components/pages2/Pamelaa';
 import Nosbracosa from './components/pages2/Nosbracosa';
 import Fogocontrafogo from './components/pages2/Fogocontrafogo';
 import Donnied from './components/pages2/Donnied';
-import Ogarotodl from './components/page3/Ogarotodl';
+import Ogarotodl from './components/pages3/Ogarotodll';
+import Daaz21 from './components/pages3/Daaz21';
 
 
 
@@ -1108,6 +1109,8 @@ function App() {
         <Route path='/daaz18' component={Daaz18} />
         <Route path='/daaz19' component={Daaz19} />
         <Route path='/daaz20' component={Daaz20} />
+        <Route path='/daaz21' component={Daaz21} />
+        <Route path='/daaz20' component={Daaz} />
         <Route path='/daaz2' component={Daaz2} />
         <Route path='/daaz3' component={Daaz3} />
         <Route path='/daaz4' component={Daaz4} />
