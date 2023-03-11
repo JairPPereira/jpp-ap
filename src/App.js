@@ -623,6 +623,7 @@ import Donnied from './components/pages2/Donnied';
 import Ogarotodl from './components/pages3/Ogarotodll';
 import Daaz21 from './components/pages3/Daaz21';
 import Invasoresnss from './components/pages3/Invasoresnss';
+import Filhosdi from './components/pages3/Filhosdi';
 
 
 
@@ -1016,6 +1017,7 @@ function App() {
         <Route path='/77949' component={Odespertar} />
         <Route path='/781456' component={Nezhacpv} />
         <Route path='/785533' component={Aprincesaap} />
+        <Route path='/785534' component={Filhosdi} />
         <Route path='/792237' component={Camggw} />
         <Route path='/792678' component={Cubo} />
         <Route path='/79465' component={Otrapaceiro} />
