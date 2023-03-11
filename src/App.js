@@ -624,7 +624,7 @@ import Ogarotodl from './components/pages3/Ogarotodll';
 import Daaz21 from './components/pages3/Daaz21';
 import Invasoresnss from './components/pages3/Invasoresnss';
 import Filhosdi from './components/pages3/Filhosdi';
-import Jogostsf from './components/pages3/Jogostf';
+import Jogostsf from './components/pages3/Jogostsf';
 
 
 
