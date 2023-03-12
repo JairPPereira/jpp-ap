@@ -626,6 +626,7 @@ import Invasoresnss from './components/pages3/Invasoresnss';
 import Filhosdi from './components/pages3/Filhosdi';
 import Jogostsf from './components/pages3/Jogostsf';
 import Omotoristat from './components/pages3/Omotoristat';
+import Ligadajzs from './components/pages3/Ligadajzs';
 
 
 
@@ -1022,6 +1023,7 @@ function App() {
         <Route path='/781456' component={Nezhacpv} />
         <Route path='/785533' component={Aprincesaap} />
         <Route path='/785534' component={Filhosdi} />
+        <Route path='/791373' component={Ligadajzs} />
         <Route path='/792237' component={Camggw} />
         <Route path='/792678' component={Cubo} />
         <Route path='/79465' component={Otrapaceiro} />
