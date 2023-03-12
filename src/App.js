@@ -627,6 +627,7 @@ import Filhosdi from './components/pages3/Filhosdi';
 import Jogostsf from './components/pages3/Jogostsf';
 import Omotoristat from './components/pages3/Omotoristat';
 import Ligadajzs from './components/pages3/Ligadajzs';
+import A13emenda from './components/pages3/A13emenda';
 
 
 
@@ -846,6 +847,7 @@ function App() {
         <Route path='/40096' component={Oaltodc} />
         <Route path='/402423' component={Omensageiro} />
         <Route path='/40508' component={Tresninjas} />
+        <Route path='/407806' component={A13emenda} />
         <Route path='/408670' component={Oagentemirim} />
         <Route path='/406997' component={Extraordinario} />
         <Route path='/410537' component={Amityvilleot} />
