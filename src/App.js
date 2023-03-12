@@ -628,6 +628,7 @@ import Jogostsf from './components/pages3/Jogostsf';
 import Omotoristat from './components/pages3/Omotoristat';
 import Ligadajzs from './components/pages3/Ligadajzs';
 import A13emenda from './components/pages3/A13emenda';
+import Airmandadedg from './components/pages3/Airmandadedg';
 
 
 
@@ -684,6 +685,7 @@ function App() {
         <Route path='/114' component={Umalindamulher} />
         <Route path='/11423' component={Memoriasa} />
         <Route path='/116' component={Pontofinal} />
+        <Route path='/11658' component={Airmandadedg} />
         <Route path='/11688' component={Anovaondadoimperador} />
         <Route path='/11770' component={Kungffc} />
         <Route path='/11817' component={Omongeapdb} />
