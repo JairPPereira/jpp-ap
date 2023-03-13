@@ -632,6 +632,7 @@ import Airmandadedg from './components/pages3/Airmandadedg';
 import Ograndeditador from './components/pages3/Ograndeditador';
 import Luzesdacidade from './components/pages3/Luzesdacidade';
 import Temposmodernos from './components/pages3/Temposmodernos';
+import Oreileao from './components/pages3/Oreileao';
 
 
 
@@ -1051,6 +1052,7 @@ function App() {
         <Route path='/852592' component={Centauro} />
         <Route path='/853666' component={Jesuskid} />
         <Route path='/857' component={Oresgater} />
+        <Route path='/8587' component={Oreileao} />
         <Route path='/858815' component={Asfotosv} />
         <Route path='/87516' component={Oldboydv} />
         <Route path='/875303' component={Amordoentio} />
