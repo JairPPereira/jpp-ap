@@ -630,6 +630,7 @@ import Ligadajzs from './components/pages3/Ligadajzs';
 import A13emenda from './components/pages3/A13emenda';
 import Airmandadedg from './components/pages3/Airmandadedg';
 import Ograndeditador from './components/pages3/Ograndeditador';
+import Luzesdacidade from './components/pages3/Luzesdacidade';
 
 
 
@@ -1058,6 +1059,7 @@ function App() {
         <Route path='/893656' component={Gracinha} />
         <Route path='/8944' component={Foradecontrole} />
         <Route path='/9003' component={Hellraiser} />
+        <Route path='/901' component={Luzesdacidade} />
         <Route path='/91333' component={Acertodecontas} />
         <Route path='/914' component={Ograndeditador} />
         <Route path='/92321' component={Parafaf} />
