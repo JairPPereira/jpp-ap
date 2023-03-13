@@ -631,6 +631,7 @@ import A13emenda from './components/pages3/A13emenda';
 import Airmandadedg from './components/pages3/Airmandadedg';
 import Ograndeditador from './components/pages3/Ograndeditador';
 import Luzesdacidade from './components/pages3/Luzesdacidade';
+import Temposmodernos from './components/pages3/Temposmodernos';
 
 
 
@@ -804,6 +805,7 @@ function App() {
         <Route path='/300168' component={Batalhadosimperios} />
         <Route path='/302401' component={Snowdenht} />
         <Route path='/303021' component={Osalvador} />
+        <Route path='/3082' component={Temposmodernos} />
         <Route path='/308695' component={Alegiao} />
         <Route path='/309581' component={Lilaee} />
         <Route path='/311' component={Eraumavezna} />
