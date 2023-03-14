@@ -633,6 +633,7 @@ import Ograndeditador from './components/pages3/Ograndeditador';
 import Luzesdacidade from './components/pages3/Luzesdacidade';
 import Temposmodernos from './components/pages3/Temposmodernos';
 import Oreileao from './components/pages3/Oreileao';
+import Ogaroto from './components/pages3/Ogaroto';
 
 
 
@@ -661,6 +662,7 @@ function App() {
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/100' component={Jogostsf} />
+        <Route path='/10098' component={Ogaroto} />
         <Route path='/101' component={Oprofissional} />
         <Route path='/101299' component={Jogosvec} />
         <Route path='/1022206' component={Esposada} />
