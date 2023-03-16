@@ -635,6 +635,7 @@ import Temposmodernos from './components/pages3/Temposmodernos';
 import Oreileao from './components/pages3/Oreileao';
 import Ogaroto from './components/pages3/Ogaroto';
 import Prendamesfc from './components/pages3/Prendamesfc';
+import Joor from './components/pages3/Joor';
 
 
 
@@ -916,6 +917,7 @@ function App() {
         <Route path='/510' component={Umestranhonn} />
         <Route path='/512' component={Scoopogf} />
         <Route path='/512195' component={Alertav} />
+        <Route path='/515001' component={Joor} />
         <Route path='/522402' component={Finch} />
         <Route path='/522478' component={Pedrocoelho2} />
         <Route path='/522924' component={Meuamigoe} />
