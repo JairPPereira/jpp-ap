@@ -634,6 +634,7 @@ import Luzesdacidade from './components/pages3/Luzesdacidade';
 import Temposmodernos from './components/pages3/Temposmodernos';
 import Oreileao from './components/pages3/Oreileao';
 import Ogaroto from './components/pages3/Ogaroto';
+import Prendamesfc from './components/pages3/Prendamesfc';
 
 
 
@@ -973,6 +974,7 @@ function App() {
         <Route path='/63699' component={Federal} />
         <Route path='/637' component={Avidaebela} />
         <Route path='/637920' component={Omilagredc7} />
+        <Route path='/640' component={Prendamesfc} />
         <Route path='/644495' component={Casag} />
         <Route path='/64689' component={Ohomemdamafia} />
         <Route path='/652722' component={Nosbracosa} />
