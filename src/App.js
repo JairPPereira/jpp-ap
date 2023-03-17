@@ -637,6 +637,7 @@ import Ogaroto from './components/pages3/Ogaroto';
 import Prendamesfc from './components/pages3/Prendamesfc';
 import Joor from './components/pages3/Joor';
 import Estanoitevdc from './components/pages3/Estanoitevdc';
+import Pinoquiogt from './components/pages3/Pinoquiogt';
 
 
 
@@ -944,6 +945,7 @@ function App() {
         <Route path='/550' component={Clubedaluta} />
         <Route path='/550776' component={Acrediteemmim} />
         <Route path='/55101' component={Oculpado} />
+        <Route path='/555604' component={Pinoquiogt} />
         <Route path='/556018' component={Kv1} />
         <Route path='/557' component={Homemaranha} />
         <Route path='/558' component={Homemaranha2} />
