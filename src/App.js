@@ -636,6 +636,7 @@ import Oreileao from './components/pages3/Oreileao';
 import Ogaroto from './components/pages3/Ogaroto';
 import Prendamesfc from './components/pages3/Prendamesfc';
 import Joor from './components/pages3/Joor';
+import Estanoitevdc from './components/pages3/Estanoitevdc';
 
 
 
@@ -679,6 +680,7 @@ function App() {
         <Route path='/1061671' component={Pamelaa} />
         <Route path='/106646' component={Olobodw} />
         <Route path='/10726' component={Psicopataamericano2} />
+        <Route path='/1081313' component={Estanoitevdc} />
         <Route path='/10898' component={Sereia2} />
         <Route path='/109513' component={Relacaoexplosiva} />
         <Route path='/11001' component={Umtirams} />
