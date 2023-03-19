@@ -7,7 +7,7 @@ import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Bandnews2() {
+export default function Bandnews3() {
   return (
     <div>
           <p><br /></p>
@@ -15,7 +15,7 @@ export default function Bandnews2() {
             <Row>
               <Col>
       <Iframe 
-        src="https://embedflix.net/tv/bandnews"
+        src="https://tv.appmj.xyz/tv.php?canal=band-news"
         target="_blank"
         scrolling="no"
         data-draggable="none"
