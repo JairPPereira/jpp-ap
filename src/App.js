@@ -640,6 +640,7 @@ import Estanoitevdc from './components/pages3/Estanoitevdc';
 import Pinoquiogt from './components/pages3/Pinoquiogt';
 import Durodeatuar from './components/Durodeatuar';
 import Oestranguladordb from './components/pages3/Oestranguladordb';
+import Farofagk from './components/pages3/Farofagk';
 
 
 
@@ -1085,6 +1086,7 @@ function App() {
         <Route path='/9422' component={Aqualquerpreco} />
         <Route path='/9462' component={Ovoodd} />
         <Route path='/950' component={Aeradogelo2} />
+        <Route path='/954293' component={Farofagk} />
         <Route path='/961707' component={Hawa} />
         <Route path='/96933' component={Porquees} />
         <Route path='/9776' component={Umpobretaoncsb} />
