@@ -642,6 +642,7 @@ import Durodeatuar from './components/Durodeatuar';
 import Oestranguladordb from './components/pages3/Oestranguladordb';
 import Farofagk from './components/pages3/Farofagk';
 import Amulhergtc from './components/pages3/Amulhergtc';
+import Thebeatlese from './components/pages3/Thebeatlese';
 
 
 
@@ -861,6 +862,7 @@ function App() {
         <Route path='/391486' component={Atravessia} />
         <Route path='/39414' component={Tempodc} />
         <Route path='/39564' component={Luanegra} />
+        <Route path='/391698' component={Thebeatlese} />
         <Route path='/399055' component={Aformadaagua} />
         <Route path='/399579' component={Alitaac} />
         <Route path='/40096' component={Oaltodc} />
