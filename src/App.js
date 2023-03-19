@@ -639,6 +639,7 @@ import Joor from './components/pages3/Joor';
 import Estanoitevdc from './components/pages3/Estanoitevdc';
 import Pinoquiogt from './components/pages3/Pinoquiogt';
 import Durodeatuar from './components/Durodeatuar';
+import Oestranguladordb from './components/pages3/Oestranguladordb';
 
 
 
@@ -1070,6 +1071,7 @@ function App() {
         <Route path='/875303' component={Amordoentio} />
         <Route path='/877269' component={Mundoestranho} />
         <Route path='/877703' component={Teenwolf} />
+        <Route path='/881164' component={Oestranguladordb} />
         <Route path='/890980' component={Aslinhastdd} />
         <Route path='/8922' component={Olhosfamintos} />
         <Route path='/893656' component={Gracinha} />
