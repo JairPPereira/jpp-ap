@@ -641,6 +641,7 @@ import Pinoquiogt from './components/pages3/Pinoquiogt';
 import Durodeatuar from './components/Durodeatuar';
 import Oestranguladordb from './components/pages3/Oestranguladordb';
 import Farofagk from './components/pages3/Farofagk';
+import Amulhergtc from './components/pages3/Amulhergtc';
 
 
 
@@ -1068,6 +1069,7 @@ function App() {
         <Route path='/857' component={Oresgater} />
         <Route path='/8587' component={Oreileao} />
         <Route path='/858815' component={Asfotosv} />
+        <Route path='/862491' component={Amulhergtc} />
         <Route path='/87516' component={Oldboydv} />
         <Route path='/875303' component={Amordoentio} />
         <Route path='/877269' component={Mundoestranho} />
