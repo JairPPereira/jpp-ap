@@ -644,6 +644,7 @@ import Farofagk from './components/pages3/Farofagk';
 import Amulhergtc from './components/pages3/Amulhergtc';
 import Thebeatlese from './components/pages3/Thebeatlese';
 import Fantasmaecia from './components/pages3/Fantasmaecia';
+import Reidoringue from './components/pages3/Reidoringue';
 
 
 
@@ -1090,6 +1091,7 @@ function App() {
         <Route path='/92321' component={Parafaf} />
         <Route path='/9297' component={Acasamonstro} />
         <Route path='/9422' component={Aqualquerpreco} />
+        <Route path='/943822' component={Reidoringue} />
         <Route path='/9462' component={Ovoodd} />
         <Route path='/950' component={Aeradogelo2} />
         <Route path='/954293' component={Farofagk} />
