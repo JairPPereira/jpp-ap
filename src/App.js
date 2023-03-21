@@ -647,6 +647,7 @@ import Fantasmaecia from './components/pages3/Fantasmaecia';
 import Reidoringue from './components/pages3/Reidoringue';
 import Daaz22 from './components/pages3/Daaz22';
 import Sayen from './components/pages3/Sayen';
+import Opoderealei from './components/pages3/Opoderealei';
 
 
 
@@ -923,6 +924,7 @@ function App() {
         <Route path='/496243' component={Parasita} />
         <Route path='/497' component={Aesperadum} />
         <Route path='/50014' component={Historiasc} />
+        <Route path='/50348' component={Opoderealei} />
         <Route path='/504198' component={Terrorns} />
         <Route path='/505579' component={Agentesduplos} />
         <Route path='/505642' component={Panteranwps} />
