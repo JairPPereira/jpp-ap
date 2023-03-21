@@ -16,7 +16,7 @@ export default function Reidoringue() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/e/nvxcxb6gvg7b"
+        src="https://ok.ru/videoembed/5443297610290"
         target="_blank"
         scrolling="no"
         data-draggable="none"
