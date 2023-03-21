@@ -645,6 +645,8 @@ import Amulhergtc from './components/pages3/Amulhergtc';
 import Thebeatlese from './components/pages3/Thebeatlese';
 import Fantasmaecia from './components/pages3/Fantasmaecia';
 import Reidoringue from './components/pages3/Reidoringue';
+import Daaz22 from './components/pages3/Daaz22';
+import Sayen from './components/pages3/Sayen';
 
 
 
@@ -1067,6 +1069,7 @@ function App() {
         <Route path='/835666' component={Comohsc} />
         <Route path='/839440' component={Hoteldosdinossauros} />
         <Route path='/85' component={Indianajcd} />
+        <Route path='/850871' component={Sayen} />
         <Route path='/851644' component={Garotas2} />
         <Route path='/852096' component={Fantasmaecia} />
         <Route path='/852592' component={Centauro} />
@@ -1156,6 +1159,7 @@ function App() {
         <Route path='/daaz19' component={Daaz19} />
         <Route path='/daaz20' component={Daaz20} />
         <Route path='/daaz21' component={Daaz21} />
+        <Route path='/daaz22' component={Daaz22} />
         <Route path='/daaz20' component={Daaz} />
         <Route path='/daaz2' component={Daaz2} />
         <Route path='/daaz3' component={Daaz3} />
