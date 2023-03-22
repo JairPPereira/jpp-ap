@@ -648,6 +648,8 @@ import Reidoringue from './components/pages3/Reidoringue';
 import Daaz22 from './components/pages3/Daaz22';
 import Sayen from './components/pages3/Sayen';
 import Opoderealei from './components/pages3/Opoderealei';
+import Babilonia from './components/pages3/Babilonia';
+import Palmer from './components/pages3/Palmer';
 
 
 
@@ -905,6 +907,7 @@ function App() {
         <Route path='/454626' component={Sonic} />
         <Route path='/45767' component={Ajornadauvt} />
         <Route path='/457837' component={Ocladasadagas} />
+        <Route path='/458220' component={Palmer} />
         <Route path='/459075' component={Bravestorm} />
         <Route path='/460458' component={Residentevilbem} />
         <Route path='/461958' component={Coragemparaamar} />
@@ -980,6 +983,7 @@ function App() {
         <Route path='/613911' component={Blissebf} />
         <Route path='/614934' component={Elvis} />
         <Route path='/615457' component={Anonimo} />
+        <Route path='/615777' component={Babilonia} />
         <Route path='/617502' component={Joltff} />
         <Route path='/618344' component={Ligajs} />
         <Route path='/62215' component={Melancolia} />
