@@ -650,6 +650,7 @@ import Sayen from './components/pages3/Sayen';
 import Opoderealei from './components/pages3/Opoderealei';
 import Babilonia from './components/pages3/Babilonia';
 import Palmer from './components/pages3/Palmer';
+import Napalmadamao from './components/pages3/Napalmadamao';
 
 
 
@@ -1032,6 +1033,7 @@ function App() {
         <Route path='/736073' component={Batmanldb} />
         <Route path='/73873' component={Albertnobbs} />
         <Route path='/73963' component={Criatura} />
+        <Route path='/740441' component={Napalmadamao} />
         <Route path='/740555' component={Dark} />
         <Route path='/742408' component={Peleo} />
         <Route path='/7445' component={Entreirmaos} />
