@@ -651,6 +651,7 @@ import Opoderealei from './components/pages3/Opoderealei';
 import Babilonia from './components/pages3/Babilonia';
 import Palmer from './components/pages3/Palmer';
 import Napalmadamao from './components/pages3/Napalmadamao';
+import Homemfvq from './components/pages3/Homemfvq';
 
 
 
@@ -999,6 +1000,7 @@ function App() {
         <Route path='/637' component={Avidaebela} />
         <Route path='/637920' component={Omilagredc7} />
         <Route path='/640' component={Prendamesfc} />
+        <Route path='/640146' component={Homemfvq} />
         <Route path='/644495' component={Casag} />
         <Route path='/64689' component={Ohomemdamafia} />
         <Route path='/652722' component={Nosbracosa} />
