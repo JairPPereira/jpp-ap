@@ -652,6 +652,9 @@ import Babilonia from './components/pages3/Babilonia';
 import Palmer from './components/pages3/Palmer';
 import Napalmadamao from './components/pages3/Napalmadamao';
 import Homemfvq from './components/pages3/Homemfvq';
+import Johnwvj from './components/pages3/Johnwvj';
+import Johnwndm from './components/pages3/Johnwndm';
+import Johnw3 from './components/pages3/Jonhw3';
 
 
 
@@ -798,6 +801,7 @@ function App() {
         <Route path='/244786' component={Whiplash} />
         <Route path='/245698' component={Odonodojogo} />
         <Route path='/245842' component={Afilhadorei} />
+        <Route path='/245891' component={Johnwvj} />
         <Route path='/250546' component={Annabelle} />
         <Route path='/25237' component={Vaeveja} />
         <Route path='/253020' component={Aestrada47} />
@@ -837,6 +841,7 @@ function App() {
         <Route path='/329235' component={Marighela} />
         <Route path='/324786' component={Ateoultimoh} />
         <Route path='/324857' component={Homemaranhanav} />
+        <Route path='/324552' component={Johnwndm} />
         <Route path='/330070' component={Terraformarsmm} />
         <Route path='/332672' component={Obsessao} />
         <Route path='/333167' component={Ascensaoeqdui} />
@@ -909,6 +914,7 @@ function App() {
         <Route path='/454626' component={Sonic} />
         <Route path='/45767' component={Ajornadauvt} />
         <Route path='/457837' component={Ocladasadagas} />
+        <Route path='/458156' component={Johnw3} />
         <Route path='/458220' component={Palmer} />
         <Route path='/459075' component={Bravestorm} />
         <Route path='/460458' component={Residentevilbem} />
