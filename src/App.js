@@ -655,6 +655,7 @@ import Homemfvq from './components/pages3/Homemfvq';
 import Johnwvj from './components/pages3/Johnwvj';
 import Johnwndm from './components/pages3/Johnwndm';
 import Johnw3 from './components/pages3/Jonhw3';
+import Alguemqcc from './components/pages3/Alguemqcc';
 
 
 
@@ -1094,6 +1095,7 @@ function App() {
         <Route path='/8587' component={Oreileao} />
         <Route path='/858815' component={Asfotosv} />
         <Route path='/862491' component={Amulhergtc} />
+        <Route path='/869112' component={Alguemqcc} />
         <Route path='/87516' component={Oldboydv} />
         <Route path='/875303' component={Amordoentio} />
         <Route path='/877269' component={Mundoestranho} />
