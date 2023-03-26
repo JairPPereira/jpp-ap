@@ -525,7 +525,6 @@ import Aorigem from './components/pages2/Aorigem';
 import Ocasteloanimado from './components/pages2/Ocasteloanimado';
 import Btsbs from './components/pages2/Btsbs';
 import Matrix from './components/pages2/Matrix';
-import Joseetp from './components/pages2/Joseetp';
 import Osilenciodi from './components/pages2/Osilenciodi';
 import Drama4 from './components/pages2/Drama4';
 import Oresgater from './components/pages2/Oresgater';
@@ -1011,7 +1010,6 @@ function App() {
         <Route path='/644495' component={Casag} />
         <Route path='/64689' component={Ohomemdamafia} />
         <Route path='/652722' component={Nosbracosa} />
-        <Route path='/652837' component={Joseetp} />
         <Route path='/653024' component={Ocomitedd} />
         <Route path='/657644' component={Supermurali} />     
         <Route path='/66113' component={Avitimaperfeita} />
