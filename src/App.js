@@ -656,6 +656,7 @@ import Johnwndm from './components/pages3/Johnwndm';
 import Johnw3 from './components/pages3/Jonhw3';
 import Alguemqcc from './components/pages3/Alguemqcc';
 import Johnw4 from './components/pages2/Johnw4';
+import Samurayx3 from './components/pages3/Samurayx3';
 
 
 
@@ -783,6 +784,7 @@ function App() {
         <Route path='/209504' component={Cacadoresderecompensas} />
         <Route path='/212778' component={Chef} />
         <Route path='/221731' component={Samurayx2} />
+        <Route path='/221732' component={Samurayx3} />
         <Route path='/22331' component={Osdezmandamentos} />
         <Route path='/227156' component={Odoadordememorias} />
         <Route path='/227300' component={Stretch} />
