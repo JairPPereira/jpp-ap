@@ -15,7 +15,7 @@ export default function Bandnews2() {
             <Row>
               <Col>
       <Iframe 
-        src="https://embedflix.net/tv/bandnews"
+        src="https://tv.appmj.xyz/tv.php?canal=band-news"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -15,7 +15,7 @@ export default function Bandnews() {
             <Row>
               <Col>
       <Iframe 
-        src="https://api.cdnproxy.tk/v.php?id=bandnews"
+        src="https://embedflix.net/tv/bandnews"
         target="_blank"
         scrolling="no"
         data-draggable="none"

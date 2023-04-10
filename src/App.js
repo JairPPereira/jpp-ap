@@ -658,6 +658,7 @@ import Alguemqcc from './components/pages3/Alguemqcc';
 import Johnw4 from './components/pages2/Johnw4';
 import Samurayx3 from './components/pages3/Samurayx3';
 import Ateoriadt from './components/pages3/Ateoriadt';
+import Bandnews3 from './components/pages/Bandnews3';
 
 
 
@@ -1144,6 +1145,7 @@ function App() {
         <Route path='/bandnewfm' component={Bandnewfm} />
         <Route path='/bandnews' component={Bandnews} />
         <Route path='/bandnews2' component={Bandnews2} />
+        <Route path='/bandnews3' component={Bandnews3} />
         <Route path='/bandsp' component={Bandsp} />
         <Route path='/bmcnews' component={Bmcnews} />
         <Route path='/boatekiss' component={Boatekiss} />

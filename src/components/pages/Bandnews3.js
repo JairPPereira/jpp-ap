@@ -15,7 +15,7 @@ export default function Bandnews3() {
             <Row>
               <Col>
       <Iframe 
-        src="https://tv.appmj.xyz/tv.php?canal=band-news"
+        src="https://player.aovivotv.xyz/channels/bandnews/external"
         target="_blank"
         scrolling="no"
         data-draggable="none"
