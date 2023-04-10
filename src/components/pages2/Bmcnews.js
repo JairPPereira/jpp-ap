@@ -15,7 +15,7 @@ export default function Bmcnews() {
             <Row>
               <Col>
       <Iframe
-        src="https://www.youtube.com/embed/live_stream?channel=UCoja0MNI4SIvXqJR3szbSfw&amp;autoplay=1"
+        src="https://geo.dailymotion.com/player/x8non.html?video=x8aliiu"
         target="_blank"
         scrolling="no"
         data-draggable="none"
