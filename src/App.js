@@ -643,6 +643,7 @@ import Ateoriadt from './components/pages3/Ateoriadt';
 import Bandnews3 from './components/pages/Bandnews3';
 import Nasuacm from './components/pages/Nasuacm';
 import Amorov from './components/pages/Amorov';
+import Imperiodaluz from './components/pages/Imperiodaluz';
 
 
 
@@ -1055,6 +1056,7 @@ function App() {
         <Route path='/80299' component={Passagempav} />
         <Route path='/80544' component={Desejodn} />
         <Route path='/807' component={Sevenscc} />
+        <Route path='/814757' component={Imperiodaluz} />
         <Route path='/81488' component={Mamonasps} />
         <Route path='/818647' component={Atravesdmj} />
         <Route path='/82687' component={Minhamaeeumaviagem} />
