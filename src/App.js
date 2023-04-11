@@ -658,6 +658,7 @@ import Johnw4 from './components/pages2/Johnw4';
 import Samurayx3 from './components/pages3/Samurayx3';
 import Ateoriadt from './components/pages3/Ateoriadt';
 import Bandnews3 from './components/pages/Bandnews3';
+import Nasuacm from './components/pages/Nasuacm';
 
 
 
@@ -1031,6 +1032,7 @@ function App() {
         <Route path='/68718' component={Djangolivre} />
         <Route path='/687354' component={Stretfp} />
         <Route path='/70160' component={Jogosv} />
+        <Route path='/703451' component={Nasuacm} />
         <Route path='/707214' component={Ateofinal} />
         <Route path='/71211' component={Beladonna} />
         <Route path='/715931' component={Emancipation} />
