@@ -291,7 +291,6 @@ import Plutosucesso from './components/pages2/Plutosucesso';
 import Plutotdam from './components/pages/Plutotdam';
 import Poderel from './components/pages/Poderel';
 import Pokemon from './components/pages/Pokemon';
-import Porcategoria from './components/pages/Porcategoria';
 import Porquees from './components/pages/Porquees';
 import Powerr from './components/pages/Powerr';
 import Premier from './components/pages/Premier';
@@ -643,6 +642,7 @@ import Samurayx3 from './components/pages3/Samurayx3';
 import Ateoriadt from './components/pages3/Ateoriadt';
 import Bandnews3 from './components/pages/Bandnews3';
 import Nasuacm from './components/pages/Nasuacm';
+import Amorov from './components/pages/Amorov';
 
 
 
@@ -686,6 +686,7 @@ function App() {
         <Route path='/1061671' component={Pamelaa} />
         <Route path='/106646' component={Olobodw} />
         <Route path='/10726' component={Psicopataamericano2} />
+        <Route path='/1074656' component={Amorov} />
         <Route path='/1077280' component={Durodeatuar} />
         <Route path='/1081313' component={Estanoitevdc} />
         <Route path='/10898' component={Sereia2} />
@@ -1243,7 +1244,6 @@ function App() {
         <Route path='/plutosucesso' component={Plutosucesso} />
         <Route path='/plutotdam' component={Plutotdam} />
         <Route path='/pokemon' component={Pokemon} />
-        <Route path='/porcategoria' component={Porcategoria} />
         <Route path='/powerr' component={Powerr} />
         <Route path='/premier' component={Premier} />
         <Route path='/premiere2' component={Premiere2} />

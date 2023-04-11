@@ -37,7 +37,7 @@ function Navbar() {
       <Dropdown.Menu>
         <Dropdown.Item href="/Afazenda">A Fazenda</Dropdown.Item>
         <Dropdown.Item href="/Daaz9">Todos os Filmes</Dropdown.Item>
-        <Dropdown.Item href="/Porcategoria">Filmes Por categoria</Dropdown.Item>
+
         <Dropdown.Item href="/Series">Séries</Dropdown.Item>
         <Dropdown.Item href="/Documentarios">Documentários</Dropdown.Item>
         <Dropdown.Item href="/Novelas">Novelas</Dropdown.Item>
@@ -51,12 +51,7 @@ function Navbar() {
           <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
         </div>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
-          <li className='nav-item'>
-            <Link to='/Porcategoria' className='nav-links' onClick={closeMobileMenu}>
-              Filmes por categoria
-            </Link>
-          </li>
-          
+
           <li
             className='nav-item'
             onMouseEnter={onMouseEnter}
