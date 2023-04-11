@@ -10,7 +10,6 @@ import A2067 from './components/pages/2067';
 import Acao from './components/pages/Acao';
 import Acao2 from './components/pages/Acao2';
 import Acarga from './components/pages/Acarga';
-import Acasadomedo from './components/pages/Acasadomedo';
 import Acasamonstro from './components/pages/Acasamonstro';
 import Acertodecontas from "./components/pages/Acertodecontas";
 import Acolonia from './components/pages/Acolonia';
@@ -25,7 +24,6 @@ import Afazenda from './components/pages/Afazenda';
 import Afazenda2 from './components/pages/Afazenda2';
 import Afazenda3 from './components/pages/Afazenda3';
 import Afazenda4 from './components/pages/Afazzenda4';
-import Afilhadorei from './components/pages/Afilhadorei';
 import Aformadaagua from './components/pages/Aformadaagua';
 import Agenteo from './components/pages/Agenteo';
 import Agentesduplos from './components/pages/Agentesduplos';
@@ -62,7 +60,6 @@ import Aqualquerpreco from './components/pages/Aqualquerpreco';
 import Aranhas from './components/pages/Aranhas';
 import Arecompensa from './components/pages2/Arecompensa';
 import Arquiteturadd from './components/pages/Arquiteturadd';
-import Ascensaoeqdui from './components/pages/Ascensaoeqdui';
 import Asfotosv from './components/pages/Asfotosv';
 import Aslaminasdje from './components/pages/Aslaminasdje';
 import Aslegioese from './components/pages/Aslegioese';
@@ -803,7 +800,6 @@ function App() {
         <Route path='/240' component={OpoderosocII} />
         <Route path='/244786' component={Whiplash} />
         <Route path='/245698' component={Odonodojogo} />
-        <Route path='/245842' component={Afilhadorei} />
         <Route path='/245891' component={Johnwvj} />
         <Route path='/250546' component={Annabelle} />
         <Route path='/25237' component={Vaeveja} />
@@ -848,7 +844,6 @@ function App() {
         <Route path='/324552' component={Johnwndm} />
         <Route path='/330070' component={Terraformarsmm} />
         <Route path='/332672' component={Obsessao} />
-        <Route path='/333167' component={Ascensaoeqdui} />
         <Route path='/334527' component={Umnegocioderisco} />
         <Route path='/335' component={Eraumavo} />
         <Route path='/33511' component={Ogarotodl} />
@@ -926,7 +921,6 @@ function App() {
         <Route path='/47089' component={Ocaminhodn} />
         <Route path='/47533' component={Scooby} />
         <Route path='/475557' component={Coringa} />
-        <Route path='/476299' component={Acasadomedo} />
         <Route path='/47931' component={Tropadeelite2} />
         <Route path='/480408' component={Amoresdc} />
         <Route path='/488623' component={Rastrosdus} />
