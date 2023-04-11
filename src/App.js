@@ -626,6 +626,7 @@ import Bandnews3 from './components/pages/Bandnews3';
 import Nasuacm from './components/pages/Nasuacm';
 import Amorov from './components/pages/Amorov';
 import Imperiodaluz from './components/pages/Imperiodaluz';
+import Alertamx from './components/pages/Alertamx';
 
 
 
@@ -955,6 +956,7 @@ function App() {
         <Route path='/640' component={Prendamesfc} />
         <Route path='/640146' component={Homemfvq} />
         <Route path='/644495' component={Casag} />
+        <Route path='/646389' component={Alertamx} />
         <Route path='/64689' component={Ohomemdamafia} />
         <Route path='/652722' component={Nosbracosa} />
         <Route path='/653024' component={Ocomitedd} />
