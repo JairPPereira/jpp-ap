@@ -5,8 +5,6 @@ import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 
-
-import A2067 from './components/pages/2067';
 import Acao from './components/pages/Acao';
 import Acao2 from './components/pages/Acao2';
 import Acarga from './components/pages/Acarga';
@@ -23,9 +21,7 @@ import Afazenda from './components/pages/Afazenda';
 import Afazenda2 from './components/pages/Afazenda2';
 import Afazenda3 from './components/pages/Afazenda3';
 import Afazenda4 from './components/pages/Afazzenda4';
-import Aformadaagua from './components/pages/Aformadaagua';
 import Agenteo from './components/pages/Agenteo';
-import Agentesduplos from './components/pages/Agentesduplos';
 import Ajornadadevivo from './components/pages/Ajornadadevivo';
 import Ajornadauvt from './components/pages/Ajornadauvt';
 import Albertnobbs from './components/pages/Albertnobbs';
@@ -76,11 +72,8 @@ import Beladonna from './components/pages/Beladonna';
 import Blissebf from './components/pages2/Blissebf';
 import Bloodrayne3 from './components/pages/Bloodrayne3';
 import Boasnovas from './components/pages/Boasnovas';
-import Boltsc from './components/pages/Boltsc';
 import Bravestorm from './components/pages/BraveStorm';
 import Buffyacv from './components/pages/Buffyacv';
-import Cacadoresderecompensas from './components/pages/Cacadoresderecompensas';
-import Cadaveresardm from './components/pages/Cadaveresardm';
 import Cadeoh from './components/pages/Cadeoh';
 import Cafeina from './components/pages/Cafeina';
 import Calculoiv from './components/pages2/Calculoiv';
@@ -88,18 +81,13 @@ import Camggw from './components/pages2/Camggw';
 import Campeoesdos from './components/pages/Campeoesdos';
 import Canaisp from './components/pages/Canaisp';
 import Canaisrun from './components/pages/Canaisrun';
-import Cargaexplosiva3 from './components/pages/Cargaexplosiva3';
 import Cartasdua from './components/pages2/Cartasdua';
 import Casag from './components/pages2/Casag';
 import Cascao from './components/pages/Cascao';
 import Cebolinha from './components/pages/Cebolinha';
-import Centauro from './components/pages/Centauro';
-import Chef from './components/pages/Chef';
 import Cincodg from './components/pages/Cincodg';
 import Cindiel from './components/pages/Cindiel';
 import Cnnbr from './components/pages/Cnnbr';
-import Codigodeconduta from './components/pages/Codigodeconduta';
-import Codinome7 from './components/pages/Codinome7';
 import Comamorv from './components/pages2/Comamorv';
 import Comedia from './components/pages/Comedia';
 import Comedia2 from './components/pages/Comedia2';
@@ -108,11 +96,8 @@ import Comedyc2 from './components/pages/Comedyc2';
 import Commebol1 from './components/pages/Commebol1';
 import Conmebol2 from './components/pages/Conmebol2';
 import Conmebol3 from './components/pages/Conmebol3';
-import Coragemparaamar from './components/pages/Coragemparaamar';
-import Cosmopolis from './components/pages/Cosmopolis';
 import Criatura from './components/pages/Criatura';
 import Crime from './components/pages/Crime';
-import Cubo from './components/pages/Cubo';
 import Daaz from './components/pages/Daaz';
 import Daaz10 from './components/pages/Daaz10';
 import Daaz11 from './components/pages2/Daaz11';
@@ -134,12 +119,10 @@ import Detencao from './components/pages2/Detencao';
 import Diario from './components/pages/Diario';
 import Diashoje from './components/pages/Diashoje';
 import Disneyc from './components/pages/Disneyc';
-import Distrito13o from './components/pages/Distrito13o';
 import Documentarios from './components/pages/Documentarios';
 import Drama from './components/pages/Drama';
 import Drama2 from './components/pages/Drama2';
 import Drama3 from './components/pages2/Drama3';
-import Duna from './components/pages/Duna';
 import Elvis from './components/pages/Elvis';
 import Embuscadaliberdade from './components/pages/Embuscadaliberdade';
 import Embuscadevinganca from './components/pages/Embuscadevinganca';
@@ -328,7 +311,6 @@ import Seriegot from './components/pages/Seriegot';
 import Series from './components/pages/Series';
 import Sextafeira13 from './components/pages/Sextafeira13';
 import Sonhosroubados from './components/pages/Sonhosroubados';
-import Sonic from './components/pages/Sonic';
 import Sosenhorda from './components/pages2/Sosenhorda';
 import Sporttv from './components/pages/Sporttv';
 import Sporttv2 from './components/pages/Sporttv2';
@@ -721,14 +703,12 @@ function App() {
         <Route path='/128' component={Princesamono} />
         <Route path='/129' component={Aviagemdchi} />
         <Route path='/13' component={Forrestg} />
-        <Route path='/13053' component={Boltsc} />
         <Route path='/131631' component={Jogosve1} />
         <Route path='/131634' component={Jogosvef} />
         <Route path='/13207' component={Sextafeira13} />
         <Route path='/13223' component={Grantorino} />
         <Route path='/13252' component={Evidenciasdc} />
         <Route path='/13256' component={Aerademc} />
-        <Route path='/13387' component={Cargaexplosiva3} />
         <Route path='/13505' component={Notamaxima} />
         <Route path='/13805' component={Superhli} />
         <Route path='/139567' component={Fogocontrafogo} />
@@ -740,7 +720,6 @@ function App() {
         <Route path='/14655' component={Soulmen} />
         <Route path='/146631' component={Assasinosde} />
         <Route path='/152795' component={Ocongressof} />
-        <Route path='/15357' component={Distrito13o} />
         <Route path='/1537' component={Foradecontrole2} />
         <Route path='/155' component={Batmanct} />
         <Route path='/157336' component={Interestelar} />        
@@ -765,15 +744,12 @@ function App() {
         <Route path='/2046' component={Odomdp} />
         <Route path='/205596' component={Ojogodaimitacao} />
         <Route path='/20941' component={Vozesinocentes} />
-        <Route path='/209504' component={Cacadoresderecompensas} />
-        <Route path='/212778' component={Chef} />
         <Route path='/221731' component={Samurayx2} />
         <Route path='/221732' component={Samurayx3} />
         <Route path='/22331' component={Osdezmandamentos} />
         <Route path='/227156' component={Odoadordememorias} />
         <Route path='/227300' component={Stretch} />
         <Route path='/227970' component={Oshomenssdm} />
-        <Route path='/22803' component={Codigodeconduta} />
         <Route path='/228968' component={Jogadadm} />
         <Route path='/230179' component={Cacadaaop} />
         <Route path='/231474' component={Oscacadores} />
@@ -858,7 +834,6 @@ function App() {
         <Route path='/39414' component={Tempodc} />
         <Route path='/39564' component={Luanegra} />
         <Route path='/391698' component={Thebeatlese} />
-        <Route path='/399055' component={Aformadaagua} />
         <Route path='/399579' component={Alitaac} />
         <Route path='/40096' component={Oaltodc} />
         <Route path='/402423' component={Omensageiro} />
@@ -871,7 +846,6 @@ function App() {
         <Route path='/411088' component={Umcontratempo} />
         <Route path='/414906' component={Batman} />
         <Route path='/415214' component={Operacaom} />
-        <Route path='/417180' component={Cadaveresardm} />
         <Route path='/417859' component={Gatodebotas} />
         <Route path='/420818' component={Reileao} />
         <Route path='/422821' component={Oprecodg} />
@@ -881,7 +855,6 @@ function App() {
         <Route path='/424694' component={Bohemianr} />
         <Route path='/43549' component={Detencao} />
         <Route path='/437068' component={Omotoristat} />
-        <Route path='/438631' component={Duna} />
         <Route path='/44113' component={Homensemfuria} />
         <Route path='/443700' component={Altitude} />
         <Route path='/444090' component={Oreidamontanha} />
@@ -890,14 +863,12 @@ function App() {
         <Route path='/447362' component={Avidaemua} />
         <Route path='/449406' component={Ajornadadevivo} />
         <Route path='/45170' component={Sonhosroubados} />
-        <Route path='/454626' component={Sonic} />
         <Route path='/45767' component={Ajornadauvt} />
         <Route path='/457837' component={Ocladasadagas} />
         <Route path='/458156' component={Johnw3} />
         <Route path='/458220' component={Palmer} />
         <Route path='/459075' component={Bravestorm} />
         <Route path='/460458' component={Residentevilbem} />
-        <Route path='/461958' component={Coragemparaamar} />
         <Route path='/470044' component={Oodioquevs} />
         <Route path='/47089' component={Ocaminhodn} />
         <Route path='/47533' component={Scooby} />
@@ -906,7 +877,6 @@ function App() {
         <Route path='/480408' component={Amoresdc} />
         <Route path='/488623' component={Rastrosdus} />
         <Route path='/490132' component={Greenbook} />
-        <Route path='/49014' component={Cosmopolis} />
         <Route path='/49021' component={Ospecialistas} />
         <Route path='/4935' component={Ocasteloanimado} />
         <Route path='/495386' component={Entreoamoreafama} />
@@ -915,7 +885,6 @@ function App() {
         <Route path='/50014' component={Historiasc} />
         <Route path='/50348' component={Opoderealei} />
         <Route path='/504198' component={Terrorns} />
-        <Route path='/505579' component={Agentesduplos} />
         <Route path='/505642' component={Panteranwps} />
         <Route path='/50601' component={Cincodg} />
         <Route path='/507313' component={Acarga} />
@@ -934,7 +903,6 @@ function App() {
         <Route path='/526896' component={Morbius} />
         <Route path='/526973' component={Alvon1} />
         <Route path='/527641' component={Acincopdv} />
-        <Route path='/528085' component={A2067} />
         <Route path='/53080' component={Tubaraodem} />
         <Route path='/530915' component={Mil917} />
         <Route path='/53172' component={Aocasiaofl} />
@@ -1016,7 +984,6 @@ function App() {
         <Route path='/734265' component={Ummatchsurpresa} />
         <Route path='/7345' component={Ouronegro} />
         <Route path='/7347' component={Tropadeelite} />
-        <Route path='/73499' component={Codinome7} />
         <Route path='/736073' component={Batmanldb} />
         <Route path='/73873' component={Albertnobbs} />
         <Route path='/73963' component={Criatura} />
@@ -1050,7 +1017,6 @@ function App() {
         <Route path='/785534' component={Filhosdi} />
         <Route path='/791373' component={Ligadajzs} />
         <Route path='/792237' component={Camggw} />
-        <Route path='/792678' component={Cubo} />
         <Route path='/79465' component={Otrapaceiro} />
         <Route path='/800410' component={Oparamo} />
         <Route path='/80299' component={Passagempav} />
@@ -1067,7 +1033,6 @@ function App() {
         <Route path='/850871' component={Sayen} />
         <Route path='/851644' component={Garotas2} />
         <Route path='/852096' component={Fantasmaecia} />
-        <Route path='/852592' component={Centauro} />
         <Route path='/853666' component={Jesuskid} />
         <Route path='/857' component={Oresgater} />
         <Route path='/8587' component={Oreileao} />
