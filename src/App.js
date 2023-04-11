@@ -54,7 +54,6 @@ import Anovaondadoimperador from './components/pages/Anovaondadoimperador';
 import Anuvem from './components/pages/Anuvem';
 import Aocasiaofl from './components/pages2/Aocasiaofl';
 import Aparelhagens from "./components/pages/Aparelhagens";
-import Apenasus from './components/pages/Apenasus';
 import Apex from './components/pages/Apex';
 import Apostolopauc from './components/pages/Apostolopauc';
 import Apresa from './components/pages2/Apresa';
@@ -866,7 +865,6 @@ function App() {
         <Route path='/347751' component={Trezec} />
         <Route path='/348' component={Alien8} />
         <Route path='/354282' component={Afilhado1} />
-        <Route path='/354857' component={Apenasus} />
         <Route path='/357110' component={Vinhodv} />
         <Route path='/359940' component={Tresanuncios} />
         <Route path='/361743' component={Topgun} />
