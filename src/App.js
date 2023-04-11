@@ -50,7 +50,6 @@ import Amorzumbi from './components/pages/Amorzumbi';
 import Animacao from './components/pages/Animacao';
 import Anjosdanoite from './components/pages/Anjosdanoite';
 import Annabelle from './components/pages/Annabelle';
-import Anovaondadoimperador from './components/pages/Anovaondadoimperador';
 import Anuvem from './components/pages/Anuvem';
 import Aocasiaofl from './components/pages2/Aocasiaofl';
 import Aparelhagens from "./components/pages/Aparelhagens";
@@ -719,7 +718,6 @@ function App() {
         <Route path='/11423' component={Memoriasa} />
         <Route path='/116' component={Pontofinal} />
         <Route path='/11658' component={Airmandadedg} />
-        <Route path='/11688' component={Anovaondadoimperador} />
         <Route path='/11770' component={Kungffc} />
         <Route path='/11817' component={Omongeapdb} />
         <Route path='/118683' component={Operacoese} />
