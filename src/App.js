@@ -611,6 +611,7 @@ import Nasuacm from './components/pages/Nasuacm';
 import Amorov from './components/pages/Amorov';
 import Imperiodaluz from './components/pages/Imperiodaluz';
 import Alertamx from './components/pages/Alertamx';
+import Opiorvdm from './components/pages/Opiorvdm';
 
 
 
@@ -1023,6 +1024,7 @@ function App() {
         <Route path='/914' component={Ograndeditador} />
         <Route path='/92321' component={Parafaf} />
         <Route path='/9297' component={Acasamonstro} />
+        <Route path='/937278' component={Opiorvdm} />
         <Route path='/943822' component={Reidoringue} />
         <Route path='/9462' component={Ovoodd} />
         <Route path='/950' component={Aeradogelo2} />
