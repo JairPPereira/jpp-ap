@@ -612,6 +612,8 @@ import Amorov from './components/pages/Amorov';
 import Imperiodaluz from './components/pages/Imperiodaluz';
 import Alertamx from './components/pages/Alertamx';
 import Opiorvdm from './components/pages/Opiorvdm';
+import Batemap from './components/pages/Batemap';
+import Olobov from './components/pages/Olobov';
 
 
 
@@ -923,6 +925,7 @@ function App() {
         <Route path='/629' component={Ossuspeitos} />
         <Route path='/63' component={Osdozemacacos} />
         <Route path='/630566' component={Clouds} />
+        <Route path='/631842' component={Batemap} />
         <Route path='/631843' component={Tempo} />
         <Route path='/635302' component={Demsl} />
         <Route path='/63699' component={Federal} />
@@ -989,6 +992,7 @@ function App() {
         <Route path='/781456' component={Nezhacpv} />
         <Route path='/785533' component={Aprincesaap} />
         <Route path='/785534' component={Filhosdi} />
+        <Route path='/788752' component={Olobov} />
         <Route path='/791373' component={Ligadajzs} />
         <Route path='/792237' component={Camggw} />
         <Route path='/79465' component={Otrapaceiro} />
