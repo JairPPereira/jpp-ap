@@ -533,6 +533,7 @@ import Herois from './components/pages/Herois';
 import Alienor from './components/pages/Alienor';
 import Osenhorda from './components/pages/Osenhorda';
 import Destemida from './components/pages/Destemida';
+import Umhomemds from './components/pages/Umhomemds';
 
 
 
@@ -835,6 +836,7 @@ function App() {
         <Route path='/77067' component={Amorzumbi} />
         <Route path='/77338' component={Intocaveis} />
         <Route path='/774752' component={Guardioesg} />
+        <Route path='/77877' component={Umhomemds} />
         <Route path='/77949' component={Odespertar} />
         <Route path='/781456' component={Nezhacpv} />
         <Route path='/785534' component={Filhosdi} />
