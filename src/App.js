@@ -583,6 +583,7 @@ import Batemap from './components/pages/Batemap';
 import Olobov from './components/pages/Olobov';
 import Inviesto from './components/pages/Infiesto';
 import Herois from './components/pages/Herois';
+import Alienor from './components/pages/Alienor';
 
 
 
@@ -890,6 +891,7 @@ function App() {
         <Route path='/664474' component={Epiphaneap} />
         <Route path='/66859' component={Asgatinhasds} />
         <Route path='/676' component={Pearlh} />
+        <Route path='/679' component={Alienor} />
         <Route path='/680' component={Pulpfiction} />
         <Route path='/680058' component={Operacaoresgate} />
         <Route path='/68202' component={Cadeoh} />
