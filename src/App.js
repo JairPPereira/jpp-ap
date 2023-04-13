@@ -598,6 +598,7 @@ import Alertamx from './components/pages/Alertamx';
 import Opiorvdm from './components/pages/Opiorvdm';
 import Batemap from './components/pages/Batemap';
 import Olobov from './components/pages/Olobov';
+import Inviesto from './components/pages/Infiesto';
 
 
 
@@ -640,6 +641,7 @@ function App() {
         <Route path='/10534' component={Tormenta} />
         <Route path='/1061671' component={Pamelaa} />
         <Route path='/106646' component={Olobodw} />
+        <Route path='/1072567' component={Inviesto} />
         <Route path='/1074656' component={Amorov} />
         <Route path='/1077280' component={Durodeatuar} />
         <Route path='/1081313' component={Estanoitevdc} />
