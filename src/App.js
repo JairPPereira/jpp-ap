@@ -84,7 +84,6 @@ import Daaz8 from './components/pages/Daaz8';
 import Daaz9 from './components/pages/Daaz9';
 import Dazn from './components/pages/Dazn';
 import Deencontrosam from './components/pages/Deencontrosam';
-import Desejodv from './components/pages2/Desejodv';
 import Details from './components/pages/det';
 import Details2 from './components/pages/Detail2';
 import Detencao from './components/pages2/Detencao';
@@ -634,7 +633,6 @@ function App() {
         <Route path='/1891' component={Guerranasestrelas} />
         <Route path='/192134' component={Arecompensa} />
         <Route path='/192712' component={Kite} />
-        <Route path='/199556' component={Desejodv} />
         <Route path='/199591' component={Presane} />
         <Route path='/20435' component={Otremdamorte} />
         <Route path='/205596' component={Ojogodaimitacao} />
