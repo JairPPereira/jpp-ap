@@ -599,6 +599,7 @@ import Opiorvdm from './components/pages/Opiorvdm';
 import Batemap from './components/pages/Batemap';
 import Olobov from './components/pages/Olobov';
 import Inviesto from './components/pages/Infiesto';
+import Herois from './components/pages/Herois';
 
 
 
@@ -656,6 +657,7 @@ function App() {
         <Route path='/112205' component={Afamilia} />
         <Route path='/11324' component={Ailhadomedo} />
         <Route path='/11327' component={Expressomn} />
+        <Route path='/13455' component={Herois} />
         <Route path='/114' component={Umalindamulher} />
         <Route path='/11423' component={Memoriasa} />
         <Route path='/116' component={Pontofinal} />
