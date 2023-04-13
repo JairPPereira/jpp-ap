@@ -548,6 +548,8 @@ import Olobov from './components/pages/Olobov';
 import Inviesto from './components/pages/Infiesto';
 import Herois from './components/pages/Herois';
 import Alienor from './components/pages/Alienor';
+import Osenhorda from './components/pages/Osenhorda';
+import Destemida from './components/pages/Destemida';
 
 
 
@@ -644,6 +646,7 @@ function App() {
         <Route path='/164457' component={Tudoporjustica} />
         <Route path='/1654' component={Osdozec} />
         <Route path='/16869' component={Bastardosi} />
+        <Route path='/1830' component={Osenhorda} />
         <Route path='/184125' component={Homemcws} />
         <Route path='/1891' component={Guerranasestrelas} />
         <Route path='/192134' component={Arecompensa} />
@@ -846,6 +849,7 @@ function App() {
         <Route path='/736073' component={Batmanldb} />
         <Route path='/73873' component={Albertnobbs} />
         <Route path='/73963' component={Criatura} />
+        <Route path='/739986' component={Destemida} />
         <Route path='/740441' component={Napalmadamao} />
         <Route path='/740555' component={Dark} />
         <Route path='/742408' component={Peleo} />
