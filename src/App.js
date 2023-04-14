@@ -518,6 +518,7 @@ import Alienor from './components/pages/Alienor';
 import Osenhorda from './components/pages/Osenhorda';
 import Destemida from './components/pages/Destemida';
 import Umhomemds from './components/pages/Umhomemds';
+import Walle from './components/pages/Walle';
 
 
 
@@ -559,6 +560,7 @@ function App() {
         <Route path='/10534' component={Tormenta} />
         <Route path='/1061671' component={Pamelaa} />
         <Route path='/106646' component={Olobodw} />
+        <Route path='/10681' component={Walle} />
         <Route path='/1072567' component={Inviesto} />
         <Route path='/1074656' component={Amorov} />
         <Route path='/1077280' component={Durodeatuar} />
