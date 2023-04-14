@@ -501,6 +501,7 @@ import Destemida from './components/pages/Destemida';
 import Umhomemds from './components/pages/Umhomemds';
 import Walle from './components/pages/Walle';
 import Nadadnf from './components/pages/Nadadnf';
+import Osbansheesi from './components/pages/Osbansheesi';
 
 
 
@@ -739,6 +740,7 @@ function App() {
         <Route path='/652722' component={Nosbracosa} />   
         <Route path='/66113' component={Avitimaperfeita} />
         <Route path='/661374' component={Glassonion} />
+        <Route path='/674324' component={Osbansheesi} />
         <Route path='/676' component={Pearlh} />
         <Route path='/679' component={Alienor} />
         <Route path='/680' component={Pulpfiction} />
