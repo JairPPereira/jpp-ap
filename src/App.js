@@ -454,22 +454,17 @@ import Nosbracosa from './components/pages2/Nosbracosa';
 import Fogocontrafogo from './components/pages2/Fogocontrafogo';
 import Ogarotodl from './components/pages3/Ogarotodl';
 import Daaz21 from './components/pages3/Daaz21';
-import Invasoresnss from './components/pages3/Invasoresnss';
 import Filhosdi from './components/pages3/Filhosdi';
 import Jogostsf from './components/pages3/Jogostsf';
 import Omotoristat from './components/pages3/Omotoristat';
 import Ligadajzs from './components/pages3/Ligadajzs';
 import A13emenda from './components/pages3/A13emenda';
 import Airmandadedg from './components/pages3/Airmandadedg';
-import Ograndeditador from './components/pages3/Ograndeditador';
-import Luzesdacidade from './components/pages3/Luzesdacidade';
 import Temposmodernos from './components/pages3/Temposmodernos';
 import Oreileao from './components/pages3/Oreileao';
-import Ogaroto from './components/pages3/Ogaroto';
 import Prendamesfc from './components/pages3/Prendamesfc';
 import Joor from './components/pages3/Joor';
 import Estanoitevdc from './components/pages3/Estanoitevdc';
-import Pinoquiogt from './components/pages3/Pinoquiogt';
 import Durodeatuar from './components/Durodeatuar';
 import Oestranguladordb from './components/pages3/Oestranguladordb';
 import Farofagk from './components/pages3/Farofagk';
@@ -489,7 +484,6 @@ import Johnwndm from './components/pages3/Johnwndm';
 import Johnw3 from './components/pages3/Jonhw3';
 import Alguemqcc from './components/pages3/Alguemqcc';
 import Johnw4 from './components/pages2/Johnw4';
-import Samurayx3 from './components/pages3/Samurayx3';
 import Ateoriadt from './components/pages3/Ateoriadt';
 import Bandnews3 from './components/pages/Bandnews3';
 import Nasuacm from './components/pages/Nasuacm';
@@ -534,7 +528,6 @@ function App() {
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/100' component={Jogostsf} />
-        <Route path='/10098' component={Ogaroto} />
         <Route path='/101' component={Oprofissional} />
         <Route path='/101299' component={Jogosvec} />
         <Route path='/1022206' component={Esposada} />
@@ -603,7 +596,6 @@ function App() {
         <Route path='/205596' component={Ojogodaimitacao} />
         <Route path='/20941' component={Vozesinocentes} />
         <Route path='/221731' component={Samurayx2} />
-        <Route path='/221732' component={Samurayx3} />
         <Route path='/22331' component={Osdezmandamentos} />
         <Route path='/227300' component={Stretch} />
         <Route path='/228968' component={Jogadadm} />
@@ -631,7 +623,6 @@ function App() {
         <Route path='/278' component={Umsonhodeliberdade} />
         <Route path='/280' component={Oxterminadorf2jf} />
         <Route path='/284289' component={Foradealcance} />
-        <Route path='/284427' component={Invasoresnss} />
         <Route path='/290098' component={Acriada} />
         <Route path='/296096' component={Comoeuera} />
         <Route path='/299534' component={Vingadoresu} />
@@ -717,7 +708,6 @@ function App() {
         <Route path='/550' component={Clubedaluta} />
         <Route path='/550776' component={Acrediteemmim} />
         <Route path='/55101' component={Oculpado} />
-        <Route path='/555604' component={Pinoquiogt} />
         <Route path='/556018' component={Kv1} />
         <Route path='/581' component={Dancacl} />
         <Route path='/58448' component={Nocaute} />
@@ -813,8 +803,6 @@ function App() {
         <Route path='/893656' component={Gracinha} />
         <Route path='/8944' component={Foradecontrole} />
         <Route path='/9003' component={Hellraiser} />
-        <Route path='/901' component={Luzesdacidade} />
-        <Route path='/914' component={Ograndeditador} />
         <Route path='/92321' component={Parafaf} />
         <Route path='/937278' component={Opiorvdm} />
         <Route path='/943822' component={Reidoringue} />

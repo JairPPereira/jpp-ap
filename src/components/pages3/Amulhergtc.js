@@ -16,7 +16,7 @@ export default function Amulhergtc() {
             <Row>
               <Col>
       <Iframe
-        src="https://speedflix.store/video/cceff8faa855336ad53b3325914caea2"
+        src="https://embedder.net/e/movie?tmdb=862491"
         target="_blank"
         scrolling="no"
         data-draggable="none"
