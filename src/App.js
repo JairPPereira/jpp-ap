@@ -500,7 +500,7 @@ import Osenhorda from './components/pages/Osenhorda';
 import Destemida from './components/pages/Destemida';
 import Umhomemds from './components/pages/Umhomemds';
 import Walle from './components/pages/Walle';
-import Regra34 from './components/pages/Regra34';
+import Nadadnf from './components/pages/Nadadnf';
 
 
 
@@ -688,6 +688,7 @@ function App() {
         <Route path='/475557' component={Coringa} />
         <Route path='/488623' component={Rastrosdus} />
         <Route path='/490132' component={Greenbook} />
+        <Route path='/49046' component={Nadadnf} />
         <Route path='/4935' component={Ocasteloanimado} />
         <Route path='/495386' component={Entreoamoreafama} />
         <Route path='/496243' component={Parasita} />
@@ -813,7 +814,6 @@ function App() {
         <Route path='/96933' component={Porquees} />
         <Route path='/98' component={Gladiador} />
         <Route path='/989937' component={Nanatsu1} />
-        <Route path='/997265' component={Regra34} />
         <Route path='/9978' component={Alexrct} />
         <Route path='/acao' component={Acao} />
         <Route path='/acao2' component={Acao2} />
