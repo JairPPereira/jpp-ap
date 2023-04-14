@@ -502,6 +502,7 @@ import Umhomemds from './components/pages/Umhomemds';
 import Walle from './components/pages/Walle';
 import Nadadnf from './components/pages/Nadadnf';
 import Osbansheesi from './components/pages/Osbansheesi';
+import Violete from './components/pages/Violete';
 
 
 
@@ -705,6 +706,7 @@ function App() {
         <Route path='/527641' component={Acincopdv} />
         <Route path='/530915' component={Mil917} />
         <Route path='/53172' component={Aocasiaofl} />
+        <Route path='/533514' component={Violete} />
         <Route path='/536554' component={M3gan} />
         <Route path='/539' component={Psicose} />
         <Route path='/545611' component={Tudoetlmt} />
