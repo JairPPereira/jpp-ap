@@ -505,6 +505,7 @@ import Osbansheesi from './components/pages/Osbansheesi';
 import Violete from './components/pages/Violete';
 import Upaa from './components/pages/Upaa';
 import Narvik from './components/pages/Narvik';
+import Junge from './components/pages/Junge';
 
 
 
@@ -796,6 +797,7 @@ function App() {
         <Route path='/807' component={Sevenscc} />
         <Route path='/814757' component={Imperiodaluz} />
         <Route path='/81488' component={Mamonasps} />
+        <Route path='/843794' component={Junge} />
         <Route path='/85' component={Indianajcd} />
         <Route path='/850871' component={Sayen} />
         <Route path='/851644' component={Garotas2} />
