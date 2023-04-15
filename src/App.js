@@ -503,6 +503,7 @@ import Walle from './components/pages/Walle';
 import Nadadnf from './components/pages/Nadadnf';
 import Osbansheesi from './components/pages/Osbansheesi';
 import Violete from './components/pages/Violete';
+import Upaa from './components/pages/Upaa';
 
 
 
@@ -579,6 +580,7 @@ function App() {
         <Route path='/139567' component={Fogocontrafogo} />
         <Route path='/1399' component={Gameoftr} />
         <Route path='/1402' component={Thewd} />
+        <Route path='/14160' component={Upaa} />
         <Route path='/1422' component={Osinfiltrados} />
         <Route path='/146233' component={Ossuspeitos2} />
         <Route path='/155' component={Batmanct} />
