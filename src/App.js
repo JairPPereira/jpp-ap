@@ -504,6 +504,7 @@ import Nadadnf from './components/pages/Nadadnf';
 import Osbansheesi from './components/pages/Osbansheesi';
 import Violete from './components/pages/Violete';
 import Upaa from './components/pages/Upaa';
+import Narvik from './components/pages/Narvik';
 
 
 
@@ -729,6 +730,7 @@ function App() {
         <Route path='/615457' component={Anonimo} />
         <Route path='/615777' component={Babilonia} />
         <Route path='/618344' component={Ligajs} />
+        <Route path='/619930' component={Narvik} />
         <Route path='/62215' component={Melancolia} />
         <Route path='/622585' component={Aslegioese} />
         <Route path='/629' component={Ossuspeitos} />
