@@ -506,6 +506,7 @@ import Violete from './components/pages/Violete';
 import Upaa from './components/pages/Upaa';
 import Narvik from './components/pages/Narvik';
 import Junge from './components/pages/Junge';
+import Caesdeal from './components/pages/Caesdeal';
 
 
 
@@ -699,6 +700,7 @@ function App() {
         <Route path='/495386' component={Entreoamoreafama} />
         <Route path='/496243' component={Parasita} />
         <Route path='/497' component={Aesperadum} />
+        <Route path='/500' component={Caesdeal} />
         <Route path='/50014' component={Historiasc} />
         <Route path='/50348' component={Opoderealei} />
         <Route path='/504198' component={Terrorns} />
