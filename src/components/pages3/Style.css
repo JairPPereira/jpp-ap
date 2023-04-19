@@ -8,3 +8,16 @@ Iframe {
     background-position: center;
 }
 
+.VideoPlayer {
+    aspect-ratio: 4/3;
+    border: none;
+    width: 100%;
+
+  
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+

@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
+import './videoapp.css';
 
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -16,8 +17,8 @@ class Ogarotodl extends Component {
         video: {
             src: "https://play.prod.gcp.vix.services/nowhere-boy_pt/nowhere-boy_pt_1-1/play_v1_hls_540p.m3u8",
             crossorigin: "anonymous",
+            
 
-            poster: "https://www.themoviedb.org/t/p/w500_and_h282_face/t8XNWgsMWdFkRSrPxCZgdEcAKQu.jpg"
         }
     }
  
@@ -52,16 +53,16 @@ class Ogarotodl extends Component {
  
     render() {
         return (
-            <div><Container fluid>
+            <div>
+                <Container>
             <Row>
               <Col>
                       <p><br /></p>
+                      <div className='player'>
                 <VideoPlayer
                     controls={true}
                     src={this.state.video.src}
                     poster={this.state.video.poster} 
-                    width="720px" 
-                    height="auto"
                     crossorigin= "anonymous"
                     onReady={this.onPlayerReady.bind(this)}
                     onPlay={this.onVideoPlay.bind(this)}
@@ -71,7 +72,9 @@ class Ogarotodl extends Component {
                     onSeeked={this.onVideoSeeked.bind(this)}
                     onEnd={this.onVideoEnd.bind(this)}
                 />
-                    <p><br /></p> </Col></Row></Container>
+                    
+                </div>
+                    <p><br /></p> </Col></Row>
                <div className="nave">
      
       <p><br /></p>
@@ -84,7 +87,7 @@ class Ogarotodl extends Component {
 
       </div>
       
-      
+  </Container>    
       
       </div>
 
