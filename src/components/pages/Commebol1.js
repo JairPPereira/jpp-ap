@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
 import Iframe from 'react-iframe'
+import './Style.css';
+
 export default function Commebol1() {
   return (
     <div>

@@ -8,7 +8,7 @@ import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Style.css';
 
-export default function Comedyc() {
+export default function Noitein() {
   return (
     <div>
           <p><br /></p>
@@ -16,35 +16,20 @@ export default function Comedyc() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.tyflex.site/v.php?id=comedycentral"
-        target="https://embed.tyflex.site/v.php?id=comedycentral"
+        src="https://embedflix.net/filme/tt12003946"
+        target="_blank"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
         frameborder="0"
-        width="100%" 
+        width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
       </Col></Row></Container>
-       <div className="nave">
-     
-       <p><br /></p>
-                  <Link to="/Comedyc"><Button variant="primary" size="lg" width="80%">
-Opção 1
-  </Button></Link>
-
-  <Link to="/Comedyc2"><Button variant="primary" size="lg" width="80%">
-Opção 2
-  </Button></Link>
-
-
-<p><br /></p>
-</div>
-
-<div className="nave">
+                  <div className="nave">
      
                   <p><br /></p>
 
@@ -55,8 +40,6 @@ Home
 <p><br /></p>
 </div>
 </div></div>
-
-
 
   );
 }

@@ -507,6 +507,7 @@ import Upaa from './components/pages/Upaa';
 import Narvik from './components/pages/Narvik';
 import Junge from './components/pages/Junge';
 import Caesdeal from './components/pages/Caesdeal';
+import Noitein from './components/pages/Noitein';
 
 
 
@@ -816,6 +817,7 @@ function App() {
         <Route path='/890980' component={Aslinhastdd} />
         <Route path='/893656' component={Gracinha} />
         <Route path='/8944' component={Foradecontrole} />
+        <Route path='/899112' component={Noitein} />
         <Route path='/9003' component={Hellraiser} />
         <Route path='/92321' component={Parafaf} />
         <Route path='/937278' component={Opiorvdm} />
