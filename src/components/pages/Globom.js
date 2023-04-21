@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
 import Iframe from 'react-iframe'
+import './Style.css';
+
 export default function Globom() {
   return (
     <div>
@@ -10,7 +12,7 @@ export default function Globom() {
         src="https://embedflix.net/tv/globo-minas"
         target="_blank"
         frameborder="0"
-        width="100%" height="600px"
+        width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}

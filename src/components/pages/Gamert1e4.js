@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
+import './Style.css';
 
 export default function Gamert1e4() {
     return (
@@ -9,7 +10,7 @@ export default function Gamert1e4() {
         <iframe
           src="https://streamtape.com/e/12LgzRl7VBceoLL/"
           frameborder="0"
-          width="100%" height="600px"
+          width="100%" 
           allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
           title="video"
         />{" "}

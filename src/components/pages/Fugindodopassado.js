@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
 import Iframe from 'react-iframe'
+import './Style.css';
 export default function Fungindodopassado() {
   return (
     <div>
@@ -9,7 +10,7 @@ export default function Fungindodopassado() {
       <Iframe
         src="https://www.youtube.com/embed/UTIt29dWaEA"
         frameborder="0"
-        width="100%" height="320px"
+        width="100%" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
