@@ -6,6 +6,7 @@ import Button from 'react-bootstrap/Button';
 import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './Style.css';
 
 export default function Clubedaluta() {
   return (
@@ -22,9 +23,8 @@ export default function Clubedaluta() {
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        poster="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/g63KmFgqkvXu6WKS23V56hqEidh.jpg"
         frameborder="0"
-        width="100%" height="600px"
+        width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
