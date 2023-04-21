@@ -9,7 +9,6 @@ import './Style.css';
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-
 export default function Babilonia() {
   return (
     <div>
@@ -26,7 +25,7 @@ export default function Babilonia() {
         marginheight="0"
         data-popup="none" 
         frameborder="0"
-        width="100%"
+        width="100%" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       ></Iframe>{" "}

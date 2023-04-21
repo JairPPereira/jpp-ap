@@ -25,7 +25,7 @@ export default function Amulhergtc() {
         marginheight="0"
         data-popup="none" 
         frameborder="0"
-        width="100%"
+        width="100%" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       ></Iframe>{" "}

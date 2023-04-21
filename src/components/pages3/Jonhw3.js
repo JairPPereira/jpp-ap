@@ -25,7 +25,7 @@ export default function Johnw3() {
         marginheight="0"
         data-popup="none" 
         frameborder="0"
-        width="100%" height="600px"
+        width="100%" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       ></Iframe>{" "}
