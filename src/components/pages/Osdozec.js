@@ -2,6 +2,8 @@ import React from "react";
 import { Link } from 'react-router-dom';
 import './videoapp.css';
 import Iframe from 'react-iframe'
+import './Style.css';
+
 export default function Osdozec() {
   return (
     <div>
@@ -9,7 +11,7 @@ export default function Osdozec() {
       <Iframe
         src="https://ok.ru/videoembed/942813940343"
         frameborder="0"
-        width="100%" height="600px"
+        width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
