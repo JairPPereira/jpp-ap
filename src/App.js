@@ -508,6 +508,7 @@ import Narvik from './components/pages/Narvik';
 import Junge from './components/pages/Junge';
 import Caesdeal from './components/pages/Caesdeal';
 import Noitein from './components/pages/Noitein';
+import Setemum from './components/pages/Setemum';
 
 
 
@@ -814,6 +815,7 @@ function App() {
         <Route path='/877269' component={Mundoestranho} />
         <Route path='/877703' component={Teenwolf} />
         <Route path='/881164' component={Oestranguladordb} />
+        <Route path='/890541' component={Setemum} />
         <Route path='/890980' component={Aslinhastdd} />
         <Route path='/893656' component={Gracinha} />
         <Route path='/8944' component={Foradecontrole} />
