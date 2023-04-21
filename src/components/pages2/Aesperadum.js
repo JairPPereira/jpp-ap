@@ -6,6 +6,7 @@ import Button from 'react-bootstrap/Button';
 import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './Style.css';
 
 export default function Aesperadum() {
   return (
@@ -18,16 +19,14 @@ export default function Aesperadum() {
         src="https://embedder.net/e/movie?imdb=tt0120689"
         target="_blank"
         scrolling="no"
-        title="Video"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        display="initial"
         frameborder="0"
-        overflow="no"
-        width="100%" height="640px"
+        width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
+        title="video"
       />{" "}
       </Col></Row></Container>
                   <div className="nave">

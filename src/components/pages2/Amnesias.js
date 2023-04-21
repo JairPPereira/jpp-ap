@@ -6,6 +6,7 @@ import Button from 'react-bootstrap/Button';
 import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './Style.css';
 
 export default function Amnesia() {
   return (
@@ -23,7 +24,7 @@ export default function Amnesia() {
         marginheight="0"
         data-popup="none" 
         frameborder="0"
-        width="100%" height="600px"
+        width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}

@@ -4,13 +4,9 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 import Iframe from 'react-iframe'
-
-
-
-
-
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './Style.css';
 
 export default function Cavaleirodalua() {
   return (
@@ -27,26 +23,28 @@ export default function Cavaleirodalua() {
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        poster="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/io3E2yxKctv6D4J4LyBJtRfUYFp.jpg"
         frameborder="0"
-        width="100%" height="600px"
+        width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
       </Col></Row></Container>
-   
+                  <div className="nave">
+     
                   <p><br /></p>
-<center>
+
 <Link to="/"><Button variant="primary" size="lg" width="80%">
 Home
-  </Button></Link></center>
+  </Button></Link>
 
 <p><br /></p>
 </div>
-</div>
+</div></div>
 
-);
+  );
 }
+
+
 
 
 

@@ -4,11 +4,11 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 import Iframe from 'react-iframe'
-
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './Style.css';
 
-export default function Alien8() {
+export default function  Alien8() {
   return (
     <div>
           <p><br /></p>
@@ -24,7 +24,7 @@ export default function Alien8() {
         marginheight="0"
         data-popup="none" 
         frameborder="0"
-        width="100%" height="600px"
+        width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}

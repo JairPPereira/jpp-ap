@@ -6,6 +6,7 @@ import Button from 'react-bootstrap/Button';
 import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './Style.css';
 
 export default function Adesencantada() {
   return (
@@ -22,9 +23,8 @@ export default function Adesencantada() {
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        poster="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/io3E2yxKctv6D4J4LyBJtRfUYFp.jpg"
         frameborder="0"
-        width="100%" height="600px"
+        width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
