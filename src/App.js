@@ -509,6 +509,7 @@ import Junge from './components/pages/Junge';
 import Caesdeal from './components/pages/Caesdeal';
 import Noitein from './components/pages/Noitein';
 import Setemum from './components/pages/Setemum';
+import Halo4 from './components/pages/Halo4';
 
 
 
@@ -722,6 +723,7 @@ function App() {
         <Route path='/550776' component={Acrediteemmim} />
         <Route path='/55101' component={Oculpado} />
         <Route path='/556018' component={Kv1} />
+        <Route path='/56295' component={Halo4} />
         <Route path='/581' component={Dancacl} />
         <Route path='/58448' component={Nocaute} />
         <Route path='/589157' component={Linewalker2} />
