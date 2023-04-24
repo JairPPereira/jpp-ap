@@ -510,6 +510,7 @@ import Caesdeal from './components/pages/Caesdeal';
 import Noitein from './components/pages/Noitein';
 import Setemum from './components/pages/Setemum';
 import Halo4 from './components/pages/Halo4';
+import Oinfernodg from './components/pages/Oinfernodg';
 
 
 
@@ -761,6 +762,7 @@ function App() {
         <Route path='/68348' component={Arquiteturadd} />
         <Route path='/68718' component={Djangolivre} />
         <Route path='/687354' component={Stretfp} />
+        <Route path='/696374' component={Oinfernodg} />
         <Route path='/70160' component={Jogosv} />
         <Route path='/703451' component={Nasuacm} />
         <Route path='/707214' component={Ateofinal} />
