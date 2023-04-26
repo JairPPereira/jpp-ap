@@ -511,6 +511,7 @@ import Noitein from './components/pages/Noitein';
 import Setemum from './components/pages/Setemum';
 import Halo4 from './components/pages/Halo4';
 import Oinfernodg from './components/pages/Oinfernodg';
+import Regra34 from './components/pages/Regra34';
 
 
 
@@ -834,6 +835,7 @@ function App() {
         <Route path='/96933' component={Porquees} />
         <Route path='/98' component={Gladiador} />
         <Route path='/989937' component={Nanatsu1} />
+        <Route path='/997265' component={Regra34} />
         <Route path='/9978' component={Alexrct} />
         <Route path='/acao' component={Acao} />
         <Route path='/acao2' component={Acao2} />
