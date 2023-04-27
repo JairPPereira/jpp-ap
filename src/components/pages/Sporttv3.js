@@ -9,7 +9,7 @@ export default function Sporttv3() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.tyflex.site/v.php?id=SporTV3"
+        src="https://sportsonline.su/channels/pt/sporttv1.php"
         target="_blank"
         frameborder="0"
         width="100%" 
