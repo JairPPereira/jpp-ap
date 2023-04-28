@@ -512,6 +512,7 @@ import Setemum from './components/pages/Setemum';
 import Halo4 from './components/pages/Halo4';
 import Oinfernodg from './components/pages/Oinfernodg';
 import Regra34 from './components/pages/Regra34';
+import Umanji from './components/pages/Umanji';
 
 
 
@@ -551,6 +552,7 @@ function App() {
         <Route path='/105' component={Devoltapf} />
         <Route path='/10534' component={Tormenta} />
         <Route path='/1061671' component={Pamelaa} />
+        <Route path='/1065796' component={Umanji} />
         <Route path='/106646' component={Olobodw} />
         <Route path='/10681' component={Walle} />
         <Route path='/1072567' component={Inviesto} />
