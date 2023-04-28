@@ -514,6 +514,7 @@ import Oinfernodg from './components/pages/Oinfernodg';
 import Regra34 from './components/pages/Regra34';
 import Umanji from './components/pages/Umanji';
 import Matildaom from './components/pages/Matildaom';
+import Aluzdm from './components/pages/Aluzdm';
 
 
 
@@ -761,6 +762,7 @@ function App() {
         <Route path='/668482' component={Matildaom} />
         <Route path='/674324' component={Osbansheesi} />
         <Route path='/676' component={Pearlh} />
+        <Route path='/676547' component={Aluzdm} />
         <Route path='/679' component={Alienor} />
         <Route path='/680' component={Pulpfiction} />
         <Route path='/68202' component={Cadeoh} />
