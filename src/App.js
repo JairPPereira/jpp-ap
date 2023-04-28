@@ -515,6 +515,7 @@ import Regra34 from './components/pages/Regra34';
 import Umanji from './components/pages/Umanji';
 import Matildaom from './components/pages/Matildaom';
 import Aluzdm from './components/pages/Aluzdm';
+import Peterpw from './components/pages/Peterpw';
 
 
 
@@ -683,6 +684,7 @@ function App() {
         <Route path='/411088' component={Umcontratempo} />
         <Route path='/414906' component={Batman} />
         <Route path='/415214' component={Operacaom} />
+        <Route path='/420808' component={Peterpw} />
         <Route path='/422821' component={Oprecodg} />
         <Route path='/424' component={Alistads} />
         <Route path='/429' component={Treshomensc} />
