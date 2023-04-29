@@ -516,6 +516,7 @@ import Umanji from './components/pages/Umanji';
 import Matildaom from './components/pages/Matildaom';
 import Aluzdm from './components/pages/Aluzdm';
 import Peterpw from './components/pages/Peterpw';
+import Umanmr from './components/pages/Umanmr';
 
 
 
@@ -790,6 +791,7 @@ function App() {
         <Route path='/742408' component={Peleo} />
         <Route path='/74549' component={Osegredo} />
         <Route path='/747803' component={Bilhetedefuga} />
+        <Route path='/751741' component={Umanmr} />
         <Route path='/758009' component={Casamentoa} />
         <Route path='/759175' component={Aprincesa} />
         <Route path='/76203' component={Dozeanosde} />
