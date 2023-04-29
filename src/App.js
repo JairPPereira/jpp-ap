@@ -517,6 +517,7 @@ import Matildaom from './components/pages/Matildaom';
 import Aluzdm from './components/pages/Aluzdm';
 import Peterpw from './components/pages/Peterpw';
 import Umanmr from './components/pages/Umanmr';
+import Ataquedc from './components/pages/Ataquedc';
 
 
 
@@ -739,6 +740,7 @@ function App() {
         <Route path='/593643' component={Omenu} />
         <Route path='/598' component={Cidadededeus} />
         <Route path='/600354' component={Meupai} />
+        <Route path='/600583' component={Ataquedc} />
         <Route path='/603' component={Matrix} />
         <Route path='/603692' component={Johnw4} />
         <Route path='/606856' component={Togo} />
