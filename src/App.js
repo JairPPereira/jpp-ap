@@ -518,6 +518,7 @@ import Aluzdm from './components/pages/Aluzdm';
 import Peterpw from './components/pages/Peterpw';
 import Umanmr from './components/pages/Umanmr';
 import Ataquedc from './components/pages/Ataquedc';
+import Tempestadei from './components/pages/Tempestadei';
 
 
 
@@ -816,6 +817,7 @@ function App() {
         <Route path='/80299' component={Passagempav} />
         <Route path='/80544' component={Desejodn} />
         <Route path='/807' component={Sevenscc} />
+        <Route path='/811631' component={Tempestadei} />
         <Route path='/814757' component={Imperiodaluz} />
         <Route path='/81488' component={Mamonasps} />
         <Route path='/843794' component={Junge} />
