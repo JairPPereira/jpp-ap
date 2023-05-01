@@ -16,7 +16,7 @@ export default function Bandnews2() {
             <Row>
               <Col>
       <Iframe 
-        src="https://tv.appmj.xyz/tv.php?canal=band-news"
+        src="https://playertv.net/tv.php?c=band-news"
         target="_blank"
         scrolling="no"
         data-draggable="none"
