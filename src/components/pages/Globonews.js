@@ -10,8 +10,8 @@ export default function Globonews() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://tv.appmj.xyz/tv.php?canal=globo-news"
-        target="https://tv.appmj.xyz/tv.php?canal=globo-news"
+        src="https://playertv.net/tv.php?c=globo-news"
+        target="https://playertv.net/tv.php?c=globo-news"
         frameborder="0"
         scrolling="no"
         width="100%" 
