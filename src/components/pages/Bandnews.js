@@ -33,15 +33,15 @@ export default function Bandnews() {
      
                   <p><br /></p>
 
-<Link to="/Bandnews"><Button variant="primary" size="lg" width="80%">
+<Link to="/Bandnews"><Button variant="active"  size="lg" width="80%" padding="5px">
 Opção 1
   </Button></Link>
 
-  <Link to="/Bandnews2"><Button variant="primary" size="lg" width="80%">
+  <Link to="/Bandnews2"><Button variant="primary" size="lg" width="80%" padding="5px">
 Opção 2
   </Button></Link>
 
-  <Link to="/Bandnews3"><Button variant="primary" size="lg" width="80%">
+  <Link to="/Bandnews3"><Button variant="primary" size="lg" width="80%" padding="5px">
 Opção 3
   </Button></Link>
 

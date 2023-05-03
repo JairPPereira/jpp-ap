@@ -16,7 +16,7 @@ export default function Bandnews3() {
             <Row>
               <Col>
       <Iframe 
-        src="https://player.aovivotv.xyz/channels/bandnews/external"
+        src="https://player.aovivotv.xyz/channels/bandnews"
         target="_blank"
         scrolling="no"
         data-draggable="none"
@@ -32,15 +32,15 @@ export default function Bandnews3() {
                   <div className="nave">
      
                   <p><br /></p>
-                  <Link to="/Bandnews"><Button variant="primary" size="lg" width="80%">
+                  <Link to="/Bandnews"><Button variant="primary" size="lg" width="80%" padding="5px">
 Opção 1
   </Button></Link>
 
-  <Link to="/Bandnews2"><Button variant="primary" size="lg" width="80%">
+  <Link to="/Bandnews2"><Button variant="primary" size="lg" width="80%" padding="5px">
 Opção 2
   </Button></Link>
 
-  <Link to="/Bandnews3"><Button variant="primary" size="lg" width="80%">
+  <Link to="/Bandnews3"><Button variant="active" size="lg" width="80%" padding="5px">
 Opção 3
   </Button></Link>
 
