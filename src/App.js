@@ -520,6 +520,7 @@ import Umanmr from './components/pages/Umanmr';
 import Ataquedc from './components/pages/Ataquedc';
 import Tempestadei from './components/pages/Tempestadei';
 import Visitase from './components/pages/Visitase';
+import Odiariobrr from './components/pages/Odiariobrr';
 
 
 
@@ -839,6 +840,7 @@ function App() {
         <Route path='/890980' component={Aslinhastdd} />
         <Route path='/893656' component={Gracinha} />
         <Route path='/8944' component={Foradecontrole} />
+        <Route path='/897192' component={Odiariobrr} />
         <Route path='/899112' component={Noitein} />
         <Route path='/9003' component={Hellraiser} />
         <Route path='/92321' component={Parafaf} />
