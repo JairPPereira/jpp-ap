@@ -4,7 +4,7 @@ import { Container, Movie, MovieList } from './styles';
 import Button from 'react-bootstrap/Button';
 
 
-function Daaz2() {
+function Familiafs() {
 
   const imagePath = 'https://image.tmdb.org/t/p/w500/'
 

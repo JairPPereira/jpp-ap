@@ -10,9 +10,14 @@ export default function Conmebol2() {
           <p><br /></p>
       <Iframe
         src="https://canais.m3u8live.ml/v.php?id=Conmebol2" 
-        target="_blank"
         frameborder="0"
-        width="100%" 
+        width="100%"
+        target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}

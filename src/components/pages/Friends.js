@@ -10,9 +10,14 @@ export default function Friends() {
           <p><br /></p>
       <Iframe
         src="https://embed.warezcdn.net/serie/tt0108778"
-        target="https://embed.warezcdn.net/serie/tt0108778"
         frameborder="0"
-        width="100%" 
+        width="100%"
+        target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}

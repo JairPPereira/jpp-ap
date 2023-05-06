@@ -10,9 +10,14 @@ export default function Caesdeal() {
           <p><br /></p>
       <Iframe
         src="https://embedder.net/e/movie?imdb=tt0105236"
-        target="_blank"
         frameborder="0"
-        width="100%" 
+        width="100%"
+        target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
