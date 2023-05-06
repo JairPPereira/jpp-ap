@@ -522,6 +522,7 @@ import Tempestadei from './components/pages/Tempestadei';
 import Visitase from './components/pages/Visitase';
 import Odiariobrr from './components/pages/Odiariobrr';
 import Oamantedl from './components/pages/Oamantedl';
+import Thehs from './components/pages/Thehs';
 
 
 
@@ -832,6 +833,7 @@ function App() {
         <Route path='/857' component={Oresgater} />
         <Route path='/8587' component={Oreileao} />
         <Route path='/862491' component={Amulhergtc} />
+        <Route path='/866267' component={Thehs} />
         <Route path='/869112' component={Alguemqcc} />
         <Route path='/87516' component={Oldboydv} />
         <Route path='/875303' component={Amordoentio} />
