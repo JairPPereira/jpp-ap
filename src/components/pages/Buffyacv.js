@@ -21,7 +21,6 @@ export default function Buffyacv() {
       <Iframe
         src="https://embed.warezcdn.net/serie/tt0118276"
         target="https://embed.warezcdn.net/serie/tt0118276"
-        scrolling="no"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"

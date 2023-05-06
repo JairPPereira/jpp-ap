@@ -13,7 +13,6 @@ export default function Friends() {
         frameborder="0"
         width="100%"
         target="_blank"
-        scrolling="no"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
