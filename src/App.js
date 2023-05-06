@@ -521,6 +521,7 @@ import Ataquedc from './components/pages/Ataquedc';
 import Tempestadei from './components/pages/Tempestadei';
 import Visitase from './components/pages/Visitase';
 import Odiariobrr from './components/pages/Odiariobrr';
+import Oamantedl from './components/pages/Oamantedl';
 
 
 
@@ -820,6 +821,7 @@ function App() {
         <Route path='/80544' component={Desejodn} />
         <Route path='/807' component={Sevenscc} />
         <Route path='/811631' component={Tempestadei} />
+        <Route path='/814338' component={Oamantedl} />
         <Route path='/814757' component={Imperiodaluz} />
         <Route path='/81488' component={Mamonasps} />
         <Route path='/843794' component={Junge} />
