@@ -9,7 +9,7 @@ export default function Thehs() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://jppfilmes.pages.dev/filmes/Thehs/index2.html"
+        src="https://embed.warezcdn.net/filme/tt6986990"
         frameborder="0"
         width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
