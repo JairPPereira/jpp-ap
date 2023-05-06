@@ -12,6 +12,12 @@ export default function Oexercitodm() {
         src="https://embedflix.net/filme/tt7375466"
         frameborder="0"
         width="100%"
+        target="_blank"
+        scrolling="no"
+        data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
+        data-popup="none" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
