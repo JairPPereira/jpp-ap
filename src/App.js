@@ -524,6 +524,7 @@ import Odiariobrr from './components/pages/Odiariobrr';
 import Oamantedl from './components/pages/Oamantedl';
 import Thehs from './components/pages/Thehs';
 import Oexercitodm from './components/pages2/Oexercitodm';
+import Otrolldm from './components/pages/Otrolldm';
 
 
 
@@ -792,6 +793,7 @@ function App() {
         <Route path='/73' component={Aoutraha} />
         <Route path='/7304' component={Norastrodb} />
         <Route path='/7345' component={Ouronegro} />
+        <Route path='/736526' component={Otrolldm} />
         <Route path='/73873' component={Albertnobbs} />
         <Route path='/73963' component={Criatura} />
         <Route path='/739986' component={Destemida} />
