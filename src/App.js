@@ -523,6 +523,7 @@ import Visitase from './components/pages/Visitase';
 import Odiariobrr from './components/pages/Odiariobrr';
 import Oamantedl from './components/pages/Oamantedl';
 import Thehs from './components/pages/Thehs';
+import Oexercitodm from './components/pages2/Oexercitodm';
 
 
 
@@ -726,6 +727,7 @@ function App() {
         <Route path='/50601' component={Cincodg} />
         <Route path='/510' component={Umestranhonn} />
         <Route path='/515001' component={Joor} />
+        <Route path='/518896' component={Oexercitodm} />
         <Route path='/522924' component={Meuamigoe} />
         <Route path='/527641' component={Acincopdv} />
         <Route path='/530915' component={Mil917} />
