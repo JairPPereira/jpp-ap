@@ -22,7 +22,6 @@ export default function Buffyacv() {
         src="https://embed.warezcdn.net/serie/tt0118276"
         target="https://embed.warezcdn.net/serie/tt0118276"
         data-draggable="none"
-        marginwidth="0"
         marginheight="0"
         data-popup="none" 
         frameborder="0"
