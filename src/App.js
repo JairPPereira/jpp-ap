@@ -526,6 +526,7 @@ import Thehs from './components/pages/Thehs';
 import Oexercitodm from './components/pages2/Oexercitodm';
 import Otrolldm from './components/pages/Otrolldm';
 import Medieval from './components/pages/Medieval';
+import Blackout from './components/pages/Blackout';
 
 
 
@@ -807,6 +808,7 @@ function App() {
         <Route path='/751741' component={Umanmr} />
         <Route path='/758009' component={Casamentoa} />
         <Route path='/759175' component={Aprincesa} />
+        <Route path='/759507' component={Blackout} />
         <Route path='/76203' component={Dozeanosde} />
         <Route path='/76600' component={Avataroca} />
         <Route path='/766507' component={Opredadora} />
