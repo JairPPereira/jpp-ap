@@ -525,6 +525,7 @@ import Oamantedl from './components/pages/Oamantedl';
 import Thehs from './components/pages/Thehs';
 import Oexercitodm from './components/pages2/Oexercitodm';
 import Otrolldm from './components/pages/Otrolldm';
+import Medieval from './components/pages/Medieval';
 
 
 
@@ -740,6 +741,7 @@ function App() {
         <Route path='/550' component={Clubedaluta} />
         <Route path='/550776' component={Acrediteemmim} />
         <Route path='/55101' component={Oculpado} />
+        <Route path='/551271' component={Medieval} />
         <Route path='/556018' component={Kv1} />
         <Route path='/56295' component={Halo4} />
         <Route path='/581' component={Dancacl} />
