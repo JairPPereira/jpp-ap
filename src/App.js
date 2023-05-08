@@ -527,6 +527,7 @@ import Oexercitodm from './components/pages2/Oexercitodm';
 import Otrolldm from './components/pages/Otrolldm';
 import Medieval from './components/pages/Medieval';
 import Blackout from './components/pages/Blackout';
+import Monsterh from './components/pages/Monsterh';
 
 
 
@@ -668,6 +669,7 @@ function App() {
         <Route path='/324552' component={Johnwndm} />
         <Route path='/332672' component={Obsessao} />
         <Route path='/33511' component={Ogarotodl} />
+        <Route path='/335795' component={Monsterh} />
         <Route path='/337404' component={Cruella} />
         <Route path='/338958' component={Adesencantada} />
         <Route path='/346' component={Ossetes} />
