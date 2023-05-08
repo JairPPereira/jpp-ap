@@ -528,6 +528,7 @@ import Otrolldm from './components/pages/Otrolldm';
 import Medieval from './components/pages/Medieval';
 import Blackout from './components/pages/Blackout';
 import Monsterh from './components/pages/Monsterh';
+import Lobisomemn from './components/pages/Lobisomemn';
 
 
 
@@ -853,6 +854,7 @@ function App() {
         <Route path='/890541' component={Setemum} />
         <Route path='/890980' component={Aslinhastdd} />
         <Route path='/893656' component={Gracinha} />
+        <Route path='/894205' component={Lobisomemn} />
         <Route path='/8944' component={Foradecontrole} />
         <Route path='/897192' component={Odiariobrr} />
         <Route path='/899112' component={Noitein} />
