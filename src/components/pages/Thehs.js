@@ -9,9 +9,10 @@ export default function Thehs() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://superflixapi.net/filme/tt6986990"
+        src="https://jppfilmes.pages.dev/filmes/Thehs/index2.html"
         frameborder="0"
         width="100%"
+        height="520px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
