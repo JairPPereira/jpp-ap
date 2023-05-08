@@ -529,6 +529,7 @@ import Medieval from './components/pages/Medieval';
 import Blackout from './components/pages/Blackout';
 import Monsterh from './components/pages/Monsterh';
 import Lobisomemn from './components/pages/Lobisomemn';
+import Umagdms from './components/pages/Umagdms';
 
 
 
@@ -829,6 +830,7 @@ function App() {
         <Route path='/791373' component={Ligadajzs} />
         <Route path='/792237' component={Camggw} />
         <Route path='/79465' component={Otrapaceiro} />
+        <Route path='/799546' component={Umagdms} />
         <Route path='/80299' component={Passagempav} />
         <Route path='/80544' component={Desejodn} />
         <Route path='/807' component={Sevenscc} />
