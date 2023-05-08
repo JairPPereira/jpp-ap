@@ -530,6 +530,7 @@ import Blackout from './components/pages/Blackout';
 import Monsterh from './components/pages/Monsterh';
 import Lobisomemn from './components/pages/Lobisomemn';
 import Umagdms from './components/pages/Umagdms';
+import Sorria from './components/pages/Sorria';
 
 
 
@@ -853,6 +854,7 @@ function App() {
         <Route path='/877269' component={Mundoestranho} />
         <Route path='/877703' component={Teenwolf} />
         <Route path='/881164' component={Oestranguladordb} />
+        <Route path='/882598' component={Sorria} />
         <Route path='/890541' component={Setemum} />
         <Route path='/890980' component={Aslinhastdd} />
         <Route path='/893656' component={Gracinha} />
