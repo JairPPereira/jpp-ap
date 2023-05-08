@@ -531,6 +531,7 @@ import Monsterh from './components/pages/Monsterh';
 import Lobisomemn from './components/pages/Lobisomemn';
 import Umagdms from './components/pages/Umagdms';
 import Sorria from './components/pages/Sorria';
+import Umdmnc from './components/pages/Umdmnc';
 
 
 
@@ -582,6 +583,7 @@ function App() {
         <Route path='/11216' component={Cinemap} />
         <Route path='/1124' component={Ograndetruque} />
         <Route path='/112205' component={Afamilia} />
+        <Route path='/1122493' component={Umdmnc} />
         <Route path='/11324' component={Ailhadomedo} />
         <Route path='/11327' component={Expressomn} />
         <Route path='/13455' component={Herois} />
