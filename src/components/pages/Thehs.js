@@ -18,6 +18,7 @@ export default function Thehs() {
         data-popup="none" 
         frameborder="0"
         width="100%"
+        height="520px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
