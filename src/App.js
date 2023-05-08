@@ -532,6 +532,7 @@ import Lobisomemn from './components/pages/Lobisomemn';
 import Umagdms from './components/pages/Umagdms';
 import Sorria from './components/pages/Sorria';
 import Umdmnc from './components/pages/Umdmnc';
+import Operacaoc from './components/pages/Operacaoc';
 
 
 
@@ -756,6 +757,7 @@ function App() {
         <Route path='/58448' component={Nocaute} />
         <Route path='/589157' component={Linewalker2} />
         <Route path='/593643' component={Omenu} />
+        <Route path='/597922' component={Operacaoc} />
         <Route path='/598' component={Cidadededeus} />
         <Route path='/600354' component={Meupai} />
         <Route path='/600583' component={Ataquedc} />
