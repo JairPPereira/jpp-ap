@@ -534,6 +534,7 @@ import Sorria from './components/pages/Sorria';
 import Umdmnc from './components/pages/Umdmnc';
 import Operacaoc from './components/pages/Operacaoc';
 import Oexorcismoma from './components/pages/Oexorcismoma';
+import Umculpadoen from './components/pages/Umculpadoen';
 
 
 
@@ -786,6 +787,7 @@ function App() {
         <Route path='/66113' component={Avitimaperfeita} />
         <Route path='/661374' component={Glassonion} />
         <Route path='/668482' component={Matildaom} />
+        <Route path='/672154' component={Umculpadoen} />
         <Route path='/674324' component={Osbansheesi} />
         <Route path='/676' component={Pearlh} />
         <Route path='/676547' component={Aluzdm} />
