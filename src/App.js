@@ -539,6 +539,7 @@ import Entergalactico from './components/pages/Entergalactico';
 import Abracadabra from './components/pages/Abracadabra';
 import Greysa from './components/pages/Greysa';
 import Abracadabra2 from './components/pages/Abracadabra2';
+import Naospq from './components/pages/Naospq';
 
 
 
@@ -776,6 +777,7 @@ function App() {
         <Route path='/615457' component={Anonimo} />
         <Route path='/615777' component={Babilonia} />
         <Route path='/618344' component={Ligajs} />
+        <Route path='/619730' component={Naospq} />
         <Route path='/619930' component={Narvik} />
         <Route path='/62215' component={Melancolia} />
         <Route path='/622585' component={Aslegioese} />
