@@ -540,6 +540,7 @@ import Abracadabra from './components/pages/Abracadabra';
 import Greysa from './components/pages/Greysa';
 import Abracadabra2 from './components/pages/Abracadabra2';
 import Naospq from './components/pages/Naospq';
+import Leieordemve from './components/pages/Leieordemve';
 
 
 
@@ -1008,6 +1009,7 @@ function App() {
         <Route path='/kpoptv' component={Kpoptv} />
         <Route path='/kronehit' component={Kronehit} />
         <Route path='/lama' component={Lama} />
+        <Route path='/leieordemve' component={Leieordemve} />
         <Route path='/liberdadefm' component={Liberdadefm} />
         <Route path='/magali' component={Magali} />
         <Route path='/maldosa' component={Maldosa} />
