@@ -536,6 +536,7 @@ import Operacaoc from './components/pages/Operacaoc';
 import Oexorcismoma from './components/pages/Oexorcismoma';
 import Umculpadoen from './components/pages/Umculpadoen';
 import Entergalactico from './components/pages/Entergalactico';
+import Abracadabra from './components/pages/Abracadabra';
 
 
 
@@ -573,6 +574,7 @@ function App() {
         <Route path='/1032412' component={Quebrandog} />
         <Route path='/10358' component={Pagandobqmt} />
         <Route path='/103663' component={Acaca} />
+        <Route path='/10439' component={Abracadabra} />
         <Route path='/105' component={Devoltapf} />
         <Route path='/10534' component={Tormenta} />
         <Route path='/1061671' component={Pamelaa} />
