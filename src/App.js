@@ -538,6 +538,7 @@ import Umculpadoen from './components/pages/Umculpadoen';
 import Entergalactico from './components/pages/Entergalactico';
 import Abracadabra from './components/pages/Abracadabra';
 import Greysa from './components/pages/Greysa';
+import Abracadabra2 from './components/pages/Abracadabra2';
 
 
 
@@ -787,6 +788,7 @@ function App() {
         <Route path='/637920' component={Omilagredc7} />
         <Route path='/640' component={Prendamesfc} />
         <Route path='/640146' component={Homemfvq} />
+        <Route path='/642885' component={Abracadabra2} />
         <Route path='/646389' component={Alertamx} />
         <Route path='/652722' component={Nosbracosa} />   
         <Route path='/66113' component={Avitimaperfeita} />
