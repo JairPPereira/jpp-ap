@@ -537,6 +537,7 @@ import Oexorcismoma from './components/pages/Oexorcismoma';
 import Umculpadoen from './components/pages/Umculpadoen';
 import Entergalactico from './components/pages/Entergalactico';
 import Abracadabra from './components/pages/Abracadabra';
+import Greysa from './components/pages/Greysa';
 
 
 
@@ -991,6 +992,7 @@ function App() {
         <Route path='/globosp' component={Globosp} />
         <Route path='/gossebump2' component={Gossebump2} />
         <Route path='/graopara' component={Graopara} />
+        <Route path='/greysa' component={Greysa} />
         <Route path='/halo' component={Halo} />
         <Route path='/hawai50' component={Hawai50} />
         <Route path='/Hbof' component={Hbof} />
