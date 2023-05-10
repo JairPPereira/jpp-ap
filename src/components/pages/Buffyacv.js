@@ -20,9 +20,14 @@ export default function Buffyacv() {
               <Col>
       <Iframe
         src="https://embed.warezcdn.net/serie/tt0118276"
-        target="https://embed.warezcdn.net/serie/tt0118276"
+        target="_blank"
+        scrolling="no"
+        height="520px"
         data-draggable="none"
+        marginwidth="0"
+        marginheight="0"
         data-popup="none" 
+        frameborder="0"
         width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
