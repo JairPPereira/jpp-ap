@@ -543,6 +543,7 @@ import Naospq from './components/pages/Naospq';
 import Leieordemve from './components/pages/Leieordemve';
 import Gabrielmhf from './components/pages/Gabrielmhf';
 import Acura from './components/pages/Acura';
+import Fullmetalaa from './components/pages/Fullmetalaa';
 
 
 
@@ -888,6 +889,7 @@ function App() {
         <Route path='/943822' component={Reidoringue} />
         <Route path='/950' component={Aeradogelo2} />
         <Route path='/954293' component={Farofagk} />
+        <Route path='/960704' component={Fullmetalaa} />
         <Route path='/961707' component={Hawa} />
         <Route path='/96933' component={Porquees} />
         <Route path='/978406' component={Visitase} />
