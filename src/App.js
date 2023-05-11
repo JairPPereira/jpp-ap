@@ -541,6 +541,7 @@ import Greysa from './components/pages/Greysa';
 import Abracadabra2 from './components/pages/Abracadabra2';
 import Naospq from './components/pages/Naospq';
 import Leieordemve from './components/pages/Leieordemve';
+import Gabrielmhf from './components/pages/Gabrielmhf';
 
 
 
@@ -984,6 +985,7 @@ function App() {
         <Route path='/flordelizqa' component={Flordelizqa} />
         <Route path='/fmodia' component={Fmodia} />
         <Route path='/friends' component={Friends} />
+        <Route path='/gabrielmhf' component={Gabrielmhf} />
         <Route path='/gameoft' component={Gameoft} />
         <Route path='/Gamert1e1' component={Gamert1e1} />
         <Route path='/Gamert1e2' component={Gamert1e2} />
