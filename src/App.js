@@ -542,6 +542,7 @@ import Abracadabra2 from './components/pages/Abracadabra2';
 import Naospq from './components/pages/Naospq';
 import Leieordemve from './components/pages/Leieordemve';
 import Gabrielmhf from './components/pages/Gabrielmhf';
+import Acura from './components/pages/Acura';
 
 
 
@@ -896,6 +897,7 @@ function App() {
         <Route path='/9978' component={Alexrct} />
         <Route path='/acao' component={Acao} />
         <Route path='/acao2' component={Acao2} />
+        <Route path='/acura' component={Acura} />
         <Route path='/afazenda' component={Afazenda} />
         <Route path='/afazenda2' component={Afazenda2} />
         <Route path='/afazenda3' component={Afazenda3} />
