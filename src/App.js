@@ -547,6 +547,7 @@ import Fullmetalaa from './components/pages/Fullmetalaa';
 import Atracaofatal from './components/pages/Atracaofatal';
 import Xilindro from './components/pages/xilindro';
 import Zerozzu from './components/pages/Zerozzu';
+import Santuariods from './components/pages/Santuariods';
 
 
 
@@ -1073,6 +1074,7 @@ function App() {
         <Route path='/runtimecom' component={Runtimecom} />
         <Route path='/runtimepri' component={Runtimepri} />
         <Route path='/ruslan' component={Ruslan} />
+        <Route path='/santuariods' component={Santuariods} />
         <Route path='/sbt' component={Sbt} />
         <Route path='/see' component={See} />
         <Route path='/segredo' component={Segredo} />
