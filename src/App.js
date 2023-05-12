@@ -546,6 +546,7 @@ import Acura from './components/pages/Acura';
 import Fullmetalaa from './components/pages/Fullmetalaa';
 import Atracaofatal from './components/pages/Atracaofatal';
 import Xilindro from './components/pages/xilindro';
+import Zerozzu from './components/pages/Zerozzu';
 
 
 
@@ -1115,6 +1116,7 @@ function App() {
         <Route path='/warnertv' component={Warnertv} />
         <Route path='/xilindro' component={Xilindro} />
         <Route path='/youtubeml' component={Youtubeml} />
+        <Route path='/zerozzu' component={Zerozzu} />
        
 
 
