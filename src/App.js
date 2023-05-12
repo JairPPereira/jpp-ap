@@ -545,6 +545,7 @@ import Gabrielmhf from './components/pages/Gabrielmhf';
 import Acura from './components/pages/Acura';
 import Fullmetalaa from './components/pages/Fullmetalaa';
 import Atracaofatal from './components/pages/Atracaofatal';
+import Xilindro from './components/pages/xilindro';
 
 
 
@@ -1112,6 +1113,7 @@ function App() {
         <Route path='/vikingsv' component={Vikingsv} />
         <Route path='/wandinha' component={Wandinha} />
         <Route path='/warnertv' component={Warnertv} />
+        <Route path='/xilindro' component={Xilindro} />
         <Route path='/youtubeml' component={Youtubeml} />
        
 
