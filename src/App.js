@@ -544,6 +544,7 @@ import Leieordemve from './components/pages/Leieordemve';
 import Gabrielmhf from './components/pages/Gabrielmhf';
 import Acura from './components/pages/Acura';
 import Fullmetalaa from './components/pages/Fullmetalaa';
+import Atracaofatal from './components/pages/Atracaofatal';
 
 
 
@@ -908,6 +909,7 @@ function App() {
         <Route path='/animacao' component={Animacao} />
         <Route path='/aparelhagens' component={Aparelhagens} />
         <Route path='/arcane' component={Arcane} />
+        <Route path='/atracaofatal' component={Atracaofatal} />
         <Route path='/atualidade' component={Atualidade} />
         <Route path='/aturmadam24' component={Aturmadam24} />
         <Route path='/aventura' component={Aventura} />
