@@ -549,6 +549,7 @@ import Xilindro from './components/pages/xilindro';
 import Zerozzu from './components/pages/Zerozzu';
 import Santuariods from './components/pages/Santuariods';
 import Ohomemdj from './components/pages/Ohomemdj';
+import Athena from './components/pages/Athena';
 
 
 
@@ -869,6 +870,7 @@ function App() {
         <Route path='/85' component={Indianajcd} />
         <Route path='/850871' component={Sayen} />
         <Route path='/851644' component={Garotas2} />
+        <Route path='/852046' component={Athena} />
         <Route path='/852096' component={Fantasmaecia} />
         <Route path='/857' component={Oresgater} />
         <Route path='/8587' component={Oreileao} />
