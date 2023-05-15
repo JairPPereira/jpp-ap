@@ -550,6 +550,7 @@ import Zerozzu from './components/pages/Zerozzu';
 import Santuariods from './components/pages/Santuariods';
 import Ohomemdj from './components/pages/Ohomemdj';
 import Athena from './components/pages/Athena';
+import Lou from './components/pages/Lou';
 
 
 
@@ -724,10 +725,11 @@ function App() {
         <Route path='/415214' component={Operacaom} />
         <Route path='/420808' component={Peterpw} />
         <Route path='/422821' component={Oprecodg} />
-        <Route path='/424' component={Alistads} />
-        <Route path='/429' component={Treshomensc} />
         <Route path='/423' component={Opianista} />
+        <Route path='/424' component={Alistads} />
         <Route path='/424694' component={Bohemianr} />
+        <Route path='/429' component={Treshomensc} />
+        <Route path='/429473' component={Lou} />
         <Route path='/43549' component={Detencao} />
         <Route path='/437068' component={Omotoristat} />
         <Route path='/44113' component={Homensemfuria} />
