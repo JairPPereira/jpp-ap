@@ -551,6 +551,7 @@ import Santuariods from './components/pages/Santuariods';
 import Ohomemdj from './components/pages/Ohomemdj';
 import Athena from './components/pages/Athena';
 import Lou from './components/pages/Lou';
+import Amulherrei from './components/pages/Amulherrei';
 
 
 
@@ -825,6 +826,7 @@ function App() {
         <Route path='/71211' component={Beladonna} />
         <Route path='/715931' component={Emancipation} />
         <Route path='/717980' component={Sharper} />
+        <Route path='/724495' component={Amulherrei} />
         <Route path='/725201' component={Agenteo} />
         <Route path='/73' component={Aoutraha} />
         <Route path='/7304' component={Norastrodb} />
