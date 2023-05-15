@@ -552,6 +552,7 @@ import Ohomemdj from './components/pages/Ohomemdj';
 import Athena from './components/pages/Athena';
 import Lou from './components/pages/Lou';
 import Amulherrei from './components/pages/Amulherrei';
+import Justiceiras from './components/pages/Justiceiras';
 
 
 
@@ -845,6 +846,7 @@ function App() {
         <Route path='/759175' component={Aprincesa} />
         <Route path='/759507' component={Blackout} />
         <Route path='/76203' component={Dozeanosde} />
+        <Route path='/762968' component={Justiceiras} />
         <Route path='/76600' component={Avataroca} />
         <Route path='/766507' component={Opredadora} />
         <Route path='/769' component={Osbonsc} />
