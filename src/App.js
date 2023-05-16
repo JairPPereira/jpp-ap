@@ -553,6 +553,7 @@ import Athena from './components/pages/Athena';
 import Lou from './components/pages/Lou';
 import Amulherrei from './components/pages/Amulherrei';
 import Justiceiras from './components/pages/Justiceiras';
+import Oreidap from './components/pages/Oreidap';
 
 
 
@@ -1042,6 +1043,7 @@ function App() {
         <Route path='/novelas' component={Novelas} />
         <Route path='/noventaenove' component={Noventaenove} />
         <Route path='/ocaminho' component={Ocaminho} />
+        <Route path='/oreidap' component={Oreidap} />
         <Route path='/ossimpson' component={Ossimpson} />
         <Route path='/parttk' component={Parttk} />
         <Route path='/peakb' component={Peakb} />
