@@ -554,6 +554,7 @@ import Lou from './components/pages/Lou';
 import Amulherrei from './components/pages/Amulherrei';
 import Justiceiras from './components/pages/Justiceiras';
 import Oreidap from './components/pages/Oreidap';
+import Boanoitem from './components/pages/Boanoitem';
 
 
 
@@ -871,6 +872,7 @@ function App() {
         <Route path='/811631' component={Tempestadei} />
         <Route path='/814338' component={Oamantedl} />
         <Route path='/814757' component={Imperiodaluz} />
+        <Route path='/814800' component={Boanoitem} />
         <Route path='/81488' component={Mamonasps} />
         <Route path='/816952' component={Oexorcismoma} />
         <Route path='/843794' component={Junge} />
