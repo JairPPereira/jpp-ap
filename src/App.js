@@ -555,6 +555,7 @@ import Amulherrei from './components/pages/Amulherrei';
 import Justiceiras from './components/pages/Justiceiras';
 import Oreidap from './components/pages/Oreidap';
 import Boanoitem from './components/pages/Boanoitem';
+import Broadp from './components/pages/Broadp';
 
 
 
@@ -914,6 +915,7 @@ function App() {
         <Route path='/989937' component={Nanatsu1} />
         <Route path='/997265' component={Regra34} />
         <Route path='/9978' component={Alexrct} />
+        <Route path='/999127' component={Broadp} />
         <Route path='/acao' component={Acao} />
         <Route path='/acao2' component={Acao2} />
         <Route path='/acura' component={Acura} />
