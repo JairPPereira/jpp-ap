@@ -556,6 +556,7 @@ import Justiceiras from './components/pages/Justiceiras';
 import Oreidap from './components/pages/Oreidap';
 import Boanoitem from './components/pages/Boanoitem';
 import Broadp from './components/pages/Broadp';
+import Adaonegro from './components/pages/Adaonegro';
 
 
 
@@ -736,6 +737,7 @@ function App() {
         <Route path='/429' component={Treshomensc} />
         <Route path='/429473' component={Lou} />
         <Route path='/43549' component={Detencao} />
+        <Route path='/436270' component={Adaonegro} />
         <Route path='/437068' component={Omotoristat} />
         <Route path='/44113' component={Homensemfuria} />
         <Route path='/443700' component={Altitude} />
