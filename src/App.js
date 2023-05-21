@@ -558,6 +558,7 @@ import Boanoitem from './components/pages/Boanoitem';
 import Broadp from './components/pages/Broadp';
 import Adaonegro from './components/pages/Adaonegro';
 import Pinoquio from './components/pages/Pinoquio';
+import Vizinhos2 from './components/pages/Vizinhos2';
 
 
 
@@ -695,6 +696,7 @@ function App() {
         <Route path='/308695' component={Alegiao} />
         <Route path='/309581' component={Lilaee} />
         <Route path='/311' component={Eraumavezna} />
+        <Route path='/325133' component={Vizinhos2} />
         <Route path='/315162' component={Ogatodb2} />
         <Route path='/329235' component={Marighela} />
         <Route path='/324786' component={Ateoultimoh} />
