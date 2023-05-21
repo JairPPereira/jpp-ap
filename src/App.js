@@ -557,6 +557,7 @@ import Oreidap from './components/pages/Oreidap';
 import Boanoitem from './components/pages/Boanoitem';
 import Broadp from './components/pages/Broadp';
 import Adaonegro from './components/pages/Adaonegro';
+import Pinoquio from './components/pages/Pinoquio';
 
 
 
@@ -771,6 +772,7 @@ function App() {
         <Route path='/527641' component={Acincopdv} />
         <Route path='/530915' component={Mil917} />
         <Route path='/53172' component={Aocasiaofl} />
+        <Route path='/532639' component={Pinoquio} />
         <Route path='/533514' component={Violete} />
         <Route path='/536554' component={M3gan} />
         <Route path='/539' component={Psicose} />
