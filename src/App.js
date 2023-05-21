@@ -559,6 +559,7 @@ import Broadp from './components/pages/Broadp';
 import Adaonegro from './components/pages/Adaonegro';
 import Pinoquio from './components/pages/Pinoquio';
 import Vizinhos2 from './components/pages/Vizinhos2';
+import Deferiasdf from './components/pages/Deferiasdf';
 
 
 
@@ -891,6 +892,7 @@ function App() {
         <Route path='/857' component={Oresgater} />
         <Route path='/8587' component={Oreileao} />
         <Route path='/862491' component={Amulhergtc} />
+        <Route path='/862551' component={Deferiasdf} />
         <Route path='/866267' component={Thehs} />
         <Route path='/869112' component={Alguemqcc} />
         <Route path='/87516' component={Oldboydv} />
