@@ -560,6 +560,7 @@ import Adaonegro from './components/pages/Adaonegro';
 import Pinoquio from './components/pages/Pinoquio';
 import Vizinhos2 from './components/pages/Vizinhos2';
 import Deferiasdf from './components/pages/Deferiasdf';
+import Felizanonosso from './components/pages/Felizanonosso';
 
 
 
@@ -600,6 +601,7 @@ function App() {
         <Route path='/10439' component={Abracadabra} />
         <Route path='/105' component={Devoltapf} />
         <Route path='/10534' component={Tormenta} />
+        <Route path='/1057648' component={Felizanonosso} />
         <Route path='/1061671' component={Pamelaa} />
         <Route path='/1065796' component={Umanji} />
         <Route path='/106646' component={Olobodw} />
