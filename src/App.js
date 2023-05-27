@@ -561,6 +561,7 @@ import Pinoquio from './components/pages/Pinoquio';
 import Vizinhos2 from './components/pages/Vizinhos2';
 import Deferiasdf from './components/pages/Deferiasdf';
 import Felizanonosso from './components/pages/Felizanonosso';
+import Samaritano from './components/pages/Samaritano';
 
 
 
@@ -808,6 +809,7 @@ function App() {
         <Route path='/62215' component={Melancolia} />
         <Route path='/622585' component={Aslegioese} />
         <Route path='/629' component={Ossuspeitos} />
+        <Route path='/629176' component={Samaritano} />
         <Route path='/63' component={Osdozemacacos} />
         <Route path='/630566' component={Clouds} />
         <Route path='/631842' component={Batemap} />
