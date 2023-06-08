@@ -562,6 +562,7 @@ import Vizinhos2 from './components/pages/Vizinhos2';
 import Deferiasdf from './components/pages/Deferiasdf';
 import Felizanonosso from './components/pages/Felizanonosso';
 import Samaritano from './components/pages/Samaritano';
+import Afterdp from './components/pages/Afterdp';
 
 
 
@@ -853,6 +854,7 @@ function App() {
         <Route path='/740441' component={Napalmadamao} />
         <Route path='/740555' component={Dark} />
         <Route path='/742408' component={Peleo} />
+        <Route path='/744276' component={Afterdp} />
         <Route path='/74549' component={Osegredo} />
         <Route path='/747803' component={Bilhetedefuga} />
         <Route path='/751741' component={Umanmr} />
