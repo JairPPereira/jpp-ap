@@ -564,6 +564,7 @@ import Felizanonosso from './components/pages/Felizanonosso';
 import Samaritano from './components/pages/Samaritano';
 import Afterdp from './components/pages/Afterdp';
 import Orfao2 from './components/pages/Orfao2';
+import Trezentos65df from './components/pages/Trezentos65df';
 
 
 
@@ -891,6 +892,7 @@ function App() {
         <Route path='/814800' component={Boanoitem} />
         <Route path='/81488' component={Mamonasps} />
         <Route path='/816952' component={Oexorcismoma} />
+        <Route path='/829560' component={Trezentos65df} />
         <Route path='/843794' component={Junge} />
         <Route path='/85' component={Indianajcd} />
         <Route path='/850871' component={Sayen} />
