@@ -563,6 +563,7 @@ import Deferiasdf from './components/pages/Deferiasdf';
 import Felizanonosso from './components/pages/Felizanonosso';
 import Samaritano from './components/pages/Samaritano';
 import Afterdp from './components/pages/Afterdp';
+import Orfao2 from './components/pages/Orfao2';
 
 
 
@@ -861,6 +862,7 @@ function App() {
         <Route path='/758009' component={Casamentoa} />
         <Route path='/759175' component={Aprincesa} />
         <Route path='/759507' component={Blackout} />
+        <Route path='/760161' component={Orfao2} />
         <Route path='/76203' component={Dozeanosde} />
         <Route path='/762968' component={Justiceiras} />
         <Route path='/76600' component={Avataroca} />
