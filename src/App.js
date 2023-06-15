@@ -569,6 +569,7 @@ import Trezeom from './components/pages/Trezeom';
 import Codigoi from './components/pages/Trezeom';
 import Afera from './components/pages/Afera';
 import Duplajornada from './components/pages/Duplajornada';
+import Carter from './components/pages/Carter';
 
 
 
@@ -891,6 +892,7 @@ function App() {
         <Route path='/792237' component={Camggw} />
         <Route path='/79465' component={Otrapaceiro} />
         <Route path='/799546' component={Umagdms} />
+        <Route path='/800345' component={Carter} />
         <Route path='/80299' component={Passagempav} />
         <Route path='/80544' component={Desejodn} />
         <Route path='/807' component={Sevenscc} />
