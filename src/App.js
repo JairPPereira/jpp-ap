@@ -567,6 +567,7 @@ import Orfao2 from './components/pages/Orfao2';
 import Trezentos65df from './components/pages/Trezentos65df';
 import Trezeom from './components/pages/Trezeom';
 import Codigoi from './components/pages/Trezeom';
+import Afera from './components/pages/Afera';
 
 
 
@@ -867,6 +868,7 @@ function App() {
         <Route path='/759175' component={Aprincesa} />
         <Route path='/759507' component={Blackout} />
         <Route path='/760161' component={Orfao2} />
+        <Route path='/760741' component={Afera} />
         <Route path='/76203' component={Dozeanosde} />
         <Route path='/762968' component={Justiceiras} />
         <Route path='/76600' component={Avataroca} />

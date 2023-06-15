@@ -8,7 +8,7 @@ import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Style.css';
 
-export default function Codigoi() {
+export default function Afera() {
   return (
     <div>
           <p><br /></p>
@@ -16,7 +16,7 @@ export default function Codigoi() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt13660916"
+        src="https://embedflix.net/filme/tt13223398"
         target="_blank"
         scrolling="no"
         data-draggable="none"
