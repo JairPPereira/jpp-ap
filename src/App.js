@@ -566,6 +566,7 @@ import Afterdp from './components/pages/Afterdp';
 import Orfao2 from './components/pages/Orfao2';
 import Trezentos65df from './components/pages/Trezentos65df';
 import Trezeom from './components/pages/Trezeom';
+import Codigoi from './components/pages/Trezeom';
 
 
 
@@ -871,6 +872,7 @@ function App() {
         <Route path='/76600' component={Avataroca} />
         <Route path='/766507' component={Opredadora} />
         <Route path='/769' component={Osbonsc} />
+        <Route path='/769636' component={Codigoi} />
         <Route path='/77' component={Amnesia} />
         <Route path='/770428' component={Emnomedopai} />
         <Route path='/77067' component={Amorzumbi} />
