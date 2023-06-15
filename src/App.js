@@ -565,6 +565,7 @@ import Samaritano from './components/pages/Samaritano';
 import Afterdp from './components/pages/Afterdp';
 import Orfao2 from './components/pages/Orfao2';
 import Trezentos65df from './components/pages/Trezentos65df';
+import Trezeom from './components/pages/Trezeom';
 
 
 
@@ -828,6 +829,7 @@ function App() {
         <Route path='/661374' component={Glassonion} />
         <Route path='/668482' component={Matildaom} />
         <Route path='/672154' component={Umculpadoen} />
+        <Route path='/673271' component={Trezeom} />
         <Route path='/674324' component={Osbansheesi} />
         <Route path='/676' component={Pearlh} />
         <Route path='/676547' component={Aluzdm} />
