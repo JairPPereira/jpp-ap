@@ -568,6 +568,7 @@ import Trezentos65df from './components/pages/Trezentos65df';
 import Trezeom from './components/pages/Trezeom';
 import Codigoi from './components/pages/Trezeom';
 import Afera from './components/pages/Afera';
+import Duplajornada from './components/pages/Duplajornada';
 
 
 
@@ -864,6 +865,7 @@ function App() {
         <Route path='/74549' component={Osegredo} />
         <Route path='/747803' component={Bilhetedefuga} />
         <Route path='/751741' component={Umanmr} />
+        <Route path='/755566' component={Duplajornada} />
         <Route path='/758009' component={Casamentoa} />
         <Route path='/759175' component={Aprincesa} />
         <Route path='/759507' component={Blackout} />
