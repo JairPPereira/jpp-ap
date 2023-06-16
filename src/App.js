@@ -571,6 +571,7 @@ import Afera from './components/pages/Afera';
 import Duplajornada from './components/pages/Duplajornada';
 import Carter from './components/pages/Carter';
 import Sorte from './components/pages/Sorte';
+import Legosw from './components/pages/Legosw';
 
 
 
@@ -942,6 +943,7 @@ function App() {
         <Route path='/96933' component={Porquees} />
         <Route path='/978406' component={Visitase} />
         <Route path='/98' component={Gladiador} />
+        <Route path='/980804' component={Legosw} />
         <Route path='/989937' component={Nanatsu1} />
         <Route path='/997265' component={Regra34} />
         <Route path='/9978' component={Alexrct} />
