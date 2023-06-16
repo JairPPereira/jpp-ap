@@ -570,6 +570,7 @@ import Codigoi from './components/pages/Trezeom';
 import Afera from './components/pages/Afera';
 import Duplajornada from './components/pages/Duplajornada';
 import Carter from './components/pages/Carter';
+import Sorte from './components/pages/Sorte';
 
 
 
@@ -799,6 +800,7 @@ function App() {
         <Route path='/56295' component={Halo4} />
         <Route path='/581' component={Dancacl} />
         <Route path='/58448' component={Nocaute} />
+        <Route path='/585511' component={Sorte} />
         <Route path='/589157' component={Linewalker2} />
         <Route path='/593643' component={Omenu} />
         <Route path='/597922' component={Operacaoc} />
