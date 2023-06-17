@@ -572,6 +572,7 @@ import Duplajornada from './components/pages/Duplajornada';
 import Carter from './components/pages/Carter';
 import Sorte from './components/pages/Sorte';
 import Legosw from './components/pages/Legosw';
+import Temporadadc from './components/pages/Temporadadc';
 
 
 
@@ -905,6 +906,7 @@ function App() {
         <Route path='/814800' component={Boanoitem} />
         <Route path='/81488' component={Mamonasps} />
         <Route path='/816952' component={Oexorcismoma} />
+        <Route path='/818612' component={Temporadadc} />
         <Route path='/829560' component={Trezentos65df} />
         <Route path='/843794' component={Junge} />
         <Route path='/85' component={Indianajcd} />
