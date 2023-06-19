@@ -573,6 +573,7 @@ import Carter from './components/pages/Carter';
 import Sorte from './components/pages/Sorte';
 import Legosw from './components/pages/Legosw';
 import Temporadadc from './components/pages/Temporadadc';
+import Trezevr from './components/pages/Trezevr';
 
 
 
@@ -848,6 +849,7 @@ function App() {
         <Route path='/68718' component={Djangolivre} />
         <Route path='/687354' component={Stretfp} />
         <Route path='/696374' component={Oinfernodg} />
+        <Route path='/698948' component={Trezevr} />
         <Route path='/70160' component={Jogosv} />
         <Route path='/703451' component={Nasuacm} />
         <Route path='/707214' component={Ateofinal} />
