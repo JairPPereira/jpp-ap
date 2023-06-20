@@ -574,6 +574,7 @@ import Sorte from './components/pages/Sorte';
 import Legosw from './components/pages/Legosw';
 import Temporadadc from './components/pages/Temporadadc';
 import Trezevr from './components/pages/Trezevr';
+import Odespertartn from './components/pages/Odespertartn';
 
 
 
@@ -922,6 +923,7 @@ function App() {
         <Route path='/862551' component={Deferiasdf} />
         <Route path='/866267' component={Thehs} />
         <Route path='/869112' component={Alguemqcc} />
+        <Route path='/765172' component={Odespertartn} />
         <Route path='/87516' component={Oldboydv} />
         <Route path='/875303' component={Amordoentio} />
         <Route path='/877269' component={Mundoestranho} />
