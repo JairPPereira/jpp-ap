@@ -575,6 +575,7 @@ import Legosw from './components/pages/Legosw';
 import Temporadadc from './components/pages/Temporadadc';
 import Trezevr from './components/pages/Trezevr';
 import Odespertartn from './components/pages/Odespertartn';
+import Projetoa from './components/pages/Projetoa';
 
 
 
@@ -679,6 +680,7 @@ function App() {
         <Route path='/221731' component={Samurayx2} />
         <Route path='/22331' component={Osdezmandamentos} />
         <Route path='/227300' component={Stretch} />
+        <Route path='/227719' component={Projetoa} />
         <Route path='/228968' component={Jogadadm} />
         <Route path='/231474' component={Oscacadores} />
         <Route path='/23514' component={Diariojb} />
