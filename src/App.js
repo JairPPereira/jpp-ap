@@ -578,6 +578,7 @@ import Odespertartn from './components/pages/Odespertartn';
 import Projetoa from './components/pages/Projetoa';
 import Trembala from './components/pages/Trembala';
 import Queculpatc from './components/pages/Queculpatc';
+import Buba from './components/pages/Buba';
 
 
 
@@ -958,6 +959,7 @@ function App() {
         <Route path='/980804' component={Legosw} />
         <Route path='/989937' component={Nanatsu1} />
         <Route path='/997265' component={Regra34} />
+        <Route path='/997703' component={Buba} />
         <Route path='/9978' component={Alexrct} />
         <Route path='/999127' component={Broadp} />
         <Route path='/acao' component={Acao} />
