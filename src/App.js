@@ -576,6 +576,7 @@ import Temporadadc from './components/pages/Temporadadc';
 import Trezevr from './components/pages/Trezevr';
 import Odespertartn from './components/pages/Odespertartn';
 import Projetoa from './components/pages/Projetoa';
+import Trembala from './components/pages/Trembala';
 
 
 
@@ -859,6 +860,7 @@ function App() {
         <Route path='/71211' component={Beladonna} />
         <Route path='/715931' component={Emancipation} />
         <Route path='/717980' component={Sharper} />
+        <Route path='/718930' component={Trembala} />
         <Route path='/724495' component={Amulherrei} />
         <Route path='/725201' component={Agenteo} />
         <Route path='/73' component={Aoutraha} />
