@@ -577,6 +577,7 @@ import Trezevr from './components/pages/Trezevr';
 import Odespertartn from './components/pages/Odespertartn';
 import Projetoa from './components/pages/Projetoa';
 import Trembala from './components/pages/Trembala';
+import Queculpatc from './components/pages/Queculpatc';
 
 
 
@@ -837,6 +838,7 @@ function App() {
         <Route path='/640146' component={Homemfvq} />
         <Route path='/642885' component={Abracadabra2} />
         <Route path='/646389' component={Alertamx} />
+        <Route path='/648743' component={Queculpatc} />
         <Route path='/652722' component={Nosbracosa} />   
         <Route path='/66113' component={Avitimaperfeita} />
         <Route path='/661374' component={Glassonion} />
