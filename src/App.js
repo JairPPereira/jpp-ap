@@ -579,6 +579,7 @@ import Projetoa from './components/pages/Projetoa';
 import Trembala from './components/pages/Trembala';
 import Queculpatc from './components/pages/Queculpatc';
 import Buba from './components/pages/Buba';
+import Quatroir from './components/pages/Quatroir';
 
 
 
@@ -917,6 +918,7 @@ function App() {
         <Route path='/81488' component={Mamonasps} />
         <Route path='/816952' component={Oexorcismoma} />
         <Route path='/818612' component={Temporadadc} />
+        <Route path='/8292' component={Quatroir} />
         <Route path='/829560' component={Trezentos65df} />
         <Route path='/843794' component={Junge} />
         <Route path='/85' component={Indianajcd} />
