@@ -580,6 +580,7 @@ import Trembala from './components/pages/Trembala';
 import Queculpatc from './components/pages/Queculpatc';
 import Buba from './components/pages/Buba';
 import Quatroir from './components/pages/Quatroir';
+import Midsommar from './components/pages/Midsommar';
 
 
 
@@ -795,6 +796,7 @@ function App() {
         <Route path='/518896' component={Oexercitodm} />
         <Route path='/522924' component={Meuamigoe} />
         <Route path='/527641' component={Acincopdv} />
+        <Route path='/530385' component={Midsommar} />
         <Route path='/530915' component={Mil917} />
         <Route path='/53172' component={Aocasiaofl} />
         <Route path='/532639' component={Pinoquio} />
