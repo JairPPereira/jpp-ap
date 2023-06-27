@@ -581,6 +581,7 @@ import Queculpatc from './components/pages/Queculpatc';
 import Buba from './components/pages/Buba';
 import Quatroir from './components/pages/Quatroir';
 import Midsommar from './components/pages/Midsommar';
+import Influencerdm from './components/pages/Influencerdm';
 
 
 
@@ -922,6 +923,7 @@ function App() {
         <Route path='/818612' component={Temporadadc} />
         <Route path='/8292' component={Quatroir} />
         <Route path='/829560' component={Trezentos65df} />
+        <Route path='/838330' component={Influencerdm} />
         <Route path='/843794' component={Junge} />
         <Route path='/85' component={Indianajcd} />
         <Route path='/850871' component={Sayen} />
