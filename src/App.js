@@ -582,6 +582,7 @@ import Buba from './components/pages/Buba';
 import Quatroir from './components/pages/Quatroir';
 import Midsommar from './components/pages/Midsommar';
 import Influencerdm from './components/pages/Influencerdm';
+import Continenciaaa from './components/pages/Continenciaaa';
 
 
 
@@ -892,6 +893,7 @@ function App() {
         <Route path='/760741' component={Afera} />
         <Route path='/76203' component={Dozeanosde} />
         <Route path='/762968' component={Justiceiras} />
+        <Route path='/762975' component={Continenciaaa} />
         <Route path='/76600' component={Avataroca} />
         <Route path='/766507' component={Opredadora} />
         <Route path='/769' component={Osbonsc} />
