@@ -583,6 +583,7 @@ import Quatroir from './components/pages/Quatroir';
 import Midsommar from './components/pages/Midsommar';
 import Influencerdm from './components/pages/Influencerdm';
 import Continenciaaa from './components/pages/Continenciaaa';
+import Dcligasp from './components/pages/Dcligasp';
 
 
 
@@ -805,6 +806,7 @@ function App() {
         <Route path='/533514' component={Violete} />
         <Route path='/536554' component={M3gan} />
         <Route path='/539' component={Psicose} />
+        <Route path='/539681' component={Dcligasp} />
         <Route path='/545611' component={Tudoetlmt} />
         <Route path='/550' component={Clubedaluta} />
         <Route path='/550776' component={Acrediteemmim} />
