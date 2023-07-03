@@ -590,6 +590,7 @@ import Thorat from './components/pages/Thorat';
 import Mil942 from './components/pages/Mil942';
 import Olaatm from './components/pages/Olaatm';
 import Paiagstu from './components/pages/Paiagstu';
+import Beauty from './components/pages/Beauty';
 
 
 
@@ -858,6 +859,7 @@ function App() {
         <Route path='/652722' component={Nosbracosa} />   
         <Route path='/66113' component={Avitimaperfeita} />
         <Route path='/661374' component={Glassonion} />
+        <Route path='/667642' component={Beauty} />
         <Route path='/668482' component={Matildaom} />
         <Route path='/668742' component={Paiagstu} />
         <Route path='/672154' component={Umculpadoen} />
