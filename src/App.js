@@ -587,6 +587,7 @@ import Dcligasp from './components/pages/Dcligasp';
 import Tudoepossivel from './components/pages/Tudoepossivel';
 import Aferadomar from './components/pages/Aferadomar';
 import Thorat from './components/pages/Thorat';
+import Mil942 from './components/pages/Mil942';
 
 
 
@@ -1102,6 +1103,7 @@ function App() {
         <Route path='/magali' component={Magali} />
         <Route path='/maldosa' component={Maldosa} />
         <Route path='/Megapix' component={Megapix} />
+        <Route path='/mil942' component={Mil942} />
         <Route path='/milena' component={Milena} />
         <Route path='/monica' component={Monica} />
         <Route path='/musica' component={Musica} />
