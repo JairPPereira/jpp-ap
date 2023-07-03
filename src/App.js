@@ -589,6 +589,7 @@ import Aferadomar from './components/pages/Aferadomar';
 import Thorat from './components/pages/Thorat';
 import Mil942 from './components/pages/Mil942';
 import Olaatm from './components/pages/Olaatm';
+import Paiagstu from './components/pages/Paiagstu';
 
 
 
@@ -858,6 +859,7 @@ function App() {
         <Route path='/66113' component={Avitimaperfeita} />
         <Route path='/661374' component={Glassonion} />
         <Route path='/668482' component={Matildaom} />
+        <Route path='/668742' component={Paiagstu} />
         <Route path='/672154' component={Umculpadoen} />
         <Route path='/673271' component={Trezeom} />
         <Route path='/674324' component={Osbansheesi} />
