@@ -591,6 +591,7 @@ import Mil942 from './components/pages/Mil942';
 import Olaatm from './components/pages/Olaatm';
 import Paiagstu from './components/pages/Paiagstu';
 import Beauty from './components/pages/Beauty';
+import Oreidafesta from './components/pages/Oreidafesta';
 
 
 
@@ -822,6 +823,7 @@ function App() {
         <Route path='/560057' component={Aferadomar} />
         <Route path='/556018' component={Kv1} />
         <Route path='/56295' component={Halo4} />
+        <Route path='/574249' component={Oreidafesta} />
         <Route path='/581' component={Dancacl} />
         <Route path='/58448' component={Nocaute} />
         <Route path='/585511' component={Sorte} />
