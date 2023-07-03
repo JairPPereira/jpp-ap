@@ -586,6 +586,7 @@ import Continenciaaa from './components/pages/Continenciaaa';
 import Dcligasp from './components/pages/Dcligasp';
 import Tudoepossivel from './components/pages/Tudoepossivel';
 import Aferadomar from './components/pages/Aferadomar';
+import Thorat from './components/pages/Thorat';
 
 
 
@@ -832,6 +833,7 @@ function App() {
         <Route path='/614934' component={Elvis} />
         <Route path='/615457' component={Anonimo} />
         <Route path='/615777' component={Babilonia} />
+        <Route path='/616037' component={Thorat} />
         <Route path='/618344' component={Ligajs} />
         <Route path='/619730' component={Naospq} />
         <Route path='/619930' component={Narvik} />
