@@ -588,6 +588,7 @@ import Tudoepossivel from './components/pages/Tudoepossivel';
 import Aferadomar from './components/pages/Aferadomar';
 import Thorat from './components/pages/Thorat';
 import Mil942 from './components/pages/Mil942';
+import Olaatm from './components/pages/Olaatm';
 
 
 
@@ -890,6 +891,7 @@ function App() {
         <Route path='/740555' component={Dark} />
         <Route path='/742408' component={Peleo} />
         <Route path='/744276' component={Afterdp} />
+        <Route path='/745376' component={Olaatm} />
         <Route path='/74549' component={Osegredo} />
         <Route path='/747803' component={Bilhetedefuga} />
         <Route path='/751741' component={Umanmr} />
