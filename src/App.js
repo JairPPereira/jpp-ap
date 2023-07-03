@@ -592,6 +592,7 @@ import Olaatm from './components/pages/Olaatm';
 import Paiagstu from './components/pages/Paiagstu';
 import Beauty from './components/pages/Beauty';
 import Oreidafesta from './components/pages/Oreidafesta';
+import Setethu from './components/pages/Setethu';
 
 
 
@@ -944,6 +945,7 @@ function App() {
         <Route path='/829560' component={Trezentos65df} />
         <Route path='/838330' component={Influencerdm} />
         <Route path='/843794' component={Junge} />
+        <Route path='/845887' component={Setethu} />
         <Route path='/85' component={Indianajcd} />
         <Route path='/850871' component={Sayen} />
         <Route path='/851644' component={Garotas2} />
