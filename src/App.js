@@ -593,6 +593,7 @@ import Paiagstu from './components/pages/Paiagstu';
 import Beauty from './components/pages/Beauty';
 import Oreidafesta from './components/pages/Oreidafesta';
 import Setethu from './components/pages/Setethu';
+import Genioi from './components/pages/Genioi';
 
 
 
@@ -791,6 +792,7 @@ function App() {
         <Route path='/47089' component={Ocaminhodn} />
         <Route path='/475557' component={Coringa} />
         <Route path='/488623' component={Rastrosdus} />
+        <Route path='/489' component={Genioi} />
         <Route path='/490132' component={Greenbook} />
         <Route path='/49046' component={Nadadnf} />
         <Route path='/4935' component={Ocasteloanimado} />
