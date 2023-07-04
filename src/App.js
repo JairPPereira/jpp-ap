@@ -594,6 +594,7 @@ import Beauty from './components/pages/Beauty';
 import Oreidafesta from './components/pages/Oreidafesta';
 import Setethu from './components/pages/Setethu';
 import Genioi from './components/pages/Genioi';
+import Tombrao from './components/pages/Tombrao';
 
 
 
@@ -744,6 +745,7 @@ function App() {
         <Route path='/335795' component={Monsterh} />
         <Route path='/337404' component={Cruella} />
         <Route path='/338958' component={Adesencantada} />
+        <Route path='/338970' component={Tombrao} />
         <Route path='/346' component={Ossetes} />
         <Route path='/346684' component={Embuscadaliberdade} />
         <Route path='/346808' component={Momentum} />
