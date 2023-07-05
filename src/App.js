@@ -598,6 +598,7 @@ import Tombrao from './components/pages/Tombrao';
 import Minions2 from './components/pages/Minions2';
 import Guerradf from './components/pages/Guerradf';
 import Doisaal from './components/pages/Doisaal';
+import Apocalipsedoamor from './components/pages/Apocalipsedoamor';
 
 
 
@@ -950,6 +951,7 @@ function App() {
         <Route path='/814800' component={Boanoitem} />
         <Route path='/81488' component={Mamonasps} />
         <Route path='/816952' component={Oexorcismoma} />
+        <Route path='/817889' component={Apocalipsedoamor} />
         <Route path='/818612' component={Temporadadc} />
         <Route path='/8292' component={Quatroir} />
         <Route path='/829560' component={Trezentos65df} />
