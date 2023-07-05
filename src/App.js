@@ -595,6 +595,7 @@ import Oreidafesta from './components/pages/Oreidafesta';
 import Setethu from './components/pages/Setethu';
 import Genioi from './components/pages/Genioi';
 import Tombrao from './components/pages/Tombrao';
+import Minions2 from './components/pages/Minions2';
 
 
 
@@ -781,6 +782,7 @@ function App() {
         <Route path='/43549' component={Detencao} />
         <Route path='/436270' component={Adaonegro} />
         <Route path='/437068' component={Omotoristat} />
+        <Route path='/438148' component={Minions2} />
         <Route path='/44113' component={Homensemfuria} />
         <Route path='/443700' component={Altitude} />
         <Route path='/444090' component={Oreidamontanha} />
