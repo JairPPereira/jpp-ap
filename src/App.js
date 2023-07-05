@@ -596,6 +596,7 @@ import Setethu from './components/pages/Setethu';
 import Genioi from './components/pages/Genioi';
 import Tombrao from './components/pages/Tombrao';
 import Minions2 from './components/pages/Minions2';
+import Guerradf from './components/pages/Guerradf';
 
 
 
@@ -934,6 +935,7 @@ function App() {
         <Route path='/788752' component={Olobov} />
         <Route path='/791373' component={Ligadajzs} />
         <Route path='/792237' component={Camggw} />
+        <Route path='/79224' component={Guerradf} />
         <Route path='/79465' component={Otrapaceiro} />
         <Route path='/799546' component={Umagdms} />
         <Route path='/800345' component={Carter} />
