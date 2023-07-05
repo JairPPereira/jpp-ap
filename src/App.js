@@ -597,6 +597,7 @@ import Genioi from './components/pages/Genioi';
 import Tombrao from './components/pages/Tombrao';
 import Minions2 from './components/pages/Minions2';
 import Guerradf from './components/pages/Guerradf';
+import Doisaal from './components/pages/Doisaal';
 
 
 
@@ -866,7 +867,8 @@ function App() {
         <Route path='/642885' component={Abracadabra2} />
         <Route path='/646389' component={Alertamx} />
         <Route path='/648743' component={Queculpatc} />
-        <Route path='/652722' component={Nosbracosa} />   
+        <Route path='/652722' component={Nosbracosa} />  
+        <Route path='/660267' component={Doisaal} />  
         <Route path='/66113' component={Avitimaperfeita} />
         <Route path='/661374' component={Glassonion} />
         <Route path='/667642' component={Beauty} />
