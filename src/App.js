@@ -600,6 +600,7 @@ import Guerradf from './components/pages/Guerradf';
 import Doisaal from './components/pages/Doisaal';
 import Apocalipsedoamor from './components/pages/Apocalipsedoamor';
 import Jerrymtsg from './components/pages/Jerrymtsg';
+import Chachars from './components/pages/Chachars';
 
 
 
@@ -948,6 +949,7 @@ function App() {
         <Route path='/807' component={Sevenscc} />
         <Route path='/811631' component={Tempestadei} />
         <Route path='/814338' component={Oamantedl} />
+        <Route path='/814340' component={Chachars} />
         <Route path='/814757' component={Imperiodaluz} />
         <Route path='/814800' component={Boanoitem} />
         <Route path='/81488' component={Mamonasps} />
