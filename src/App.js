@@ -601,6 +601,7 @@ import Doisaal from './components/pages/Doisaal';
 import Apocalipsedoamor from './components/pages/Apocalipsedoamor';
 import Jerrymtsg from './components/pages/Jerrymtsg';
 import Chachars from './components/pages/Chachars';
+import Colisao from './components/pages/Colisao';
 
 
 
@@ -997,6 +998,7 @@ function App() {
         <Route path='/960704' component={Fullmetalaa} />
         <Route path='/961707' component={Hawa} />
         <Route path='/96933' component={Porquees} />
+        <Route path='/975714' component={Colisao} />
         <Route path='/978406' component={Visitase} />
         <Route path='/98' component={Gladiador} />
         <Route path='/980804' component={Legosw} />
