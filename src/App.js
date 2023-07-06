@@ -599,6 +599,7 @@ import Minions2 from './components/pages/Minions2';
 import Guerradf from './components/pages/Guerradf';
 import Doisaal from './components/pages/Doisaal';
 import Apocalipsedoamor from './components/pages/Apocalipsedoamor';
+import Jerrymtsg from './components/pages/Jerrymtsg';
 
 
 
@@ -957,6 +958,7 @@ function App() {
         <Route path='/829560' component={Trezentos65df} />
         <Route path='/838330' component={Influencerdm} />
         <Route path='/843794' component={Junge} />
+        <Route path='/843847' component={Jerrymtsg} />
         <Route path='/845887' component={Setethu} />
         <Route path='/85' component={Indianajcd} />
         <Route path='/850871' component={Sayen} />
