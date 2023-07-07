@@ -602,6 +602,7 @@ import Apocalipsedoamor from './components/pages/Apocalipsedoamor';
 import Jerrymtsg from './components/pages/Jerrymtsg';
 import Chachars from './components/pages/Chachars';
 import Colisao from './components/pages/Colisao';
+import Spiderhead from './components/pages/Spiderhead';
 
 
 
@@ -851,6 +852,7 @@ function App() {
         <Route path='/606856' component={Togo} />
         <Route path='/614934' component={Elvis} />
         <Route path='/615457' component={Anonimo} />
+        <Route path='/615469' component={Spiderhead} />
         <Route path='/615777' component={Babilonia} />
         <Route path='/616037' component={Thorat} />
         <Route path='/618344' component={Ligajs} />
