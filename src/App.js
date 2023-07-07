@@ -603,6 +603,7 @@ import Jerrymtsg from './components/pages/Jerrymtsg';
 import Chachars from './components/pages/Chachars';
 import Colisao from './components/pages/Colisao';
 import Spiderhead from './components/pages/Spiderhead';
+import Opaidanoiva from './components/pages/Opaidanoiva';
 
 
 
@@ -915,6 +916,7 @@ function App() {
         <Route path='/744276' component={Afterdp} />
         <Route path='/745376' component={Olaatm} />
         <Route path='/74549' component={Osegredo} />
+        <Route path='/746419' component={Opaidanoiva} />
         <Route path='/747803' component={Bilhetedefuga} />
         <Route path='/751741' component={Umanmr} />
         <Route path='/755566' component={Duplajornada} />
