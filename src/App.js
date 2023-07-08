@@ -604,6 +604,7 @@ import Chachars from './components/pages/Chachars';
 import Colisao from './components/pages/Colisao';
 import Spiderhead from './components/pages/Spiderhead';
 import Opaidanoiva from './components/pages/Opaidanoiva';
+import Desfiledc from './components/pages/Desfiledc';
 
 
 
@@ -1006,6 +1007,7 @@ function App() {
         <Route path='/978406' component={Visitase} />
         <Route path='/98' component={Gladiador} />
         <Route path='/980804' component={Legosw} />
+        <Route path='/982939' component={Desfiledc} />
         <Route path='/989937' component={Nanatsu1} />
         <Route path='/997265' component={Regra34} />
         <Route path='/997703' component={Buba} />
