@@ -605,6 +605,7 @@ import Colisao from './components/pages/Colisao';
 import Spiderhead from './components/pages/Spiderhead';
 import Opaidanoiva from './components/pages/Opaidanoiva';
 import Desfiledc from './components/pages/Desfiledc';
+import Airadedeus from './components/pages/Airadedeus';
 
 
 
@@ -984,6 +985,7 @@ function App() {
         <Route path='/875303' component={Amordoentio} />
         <Route path='/877269' component={Mundoestranho} />
         <Route path='/877703' component={Teenwolf} />
+        <Route path='/880313' component={Airadedeus} />
         <Route path='/881164' component={Oestranguladordb} />
         <Route path='/882598' component={Sorria} />
         <Route path='/890541' component={Setemum} />
