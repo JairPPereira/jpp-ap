@@ -606,6 +606,7 @@ import Spiderhead from './components/pages/Spiderhead';
 import Opaidanoiva from './components/pages/Opaidanoiva';
 import Desfiledc from './components/pages/Desfiledc';
 import Airadedeus from './components/pages/Airadedeus';
+import Centauro from './components/pages/Centauro';
 
 
 
@@ -974,6 +975,7 @@ function App() {
         <Route path='/851644' component={Garotas2} />
         <Route path='/852046' component={Athena} />
         <Route path='/852096' component={Fantasmaecia} />
+        <Route path='/852592' component={Centauro} />
         <Route path='/857' component={Oresgater} />
         <Route path='/8587' component={Oreileao} />
         <Route path='/862491' component={Amulhergtc} />
