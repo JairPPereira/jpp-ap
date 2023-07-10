@@ -607,6 +607,7 @@ import Opaidanoiva from './components/pages/Opaidanoiva';
 import Desfiledc from './components/pages/Desfiledc';
 import Airadedeus from './components/pages/Airadedeus';
 import Centauro from './components/pages/Centauro';
+import Amortedp from './components/pages/Amortedp';
 
 
 
@@ -794,6 +795,7 @@ function App() {
         <Route path='/436270' component={Adaonegro} />
         <Route path='/437068' component={Omotoristat} />
         <Route path='/438148' component={Minions2} />
+        <Route path='/440021' component={Amortedp} />
         <Route path='/44113' component={Homensemfuria} />
         <Route path='/443700' component={Altitude} />
         <Route path='/444090' component={Oreidamontanha} />
