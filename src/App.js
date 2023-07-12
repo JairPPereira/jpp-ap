@@ -608,6 +608,7 @@ import Desfiledc from './components/pages/Desfiledc';
 import Airadedeus from './components/pages/Airadedeus';
 import Centauro from './components/pages/Centauro';
 import Amortedp from './components/pages/Amortedp';
+import Vingancafatal from './components/pages/Vingancafatal';
 
 
 
@@ -731,6 +732,7 @@ function App() {
         <Route path='/256474' component={Sanguenaveia} />
         <Route path='/265177' component={Mommy} />
         <Route path='/266856' component={Ateoriadt} />
+        <Route path='/270938' component={Vingancafatal} />
         <Route path='/27205' component={Aorigem} />
         <Route path='/274' component={Osilenciodi} />
         <Route path='/27582' component={Assasinoapf} />
