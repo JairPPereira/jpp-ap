@@ -609,6 +609,7 @@ import Airadedeus from './components/pages/Airadedeus';
 import Centauro from './components/pages/Centauro';
 import Amortedp from './components/pages/Amortedp';
 import Vingancafatal from './components/pages/Vingancafatal';
+import Malevola from './components/pages/Malevola';
 
 
 
@@ -641,6 +642,7 @@ function App() {
         <Route path='/101299' component={Jogosvec} />
         <Route path='/1022206' component={Esposada} />
         <Route path='/1024530' component={Omemedomal} />
+        <Route path='/102651' component={Malevola} />
         <Route path='/1026624' component={Mucholocosn} />
         <Route path='/1027014' component={Entergalactico} />
         <Route path='/1032412' component={Quebrandog} />
