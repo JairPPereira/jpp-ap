@@ -610,6 +610,7 @@ import Centauro from './components/pages/Centauro';
 import Amortedp from './components/pages/Amortedp';
 import Vingancafatal from './components/pages/Vingancafatal';
 import Malevola from './components/pages/Malevola';
+import Matrixr from './components/pages/Matrixr';
 
 
 
@@ -859,6 +860,7 @@ function App() {
         <Route path='/600583' component={Ataquedc} />
         <Route path='/603' component={Matrix} />
         <Route path='/603692' component={Johnw4} />
+        <Route path='/605' component={Matrixr} />
         <Route path='/606856' component={Togo} />
         <Route path='/614934' component={Elvis} />
         <Route path='/615457' component={Anonimo} />
