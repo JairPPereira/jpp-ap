@@ -611,6 +611,7 @@ import Amortedp from './components/pages/Amortedp';
 import Vingancafatal from './components/pages/Vingancafatal';
 import Malevola from './components/pages/Malevola';
 import Matrixr from './components/pages/Matrixr';
+import Opesodot from './components/pages/Opesodot';
 
 
 
@@ -884,6 +885,7 @@ function App() {
         <Route path='/640146' component={Homemfvq} />
         <Route path='/642885' component={Abracadabra2} />
         <Route path='/646389' component={Alertamx} />
+        <Route path='/648579' component={Opesodot} />
         <Route path='/648743' component={Queculpatc} />
         <Route path='/652722' component={Nosbracosa} />  
         <Route path='/660267' component={Doisaal} />  
