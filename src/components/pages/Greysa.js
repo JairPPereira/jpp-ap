@@ -6,7 +6,6 @@ import Button from 'react-bootstrap/Button';
 import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './Style.css';
 
 export default function Greysa() {
   return (
@@ -16,16 +15,15 @@ export default function Greysa() {
             <Row>
               <Col>
       <Iframe
-        src="https://superflixapi.net/serie/1416"
+        src="https://embed.playmp4.net/?serie=1416"
         target="_blank"
         scrolling="no"
-        height="520px"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
         frameborder="0"
-        width="100%"
+        width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}

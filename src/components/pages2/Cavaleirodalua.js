@@ -6,7 +6,6 @@ import Button from 'react-bootstrap/Button';
 import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './Style.css';
 
 export default function Cavaleirodalua() {
   return (
@@ -16,7 +15,7 @@ export default function Cavaleirodalua() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/serie/tt10234724"
+        src="https://embed.playmp4.net/?serie=92749"
         target="_blank"
         scrolling="no"
         data-draggable="none"
@@ -24,7 +23,7 @@ export default function Cavaleirodalua() {
         marginheight="0"
         data-popup="none" 
         frameborder="0"
-        width="100%"
+        width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}

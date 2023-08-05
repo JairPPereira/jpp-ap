@@ -15,7 +15,7 @@ export default function Vikingsv() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/serie/tt11311302"
+        src="https://embed.playmp4.net/?serie=116135"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -15,7 +15,7 @@ export default function Halo() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/serie/tt2934286"
+        src="https://embed.warezcdn.net/serie/tt2934286"
         target="_blank"
         scrolling="no"
         data-draggable="none"
