@@ -16,7 +16,7 @@ export default function Umanji() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt19724270"
+        src="https://embed.warezcdn.net/filme/tt19724270"
         target="_blank"
         scrolling="no"
         data-draggable="none"

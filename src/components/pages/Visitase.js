@@ -16,7 +16,7 @@ export default function Visitase() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt19849214"
+        src="https://embed.warezcdn.net/filme/tt19849214"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -10,7 +10,7 @@ export default function Setethu() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt12023002"
+        src="https://embed.warezcdn.net/filme/tt12023002"
         frameborder="0"
         width="100%"
         target="_blank"

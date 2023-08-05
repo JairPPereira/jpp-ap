@@ -10,7 +10,7 @@ export default function Thorat() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt10648342"
+        src="https://embed.warezcdn.net/filme/tt10648342"
         frameborder="0"
         width="100%"
         target="_blank"

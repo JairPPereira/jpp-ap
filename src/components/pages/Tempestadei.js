@@ -16,7 +16,7 @@ export default function Tempestadei() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt14060232"
+        src="https://embed.warezcdn.net/filme/tt14060232"
         target="_blank"
         scrolling="no"
         data-draggable="none"

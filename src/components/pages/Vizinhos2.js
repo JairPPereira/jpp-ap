@@ -16,7 +16,7 @@ export default function Vizinhos2() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt21742248"
+        src="https://embed.warezcdn.net/filme/tt21742248"
         target="_blank"
         scrolling="no"
         data-draggable="none"

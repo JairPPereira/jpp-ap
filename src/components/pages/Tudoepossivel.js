@@ -9,7 +9,7 @@ export default function Tudoepossivel() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt11464446"
+        src="https://embed.warezcdn.net/filme/tt11464446"
         frameborder="0"
         width="100%"
         target="_blank"

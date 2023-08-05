@@ -16,7 +16,7 @@ export default function Sorria() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt15474916"
+        src="https://embed.warezcdn.net/filme/tt15474916"
         target="_blank"
         scrolling="no"
         data-draggable="none"

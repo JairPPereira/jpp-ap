@@ -9,7 +9,7 @@ export default function Queculpatc() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt21226774"
+        src="https://embed.warezcdn.net/filme/tt21226774"
         frameborder="0"
         width="100%"
         target="_blank"

@@ -16,7 +16,7 @@ export default function Samaritano() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt5500218"
+        src="https://embed.warezcdn.net/filme/tt5500218"
         target="_blank"
         scrolling="no"
         data-draggable="none"

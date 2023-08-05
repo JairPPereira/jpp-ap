@@ -9,7 +9,7 @@ export default function Trembala() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt12593682"
+        src="https://embed.warezcdn.net/filme/tt12593682"
         frameborder="0"
         width="100%"
         target="_blank"

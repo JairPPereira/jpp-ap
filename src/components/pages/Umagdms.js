@@ -16,7 +16,7 @@ export default function Umagdms() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt4595186"
+        src="https://embed.warezcdn.net/filme/tt4595186"
         target="_blank"
         scrolling="no"
         data-draggable="none"

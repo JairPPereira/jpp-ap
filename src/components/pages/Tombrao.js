@@ -10,7 +10,7 @@ export default function Tombrao() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt1365519"
+        src="https://embed.warezcdn.net/filme/tt1365519"
         frameborder="0"
         width="100%"
         target="_blank"

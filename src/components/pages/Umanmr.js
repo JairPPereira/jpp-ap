@@ -16,7 +16,7 @@ export default function Umanmr() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt13623880"
+        src="https://embed.warezcdn.net/filme/tt13623880"
         target="_blank"
         scrolling="no"
         data-draggable="none"
