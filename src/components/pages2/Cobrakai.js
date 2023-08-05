@@ -15,14 +15,13 @@ export default function Cobrakai() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/serie/tt7221388"
+        src="https://embed.playmp4.net/?serie=77169"
         target="_blank"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        poster="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/g63KmFgqkvXu6WKS23V56hqEidh.jpg"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

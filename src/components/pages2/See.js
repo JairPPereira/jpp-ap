@@ -15,14 +15,13 @@ export default function See() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/serie/tt7949218"
+        src="https://embed.playmp4.net/?serie=80752"
         target="_blank"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        poster="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2YQcWTJnyVYqwtj3eIgMtHvxGGE.jpg"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
