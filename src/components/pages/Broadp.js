@@ -16,7 +16,7 @@ export default function Broadp() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt8983230"
+        src="https://embed.warezcdn.net/filme/tt8983230"
         target="_blank"
         scrolling="no"
         data-draggable="none"

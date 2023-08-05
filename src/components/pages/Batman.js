@@ -9,7 +9,7 @@ export default function Batman() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt1877830"
+        src="https://embed.warezcdn.net/filme/tt1877830"
         frameborder="0"
         width="100%"
         target="_blank"

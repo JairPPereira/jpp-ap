@@ -16,7 +16,7 @@ export default function Duplajornada() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt13314558"
+        src="https://embed.warezcdn.net/filme/tt13314558"
         target="_blank"
         scrolling="no"
         data-draggable="none"

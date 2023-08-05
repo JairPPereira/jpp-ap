@@ -16,7 +16,7 @@ export default function Boanoitem() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt9000184"
+        src="https://embed.warezcdn.net/filme/tt9000184"
         target="_blank"
         scrolling="no"
         data-draggable="none"

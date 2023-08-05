@@ -10,7 +10,7 @@ export default function Desfiledc() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt20597408"
+        src="https://embed.warezcdn.net/filme/tt20597408"
         frameborder="0"
         width="100%"
         target="_blank"

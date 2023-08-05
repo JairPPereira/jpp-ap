@@ -10,7 +10,7 @@ export default function Colisao() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt10809742"
+        src="https://embed.warezcdn.net/filme/tt10809742"
         frameborder="0"
         width="100%"
         target="_blank"

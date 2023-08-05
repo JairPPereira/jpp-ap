@@ -10,7 +10,7 @@ export default function Chachars() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt14376344"
+        src="https://embed.warezcdn.net/filme/tt14376344"
         frameborder="0"
         width="100%"
         target="_blank"

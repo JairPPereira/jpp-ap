@@ -16,7 +16,7 @@ export default function Carter() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt21237030"
+        src="https://embed.warezcdn.net/filme/tt21237030"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -16,7 +16,7 @@ export default function Codigoi() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt13660916"
+        src="https://embed.warezcdn.net/filme/tt13660916"
         target="_blank"
         scrolling="no"
         data-draggable="none"
