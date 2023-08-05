@@ -9,7 +9,7 @@ export default function Aferadomar() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt9288046"
+        src="https://embed.warezcdn.net/filme/tt9288046"
         frameborder="0"
         width="100%"
         target="_blank"

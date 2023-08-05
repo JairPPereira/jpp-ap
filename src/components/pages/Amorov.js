@@ -16,7 +16,7 @@ export default function Amorov() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt26369131"
+        src="https://embed.warezcdn.net/filme/tt26369131"
         target="_blank"
         scrolling="no"
         data-draggable="none"

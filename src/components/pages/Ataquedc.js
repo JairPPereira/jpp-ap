@@ -16,7 +16,7 @@ export default function Ataquedc() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt10293406"
+        src="https://embed.warezcdn.net/filme/tt10293406"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -9,7 +9,7 @@ export default function Aprincesa() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt13406136"
+        src="https://embed.warezcdn.net/filme/tt13406136"
         frameborder="0"
         width="100%"
         target="_blank"

@@ -10,7 +10,7 @@ export default function Apocalipsedoamor() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt14369296"
+        src="https://embed.warezcdn.net/filme/tt14369296"
         frameborder="0"
         width="100%"
         target="_blank"

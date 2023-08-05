@@ -16,7 +16,7 @@ export default function Amityvilleot() {
             <Row>
               <Col>
       <Iframe
-        src="https://ok.ru/videoembed/910865795703"
+        src="https://embed.warezcdn.net/filme/910865795703"
         target="_blank"
         scrolling="no"
         data-draggable="none"

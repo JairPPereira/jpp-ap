@@ -16,7 +16,7 @@ export default function Amulherrei() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt8093700"
+        src="https://embed.warezcdn.net/filme/tt8093700"
         target="_blank"
         scrolling="no"
         data-draggable="none"

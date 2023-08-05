@@ -16,7 +16,7 @@ export default function Aluzdm() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt9271672"
+        src="https://embed.warezcdn.net/filme/tt9271672"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -16,7 +16,7 @@ export default function Afera() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt13223398"
+        src="https://embed.warezcdn.net/filme/tt13223398"
         target="_blank"
         scrolling="no"
         data-draggable="none"

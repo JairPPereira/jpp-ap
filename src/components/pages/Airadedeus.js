@@ -10,7 +10,7 @@ export default function Airadedeus() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt15189534"
+        src="https://embed.warezcdn.net/filme/tt15189534"
         frameborder="0"
         width="100%"
         target="_blank"

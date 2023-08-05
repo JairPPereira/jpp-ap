@@ -16,7 +16,7 @@ export default function Alertamx() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt5884796"
+        src="https://embed.warezcdn.net/filme/tt5884796"
         target="_blank"
         scrolling="no"
         data-draggable="none"

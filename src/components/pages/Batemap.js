@@ -16,7 +16,7 @@ export default function Batemap() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt15679400"
+        src="https://embed.warezcdn.net/filme/tt15679400"
         target="_blank"
         scrolling="no"
         data-draggable="none"
