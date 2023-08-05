@@ -10,7 +10,7 @@ export default function Centauro() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt13479592"
+        src="https://embed.warezcdn.net/filme/tt13479592"
         frameborder="0"
         width="100%"
         target="_blank"

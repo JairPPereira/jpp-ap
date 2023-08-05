@@ -10,7 +10,7 @@ export default function Vingancafatal() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt2295722"
+        src="https://embed.warezcdn.net/filme/tt2295722"
         frameborder="0"
         width="100%"
         target="_blank"

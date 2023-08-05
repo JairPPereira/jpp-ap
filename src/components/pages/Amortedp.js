@@ -10,7 +10,7 @@ export default function Amortedp() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt5308322"
+        src="https://embed.warezcdn.net/filme/tt5308322"
         frameborder="0"
         width="100%"
         target="_blank"
