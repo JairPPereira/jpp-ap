@@ -17,7 +17,7 @@ export default function Alguemqcc() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt15333984"
+        src="https://superembeds.com/filme/tt15333984"
         target="_blank"
         scrolling="no"
         data-draggable="none"

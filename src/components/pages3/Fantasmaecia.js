@@ -17,7 +17,7 @@ export default function Fantasmaecia() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt7798604"
+        src="https://embed.warezcdn.net/filme/tt7798604"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -17,7 +17,7 @@ export default function Ateoriadt() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt2980516"
+        src="https://embed.warezcdn.net/filme/tt2980516"
         target="_blank"
         scrolling="no"
         data-draggable="none"

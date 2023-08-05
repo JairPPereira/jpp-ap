@@ -17,7 +17,7 @@ export default function Johnwndm() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt4425200"
+        src="https://embed.warezcdn.net/filme/tt4425200"
         target="_blank"
         scrolling="no"
         data-draggable="none"
