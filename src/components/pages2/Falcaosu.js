@@ -15,14 +15,13 @@ export default function Falcaosu() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/serie/tt9208876"
+        src="https://embed.playmp4.net/?serie=88396"
         target="_blank"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        poster="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/aTjbqMONy77fHJrIYu14g1F0d5h.jpg"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

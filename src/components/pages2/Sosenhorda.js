@@ -7,7 +7,7 @@ import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Round6() {
+export default function Sosenhorda() {
   return (
     <div>
           <p><br /></p>

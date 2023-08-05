@@ -15,14 +15,13 @@ export default function Inventandoa() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/serie/tt8740976"
+        src="https://embed.warezcdn.net/serie/tt8740976"
         target="_blank"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        poster="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/fiKQKFsjahOr8qj7QsUUHO9E70t.jpg"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

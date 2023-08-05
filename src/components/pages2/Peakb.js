@@ -15,14 +15,13 @@ export default function Peakb() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/serie/tt2442560"
+        src="https://embed.playmp4.net/?serie=60574"
         target="_blank"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        poster="https://www.themoviedb.org/t/p/w533_and_h300_bestv2/8V1XPEDLtJoxOWlE6gYzn2sQaMp.jpg"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

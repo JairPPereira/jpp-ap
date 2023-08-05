@@ -15,14 +15,13 @@ export default function Gaviaoa() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/serie/tt10160804"
+        src="https://embed.playmp4.net/?serie=88329"
         target="_blank"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        poster="https://www.themoviedb.org/t/p/w500_and_h282_face/iXCuYBDEMX22Wpwx3whhOidLfJI.jpg"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
