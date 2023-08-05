@@ -5,7 +5,6 @@ import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 import Iframe from 'react-iframe'
 import './Style.css';
-
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -17,7 +16,7 @@ export default function Nasuacm() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt12823454"
+        src="https://embed.warezcdn.net/filme/tt12823454"
         target="_blank"
         scrolling="no"
         data-draggable="none"

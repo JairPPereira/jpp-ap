@@ -16,7 +16,7 @@ export default function Felizanonosso() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt23867462"
+        src="https://embed.warezcdn.net/filme/tt23867462"
         target="_blank"
         scrolling="no"
         data-draggable="none"

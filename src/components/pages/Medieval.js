@@ -16,7 +16,7 @@ export default function Medieval() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt8883486"
+        src="https://embed.warezcdn.net/filme/tt8883486"
         target="_blank"
         scrolling="no"
         data-draggable="none"

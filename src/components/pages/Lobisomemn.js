@@ -16,7 +16,7 @@ export default function Lobisomemn() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt17061910"
+        src="https://embed.warezcdn.net/filme/tt17061910"
         target="_blank"
         scrolling="no"
         data-draggable="none"

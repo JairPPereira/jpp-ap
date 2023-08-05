@@ -16,7 +16,7 @@ export default function Naospq() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt10731256"
+        src="https://embed.warezcdn.net/filme/tt10731256"
         target="_blank"
         scrolling="no"
         data-draggable="none"

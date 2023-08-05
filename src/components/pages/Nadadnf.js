@@ -9,7 +9,7 @@ export default function Nadadnf() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt1016150"
+        src="https://embed.warezcdn.net/filme/tt1016150"
         target="_blank"
         frameborder="0"
         width="100%" 

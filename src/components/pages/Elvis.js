@@ -9,7 +9,7 @@ export default function Elvis() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt3704428"
+        src="https://embed.warezcdn.net/filme/tt3704428"
         frameborder="0"
         width="100%"
         target="_blank"

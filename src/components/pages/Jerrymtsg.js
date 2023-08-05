@@ -10,7 +10,7 @@ export default function Jerrymtsg() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt8323668"
+        src="https://embed.warezcdn.net/filme/tt8323668"
         frameborder="0"
         width="100%"
         target="_blank"

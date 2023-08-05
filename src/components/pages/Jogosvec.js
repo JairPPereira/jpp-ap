@@ -9,7 +9,7 @@ export default function Jogosvec() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt1951264"
+        src="https://embed.warezcdn.net/filme/tt1951264"
         frameborder="0"
         width="100%" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

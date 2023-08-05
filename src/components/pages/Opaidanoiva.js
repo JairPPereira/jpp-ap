@@ -10,7 +10,7 @@ export default function Opaidanoiva() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt13249596"
+        src="https://embed.warezcdn.net/filme/tt13249596"
         frameborder="0"
         width="100%"
         target="_blank"

@@ -16,7 +16,7 @@ export default function Justiceiras() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt13327038"
+        src="https://embed.warezcdn.net/filme/tt13327038"
         target="_blank"
         scrolling="no"
         data-draggable="none"

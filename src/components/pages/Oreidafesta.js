@@ -10,7 +10,7 @@ export default function Oreidafesta() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt11062632"
+        src="https://embed.warezcdn.net/filme/tt11062632"
         frameborder="0"
         width="100%"
         target="_blank"

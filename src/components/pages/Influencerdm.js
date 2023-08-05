@@ -9,7 +9,7 @@ export default function Influencerdm() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt14814040"
+        src="https://embed.warezcdn.net/filme/tt14814040"
         frameborder="0"
         width="100%"
         target="_blank"

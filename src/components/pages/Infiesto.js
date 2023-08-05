@@ -16,7 +16,7 @@ export default function Inviesto() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt15789492"
+        src="https://embed.warezcdn.net/filme/tt15789492"
         target="_blank"
         scrolling="no"
         data-draggable="none"

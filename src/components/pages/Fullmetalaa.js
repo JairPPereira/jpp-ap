@@ -16,7 +16,7 @@ export default function Fullmetalaa() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt18671660"
+        src="https://embed.warezcdn.net/filme/tt18671660"
         target="_blank"
         scrolling="no"
         data-draggable="none"

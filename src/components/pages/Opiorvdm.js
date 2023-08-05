@@ -16,7 +16,7 @@ export default function Opiorvdm() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt7405458"
+        src="https://embed.warezcdn.net/filme/tt7405458"
         target="_blank"
         scrolling="no"
         data-draggable="none"

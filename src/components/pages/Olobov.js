@@ -16,7 +16,7 @@ export default function Olobov() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt13051810"
+        src="https://embed.warezcdn.net/filme/tt13051810"
         target="_blank"
         scrolling="no"
         data-draggable="none"

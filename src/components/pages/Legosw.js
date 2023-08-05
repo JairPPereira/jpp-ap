@@ -16,7 +16,7 @@ export default function Legosw() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt20784210"
+        src="https://embed.warezcdn.net/filme/tt20784210"
         target="_blank"
         scrolling="no"
         data-draggable="none"

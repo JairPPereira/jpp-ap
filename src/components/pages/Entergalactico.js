@@ -16,7 +16,7 @@ export default function Entergalactico() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt10687116"
+        src="https://embed.warezcdn.net/filme/tt10687116"
         target="_blank"
         scrolling="no"
         data-draggable="none"

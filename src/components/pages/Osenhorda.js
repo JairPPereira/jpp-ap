@@ -17,7 +17,7 @@ export default function Osenhorda() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt0399295"
+        src="https://embed.warezcdn.net/filme/tt0399295"
         target="_blank"
         scrolling="no"
         data-draggable="none"

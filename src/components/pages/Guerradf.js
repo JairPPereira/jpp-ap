@@ -10,7 +10,7 @@ export default function Guerradf() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embedflix.net/filme/tt2025526"
+        src="https://embed.warezcdn.net/filme/tt2025526"
         frameborder="0"
         width="100%"
         target="_blank"
