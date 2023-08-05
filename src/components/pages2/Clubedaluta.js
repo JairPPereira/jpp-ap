@@ -16,7 +16,7 @@ export default function Clubedaluta() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt0137523"
+        src="https://embed.warezcdn.net/filme/tt0137523"
         target="_blank"
         scrolling="no"
         data-draggable="none"
