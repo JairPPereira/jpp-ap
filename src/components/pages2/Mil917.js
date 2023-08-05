@@ -15,7 +15,7 @@ export default function Mil917() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt8579674"
+        src="https://embed.warezcdn.net/filme/tt8579674"
         target="_blank"
         scrolling="no"
         data-draggable="none"

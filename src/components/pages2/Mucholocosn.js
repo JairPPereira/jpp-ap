@@ -15,7 +15,7 @@ export default function Mucholocosn() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt16532314"
+        src="https://embed.warezcdn.net/filme/tt16532314"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -15,7 +15,7 @@ export default function Guardioesg() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt13623136"
+        src="https://embed.warezcdn.net/filme/tt13623136"
         target="_blank"
         scrolling="no"
         data-draggable="none"

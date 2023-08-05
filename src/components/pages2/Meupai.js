@@ -15,7 +15,7 @@ export default function Meupai() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt10272386"
+        src="https://embed.warezcdn.net/filme/tt10272386"
         target="_blank"
         scrolling="no"
         data-draggable="none"

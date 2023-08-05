@@ -15,7 +15,7 @@ export default function Omilagredc7() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt10431500"
+        src="https://embed.warezcdn.net/filme/tt10431500"
         target="_blank"
         scrolling="no"
         data-draggable="none"

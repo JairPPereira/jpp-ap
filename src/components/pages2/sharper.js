@@ -15,7 +15,7 @@ export default function Sharper() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt12573454"
+        src="https://embed.warezcdn.net/filme/tt12573454"
         target="_blank"
         scrolling="no"
         data-draggable="none"

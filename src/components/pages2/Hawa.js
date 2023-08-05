@@ -15,7 +15,7 @@ export default function Hawa() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt21909950"
+        src="https://embed.warezcdn.net/filme/tt21909950"
         target="_blank"
         scrolling="no"
         data-draggable="none"

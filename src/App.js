@@ -296,7 +296,6 @@ import Aslinhastdd from './components/pages2/Aslinhastdd';
 import Hawa from './components/pages2/Hawa';
 import Stretch from './components/pages2/Stretch';
 import Foradealcance from './components/pages2/Foradealcance';
-import Nanatsu1 from './components/pages2/Nanatsu1';
 import Avataroca from './components/pages2/Avataroca';
 import Mucholocosn from './components/pages2/Mucholocosn';
 import Daaz14 from './components/pages2/Daaz14';
@@ -1020,7 +1019,6 @@ function App() {
         <Route path='/98' component={Gladiador} />
         <Route path='/980804' component={Legosw} />
         <Route path='/982939' component={Desfiledc} />
-        <Route path='/989937' component={Nanatsu1} />
         <Route path='/997265' component={Regra34} />
         <Route path='/997703' component={Buba} />
         <Route path='/9978' component={Alexrct} />

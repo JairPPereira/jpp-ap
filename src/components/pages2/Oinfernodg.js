@@ -15,7 +15,7 @@ export default function Oinfernodg() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt11316854"
+        src="https://embed.warezcdn.net/filme/tt11316854"
         target="_blank"
         scrolling="no"
         data-draggable="none"
