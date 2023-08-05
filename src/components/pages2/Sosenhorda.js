@@ -7,7 +7,7 @@ import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Sosenhorda() {
+export default function Round6() {
   return (
     <div>
           <p><br /></p>
@@ -15,7 +15,7 @@ export default function Sosenhorda() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/serie/tt7631058"
+        src="https://embed.playmp4.net/?serie=84773"
         target="_blank"
         scrolling="no"
         data-draggable="none"
