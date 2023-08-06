@@ -612,6 +612,7 @@ import Matrixr from './components/pages/Matrixr';
 import Opesodot from './components/pages/Opesodot';
 import Ogambitor from './components/pages/Ogambitor';
 import Vulcaotw from './components/pages/Vulcaotw';
+import Neveb from './components/pages/Neveb';
 
 
 
@@ -885,6 +886,7 @@ function App() {
         <Route path='/640' component={Prendamesfc} />
         <Route path='/640146' component={Homemfvq} />
         <Route path='/642885' component={Abracadabra2} />
+        <Route path='/645693' component={Neveb} />
         <Route path='/646389' component={Alertamx} />
         <Route path='/648579' component={Opesodot} />
         <Route path='/648743' component={Queculpatc} />
