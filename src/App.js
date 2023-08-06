@@ -611,6 +611,7 @@ import Malevola from './components/pages/Malevola';
 import Matrixr from './components/pages/Matrixr';
 import Opesodot from './components/pages/Opesodot';
 import Ogambitor from './components/pages/Ogambitor';
+import Vulcaotw from './components/pages/Vulcaotw';
 
 
 
@@ -667,6 +668,7 @@ function App() {
         <Route path='/1124' component={Ograndetruque} />
         <Route path='/112205' component={Afamilia} />
         <Route path='/1122493' component={Umdmnc} />
+        <Route path='/1126543' component={Vulcaotw} />
         <Route path='/11324' component={Ailhadomedo} />
         <Route path='/11327' component={Expressomn} />
         <Route path='/13455' component={Herois} />
