@@ -610,6 +610,7 @@ import Vingancafatal from './components/pages/Vingancafatal';
 import Malevola from './components/pages/Malevola';
 import Matrixr from './components/pages/Matrixr';
 import Opesodot from './components/pages/Opesodot';
+import Ogambitor from './components/pages/Ogambitor';
 
 
 
@@ -1155,6 +1156,7 @@ function App() {
         <Route path='/novelas' component={Novelas} />
         <Route path='/noventaenove' component={Noventaenove} />
         <Route path='/ocaminho' component={Ocaminho} />
+        <Route path='/ogambitor' component={Ogambitor} />
         <Route path='/oreidap' component={Oreidap} />
         <Route path='/ossimpson' component={Ossimpson} />
         <Route path='/parttk' component={Parttk} />
