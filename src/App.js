@@ -613,6 +613,7 @@ import Opesodot from './components/pages/Opesodot';
 import Ogambitor from './components/pages/Ogambitor';
 import Vulcaotw from './components/pages/Vulcaotw';
 import Neveb from './components/pages/Neveb';
+import Intencoess from './components/pages/Intencoess';
 
 
 
@@ -848,6 +849,7 @@ function App() {
         <Route path='/550776' component={Acrediteemmim} />
         <Route path='/55101' component={Oculpado} />
         <Route path='/551271' component={Medieval} />
+        <Route path='/551726' component={Intencoess} />
         <Route path='/560057' component={Aferadomar} />
         <Route path='/556018' component={Kv1} />
         <Route path='/56295' component={Halo4} />
