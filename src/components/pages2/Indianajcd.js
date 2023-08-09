@@ -1,44 +1,35 @@
 import React from "react";
 import { Link } from 'react-router-dom';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import Button from 'react-bootstrap/Button';
+import './videoapp.css';
 import Iframe from 'react-iframe'
-import Container from 'react-bootstrap/Container';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import './Style.css';
+
 
 export default function Indianajcd() {
   return (
     <div>
           <p><br /></p>
-          <div><Container fluid>
-            <Row>
-              <Col>
       <Iframe
-        src="https://ok.ru/videoembed/4403965725356"
+        src="https://embedder.net/e/tt0082971"
+        frameborder="0"
+        width="100%"
         target="_blank"
         scrolling="no"
         data-draggable="none"
         marginwidth="0"
         marginheight="0"
         data-popup="none" 
-        frameborder="0"
-        width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       />{" "}
-      </Col></Row></Container>
                   <div className="nave">
-     
-                  <p><br /></p>
-
-<Link to="/"><Button variant="primary" size="lg" width="80%">
-Home
-  </Button></Link>
+      <nav>
+      <p><br /></p>
+      <Link to="/">Home</Link>
 
 <p><br /></p>
-</div>
-</div></div>
+
+      </nav></div></div>
 
   );
 }
