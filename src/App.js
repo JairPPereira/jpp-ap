@@ -614,6 +614,7 @@ import Ogambitor from './components/pages/Ogambitor';
 import Vulcaotw from './components/pages/Vulcaotw';
 import Neveb from './components/pages/Neveb';
 import Intencoess from './components/pages/Intencoess';
+import Aconferencia from './components/pages/Aconferencia';
 
 
 
@@ -1012,6 +1013,7 @@ function App() {
         <Route path='/897192' component={Odiariobrr} />
         <Route path='/899112' component={Noitein} />
         <Route path='/9003' component={Hellraiser} />
+        <Route path='/910365' component={Aconferencia} />
         <Route path='/921643' component={Ohomemdj} />
         <Route path='/92321' component={Parafaf} />
         <Route path='/937278' component={Opiorvdm} />
