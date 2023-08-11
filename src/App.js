@@ -616,6 +616,7 @@ import Neveb from './components/pages/Neveb';
 import Intencoess from './components/pages/Intencoess';
 import Aconferencia from './components/pages/Aconferencia';
 import Osomda from './components/pages/Osomda';
+import Oppen from './components/pages/Oppen';
 
 
 
@@ -948,6 +949,7 @@ function App() {
         <Route path='/76203' component={Dozeanosde} />
         <Route path='/762968' component={Justiceiras} />
         <Route path='/762975' component={Continenciaaa} />
+        <Route path='/765172' component={Odespertartn} />
         <Route path='/76600' component={Avataroca} />
         <Route path='/766507' component={Opredadora} />
         <Route path='/769' component={Osbonsc} />
@@ -999,7 +1001,7 @@ function App() {
         <Route path='/862551' component={Deferiasdf} />
         <Route path='/866267' component={Thehs} />
         <Route path='/869112' component={Alguemqcc} />
-        <Route path='/765172' component={Odespertartn} />
+        <Route path='/872585' component={Oppen} />
         <Route path='/87516' component={Oldboydv} />
         <Route path='/875303' component={Amordoentio} />
         <Route path='/877269' component={Mundoestranho} />
