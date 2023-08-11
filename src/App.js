@@ -615,6 +615,7 @@ import Vulcaotw from './components/pages/Vulcaotw';
 import Neveb from './components/pages/Neveb';
 import Intencoess from './components/pages/Intencoess';
 import Aconferencia from './components/pages/Aconferencia';
+import Osomda from './components/pages/Osomda';
 
 
 
@@ -910,6 +911,7 @@ function App() {
         <Route path='/68348' component={Arquiteturadd} />
         <Route path='/68718' component={Djangolivre} />
         <Route path='/687354' component={Stretfp} />
+        <Route path='/688286' component={Osomda} />
         <Route path='/696374' component={Oinfernodg} />
         <Route path='/698948' component={Trezevr} />
         <Route path='/70160' component={Jogosv} />
