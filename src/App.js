@@ -620,6 +620,7 @@ import Oppen from './components/pages/Oppen';
 import Elementos from './components/pages/Elementos';
 import Homemaat from './components/pages/Homemaat';
 import Transformeodj from './components/pages/Transformeodf';
+import Agentest from './components/pages/Agentest';
 
 
 
@@ -927,6 +928,7 @@ function App() {
         <Route path='/715931' component={Emancipation} />
         <Route path='/717980' component={Sharper} />
         <Route path='/718930' component={Trembala} />
+        <Route path='/724209' component={Agentest} />
         <Route path='/724495' component={Amulherrei} />
         <Route path='/725201' component={Agenteo} />
         <Route path='/73' component={Aoutraha} />
