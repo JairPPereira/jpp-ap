@@ -622,6 +622,7 @@ import Homemaat from './components/pages/Homemaat';
 import Transformeodj from './components/pages/Transformeodf';
 import Agentest from './components/pages/Agentest';
 import Quehorastp from './components/pages2/Quehorastp';
+import Rizzolie from './components/pages2/Rizzolie';
 
 
 
@@ -1215,6 +1216,7 @@ function App() {
         <Route path='/redencao' component={Redencao} />
         <Route path='/redetv' component={Redetv} />
         <Route path='/rittv' component={Rittv} />
+        <Route path='/rizzolie' component={Rizzolie} />
         <Route path='/romance' component={Romance} />
         <Route path='/round6' component={Round6} />
         <Route path='/ruepa' component={Ruepa} />
