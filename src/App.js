@@ -619,6 +619,7 @@ import Osomda from './components/pages/Osomda';
 import Oppen from './components/pages/Oppen';
 import Elementos from './components/pages/Elementos';
 import Homemaat from './components/pages/Homemaat';
+import Transformeodj from './components/pages/Transformeodf';
 
 
 
@@ -902,6 +903,7 @@ function App() {
         <Route path='/660267' component={Doisaal} />  
         <Route path='/66113' component={Avitimaperfeita} />
         <Route path='/661374' component={Glassonion} />
+        <Route path='/667538' component={Transformeodj} />
         <Route path='/667642' component={Beauty} />
         <Route path='/668482' component={Matildaom} />
         <Route path='/672154' component={Umculpadoen} />
