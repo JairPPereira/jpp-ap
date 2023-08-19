@@ -621,6 +621,7 @@ import Elementos from './components/pages/Elementos';
 import Homemaat from './components/pages/Homemaat';
 import Transformeodj from './components/pages/Transformeodf';
 import Agentest from './components/pages/Agentest';
+import Quehorastp from './components/pages2/Quehorastp';
 
 
 
@@ -1016,6 +1017,7 @@ function App() {
         <Route path='/880313' component={Airadedeus} />
         <Route path='/881164' component={Oestranguladordb} />
         <Route path='/882598' component={Sorria} />
+        <Route path='/884605' component={Quehorastp} />
         <Route path='/890541' component={Setemum} />
         <Route path='/890980' component={Aslinhastdd} />
         <Route path='/893656' component={Gracinha} />
