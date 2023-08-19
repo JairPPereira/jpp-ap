@@ -618,6 +618,7 @@ import Aconferencia from './components/pages/Aconferencia';
 import Osomda from './components/pages/Osomda';
 import Oppen from './components/pages/Oppen';
 import Elementos from './components/pages/Elementos';
+import Homemaat from './components/pages/Homemaat';
 
 
 
@@ -854,9 +855,10 @@ function App() {
         <Route path='/55101' component={Oculpado} />
         <Route path='/551271' component={Medieval} />
         <Route path='/551726' component={Intencoess} />
-        <Route path='/560057' component={Aferadomar} />
         <Route path='/556018' component={Kv1} />
+        <Route path='/560057' component={Aferadomar} />
         <Route path='/56295' component={Halo4} />
+        <Route path='/569094' component={Homemaat} />
         <Route path='/574249' component={Oreidafesta} />
         <Route path='/581' component={Dancacl} />
         <Route path='/58448' component={Nocaute} />
