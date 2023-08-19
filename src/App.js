@@ -617,6 +617,7 @@ import Intencoess from './components/pages/Intencoess';
 import Aconferencia from './components/pages/Aconferencia';
 import Osomda from './components/pages/Osomda';
 import Oppen from './components/pages/Oppen';
+import Elementos from './components/pages/Elementos';
 
 
 
@@ -1028,6 +1029,7 @@ function App() {
         <Route path='/961707' component={Hawa} />
         <Route path='/96933' component={Porquees} />
         <Route path='/975714' component={Colisao} />
+        <Route path='/976573' component={Elementos} />
         <Route path='/978406' component={Visitase} />
         <Route path='/98' component={Gladiador} />
         <Route path='/980804' component={Legosw} />
