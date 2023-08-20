@@ -623,6 +623,7 @@ import Transformeodj from './components/pages/Transformeodf';
 import Agentest from './components/pages/Agentest';
 import Quehorastp from './components/pages2/Quehorastp';
 import Rizzolie from './components/pages2/Rizzolie';
+import Theflash from './components/pages2/Theflash';
 
 
 
@@ -758,6 +759,7 @@ function App() {
         <Route path='/284289' component={Foradealcance} />
         <Route path='/290098' component={Acriada} />
         <Route path='/296096' component={Comoeuera} />
+        <Route path='/298618' component={Theflash} />
         <Route path='/299534' component={Vingadoresu} />
         <Route path='/302401' component={Snowdenht} />
         <Route path='/303021' component={Osalvador} />
