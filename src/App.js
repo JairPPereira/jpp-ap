@@ -624,6 +624,7 @@ import Agentest from './components/pages/Agentest';
 import Quehorastp from './components/pages2/Quehorastp';
 import Rizzolie from './components/pages2/Rizzolie';
 import Theflash from './components/pages2/Theflash';
+import Feiea from './components/pages/Feiea';
 
 
 
@@ -977,6 +978,7 @@ function App() {
         <Route path='/787787' component={Tudoepossivel} />
         <Route path='/788752' component={Olobov} />
         <Route path='/791373' component={Ligadajzs} />
+        <Route path='/791674' component={Feiea} />
         <Route path='/792237' component={Camggw} />
         <Route path='/79224' component={Guerradf} />
         <Route path='/79465' component={Otrapaceiro} />
