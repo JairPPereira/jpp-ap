@@ -625,6 +625,7 @@ import Quehorastp from './components/pages2/Quehorastp';
 import Rizzolie from './components/pages2/Rizzolie';
 import Theflash from './components/pages2/Theflash';
 import Feiea from './components/pages/Feiea';
+import Todasasf from './components/pages/Todasasf';
 
 
 
@@ -1254,6 +1255,7 @@ function App() {
         <Route path='/Tntsports5' component={Tntsport5} />
         <Route path='/Tntsports7' component={Tntsports7} />
         <Route path='/Tntsports8' component={Tntsports8} />
+        <Route path='/todasasf' component={Todasasf} />
         <Route path='/tophits' component={Tophits} />
         <Route path='/topmixtv' component={Topmixtv} />
         <Route path='/toptv' component={Toptv} />
