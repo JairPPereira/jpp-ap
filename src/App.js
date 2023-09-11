@@ -626,6 +626,7 @@ import Rizzolie from './components/pages2/Rizzolie';
 import Theflash from './components/pages2/Theflash';
 import Feiea from './components/pages/Feiea';
 import Todasasf from './components/pages/Todasasf';
+import Indianajr from './components/pages/Indianajr';
 
 
 
@@ -778,6 +779,7 @@ function App() {
         <Route path='/332672' component={Obsessao} />
         <Route path='/33511' component={Ogarotodl} />
         <Route path='/335795' component={Monsterh} />
+        <Route path='/335977' component={Indianajr} />
         <Route path='/337404' component={Cruella} />
         <Route path='/338958' component={Adesencantada} />
         <Route path='/338970' component={Tombrao} />
