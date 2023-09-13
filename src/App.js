@@ -627,22 +627,7 @@ import Theflash from './components/pages2/Theflash';
 import Feiea from './components/pages/Feiea';
 import Todasasf from './components/pages/Todasasf';
 import Indianajr from './components/pages/Indianajr';
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+import Oconvento from './components/pages/Oconvento';
 
 
 
@@ -1025,6 +1010,7 @@ function App() {
         <Route path='/880313' component={Airadedeus} />
         <Route path='/881164' component={Oestranguladordb} />
         <Route path='/882598' component={Sorria} />
+        <Route path='/884184' component={Oconvento} />
         <Route path='/884605' component={Quehorastp} />
         <Route path='/890541' component={Setemum} />
         <Route path='/890980' component={Aslinhastdd} />
