@@ -10,7 +10,7 @@ export default function Barbie2023() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt1517268"
+        src="https://embedder.net/e/movie?imdb=tt1517268"
         frameborder="0"
         width="100%"
         target="_blank"

@@ -9,7 +9,7 @@ export default function Buba() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt21195548"
+        src="https://embedder.net/e/movie?imdb=tt21195548"
         frameborder="0"
         width="100%"
         target="_blank"
