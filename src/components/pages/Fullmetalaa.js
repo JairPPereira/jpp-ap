@@ -16,7 +16,7 @@ export default function Fullmetalaa() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt18671660"
+        src="https://superflixapi.top/filme/tt18671660"
         target="_blank"
         scrolling="no"
         data-draggable="none"
