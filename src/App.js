@@ -628,6 +628,7 @@ import Feiea from './components/pages/Feiea';
 import Todasasf from './components/pages/Todasasf';
 import Indianajr from './components/pages/Indianajr';
 import Oconvento from './components/pages/Oconvento';
+import Barbie2023 from './components/pages/Barbie2023';
 
 
 
@@ -770,6 +771,7 @@ function App() {
         <Route path='/338970' component={Tombrao} />
         <Route path='/346' component={Ossetes} />
         <Route path='/346684' component={Embuscadaliberdade} />
+        <Route path='/346698' component={Barbie2023} />
         <Route path='/346808' component={Momentum} />
         <Route path='/348' component={Alien8} />
         <Route path='/359940' component={Tresanuncios} />
