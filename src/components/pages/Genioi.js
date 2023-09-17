@@ -10,7 +10,7 @@ export default function Genioi() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://sblona.com/e/g84a32vn6rr8.html"
+        src="https://embed.warezcdn.net/filme/tt0119217"
         frameborder="0"
         width="100%"
         target="_blank"
