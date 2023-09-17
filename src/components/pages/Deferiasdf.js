@@ -16,7 +16,7 @@ export default function Deferiasdf() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt14309446"
+        src="https://embedder.net/e/movie?imdb=tt14309446"
         target="_blank"
         scrolling="no"
         data-draggable="none"

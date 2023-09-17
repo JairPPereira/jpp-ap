@@ -10,7 +10,7 @@ export default function Feiea() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt9747626"
+        src="https://superflixapi.top/filme/tt9747626"
         frameborder="0"
         width="100%"
         target="_blank"

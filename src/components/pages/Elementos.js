@@ -10,7 +10,7 @@ export default function Elementos() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt15789038"
+        src="https://embedder.net/e/movie?imdb=tt15789038"
         frameborder="0"
         width="100%"
         target="_blank"

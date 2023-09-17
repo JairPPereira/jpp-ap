@@ -17,7 +17,7 @@ export default function Destemida() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt2353868"
+        src="https://superflixapi.top/filme/tt2353868"
         target="_blank"
         scrolling="no"
         data-draggable="none"
