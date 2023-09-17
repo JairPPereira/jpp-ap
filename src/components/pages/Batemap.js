@@ -10,7 +10,7 @@ export default function Batemap() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt15679400"
+        src="https://superflixapi.top/filme/tt15679400"
         frameborder="0"
         width="100%"
         target="_blank"

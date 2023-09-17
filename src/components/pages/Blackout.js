@@ -16,7 +16,7 @@ export default function Blackout() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt8363392"
+        src="https://superflixapi.top/filme/tt8363392"
         target="_blank"
         scrolling="no"
         data-draggable="none"

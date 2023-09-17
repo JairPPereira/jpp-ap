@@ -10,7 +10,7 @@ export default function Aconferencia() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt14321668"
+        src="https://superflixapi.top/filme/tt14321668"
         frameborder="0"
         width="100%"
         target="_blank"
