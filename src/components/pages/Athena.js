@@ -16,7 +16,7 @@ export default function Athena() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt15445056"
+        src="https://embedder.net/e/movie?imdb=tt15445056"
         target="_blank"
         scrolling="no"
         data-draggable="none"

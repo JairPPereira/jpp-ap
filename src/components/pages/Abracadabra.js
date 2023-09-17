@@ -16,7 +16,7 @@ export default function Abracadabra() {
             <Row>
               <Col>
       <Iframe
-        src="https://embedflix.net/filme/tt0107120"
+        src="https://embedder.net/e/movie?imdb=tt0107120"
         target="_blank"
         scrolling="no"
         data-draggable="none"

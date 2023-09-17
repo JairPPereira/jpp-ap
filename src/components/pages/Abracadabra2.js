@@ -16,7 +16,7 @@ export default function Abracadabra2() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt11909878"
+        src="https://embedder.net/e/movie?imdb=tt11909878"
         target="_blank"
         scrolling="no"
         data-draggable="none"

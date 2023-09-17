@@ -16,7 +16,7 @@ export default function Afterdp() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt13070038"
+        src="https://embedder.net/e/movie?imdb=tt13070038"
         target="_blank"
         scrolling="no"
         data-draggable="none"

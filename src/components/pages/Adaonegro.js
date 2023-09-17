@@ -16,7 +16,7 @@ export default function Adaonegro() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt6443346"
+        src="https://embedder.net/e/movie?imdb=tt6443346"
         target="_blank"
         scrolling="no"
         data-draggable="none"

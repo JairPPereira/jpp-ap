@@ -16,7 +16,7 @@ export default function Alienor() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt0090605"
+        src="https://embedder.net/e/movie?imdb=tt0090605"
         target="_blank"
         scrolling="no"
         data-draggable="none"
