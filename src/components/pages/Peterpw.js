@@ -16,7 +16,7 @@ export default function Peterpw() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.embedplayer.site/tt5635026"
+        src="https://embedder.net/e/movie?imdb=tt5635026"
         target="_blank"
         scrolling="no"
         data-draggable="none"

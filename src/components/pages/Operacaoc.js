@@ -16,7 +16,7 @@ export default function Operacaoc() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt10268488"
+        src="https://superflixapi.top/filme/tt10268488"
         target="_blank"
         scrolling="no"
         data-draggable="none"

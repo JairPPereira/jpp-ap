@@ -9,7 +9,7 @@ export default function Opredadora() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt11866324"
+        src="https://embedder.net/e/movie?imdb=tt11866324"
         frameborder="0"
         width="100%" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

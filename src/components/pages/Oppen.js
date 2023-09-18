@@ -10,7 +10,7 @@ export default function Oppen() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt15398776"
+        src="https://embedder.net/e/movie?imdb=tt15398776"
         frameborder="0"
         width="100%"
         target="_blank"

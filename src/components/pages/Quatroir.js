@@ -9,7 +9,7 @@ export default function Quatroir() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt0430105"
+        src="https://superflixapi.top/filme/tt0430105"
         frameborder="0"
         width="100%"
         target="_blank"

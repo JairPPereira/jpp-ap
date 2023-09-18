@@ -10,7 +10,7 @@ export default function Opesodot() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt11291274"
+        src="https://embedder.net/e/movie?imdb=tt11291274"
         frameborder="0"
         width="100%"
         target="_blank"

@@ -9,7 +9,7 @@ export default function Osbansheesi() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt11813216"
+        src="https://embedder.net/e/movie?imdb=tt11813216"
         target="_blank"
         frameborder="0"
         width="100%"

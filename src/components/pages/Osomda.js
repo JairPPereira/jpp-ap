@@ -10,7 +10,7 @@ export default function Osomda() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt7671124"
+        src="https://superflixapi.top/filme/tt7671124"
         frameborder="0"
         width="100%"
         target="_blank"

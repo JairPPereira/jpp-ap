@@ -16,7 +16,7 @@ export default function Pinoquio() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt4593060"
+        src="https://embedder.net/e/movie?imdb=tt4593060"
         target="_blank"
         scrolling="no"
         data-draggable="none"
