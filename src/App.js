@@ -629,6 +629,7 @@ import Todasasf from './components/pages/Todasasf';
 import Indianajr from './components/pages/Indianajr';
 import Oconvento from './components/pages/Oconvento';
 import Barbie2023 from './components/pages/Barbie2023';
+import Missaods from './components/pages/Missaods';
 
 
 
@@ -921,6 +922,7 @@ function App() {
         <Route path='/707214' component={Ateofinal} />
         <Route path='/71211' component={Beladonna} />
         <Route path='/715931' component={Emancipation} />
+        <Route path='/717930' component={Missaods} />
         <Route path='/717980' component={Sharper} />
         <Route path='/718930' component={Trembala} />
         <Route path='/724209' component={Agentest} />
