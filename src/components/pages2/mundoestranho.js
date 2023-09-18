@@ -15,7 +15,7 @@ export default function Mundoestranho() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?filme=877269"
+        src="https://embedder.net/e/movie?imdb=tt10298840"
         target="_blank"
         scrolling="no"
         data-draggable="none"
