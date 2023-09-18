@@ -10,7 +10,7 @@ export default function Matrixr() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt0242653"
+        src="https://superflixapi.top/filme/tt0242653"
         frameborder="0"
         width="100%"
         target="_blank"

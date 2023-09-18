@@ -16,7 +16,7 @@ export default function Oinfernodg() {
             <Row>
               <Col>
       <Iframe
-        src="https://superflixapi.net/filme/tt11316854"
+        src="https://superflixapi.top/filme/tt11316854"
         target="_blank"
         scrolling="no"
         data-draggable="none"

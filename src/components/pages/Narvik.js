@@ -9,7 +9,7 @@ export default function Narvik() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt9737876"
+        src="https://superflixapi.top/filme/tt9737876"
         target="_blank"
         frameborder="0"
         width="100%" 

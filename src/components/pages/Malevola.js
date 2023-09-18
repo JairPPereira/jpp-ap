@@ -10,7 +10,7 @@ export default function Malevola() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt1587310"
+        src="https://embedder.net/e/movie?imdb=tt1587310"
         frameborder="0"
         width="100%"
         target="_blank"

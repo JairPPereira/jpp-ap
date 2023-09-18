@@ -16,7 +16,7 @@ export default function Noitein() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt12003946"
+        src="https://superflixapi.top/filme/tt12003946"
         target="_blank"
         scrolling="no"
         data-draggable="none"

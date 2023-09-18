@@ -16,7 +16,7 @@ export default function Lou() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt5315210"
+        src="https://embedder.net/e/movie?imdb=tt5315210"
         target="_blank"
         scrolling="no"
         data-draggable="none"

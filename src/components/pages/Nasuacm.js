@@ -16,7 +16,7 @@ export default function Nasuacm() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt12823454"
+        src="https://embedder.net/e/movie?imdb=tt12823454"
         target="_blank"
         scrolling="no"
         data-draggable="none"

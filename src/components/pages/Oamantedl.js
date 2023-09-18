@@ -9,7 +9,7 @@ export default function Oamantedl() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt14369780"
+        src="https://embedder.net/e/movie?imdb=tt14369780"
         frameborder="0"
         width="100%"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

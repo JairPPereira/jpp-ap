@@ -16,7 +16,7 @@ export default function Ohomemdj() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt14307536"
+        src="https://embedder.net/e/movie?imdb=tt14307536"
         target="_blank"
         scrolling="no"
         data-draggable="none"

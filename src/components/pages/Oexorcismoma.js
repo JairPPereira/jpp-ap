@@ -16,7 +16,7 @@ export default function Oexorcismoma() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt7830806"
+        src="https://embedder.net/e/movie?imdb=tt7830806"
         target="_blank"
         scrolling="no"
         data-draggable="none"

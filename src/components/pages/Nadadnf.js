@@ -9,7 +9,7 @@ export default function Nadadnf() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt1016150"
+        src="https://superflixapi.top/filme/tt1016150"
         target="_blank"
         frameborder="0"
         width="100%" 
