@@ -9,7 +9,7 @@ export default function Jogosv() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt1392170"
+        src="https://embedder.net/e/movie?imdb=tt1392170"
         frameborder="0"
         width="100%" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

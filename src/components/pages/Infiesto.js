@@ -16,7 +16,7 @@ export default function Inviesto() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt15789492"
+        src="https://superflixapi.top/filme/tt15789492"
         target="_blank"
         scrolling="no"
         data-draggable="none"
