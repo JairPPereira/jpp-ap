@@ -15,7 +15,7 @@ export default function Oldboydv() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt1321511"
+        src="https://superflixapi.top/filme/tt1321511"
         target="_blank"
         scrolling="no"
         data-draggable="none"

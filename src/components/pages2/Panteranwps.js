@@ -15,7 +15,7 @@ export default function Panteranwps() {
             <Row>
               <Col>
       <Iframe
-        src="https://voe.sx/e/4pwbxleoqzwr"
+        src="https://embedder.net/e/movie?imdb=tt9114286"
         target="_blank"
         scrolling="no"
         data-draggable="none"

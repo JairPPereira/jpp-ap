@@ -15,7 +15,7 @@ export default function Osenhordaaor() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt0167260"
+        src="https://embedder.net/e/movie?imdb=tt0167260"
         target="_blank"
         scrolling="no"
         data-draggable="none"

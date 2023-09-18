@@ -15,7 +15,7 @@ export default function Ogatodb2() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt3915174"
+        src="https://embedder.net/e/movie?imdb=tt3915174"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -10,7 +10,7 @@ export default function Theflash() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt0439572"
+        src="https://embedder.net/e/movie?imdb=tt0439572"
         frameborder="0"
         width="100%"
         target="_blank"

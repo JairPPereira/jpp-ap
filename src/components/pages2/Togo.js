@@ -15,7 +15,7 @@ export default function Togo() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/e/65wrywp8jtwo.html"
+        src="https://superflixapi.top/filme/tt5116302"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -15,7 +15,7 @@ export default function Omemedomal() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt17196124"
+        src="https://embedder.net/e/movie?imdb=tt17196124"
         target="_blank"
         scrolling="no"
         data-draggable="none"

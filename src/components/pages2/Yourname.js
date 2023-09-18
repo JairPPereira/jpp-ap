@@ -15,7 +15,7 @@ export default function Yourname() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/e/4n3fji15vk7w.html"
+        src="https://embedder.net/e/movie?imdb=tt5311514"
         target="_blank"
         scrolling="no"
         title="Video"

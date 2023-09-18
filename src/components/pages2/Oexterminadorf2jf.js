@@ -15,7 +15,7 @@ export default function Oxterminadorf2jf() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt0103064"
+        src="https://superflixapi.top/filme/tt0103064"
         target="_blank"
         scrolling="no"
         data-draggable="none"

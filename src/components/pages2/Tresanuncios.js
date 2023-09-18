@@ -15,7 +15,7 @@ export default function Tresanuncios() {
             <Row>
               <Col>
       <Iframe
-        src="https://voe.sx/e/9a2um01kxxru"
+        src="https://superflixapi.top/filme/tt5027774"
         target="_blank"
         scrolling="no"
         data-draggable="none"

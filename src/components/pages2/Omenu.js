@@ -15,7 +15,7 @@ export default function Omenu() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt9764362"
+        src="https://embedder.net/e/movie?imdb=tt9764362"
         target="_blank"
         scrolling="no"
         data-draggable="none"

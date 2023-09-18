@@ -15,7 +15,7 @@ export default function Parasita() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt6751668"
+        src="https://embedder.net/e/movie?imdb=tt6751668"
         target="_blank"
         scrolling="no"
         title="Video"
