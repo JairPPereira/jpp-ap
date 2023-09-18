@@ -17,7 +17,7 @@ export default function Oestranguladordb() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/e/2wkjelvgapfa.html"
+        src="https://superflixapi.top/filme/tt2560078"
         target="_blank"
         scrolling="no"
         data-draggable="none"

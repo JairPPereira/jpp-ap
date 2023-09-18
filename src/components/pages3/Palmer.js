@@ -17,7 +17,7 @@ export default function Palmer() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/e/5prgxczlldfd"
+        src="https://superflixapi.top/filme/tt6857376"
         target="_blank"
         scrolling="no"
         data-draggable="none"

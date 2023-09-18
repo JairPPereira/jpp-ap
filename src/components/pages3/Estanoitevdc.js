@@ -17,7 +17,7 @@ export default function Estanoitevdc() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt26548664"
+        src="https://superflixapi.top/filme/tt26548664"
         target="_blank"
         scrolling="no"
         data-draggable="none"

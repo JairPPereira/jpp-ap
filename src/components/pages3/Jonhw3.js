@@ -17,7 +17,7 @@ export default function Johnw3() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt6146586"
+        src="https://embedder.net/e/movie?imdb=tt6146586"
         target="_blank"
         scrolling="no"
         data-draggable="none"

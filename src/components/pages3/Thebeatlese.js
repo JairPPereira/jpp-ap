@@ -17,7 +17,7 @@ export default function Thebeatlese() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/e/v07nszagry63"
+        src="https://embed.warezcdn.net/filme/tt2531318"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -17,7 +17,7 @@ export default function Joor() {
             <Row>
               <Col>
       <Iframe
-        src="https://sbbrisk.com/e/sapq5vh21ase.html"
+        src="https://embedder.net/e/movie?imdb=tt2584384"
         target="_blank"
         scrolling="no"
         data-draggable="none"

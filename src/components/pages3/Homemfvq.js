@@ -17,7 +17,7 @@ export default function Homemfvq() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt5095030"
+        src="https://embedder.net/e/movie?imdb=tt5095030"
         target="_blank"
         scrolling="no"
         data-draggable="none"

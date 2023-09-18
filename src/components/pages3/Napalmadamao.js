@@ -17,7 +17,7 @@ export default function Napalmadamao() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt26160190"
+        src="https://embedder.net/e/movie?imdb=tt26160190"
         target="_blank"
         scrolling="no"
         data-draggable="none"
