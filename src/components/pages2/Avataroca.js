@@ -16,7 +16,7 @@ export default function Avataroca() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt1630029"
+        src="https://embedder.net/e/movie?imdb=tt1630029"
         target="_blank"
         scrolling="no"
         data-draggable="none"

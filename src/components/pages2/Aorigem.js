@@ -16,7 +16,7 @@ export default function Aorigem() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt1375666"
+        src="https://embedder.net/e/movie?imdb=tt1375666"
         target="_blank"
         scrolling="no"
         data-draggable="none"

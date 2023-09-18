@@ -16,7 +16,7 @@ export default function Alitaac() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt0437086"
+        src="https://embedder.net/e/movie?imdb=tt0437086"
         target="_blank"
         scrolling="no"
         data-draggable="none"

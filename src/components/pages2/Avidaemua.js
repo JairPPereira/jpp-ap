@@ -16,7 +16,7 @@ export default function Avidaemua() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt6598238"
+        src="https://embedder.net/e/movie?imdb=tt6598238"
         target="_blank"
         scrolling="no"
         data-draggable="none"

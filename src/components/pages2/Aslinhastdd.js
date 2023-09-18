@@ -16,7 +16,7 @@ export default function Aslinhastdd() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt13229894"
+        src="https://superflixapi.top/filme/tt13229894"
         target="_blank"
         scrolling="no"
         data-draggable="none"

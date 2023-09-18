@@ -16,7 +16,7 @@ export default function Adesencantada() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt1596342"
+        src="https://embedder.net/e/movie?imdb=tt1596342"
         target="_blank"
         scrolling="no"
         data-draggable="none"
