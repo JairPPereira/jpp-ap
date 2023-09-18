@@ -15,7 +15,7 @@ export default function Djangolivre() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt1853728"
+        src="https://superflixapi.top/filme/tt1853728"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -15,7 +15,7 @@ export default function Interestelar() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt0816692"
+        src="https://embedder.net/e/movie?imdb=tt0816692"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -15,7 +15,7 @@ export default function Forrestg() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt0109830"
+        src="https://superflixapi.top/filme/tt0109830"
         target="_blank"
         scrolling="no"
         data-draggable="none"

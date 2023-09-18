@@ -15,7 +15,7 @@ export default function Hawa() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt21909950"
+        src="https://superflixapi.top/filme/tt21909950"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -15,7 +15,7 @@ export default function Demsl() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt11032374"
+        src="https://embedder.net/e/movie?imdb=tt11032374"
         target="_blank"
         scrolling="no"
         data-draggable="none"

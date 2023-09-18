@@ -16,7 +16,7 @@ export default function Casamentoa() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt9686790"
+        src="https://embedder.net/e/movie?imdb=tt9686790"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -15,7 +15,7 @@ export default function Homemaranhanav() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt4633694"
+        src="https://embedder.net/e/movie?imdb=tt4633694"
         target="_blank"
         scrolling="no"
         data-draggable="none"

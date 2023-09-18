@@ -15,7 +15,7 @@ export default function Esposada() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt22091698"
+        src="https://embedder.net/e/movie?imdb=tt22091698"
         target="_blank"
         scrolling="no"
         data-draggable="none"
