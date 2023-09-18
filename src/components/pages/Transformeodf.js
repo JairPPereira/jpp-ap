@@ -10,7 +10,7 @@ export default function Transformeodj() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt5090568"
+        src="https://embedder.net/e/movie?imdb=tt5090568"
         frameborder="0"
         width="100%"
         target="_blank"

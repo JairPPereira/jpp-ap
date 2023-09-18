@@ -9,7 +9,7 @@ export default function Topgun() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt1745960"
+        src="https://embedder.net/e/movie?imdb=tt1745960"
         frameborder="0"
         width="100%" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

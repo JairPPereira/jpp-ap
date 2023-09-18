@@ -16,7 +16,7 @@ export default function Trezentos65df() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt21106646"
+        src="https://embedder.net/e/movie?imdb=tt21106646"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -16,7 +16,7 @@ export default function Regra34() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt15520368"
+        src="https://superflixapi.top/filme/tt15520368"
         target="_blank"
         scrolling="no"
         data-draggable="none"

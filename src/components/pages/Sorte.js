@@ -16,7 +16,7 @@ export default function Sorte() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt7214954"
+        src="https://embedder.net/e/movie?imdb=tt7214954"
         target="_blank"
         scrolling="no"
         data-draggable="none"

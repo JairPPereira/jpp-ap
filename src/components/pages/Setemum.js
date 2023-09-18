@@ -16,7 +16,7 @@ export default function Setemum() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/filme/tt15206378"
+        src="https://superflixapi.top/filme/tt15206378"
         target="_blank"
         scrolling="no"
         data-draggable="none"
