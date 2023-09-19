@@ -630,6 +630,7 @@ import Indianajr from './components/pages/Indianajr';
 import Oconvento from './components/pages/Oconvento';
 import Barbie2023 from './components/pages/Barbie2023';
 import Missaods from './components/pages/Missaods';
+import Afreira from './components/pages/Afreira';
 
 
 
@@ -807,6 +808,7 @@ function App() {
         <Route path='/436270' component={Adaonegro} />
         <Route path='/437068' component={Omotoristat} />
         <Route path='/438148' component={Minions2} />
+        <Route path='/439079' component={Afreira} />
         <Route path='/440021' component={Amortedp} />
         <Route path='/44113' component={Homensemfuria} />
         <Route path='/443700' component={Altitude} />
