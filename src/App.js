@@ -631,6 +631,7 @@ import Oconvento from './components/pages/Oconvento';
 import Barbie2023 from './components/pages/Barbie2023';
 import Missaods from './components/pages/Missaods';
 import Afreira from './components/pages/Afreira';
+import Amilhoesdk from './components/pages/Amilhoesdk';
 
 
 
@@ -643,6 +644,7 @@ function App() {
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/100' component={Jogostsf} />
+        <Route path='/1002185' component={Amilhoesdk} />
         <Route path='/101' component={Oprofissional} />
         <Route path='/101299' component={Jogosvec} />
         <Route path='/1022206' component={Esposada} />
