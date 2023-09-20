@@ -632,6 +632,7 @@ import Barbie2023 from './components/pages/Barbie2023';
 import Missaods from './components/pages/Missaods';
 import Afreira from './components/pages/Afreira';
 import Amilhoesdk from './components/pages/Amilhoesdk';
+import Astartarugasncm from './components/pages/Astartarugasncm';
 
 
 
@@ -875,6 +876,7 @@ function App() {
         <Route path='/603692' component={Johnw4} />
         <Route path='/605' component={Matrixr} />
         <Route path='/606856' component={Togo} />
+        <Route path='/614930' component={Astartarugasncm} />
         <Route path='/614934' component={Elvis} />
         <Route path='/615457' component={Anonimo} />
         <Route path='/615469' component={Spiderhead} />
