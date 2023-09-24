@@ -634,6 +634,7 @@ import Afreira from './components/pages/Afreira';
 import Amilhoesdk from './components/pages/Amilhoesdk';
 import Astartarugasncm from './components/pages/Astartarugasncm';
 import Pequenosea from './components/pages3/Pequenosea';
+import Alistadv from './components/pages2/Alistadv';
 
 
 
@@ -682,6 +683,7 @@ function App() {
         <Route path='/114' component={Umalindamulher} />
         <Route path='/11423' component={Memoriasa} />
         <Route path='/11658' component={Airmandadedg} />
+        <Route path='/1172009' component={Alistadv} />
         <Route path='/11817' component={Omongeapdb} />
         <Route path='/118683' component={Operacoese} />
         <Route path='/11937' component={Osdeusesdel2} />
