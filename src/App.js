@@ -633,6 +633,7 @@ import Missaods from './components/pages/Missaods';
 import Afreira from './components/pages/Afreira';
 import Amilhoesdk from './components/pages/Amilhoesdk';
 import Astartarugasncm from './components/pages/Astartarugasncm';
+import Pequenosea from './components/pages3/Pequenosea';
 
 
 
@@ -975,6 +976,7 @@ function App() {
         <Route path='/785534' component={Filhosdi} />
         <Route path='/787787' component={Tudoepossivel} />
         <Route path='/788752' component={Olobov} />
+        <Route path='/790493' component={Pequenosea} />
         <Route path='/791373' component={Ligadajzs} />
         <Route path='/791674' component={Feiea} />
         <Route path='/792237' component={Camggw} />
