@@ -635,6 +635,7 @@ import Amilhoesdk from './components/pages/Amilhoesdk';
 import Astartarugasncm from './components/pages/Astartarugasncm';
 import Pequenosea from './components/pages3/Pequenosea';
 import Alistadv from './components/pages2/Alistadv';
+import Velozes10 from './components/pages/Velozes10';
 
 
 
@@ -782,6 +783,7 @@ function App() {
         <Route path='/346698' component={Barbie2023} />
         <Route path='/346808' component={Momentum} />
         <Route path='/348' component={Alien8} />
+        <Route path='/385687' component={Velozes10} />
         <Route path='/359940' component={Tresanuncios} />
         <Route path='/361743' component={Topgun} />
         <Route path='/372058' component={Yourname} />
