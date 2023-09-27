@@ -9,8 +9,8 @@ export default function Thewd() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.playmp4.net/?serie=1402"
-        target="https://embed.playmp4.net/?serie=1402"
+        src="https://superflixapi.top/serie/1402"
+        target="https://superflixapi.top/serie/1402"
         frameborder="0"
         width="100%" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

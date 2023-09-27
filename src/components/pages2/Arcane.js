@@ -15,7 +15,7 @@ export default function Arcane() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=94605"
+        src="https://superflixapi.top/serie/94605"
         target="_blank"
         scrolling="no"
         data-draggable="none"

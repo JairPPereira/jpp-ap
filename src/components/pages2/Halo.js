@@ -15,7 +15,7 @@ export default function Halo() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/serie/tt2934286"
+        src="https://superflixapi.top/serie/114478"
         target="_blank"
         scrolling="no"
         data-draggable="none"

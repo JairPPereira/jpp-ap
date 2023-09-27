@@ -15,7 +15,7 @@ export default function Alendavm() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=135934"
+        src="https://superflixapi.top/serie/135934"
         target="_blank"
         scrolling="no"
         data-draggable="none"

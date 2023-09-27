@@ -15,7 +15,7 @@ export default function Greysa() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=1416"
+        src="https://superflixapi.top/serie/1416"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -7,7 +7,7 @@ import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Cobrakai() {
+export default function Cobr() {
   return (
     <div>
           <p><br /></p>
@@ -15,7 +15,7 @@ export default function Cobrakai() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=77169"
+        src="https://superflixapi.top/serie/77169"
         target="_blank"
         scrolling="no"
         data-draggable="none"

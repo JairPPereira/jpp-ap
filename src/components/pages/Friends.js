@@ -9,7 +9,7 @@ export default function Friends() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/serie/tt0108778"
+        src="https://superflixapi.top/serie/1668"
         frameborder="0"
         width="100%"
         target="_blank"

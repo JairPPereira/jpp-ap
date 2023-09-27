@@ -15,7 +15,7 @@ export default function Wandinha() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=119051"
+        src="https://superflixapi.top/serie/119051"
         target="_blank"
         scrolling="no"
         title="Video"

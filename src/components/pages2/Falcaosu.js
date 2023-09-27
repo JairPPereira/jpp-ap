@@ -15,7 +15,7 @@ export default function Falcaosu() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=88396"
+        src="https://superflixapi.top/serie/88396"
         target="_blank"
         scrolling="no"
         data-draggable="none"

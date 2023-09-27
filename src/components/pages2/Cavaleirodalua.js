@@ -15,7 +15,7 @@ export default function Cavaleirodalua() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=92749"
+        src=" https://superflixapi.top/serie/92749"
         target="_blank"
         scrolling="no"
         data-draggable="none"

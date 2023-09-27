@@ -16,7 +16,7 @@ export default function Gabrielmhf() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=215835"
+        src="https://superflixapi.top/serie/215835"
         target="_blank"
         scrolling="no"
         height="520px"

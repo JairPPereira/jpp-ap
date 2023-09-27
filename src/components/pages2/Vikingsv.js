@@ -15,7 +15,7 @@ export default function Vikingsv() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=116135"
+        src="https://superflixapi.top/serie/116135"
         target="_blank"
         scrolling="no"
         data-draggable="none"

@@ -16,7 +16,7 @@ export default function Leieordemve() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=2734"
+        src="https://superflixapi.top/serie/2734"
         target="_blank"
         scrolling="no"
         height="520px"

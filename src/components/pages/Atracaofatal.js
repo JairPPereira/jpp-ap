@@ -16,7 +16,7 @@ export default function Atracaofatal() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=138455"
+        src="https://superflixapi.top/serie/138455"
         target="_blank"
         scrolling="no"
         height="520px"

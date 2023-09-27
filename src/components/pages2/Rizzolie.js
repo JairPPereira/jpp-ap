@@ -10,7 +10,7 @@ export default function Rizzolie() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.playmp4.net/?serie=32895"
+        src="https://superflixapi.top/serie/32895"
         frameborder="0"
         width="100%"
         height="520px"

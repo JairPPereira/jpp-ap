@@ -7,7 +7,7 @@ import Iframe from 'react-iframe'
 import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-export default function Maldosa() {
+export default function Extrebr() {
   return (
     <div>
           <p><br /></p>
@@ -15,7 +15,7 @@ export default function Maldosa() {
             <Row>
               <Col>
       <Iframe
-        src="https://superflixapi.top/serie/31917"
+        src="https://superflixapi.top/serie/217701"
         target="_blank"
         scrolling="no"
         data-draggable="none"

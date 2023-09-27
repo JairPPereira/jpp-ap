@@ -15,7 +15,7 @@ export default function See() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=80752"
+        src="https://superflixapi.top/serie/80752"
         target="_blank"
         scrolling="no"
         data-draggable="none"

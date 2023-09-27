@@ -15,7 +15,7 @@ export default function Flordelisenm() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=214307"
+        src="https://superflixapi.top/serie/214307"
         target="_blank"
         scrolling="no"
         data-draggable="none"

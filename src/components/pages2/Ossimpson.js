@@ -7,8 +7,8 @@ export default function Ossimpson() {
     <div>
           <p><br /></p>
       <Iframe
-        src="https://embed.warezcdn.net/serie/tt0096697"
-        target="https://embed.warezcdn.net/serie/tt0096697"
+        src="https://superflixapi.top/serie/456"
+        target="https://superflixapi.top/serie/456"
         frameborder="0"
         width="100%" height="600px"
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"

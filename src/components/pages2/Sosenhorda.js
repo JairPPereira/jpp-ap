@@ -15,7 +15,7 @@ export default function Sosenhorda() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=84773"
+        src="https://superflixapi.top/serie/84773"
         target="_blank"
         scrolling="no"
         data-draggable="none"

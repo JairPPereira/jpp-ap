@@ -636,6 +636,7 @@ import Astartarugasncm from './components/pages/Astartarugasncm';
 import Pequenosea from './components/pages3/Pequenosea';
 import Alistadv from './components/pages2/Alistadv';
 import Velozes10 from './components/pages/Velozes10';
+import Extrebr from './components/pages2/Extrebr';
 
 
 
@@ -1138,6 +1139,7 @@ function App() {
         <Route path='/espn2' component={Espn2} />
         <Route path='/espn3' component={Espn3} />
         <Route path='/euronews' component={Euronews} />
+        <Route path='/extrebr' component={Extrebr} />
         <Route path='/falcaosu' component={Falcaosu} />
         <Route path='/familiasop' component={Familiasop} />
         <Route path='/fantasia' component={Fantasia} />

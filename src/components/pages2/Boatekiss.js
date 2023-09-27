@@ -16,7 +16,7 @@ export default function Boatekiss() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=217218"
+        src="https://superflixapi.top/serie/139396"
         target="_blank"
         scrolling="no"
         data-draggable="none"

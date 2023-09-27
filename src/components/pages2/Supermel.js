@@ -15,7 +15,7 @@ export default function Supermel() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.playmp4.net/?serie=95057"
+        src="https://superflixapi.top/serie/95057"
         target="_blank"
         scrolling="no"
         data-draggable="none"

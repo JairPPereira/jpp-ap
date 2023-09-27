@@ -15,7 +15,7 @@ export default function Ogambitor() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/serie/tt10048342"
+        src="https://superflixapi.top/serie/87739"
         target="_blank"
         scrolling="no"
         data-draggable="none"

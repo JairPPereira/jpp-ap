@@ -15,7 +15,7 @@ export default function Valedes() {
             <Row>
               <Col>
       <Iframe
-        src="https://embed.warezcdn.net/serie/tt11883886"
+        src="https://superflixapi.top/serie/209493"
         target="_blank"
         scrolling="no"
         data-draggable="none"
