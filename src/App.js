@@ -637,6 +637,7 @@ import Pequenosea from './components/pages3/Pequenosea';
 import Alistadv from './components/pages2/Alistadv';
 import Velozes10 from './components/pages/Velozes10';
 import Extrebr from './components/pages2/Extrebr';
+import Besouroa from './components/pages/Besouroa';
 
 
 
@@ -867,6 +868,7 @@ function App() {
         <Route path='/556018' component={Kv1} />
         <Route path='/560057' component={Aferadomar} />
         <Route path='/56295' component={Halo4} />
+        <Route path='/565770' component={Besouroa} />
         <Route path='/569094' component={Homemaat} />
         <Route path='/574249' component={Oreidafesta} />
         <Route path='/581' component={Dancacl} />
