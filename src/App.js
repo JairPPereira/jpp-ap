@@ -638,6 +638,7 @@ import Alistadv from './components/pages2/Alistadv';
 import Velozes10 from './components/pages/Velozes10';
 import Extrebr from './components/pages2/Extrebr';
 import Besouroa from './components/pages/Besouroa';
+import Megatuba2 from './components/pages/Megatuba2';
 
 
 
@@ -888,6 +889,7 @@ function App() {
         <Route path='/614934' component={Elvis} />
         <Route path='/615457' component={Anonimo} />
         <Route path='/615469' component={Spiderhead} />
+        <Route path='/615656' component={Megatuba2} />
         <Route path='/615777' component={Babilonia} />
         <Route path='/616037' component={Thorat} />
         <Route path='/618344' component={Ligajs} />
