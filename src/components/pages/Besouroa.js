@@ -25,7 +25,7 @@ export default function Besouroa() {
         marginheight="0"
         data-popup="none" 
         frameborder="0"
-        width="100%" 
+        max-width="832px" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
       ></Iframe>{" "}

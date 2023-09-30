@@ -1,18 +1,17 @@
 Iframe {
-    aspect-ratio: 4/3;
+    aspect-ratio: 16/9;
     border: none;
-    width: 100%;
+    max-width: 832px;
     background-color: black;
     background-size: cover;
     background-position: center;
 }
 
 .VideoPlayer {
-    aspect-ratio: 4/3;
+    aspect-ratio: 16/9;
     border: none;
-    width: 100%;
-
-  
+    max-width: 832px;
+    max-height:468px;
     background-size: cover;
     background-position: center;
 }
