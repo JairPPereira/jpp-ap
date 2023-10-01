@@ -15,7 +15,7 @@ export default function Megatuba2() {
           <p><br /></p>
           <div><Container fluid>
             <Row>
-              <Col>
+              <Col><center>
       <Iframe
         src="https://embed.speedflix.store/embed2/615656"
         target="_blank"
@@ -28,7 +28,7 @@ export default function Megatuba2() {
         max-width="832px" 
         allow="autoplay; encrypted-media; fullscreen; pincture in pincture"
         title="video"
-      ></Iframe>{" "}
+      ></Iframe>{" "}</center>
       </Col></Row></Container>
                   <div className="nave">
      
