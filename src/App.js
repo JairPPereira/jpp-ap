@@ -639,6 +639,7 @@ import Velozes10 from './components/pages/Velozes10';
 import Extrebr from './components/pages2/Extrebr';
 import Besouroa from './components/pages/Besouroa';
 import Megatuba2 from './components/pages/Megatuba2';
+import Sobrenaturalpv from './components/pages/Sobrenaturalpv';
 
 
 
@@ -885,6 +886,7 @@ function App() {
         <Route path='/603692' component={Johnw4} />
         <Route path='/605' component={Matrixr} />
         <Route path='/606856' component={Togo} />
+        <Route path='/614479' component={Sobrenaturalpv} />
         <Route path='/614930' component={Astartarugasncm} />
         <Route path='/614934' component={Elvis} />
         <Route path='/615457' component={Anonimo} />
