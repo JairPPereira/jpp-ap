@@ -640,6 +640,7 @@ import Extrebr from './components/pages2/Extrebr';
 import Besouroa from './components/pages/Besouroa';
 import Megatuba2 from './components/pages/Megatuba2';
 import Sobrenaturalpv from './components/pages/Sobrenaturalpv';
+import Afreira2 from './components/pages/Afreira2';
 
 
 
@@ -1052,6 +1053,7 @@ function App() {
         <Route path='/954293' component={Farofagk} />
         <Route path='/960704' component={Fullmetalaa} />
         <Route path='/961707' component={Hawa} />
+        <Route path='/968051' component={Afreira2} />
         <Route path='/96933' component={Porquees} />
         <Route path='/975714' component={Colisao} />
         <Route path='/976573' component={Elementos} />

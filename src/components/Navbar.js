@@ -35,16 +35,9 @@ function Navbar() {
       </Dropdown.Toggle>
 
       <Dropdown.Menu>
-        <Dropdown.Item href="/Afazenda">A Fazenda</Dropdown.Item>
+    
         <Dropdown.Item href="/Daaz9">Todos os Filmes</Dropdown.Item>
 
-        <Dropdown.Item href="/Series">Séries</Dropdown.Item>
-        <Dropdown.Item href="/Documentarios">Documentários</Dropdown.Item>
-        <Dropdown.Item href="/Novelas">Novelas</Dropdown.Item>
-        <Dropdown.Item href="/Playlistyou">Filmes do youtube</Dropdown.Item>
-        <Dropdown.Item href="/TVs">TV</Dropdown.Item>
-        <Dropdown.Item href="/Radios">Radios</Dropdown.Item>
-        <Dropdown.Item href="/Youtubeml">Musicas do youtube</Dropdown.Item>
       </Dropdown.Menu>
     </Dropdown>
         <div className='menu-icon' onClick={handleClick}>
@@ -67,8 +60,7 @@ function Navbar() {
       </Dropdown.Toggle>
 
       <Dropdown.Menu>
-        <Dropdown.Item href="/Afazenda">A Fazenda</Dropdown.Item>
-        <Dropdown.Item href="/Tvab">TV Aberta</Dropdown.Item>
+  
         <Dropdown.Item href="./Tvsf">Filmes</Dropdown.Item>
         <Dropdown.Item href="./Tvsp">Sports</Dropdown.Item>
         <Dropdown.Item href="./Jornalismo">Jornalismo</Dropdown.Item>
@@ -84,23 +76,7 @@ function Navbar() {
             </Link>
           </li>
           
-          <li className='nav-item'><Link
-              to='/radios'
-              className='nav-links'
-              onClick={closeMobileMenu}
-            >
-              Rádios
-            </Link>
-          </li>
-          
-          <li className='nav-item'><Link
-              to='/series'
-              className='nav-links'
-              onClick={closeMobileMenu}
-            >
-              Séries
-            </Link>
-          </li>
+         
         
           
         </ul>
