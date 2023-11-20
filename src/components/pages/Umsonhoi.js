@@ -7,7 +7,7 @@ import './Style.css';
 
 export default function Umsonhoi() {
   return (
-    <div>
+    <div><center>
           <p><br /></p>
       <Iframe
         src="https://superflixapi.top/filme/tt0878804"
@@ -29,7 +29,7 @@ export default function Umsonhoi() {
 
 <p><br /></p>
 
-      </nav></div></div>
+      </nav></div></center></div>
 
   );
 }
