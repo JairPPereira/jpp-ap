@@ -641,6 +641,7 @@ import Besouroa from './components/pages/Besouroa';
 import Megatuba2 from './components/pages/Megatuba2';
 import Sobrenaturalpv from './components/pages/Sobrenaturalpv';
 import Afreira2 from './components/pages/Afreira2';
+import Umsonhoi from './components/pages/Umsonhoi';
 
 
 
@@ -734,6 +735,7 @@ function App() {
         <Route path='/22331' component={Osdezmandamentos} />
         <Route path='/227300' component={Stretch} />
         <Route path='/227719' component={Projetoa} />
+        <Route path='/22881' component={Umsonhoi} />
         <Route path='/228968' component={Jogadadm} />
         <Route path='/231474' component={Oscacadores} />
         <Route path='/23514' component={Diariojb} />
