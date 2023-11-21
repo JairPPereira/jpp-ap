@@ -643,6 +643,7 @@ import Sobrenaturalpv from './components/pages/Sobrenaturalpv';
 import Afreira2 from './components/pages/Afreira2';
 import Umsonhoi from './components/pages/Umsonhoi';
 import Viuvan from './components/pages/viuvan';
+import Mulhermrv from './components/pages3/Mulhermrv';
 
 
 
@@ -765,6 +766,7 @@ function App() {
         <Route path='/284289' component={Foradealcance} />
         <Route path='/290098' component={Acriada} />
         <Route path='/296096' component={Comoeuera} />
+        <Route path='/297762' component={Mulhermrv} />
         <Route path='/298618' component={Theflash} />
         <Route path='/299534' component={Vingadoresu} />
         <Route path='/302401' component={Snowdenht} />
@@ -974,7 +976,7 @@ function App() {
         <Route path='/760161' component={Orfao2} />
         <Route path='/760741' component={Afera} />
         <Route path='/76203' component={Dozeanosde} />
-        <Route path='/762968' component={Justiceiras} />
+        <Route path='/762968' component={Justiceiras} />       
         <Route path='/762975' component={Continenciaaa} />
         <Route path='/765172' component={Odespertartn} />
         <Route path='/76600' component={Avataroca} />
