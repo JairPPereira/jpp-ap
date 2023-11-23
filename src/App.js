@@ -646,6 +646,7 @@ import Viuvan from './components/pages/viuvan';
 import Mulhermrv from './components/pages3/Mulhermrv';
 import Osvingadoresta from './components/pages3/Osvingadoresta';
 import Avatar from './components/pages3/Avatar';
+import Cidadeperd from './components/pages3/Cidadeperd';
 
 
 
@@ -973,6 +974,7 @@ function App() {
         <Route path='/746419' component={Opaidanoiva} />
         <Route path='/747803' component={Bilhetedefuga} />
         <Route path='/751741' component={Umanmr} />
+        <Route path='/752623' component={Cidadeperd} />
         <Route path='/755566' component={Duplajornada} />
         <Route path='/758009' component={Casamentoa} />
         <Route path='/759175' component={Aprincesa} />
