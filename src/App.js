@@ -645,6 +645,7 @@ import Umsonhoi from './components/pages/Umsonhoi';
 import Viuvan from './components/pages/viuvan';
 import Mulhermrv from './components/pages3/Mulhermrv';
 import Osvingadoresta from './components/pages3/Osvingadoresta';
+import Avatar from './components/pages3/Avatar';
 
 
 
@@ -731,6 +732,7 @@ function App() {
         <Route path='/1891' component={Guerranasestrelas} />
         <Route path='/192134' component={Arecompensa} />
         <Route path='/199591' component={Presane} />
+        <Route path='/19995' component={Avatar} />
         <Route path='/20435' component={Otremdamorte} />
         <Route path='/205596' component={Ojogodaimitacao} />
         <Route path='/20941' component={Vozesinocentes} />
