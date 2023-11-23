@@ -644,6 +644,7 @@ import Afreira2 from './components/pages/Afreira2';
 import Umsonhoi from './components/pages/Umsonhoi';
 import Viuvan from './components/pages/viuvan';
 import Mulhermrv from './components/pages3/Mulhermrv';
+import Osvingadoresta from './components/pages3/Osvingadoresta';
 
 
 
@@ -746,6 +747,7 @@ function App() {
         <Route path='/238' component={Opoderosoc} />
         <Route path='/24' component={Killbill1} />
         <Route path='/240' component={OpoderosocII} />
+        <Route path='/24428' component={Osvingadoresta} />
         <Route path='/244786' component={Whiplash} />
         <Route path='/245891' component={Johnwvj} />
         <Route path='/25237' component={Vaeveja} />
