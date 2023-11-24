@@ -649,6 +649,7 @@ import Avatar from './components/pages3/Avatar';
 import Cidadeperd from './components/pages3/Cidadeperd';
 import Amumia from './components/pages3/Amumia';
 import Perfeitaeam from './components/pages3/Operfeitaeam';
+import Garotainf from './components/pages3/Garotainf';
 
 
 
@@ -735,6 +736,7 @@ function App() {
         <Route path='/1891' component={Guerranasestrelas} />
         <Route path='/192134' component={Arecompensa} />
         <Route path='/199591' component={Presane} />
+        <Route path='/19994' component={Garotainf} />
         <Route path='/19995' component={Avatar} />
         <Route path='/20435' component={Otremdamorte} />
         <Route path='/205596' component={Ojogodaimitacao} />
