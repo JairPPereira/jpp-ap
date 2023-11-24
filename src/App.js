@@ -648,6 +648,7 @@ import Osvingadoresta from './components/pages3/Osvingadoresta';
 import Avatar from './components/pages3/Avatar';
 import Cidadeperd from './components/pages3/Cidadeperd';
 import Amumia from './components/pages3/Amumia';
+import Perfeitaeam from './components/pages3/Operfeitaeam';
 
 
 
@@ -804,6 +805,7 @@ function App() {
         <Route path='/361743' component={Topgun} />
         <Route path='/372058' component={Yourname} />
         <Route path='/372412' component={Apresa} />
+        <Route path='/376659' component={Perfeitaeam} />
         <Route path='/38017' component={Cartasdua} />
         <Route path='/387' component={Obarcoim} />
         <Route path='/389' component={Dozehus} />
