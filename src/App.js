@@ -647,6 +647,7 @@ import Mulhermrv from './components/pages3/Mulhermrv';
 import Osvingadoresta from './components/pages3/Osvingadoresta';
 import Avatar from './components/pages3/Avatar';
 import Cidadeperd from './components/pages3/Cidadeperd';
+import Amumia from './components/pages3/Amumia';
 
 
 
@@ -882,6 +883,7 @@ function App() {
         <Route path='/556018' component={Kv1} />
         <Route path='/560057' component={Aferadomar} />
         <Route path='/56295' component={Halo4} />
+        <Route path='/564' component={Amumia} />
         <Route path='/565770' component={Besouroa} />
         <Route path='/569094' component={Homemaat} />
         <Route path='/574249' component={Oreidafesta} />
