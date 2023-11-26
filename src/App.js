@@ -656,6 +656,7 @@ import Daaz23 from './components/pages3/Daaz23';
 import Qaurtetof from './components/pages3/Qaurtetof';
 import Esposadm from './components/pages/Esposadm';
 import Aostreze from './components/pages3/Aostreze';
+import Oespetacularhm from './components/pages3/Oespetacularhm';
 
 
 
@@ -742,6 +743,7 @@ function App() {
         <Route path='/184125' component={Homemcws} />
         <Route path='/1891' component={Guerranasestrelas} />
         <Route path='/192134' component={Arecompensa} />
+        <Route path='/1930' component={Oespetacularhm} />
         <Route path='/199591' component={Presane} />
         <Route path='/19994' component={Garotainf} />
         <Route path='/19995' component={Avatar} />
