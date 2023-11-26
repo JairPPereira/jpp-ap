@@ -651,6 +651,7 @@ import Amumia from './components/pages3/Amumia';
 import Perfeitaeam from './components/pages3/Operfeitaeam';
 import Garotainf from './components/pages3/Garotainf';
 import Armagedon from './components/pages3/Armagedon';
+import Vanhelsing from './components/pages3/Vanhelsing';
 
 
 
@@ -958,6 +959,7 @@ function App() {
         <Route path='/703451' component={Nasuacm} />
         <Route path='/707214' component={Ateofinal} />
         <Route path='/71211' component={Beladonna} />
+        <Route path='/7131' component={Vanhelsing} />
         <Route path='/715931' component={Emancipation} />
         <Route path='/717930' component={Missaods} />
         <Route path='/717980' component={Sharper} />
