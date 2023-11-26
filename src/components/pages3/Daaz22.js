@@ -42,7 +42,7 @@ function Daaz22() {
           Anterior
         </Button></Link>
  
-  <Link to="/daaz"><Button variant="primary" size="lg" width="80%">
+  <Link to="/daaz23"><Button variant="primary" size="lg" width="80%">
           Proxima
         </Button></Link>
 </div></center>
