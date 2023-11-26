@@ -654,6 +654,7 @@ import Armagedon from './components/pages3/Armagedon';
 import Vanhelsing from './components/pages3/Vanhelsing';
 import Daaz23 from './components/pages3/Daaz23';
 import Qaurtetof from './components/pages3/Qaurtetof';
+import Esposadm from './components/pages/Esposadm';
 
 
 
@@ -867,6 +868,7 @@ function App() {
         <Route path='/50014' component={Historiasc} />
         <Route path='/50348' component={Opoderealei} />
         <Route path='/504198' component={Terrorns} />
+        <Route path='/50546' component={Esposadm} />
         <Route path='/505642' component={Panteranwps} />
         <Route path='/50601' component={Cincodg} />
         <Route path='/510' component={Umestranhonn} />
