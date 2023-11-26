@@ -652,6 +652,8 @@ import Perfeitaeam from './components/pages3/Operfeitaeam';
 import Garotainf from './components/pages3/Garotainf';
 import Armagedon from './components/pages3/Armagedon';
 import Vanhelsing from './components/pages3/Vanhelsing';
+import Daaz23 from './components/pages3/Daaz23';
+import Qaurtetof from './components/pages3/Qaurtetof';
 
 
 
@@ -1077,6 +1079,7 @@ function App() {
         <Route path='/961707' component={Hawa} />
         <Route path='/968051' component={Afreira2} />
         <Route path='/96933' component={Porquees} />
+        <Route path='/9738' component={Qaurtetof} />
         <Route path='/975714' component={Colisao} />
         <Route path='/976573' component={Elementos} />
         <Route path='/978406' component={Visitase} />
@@ -1144,6 +1147,7 @@ function App() {
         <Route path='/daaz20' component={Daaz20} />
         <Route path='/daaz21' component={Daaz21} />
         <Route path='/daaz22' component={Daaz22} />
+        <Route path='/daaz23' component={Daaz23} />
         <Route path='/daaz20' component={Daaz} />
         <Route path='/daaz2' component={Daaz2} />
         <Route path='/daaz3' component={Daaz3} />
