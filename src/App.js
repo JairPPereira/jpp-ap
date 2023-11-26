@@ -655,6 +655,7 @@ import Vanhelsing from './components/pages3/Vanhelsing';
 import Daaz23 from './components/pages3/Daaz23';
 import Qaurtetof from './components/pages3/Qaurtetof';
 import Esposadm from './components/pages/Esposadm';
+import Aostreze from './components/pages3/Aostreze';
 
 
 
@@ -692,6 +693,7 @@ function App() {
         <Route path='/1081313' component={Estanoitevdc} />
         <Route path='/109513' component={Relacaoexplosiva} />
         <Route path='/11001' component={Umtirams} />
+        <Route path='/11023' component={Aostreze} />
         <Route path='/11216' component={Cinemap} />
         <Route path='/1124' component={Ograndetruque} />
         <Route path='/112205' component={Afamilia} />
