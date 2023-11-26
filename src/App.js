@@ -650,6 +650,7 @@ import Cidadeperd from './components/pages3/Cidadeperd';
 import Amumia from './components/pages3/Amumia';
 import Perfeitaeam from './components/pages3/Operfeitaeam';
 import Garotainf from './components/pages3/Garotainf';
+import Armagedon from './components/pages3/Armagedon';
 
 
 
@@ -1067,6 +1068,7 @@ function App() {
         <Route path='/92321' component={Parafaf} />
         <Route path='/937278' component={Opiorvdm} />
         <Route path='/943822' component={Reidoringue} />
+        <Route path='/95' component={Armagedon} />
         <Route path='/950' component={Aeradogelo2} />
         <Route path='/954293' component={Farofagk} />
         <Route path='/960704' component={Fullmetalaa} />
