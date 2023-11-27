@@ -658,6 +658,7 @@ import Esposadm from './components/pages/Esposadm';
 import Aostreze from './components/pages3/Aostreze';
 import Oespetacularhm from './components/pages3/Oespetacularhm';
 import Umascpm from './components/pages/Umascpm';
+import Vingadoreseu from './components/pages/Vingadoreseu';
 
 
 
@@ -1097,6 +1098,7 @@ function App() {
         <Route path='/997265' component={Regra34} />
         <Route path='/997703' component={Buba} />
         <Route path='/9978' component={Alexrct} />
+        <Route path='/99861' component={Vingadoreseu} />
         <Route path='/999127' component={Broadp} />
         <Route path='/acao' component={Acao} />
         <Route path='/acao2' component={Acao2} />
