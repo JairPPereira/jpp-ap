@@ -659,6 +659,7 @@ import Aostreze from './components/pages3/Aostreze';
 import Oespetacularhm from './components/pages3/Oespetacularhm';
 import Umascpm from './components/pages/Umascpm';
 import Vingadoreseu from './components/pages/Vingadoreseu';
+import Jackrsr from './components/pages3/Jackrsr';
 
 
 
@@ -808,6 +809,7 @@ function App() {
         <Route path='/337404' component={Cruella} />
         <Route path='/338958' component={Adesencantada} />
         <Route path='/338970' component={Tombrao} />
+        <Route path='/343611' component={Jackrsr} />
         <Route path='/346' component={Ossetes} />
         <Route path='/346684' component={Embuscadaliberdade} />
         <Route path='/346698' component={Barbie2023} />
