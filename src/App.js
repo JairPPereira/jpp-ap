@@ -657,6 +657,7 @@ import Qaurtetof from './components/pages3/Qaurtetof';
 import Esposadm from './components/pages/Esposadm';
 import Aostreze from './components/pages3/Aostreze';
 import Oespetacularhm from './components/pages3/Oespetacularhm';
+import Umascpm from './components/pages/Umascpm';
 
 
 
@@ -889,6 +890,7 @@ function App() {
         <Route path='/539' component={Psicose} />
         <Route path='/539681' component={Dcligasp} />
         <Route path='/545611' component={Tudoetlmt} />
+        <Route path='//549053' component={Umascpm} />
         <Route path='/550' component={Clubedaluta} />
         <Route path='/550776' component={Acrediteemmim} />
         <Route path='/55101' component={Oculpado} />
