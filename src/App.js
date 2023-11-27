@@ -890,7 +890,7 @@ function App() {
         <Route path='/539' component={Psicose} />
         <Route path='/539681' component={Dcligasp} />
         <Route path='/545611' component={Tudoetlmt} />
-        <Route path='//549053' component={Umascpm} />
+        <Route path='/549053' component={Umascpm} />
         <Route path='/550' component={Clubedaluta} />
         <Route path='/550776' component={Acrediteemmim} />
         <Route path='/55101' component={Oculpado} />
