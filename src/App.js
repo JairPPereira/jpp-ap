@@ -663,6 +663,7 @@ import Jackrsr from './components/pages3/Jackrsr';
 import Noiteps from './components/pages3/Noiteps';
 import Aquaman from './components/pages3/Aquaman';
 import Mammamia from './components/pages3/Mammamia';
+import Madmaxef from './components/pages3/Madmaxef';
 
 
 
@@ -1012,6 +1013,7 @@ function App() {
         <Route path='/76203' component={Dozeanosde} />
         <Route path='/762968' component={Justiceiras} />       
         <Route path='/762975' component={Continenciaaa} />
+        <Route path='/76341' component={Madmaxef} />
         <Route path='/765172' component={Odespertartn} />
         <Route path='/76600' component={Avataroca} />
         <Route path='/766507' component={Opredadora} />
