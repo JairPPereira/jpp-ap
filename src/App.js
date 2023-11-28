@@ -662,6 +662,7 @@ import Vingadoreseu from './components/pages/Vingadoreseu';
 import Jackrsr from './components/pages3/Jackrsr';
 import Noiteps from './components/pages3/Noiteps';
 import Aquaman from './components/pages3/Aquaman';
+import Mammamia from './components/pages3/Mammamia';
 
 
 
@@ -710,6 +711,7 @@ function App() {
         <Route path='/13455' component={Herois} />
         <Route path='/114' component={Umalindamulher} />
         <Route path='/11423' component={Memoriasa} />
+        <Route path='/11631' component={Mammamia} />
         <Route path='/11658' component={Airmandadedg} />
         <Route path='/1172009' component={Alistadv} />
         <Route path='/11817' component={Omongeapdb} />
