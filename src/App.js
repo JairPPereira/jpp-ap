@@ -661,6 +661,7 @@ import Umascpm from './components/pages/Umascpm';
 import Vingadoreseu from './components/pages/Vingadoreseu';
 import Jackrsr from './components/pages3/Jackrsr';
 import Noiteps from './components/pages3/Noiteps';
+import Aquaman from './components/pages3/Aquaman';
 
 
 
@@ -789,6 +790,7 @@ function App() {
         <Route path='/290098' component={Acriada} />
         <Route path='/296096' component={Comoeuera} />
         <Route path='/297762' component={Mulhermrv} />
+        <Route path='/297802' component={Aquaman} />
         <Route path='/298618' component={Theflash} />
         <Route path='/299534' component={Vingadoresu} />
         <Route path='/302401' component={Snowdenht} />
