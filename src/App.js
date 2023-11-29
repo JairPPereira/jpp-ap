@@ -664,6 +664,7 @@ import Noiteps from './components/pages3/Noiteps';
 import Aquaman from './components/pages3/Aquaman';
 import Mammamia from './components/pages3/Mammamia';
 import Madmaxef from './components/pages3/Madmaxef';
+import Sosmalibu from './components/pages/Sosmalibu';
 
 
 
@@ -815,6 +816,7 @@ function App() {
         <Route path='/337404' component={Cruella} />
         <Route path='/338958' component={Adesencantada} />
         <Route path='/338970' component={Tombrao} />
+        <Route path='/339846' component={Sosmalibu} />
         <Route path='/343611' component={Jackrsr} />
         <Route path='/346' component={Ossetes} />
         <Route path='/346684' component={Embuscadaliberdade} />
