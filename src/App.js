@@ -666,6 +666,7 @@ import Mammamia from './components/pages3/Mammamia';
 import Madmaxef from './components/pages3/Madmaxef';
 import Sosmalibu from './components/pages/Sosmalibu';
 import Leo from './components/pages3/Leo';
+import Missaoimpac1 from './components/pages3/Missaoimpac1';
 
 
 
@@ -916,6 +917,7 @@ function App() {
         <Route path='/565770' component={Besouroa} />
         <Route path='/569094' component={Homemaat} />
         <Route path='/574249' component={Oreidafesta} />
+        <Route path='/575264' component={Missaoimpac1} />
         <Route path='/576845' component={Noiteps} />
         <Route path='/581' component={Dancacl} />
         <Route path='/58448' component={Nocaute} />
