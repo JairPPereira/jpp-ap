@@ -665,6 +665,7 @@ import Aquaman from './components/pages3/Aquaman';
 import Mammamia from './components/pages3/Mammamia';
 import Madmaxef from './components/pages3/Madmaxef';
 import Sosmalibu from './components/pages/Sosmalibu';
+import Leo from './components/pages3/Leo';
 
 
 
@@ -698,6 +699,7 @@ function App() {
         <Route path='/10681' component={Walle} />
         <Route path='/1072567' component={Inviesto} />
         <Route path='/1074656' component={Amorov} />
+        <Route path='/1075794' component={Leo} />
         <Route path='/1077280' component={Durodeatuar} />
         <Route path='/1081313' component={Estanoitevdc} />
         <Route path='/109513' component={Relacaoexplosiva} />
