@@ -667,6 +667,7 @@ import Madmaxef from './components/pages3/Madmaxef';
 import Sosmalibu from './components/pages/Sosmalibu';
 import Leo from './components/pages3/Leo';
 import Missaoimpac1 from './components/pages3/Missaoimpac1';
+import Assasinodrf from './components/pages3/Assasinodrf';
 
 
 
@@ -871,6 +872,7 @@ function App() {
         <Route path='/458156' component={Johnw3} />
         <Route path='/458220' component={Palmer} />
         <Route path='/459075' component={Bravestorm} />
+        <Route path='/466420' component={Assasinodrf} />
         <Route path='/470044' component={Oodioquevs} />
         <Route path='/47089' component={Ocaminhodn} />
         <Route path='/475557' component={Coringa} />
