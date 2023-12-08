@@ -668,6 +668,7 @@ import Sosmalibu from './components/pages/Sosmalibu';
 import Leo from './components/pages3/Leo';
 import Missaoimpac1 from './components/pages3/Missaoimpac1';
 import Assasinodrf from './components/pages3/Assasinodrf';
+import Omundoddn from './components/pages3/Omundoddn';
 
 
 
@@ -995,6 +996,7 @@ function App() {
         <Route path='/724209' component={Agentest} />
         <Route path='/724495' component={Amulherrei} />
         <Route path='/725201' component={Agenteo} />
+        <Route path='/726209' component={Omundoddn} />
         <Route path='/73' component={Aoutraha} />
         <Route path='/7304' component={Norastrodb} />
         <Route path='/7345' component={Ouronegro} />
